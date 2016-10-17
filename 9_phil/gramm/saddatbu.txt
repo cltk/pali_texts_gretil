@@ -1,0 +1,1309 @@
+
+
+Saddhammasiri Thera: Saddatthabhedacinta
+Based on the ed. by Thvanh Sin Ūh: Saddā ṅay 15 coṅ pāth,
+Rankun : Icchāsaya Piṭaka Press, 1964.
+
+
+Input by Aleix Ruiz Falqués
+
+
+
+
+CONTRIBUTOR'S NOTE:
+This is a provisional transcript.
+It is meant to be a searchable romanised version of the Burmese edition.
+Please do not quote it without checking the readings with the original.
+
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+Saddhammasīri Thera: Saddatthabhedacintā
+
+
+
+* namo tassa bhagavato arahato sammāsambuddhassa *
+
+saddatthabhedavādīnaṃ pavaraṃ varavādinaṃ  /
+abhivādiya saddatthabhedacintābhidhīyate  // Sad_1 //
+
+saddo hi dubbidho cittajokārādotujodare  /
+saddādyatthopakārattā cittajovidha gayhate  // Sad_2 //
+
+so ca kaṇṭhādiṭhānebhibyattito tattha cittaja-  /
+pathavīsattiviññattibhūsaṃghaṭṭanajo mato  // Sad_3 //
+
+nābhitoccāraṇussāhabhūtapāṇoparopari  /
+saṃghaṭṭanorakaṇṭhādi sirajo ty apare vidū  // Sad_4 //
+
+sāsanass' upakārattā māgadho 'v' idha gayhate  /
+so h' ānusāvanaṃ paṭisambhidāya ca paccayo  // Sad_5 //
+
+aniṭṭhite pade vaṇṇo paramattho suniṭṭhitaṃ  /
+padaṃ paññattisaddo ti saddo bhavati dubbidho  // Sad_6 //
+
+nekā pi sutiyā saddā loken' eko ti vuccare  /
+ekatthavācakatten' eko ti saṅketabhāvato  // Sad_7 //
+
+ekakkharo py aneko p' ekatthavācakasammato  /
+saro taṃsahito byañjano c' ekakkharasammato  // Sad_8 //
+
+aneke 'va samāne pi padam ekam ity uccate  /
+chinnattā cinipātena tesaṃ c' ekatthabhāvato  // Sad_9 //
+
+ā bhusogatiyan ty ekakkharo 'tthī puriso ti ca  /
+'neko yaṃ kiñci 'peti ty ekattaṃ nekapadassa ca  // Sad_10 //
+
+sotālambaṇam āpanno saṅketena vavatthito  /
+atthassa ñāpako saddo nāsante kāraṇadvaye  // Sad_11 //
+
+bhedābhedakabhūtatthaṃ puṇṇaṃ vohāranissitaṃ  /
+nānāpadaṃ vibhāveti yaṃ taṃ vākyan ti vuccate  // Sad_12 //
+
+aniṭṭhite pade vaṇṇo vākkharaṃ niṭṭhite padaṃ  /
+vākyaṃ tassamudāyo tamaññoññāpekkhalakkhaṇaṃ  // Sad_13 //
+
+paṭiññā upamā hetu udāharaṇa nigama-  /
+vasen' āvayavā pañcavidhā vākye yathārahaṃ  // Sad_14 //
+
+yathā mahānase evam aggi dahanadhūmato  /
+manyate kattha dhammino siddhito 'calamatthake  // Sad_15 //
+
+kriyāya saha aññoññaṃ kārakānamapekkhatā
+kriyākārakasambandho na chaṭṭḥīvisayo ayaṃ  // Sad_16 //
+
+nānattā sattiyā nānākriyā hoti yathārahaṃ  /
+ekakriyāya channan tu natthi kārakatā sadā  // Sad_17 //
+
+saddasantatiyaṃ saddo kāsādi 'vam akāriyo  /
+nicco ti keci tesan tu nāpasaddo kadāci pi  // Sad_18 //
+
+asatittā lasattā ca apasadde pi sādhutā  /
+atthe sane yathā 'mmū ti vutte py ammā 'bhimanyate  // Sad_19 //
+
+atthe sādhuttamattena niccatte 'pi karīyate  /
+niccena sadisā 'niccaṃ raṅgahatthādayo yathā  // Sad_20 //
+
+guḷhaṃ va gilite niggu hitaṃ siddhe 'dam uccate  /
+marū va marubimbamhā siddhe 'daṃ siddham uccate  // Sad_21 //
+
+anicco khaṇiko saddo ghaṭādi viya kāriyo  /
+icceke satthakārā te ye niccāniccavādino  // Sad_22 //
+
+niccatte pi salādīnaṃ saññā rūḷhīva manyate  /
+aniccavādinaṃ vāde anvatthāpi patīyate  // Sad_23 //
+
+nicco nikāraṇo 'nicco kāraṇānugato 'rito  /
+nāyaṃ kaṇṭhādivuttittā nicco vuḍḍhe tu vuttito  // Sad_24 //
+
+saṅketena ca vuttittā nāpy anicco ti vuccate  /
+tena satthan tu saṅketakaraṇatthaṃ karīyate ti  // Sad_25 //
+
+
+saddabhedacintā.
+
+
+
+sakatthadabbaliṅgāni saṅkhyākammādikarakaṃ  /
+iti saddassa viññeyyā pañcakatthā yathārahaṃ  // Sad_26 //
+
+arīyaty atthate vā 'nenā ty attho so va sassavā  /
+eso sako sako va 'ttho sakattho savisesanaṃ  // Sad_27 //
+
+suti jātiguṇo dabbaṃ sambandho ca kriyā tathā  /
+kriyākārakasambandho ty evaṃ sattavidho 'thavā  // Sad_28 //
+
+neyyo aṭṭhavidho sādisyādinā ca sakatthako  /
+visesy assa viseso ti taññunā so patīyate  // Sad_29 //
+
+sadden' uccāriten' eva yaṃ vatthu patipajjate  /
+tassa saddassa taṃ vatthu atthanāmena manyate  // Sad_30 //
+
+dīpitā viya dīpena evaṃ saddena dīpitā  /
+sarūpakhyā suti saddatā saddānugatā sadā  // Sad_31 //
+
+
+
+sabalādīsu bhinnesu yāya vattanty abhinnadhī  /
+saddā sā jātir esā ca mālāsuttam iv' ānvitā  // Sad_32 //
+
+yā niccattā mahattā ca sattā sattagavādisu  /
+mahāvisesasāmaññam icc etaṃ hu yathākkamaṃ  // Sad_33 //
+
+dabbass' ito tato bhinno tabbhedañāṇahetuko  /
+viparāvattidhammo ca nigguṇo gamyate guṇo  // Sad_34 //
+
+sambandho kārakeh' añño kriyākārakapubbako  /
+sambandhibuddhijanako sambandhidvayanissito  // Sad_35 //
+
+sambandhī viya sambandho rūpato na kudācanaṃ  /
+daṭṭhuṃ sakkoti viññū hi puriso ti pavattati  // Sad_36 //
+
+rājā dadāti ganhāti puriso ti pavattati  /
+kriyaṃ nissāya sambandho aññoññāpekkhalakkhaṇo  // Sad_37 //
+
+kriyākārakato sese chaṭṭhī jāyati sā pana  /
+sambandham api joteti utte sā hi palujjate  // Sad_38 //
+
+visesy assa visese vā sambandhidvayajotitaṃ  /
+sambandhaṃ jotituṃ chaṭṭhī saddasattisabhāvato  // Sad_39 //
+
+dhātvattho va kriyā nāma kā c' īhā kā ca jeṭṭhakā  /
+kā ca kārakabyāpāro so kriyā ti patīyate  // Sad_40 //
+
+sā dabbaṃ va imā 'vāti sarūpenā 'py adassanā  /
+pādukkhepamuduttādim anumānena manyate  // Sad_41 //
+
+mantabbā 'py anumānena sutā sādhanasattiyā  /
+lokasammutiyā siddhā dabbaṃ nissāya manyate  // Sad_42 //
+
+adabbā kattukammaṭṭhā kārakaggām asādhiyā  /
+kriyā nāmāti viññeyyā taññunā ty apare vidū  // Sad_43 //
+
+yaṃ yaṃ visesyate taṃ taṃ dabbaṃ taṃ savisesanaṃ  /
+visesyaṃ nissayo vā 'ttho visesyosavisesano  // Sad_44 //
+
+duyhanty ettha visesā ti dabbaṃ tan tu catubbidhaṃ  /
+jātiguṇakriyādabbabheden' eva pabhijjate  // Sad_45 //
+
+ekākāro pumattādibuddhiyā parikappito  /
+vohārattho va liṅgattho pumabhāvādayo yathā  // Sad_46 //
+
+yena yaṃ sadisaṃ nāma tam eva na ca taṃ bhave  /
+bhinnānaṃ sadisattena tesam opamatā bhave  // Sad_47 //
+
+santāne pumabhāvādisahito parikappito  /
+mahantakarasaṇṭhānādy aṭṭhasāliniyā mato  // Sad_48 //
+
+visadādippabhedena tividho gamanādiko  /
+liṅgattho ty apare keci massukesādayo ti ca  // Sad_49 //
+
+es' es' etan ti siddhatthamattaṃ candrādisv icchitaṃ  /
+kalāpādīsv anipphannasaddattho taññun' icchito  // Sad_50 //
+
+saṅkhy' ekattaṃ bahuttañ ca sāsane sakkate pana  /
+dvittañ ca pakkhipitvāna saṅkhyā vuccati taññunā  // Sad_51 //
+
+kammādikārakaṃ nāma bhāvasattamakārakaṃ  /
+kattusādhanato ñeyyaṃ bhāvasādhanato pi vā  // Sad_52 //
+
+dabbaguṇakriyājātināmabhedena pañcako  /
+yo karoti kriyaṃ kattu kammaṭṭhan ti sakārako  // Sad_53 //
+
+lokenāvijjamāno pi vijjamāno ti sammato  /
+iti nyāyena bhāvo pi kattusādhanato mato  // Sad_54 //
+
+karaṇaṃ vā kriyākāro, kāro eva ca kārako  /
+ten' eva kārako sattikriyābhedena dubbidho  // Sad_55 //
+
+nanu vinā va dabbādiṃ sattināma na dissati  /
+diṭṭhaṃ vatthuṃ vihāy' ettha adiṭṭhaṃ kiṃ nu icchasi  // Sad_56 //
+
+dabbassa yaṃ karoty ekaṃ sāmatthyaṃ sattikāya tu  /
+kattutā yassa tass' eva bhaveyya karaṇāditā  // Sad_57 //
+
+kattādisattiyogena dabbādy ekam pi bhijjate  /
+yath' eko pi paṭo nīlapītādiguṇayogato  // Sad_58 //
+
+buddho carati bho buddha buddhaṃ anucarāhi tvaṃ  /
+buddhena desito dhammo, dhammo buddhena tiṭṭhate  // Sad_59 //
+
+dhammaṭṭho deti buddhassa dhammo buddhā viniggato  /
+dhammo buddhassa pasattho loko buddhe pasīdati  // Sad_60 //
+
+kārakattā kriyāy' eva sattimukkhyena kārakaṃ  /
+dabbaṃ ṭhānyūpacārena tadādhāraṇabhāvato  // Sad_61 //
+
+saddo 'tthaṃ vadatī ty ettha saddo dabbe 'va gayhate  /
+atthassa vācako saddo py atthadvārena kārako  // Sad_62 //
+
+kriyānimittam ekantaṃ kriyatthaṃ kārakīritaṃ  /
+kriyānimittamattaṃ pi m akriyattham akārakaṃ  // Sad_63 //
+
+sāmy ālapananiddhāraṇabhāgyādim akārakaṃ  /
+kriyāy' eva tadā yogābhāvato ty upalakkhaye  // Sad_64 //
+
+bhāvalakkhaṇahetvādi kriyatthassa abhāvato  /
+taṃyoge taṃnimitte 'pi kārakan ti na vuccati  // Sad_65 //
+
+kārako chabbidho kattu karaṇakammasampadā  /
+nāvadhokāsabhedena satyāvatthappabhedato  // Sad_66 //
+
+sabbabhāvāvinābhāvī karaṇādipurakkhato  /
+yo karoty attakammaṭṭhaṃ kriyaṃ kattā sa kārako  // Sad_67 //
+
+kattā sabbakriyābyāpī sesaṃ kammādi pañcakaṃ  /
+visesakriyābyāpī ti kārakaṃ duvidhaṃ mataṃ  // Sad_68 //
+
+kattā 'yaṃ tividho suddhahetukammappabhedato  /
+datto karoti kāreti pīyate pādiyaṃ sayaṃ  // Sad_69 //
+
+yaṃ kriyāsādhane kattu pakāraṃ ti sayena taṃ  /
+karaṇaṃ kattuto 'ññe samadhikan ti m udīritaṃ  // Sad_70 //
+
+bāhirajjhattato bāhyabbhantarena ca dubbidhaṃ  /
+vīhiṃ lunāti dattena cakkhunā candam ikkhate  // Sad_71 //
+
+yaṃ kriyāyābhigantabbaṃ taṃ kammaṃ yaṃ karīyate  /
+iti satti tadā kammaṃ karaṇan ti kriyā tathā  // Sad_72 //
+
+nipphatti vikati pattibhedā kammaṃ tidhā mataṃ  /
+kaṭaṃ karoti jhāpeti kaṭṭhādiccaṃ namassati  // Sad_73 //
+
+sammā padīyate yassa sampadānaṃ tad uccate  /
+vatthussa vā paṭiggāhalakkhaṇaṃ taṃ kriyāya vā  // Sad_74 //
+
+pūjānuggahakāmena dinnaṃ sammā ti manyate  /
+dinnassa sāmikatte pi sampadānaṃ tad uccate  // Sad_75 //
+
+rajakassa dade vatthaṃ rañño daṇḍan ti ādisu  /
+nabhave sampadānattaṃ pūjādīnam abhāvato  // Sad_76 //
+
+anumatyā nirākattārādhakabhedato tidhā  /
+sampadānaṃ dade bhikkhu no rukkhassa 'ddhikassa ca  // Sad_77 //
+
+sampadānaṃ dvidhā kāyacittasampattipubbato  /
+bhikkhussa cīvaraṃ deti baliṃ nārāyanassa ca  // Sad_78 //
+
+same py apagame dvinnaṃ pubbarūpā yad accutaṃ  /
+vuccate tad apādānam etañ cāvadhilakkhaṇaṃ  // Sad_79 //
+
+apādānaṃ dvidhā buddhikāyasampattipubbato  /
+calā calavasenā pi corā gāmā ti ādisu  // Sad_80 //
+
+niddiṭṭhavisayaṃ kiñci uppattivisayaṃ tathā  /
+anumeyyavisayañ ca apādānaṃ tidhā mataṃ  // Sad_81 //
+
+apenti munayo gāmā, kusūlā kaṇḍulaṃ pace,  /
+pāṭalīputtakehi ca abhirūpatarā ime  // Sad_82 //
+
+kriyānissayabhūtāni kattukammāni tiṭṭhare  /
+yatth' okāso ti so yeva paraṃpar' ūpacārato  // Sad_83 //
+
+laddhanāmavisesattā n' esaṃ n' okāsatā siyā  /
+sāmaññassa viseso va bādhako ti hi vuccare  // Sad_84 //
+
+ādhāro catudhā: byāpiko, tilopasilesiko,  /
+thālīvesayikokāso gaṅgāsāmīpiko ti ca  // Sad_85 //
+
+padhānaparikappānaṃ vasā 'dhāro hi dubbidho  /
+mukhyo 'pacārato vā pi tilagaṅgādayo yathā  // Sad_86 //
+
+mukhyāmukhyavasen' eva sabbo saddo pabhijjate  /
+gaṅgāyaṃ nhāyate gaṅgāyaṃ sassan ti yathākkamaṃ  // Sad_87 //
+
+bhūtam attham atikkamma yenā 'bhūtam apekkhati  /
+bhūtatthass' ekadesaṃ vā so 'pacāro ti vuccati  // Sad_88 //
+
+sīho gāyati sīho 'yaṃ māṇavo 'ccādi dubbidho  /
+abhedavivakhyā so 'yam iti sambandhato py ayaṃ  // Sad_89 //
+
+parabhāvapadāpekkhaṃ sa-amādi tu kārakaṃ  /
+paccayassa sadhātussa atthabhūtan tu sādhanaṃ  // Sad_90 //
+
+vākye vā kārako yo taṃ pasiddhe yañ ca sādhanaṃ. /
+kārakaṃ punam etasmiṃ ayam esaṃ visesatā  // Sad_91 //
+
+paccate odano yena iti so pācakodano  /
+bhujjate pācakeneva mādyūdāharaṇaṃ mataṃ  // Sad_92 //
+
+dabbaguṇakriyānāmajātibhedena pañcadhā  /
+attho atthamukhen' eva saddo pi ty apare vidū  // Sad_93 //
+
+visāṇī dhavalo gantā citto gotica taññunā  /
+dabbādi dabbasaddādi paccekaṃ voharīyate  // Sad_94 //
+
+niruttipaṭisambhidā pāṭṭhiyekekamakkharaṃ  /
+visesuppattiyā nāma paññattīti hi vuccate  // Sad_95 //
+
+akkharāvalisaṅkhāto samūho paribyattiyā  /
+nāmanti keci yadyevaṃ sutyakkharasamūhato  // Sad_96 //
+
+nāmatāpatti sabbesaṃ dabbasaddādinaṃ siyā  /
+nāmantu lokasaṅketamekaṃ saññī nidassanaṃ  // Sad_97 //
+sakatthovādito buddhinappatītavisesanā  /
+yebhuyyena visesyeti nyāyato patipadyate  // Sad_98 //
+
+saddassevānusaṅgattā neyyattā tassarūpato  /
+sāmaññattāca ādova suti jātica manyate  // Sad_99 //
+
+visesānugataṃ dabbaṃ sāmaññānugatañca taṃ  /
+pacchuttaṃ liṅgasaṅkhyānaṃ nissayattāca ādito  // Sad_100 //
+
+dabbassevādhinattā taṃ pacchāliṅgaṃ tato paraṃ  /
+saṅkhyā ca tadadhīne pi parasaṅkhyā nivattito  // Sad_101 //
+
+saddo palakkhaṇādīhi patītatthe nivattitaṃ  /
+karoteva phalattena aññatthāpohanenavā  // Sad_102 //
+
+dabbādhīnepi bhāvassā pekkhattā sādhanaṃ tato  /
+dveva parādhinattā kammādisaṅkhyā catutthakā  // Sad_103 //
+
+liṅgādayo tayo dabbe dabbādhāraṇabhāvato  /
+dabbaṃ dabbavisesattā sakatthe saṅgahaṃ gatā  // Sad_104 //
+
+tassarūpādināyeva visesyattā chaṭṭheva tu  /
+jātyādayo sakatthā pi dabbesu tyāhyadabbatā  // Sad_105 //
+
+vatticchānuparodhena pubbāparavilokanaṃ  /
+kātabbaṃ kiṃ kamesena paccāsatyādibhāvato ti  // Sad_106 //
+
+
+atthabhedacintā.
+
+
+abhinnena padenattho pyabhinnova patīyate  /
+buddhiyā bheditattāva citragossādayo yathā  // Sad_107 //
+
+citragādīsu sukkādi buddhiyā bheditaṃ yathā  /
+gakatippaccaye bhinne bhinnatthova patīyate  // Sad_108 //
+
+pakatiliṅgadhātveva vibhattipaccayā pana  /
+paccayo keci syādyantatyādyantā pakatī ti ca  // Sad_109 //
+
+bhedite taddhitākhyāta kitakādikapaccaye  /
+samāsesyādike dhātu liṅge cattho pabhijjate  // Sad_110 //
+
+dviko tiko catukkopi pañcakocāpi viññunā  /
+attho saddassa viññeyyo saddabhedatthadassinā  // Sad_111 //
+
+vācakattitthiliṅgassī kārādīnaṃ patīyate  /
+saddamattena saddattho dviko paṭṭhvīti ādīsu  // Sad_112 //
+
+jotakattitthiliṅgassī kārādīnaṃpatīyate  /
+saddamattena saddattho tiko paṭṭhvītiādisu  // Sad_113 //
+
+sakatthaṃtena gantabbaṃ dabbaṃ taṃnissitampi ca  /
+liṅgameso tiko bhedo niccaṃsadde patiṭṭhito  // Sad_114 //
+
+catuttho dubbidho māsa jātoccādo patīyate  /
+saṅkhyācatutthako sova māsikoti ca kenaci  // Sad_115 //
+
+kiṃ pamāṇo kumārassa kālotyutte visajjanā  /
+māso jātassa assāti aññathā tiṃsarattiyā  // Sad_116 //
+
+padadvayamapekkhitvā parimāṇaṃ visesato  /
+saṅkhyā pañceva dvemāsajātādo diguṇāpi vā  // Sad_117 //
+
+māsaṃjātassa assāti kkantantyatra anādare  /
+chaṭṭhītyeke pare māso jāto assāti paṇḍitā  // Sad_118 //
+
+sallaviddhotiādīsu neyyo kammādikāraka  /
+catuttho sallasaddosā pekkhato yogatopivā  // Sad_119 //
+
+liṅgatthavivare suppi kamiccādīsu pañcako  /
+liṅgattho pañcakatthe tu soppantyādīsu dāhaṭo  // Sad_120 //
+
+suppeneva pamāṇena kītaṃ bhaṇḍanti suppikaṃ  /
+visesanavisesyānaṃ vācakattātra pañcako  // Sad_121 //
+
+uttarapadalopo vā taddhitantogamopi vā  /
+pakatippaccayeheva caritatthakabhāvato  // Sad_122 //
+
+supanaṃ supinaṃsoppa mitibhāvoyamatra hi  /
+puṃnapuṃsakamekattaṃ tassa sāmaññabhāvato  // Sad_123 //
+
+kriyāpadamapekkhāya purisādīsvamādinaṃ  /
+jotane pakatyatthattā pañcako pajjate sadā  // Sad_124 //
+
+vācakattamapekkhāya paccayānaṃdvikādiko  /
+visesanaṃvisesyādi bhāvato dhātuādike  // Sad_125 //
+
+ekakotica ekacce paccayānantu jotane  /
+dhātvādike tikādyattho netabbo samayaññunā  // Sad_126 //
+
+padapūraṇasandhīsu ekako doṇikādisu  /
+saṅkhyāpamāṇabhedena chakko cātyaparevidū ti  // Sad_127 //
+
+
+saddatthabhedacintā.
+
+
+vijjamāno pi sukkādi yathā dīpādike sati  /
+byattimāyāti kammādi attho evaṃvibhattiyaṃ  // Sad_128 //
+
+liṅgatthe pancake saṅkhyā catukkeca vibhattiyo  /
+saṅkhyākammādikānaṃ pi abattānaṃ va jotikā  // Sad_129 //
+
+duke tike ca kammādi catukkeca bibhattiyo  /
+saṅkhyākammādikānaṃ pi vācikātica vuccare  // Sad_130 //
+
+saddo sakatthamādova vatvā jātiguṇa kriyaṃ  /
+dabbaṃ taṃ nissayaṃpacchā liṅgamitthādikaṃtato  // Sad_131 //
+
+tatekattādikaṃsaṅkhyaṃ kammādisāmisattamaṃ  /
+tato vadeti liṅgattho pañcakotyapare vidū  // Sad_132 //
+
+liṅgatthaṃ pana jotenti saṅkhyākammādi kārakaṃ  /
+sambandhañca vibhattitthi paccayā ca yathārahaṃ  // Sad_133 //
+
+tesaṃ visesavuttittā tehi pākaṭabhāvato  /
+gosukko pācako daṇḍī gavaṃgoṇassa daṇḍinī  // Sad_134 //
+
+bahvatthānampi ekatthe samāropanato bahu  /
+vacanaṃdesanāso te patitattāca manyate  // Sad_135 //
+
+satthettani gurūsu ce tilakkhaṇamudāhaṭaṃ  /
+mayaṃ gacchāma tumheca gacchathāti yathākkamaṃ  // Sad_136 //
+
+supākaṭa sarūpattā dabbamuccārito ravo  /
+mukhyena braviticcāha byāḍi dabbapadattiko  // Sad_137 //
+
+niccattattā padhānena jātimuccārito ravo  /
+braviticcāha bājābyā yano jātipadatthiko  // Sad_138 //
+
+saddattho dabbamevāti āha dabbapadatthiko  /
+jātipadatthiko jāti vāti cātyapare vidū  // Sad_139 //
+
+saddotyuccārito saddā nubandhattā sarūpakaṃ  /
+sadā vatvāna dabbaṃ vā jātiṃ vā mukhyato vade  // Sad_140 //
+
+sādhārānugatattāva jātiṃ dabbapadatthike  /
+jātiyādhārakattāva dabbaṃ jātipadatthike  // Sad_141 //
+
+dabbaṃ guṇaṃ kriyaṃ nāmaṃ sambandhañca yathārahaṃ  /
+jātinissayadabbādhī nattānesanti saṅgaho  // Sad_142 //
+
+godaṇḍī pācako sukko ḍittoccādinidassanaṃ  /
+daṇḍādi nānapetassa jātiṃ daṇḍyādiko vade  // Sad_143 //
+
+yo sakatthoti vutto so nimittaṃtyapadhānato  /
+yo dabbantisa saddattho saddenutto padhānato  // Sad_144 //
+
+yāya jātyā visesyaṃ hi dabbaṃ dabbanti vuccate  /
+sā sakattho ti sutyāvā jāti sā ca gavādisu  // Sad_145 //
+
+ḍitto go gossa ḍittoti nāmamiccādike pana  /
+dabbaṃ nāmena nāmañca nāmajātyā yathākkamaṃ  // Sad_146 //
+
+nāmajātisarūpena dabbe saṅgahitaṃpi vā  /
+nāmaṃ tajjātiyā nāme na vā dabban ti cāpare  // Sad_147 //
+
+gossa sukko guṇoccādo guṇo va guṇajātiya  /
+sukko goccādike dabbaṃ guṇeneva patīyate  // Sad_148 //
+
+guṇajātisarūpena guṇovā guṇajātiyā  /
+dabbaṃ guṇena vātyeke sukko gossaguṇotica  // Sad_149 //
+
+samāse chinnahatthādo daṇḍyādotica taddhite  /
+dabbaṃ dabbena sambandhe na vā tassitayo gato  // Sad_150 //
+
+sarūpena hi tajjāti tajjātyā dabbakena vā  /
+sambandheneva vā dabbamiccevamapare vidū  // Sad_151 //
+
+pākādo ūyatādoca kriyāva kriyajātiyā  /
+paccate pacatādocā khyāte bhāvappadhānato  // Sad_152 //
+
+paccate pacate pāca koccādīsu kriyāya vā  /
+kriyākārakasambandhe na vā dabbanti cāpare  // Sad_153 //
+
+keci sutyā kriyājāti kriyājātyā kriyātathā  /
+kriyākārakasambandhe na vā dabbaṃ kriyāya vā  // Sad_154 //
+
+dabbaṃ dabbena sambandhe na vā yaṭṭhiṃ pavesaya  /
+sīhoyaṃ māṇavo bāhi gāmo gotinidassanaṃ  // Sad_155 //
+
+sahacaraṇato sūrā ditaṃ rūpakabhāvato  /
+dabbantaropacāroyaṃ nāmeneva nacatthateva  // Sad_156 //
+
+keci sadisabhāvo vā sambandho vā sarūpato  /
+dabbaṃ vā dabbasambandha sādisyasutitoti ca  // Sad_157 //
+
+padapūraṇasandhīsu sutyā padasiliṭṭhatā  /
+sā hi loke pasiddhattā dabbe gayhati taññunā  // Sad_158 //
+
+na tu saddāanatthāti nyāyena padapūraṇe  /
+padattho sutiyā tassa padattheva pavattito  // Sad_159 //
+
+bhavanti buddhisaddāsmā tibhāvo sanimittakā  /
+dabbaguṇakriyānāma jātisaddappavattiyā  // Sad_160 //
+
+sambandhinā hi sambandho tassitattā sarūpakaṃ  /
+jātyā saddassa jātittā sādisyaṃ sadisenavā  // Sad_161 //
+
+viggahāviggahatthāye nimittānāhu ṇyādayo  /
+tato bhāvatthavācittā tathā sādhusakatthake  // Sad_162 //
+
+saddavuttinimittānugatāte buddhivattate  /
+saddavuttinimittena tathā saddo ca vattate  // Sad_163 //
+
+padhānato nimittattho saddattho tyapare vidū  /
+nimittotvappadhānena tabbisesyo padhānato  // Sad_164 //
+
+gottaṃdabbassa gojāti jātyā vā gosarūpakaṃ  /
+ṭittattaṃ ṭittanāmatta miccādīsu ayaṃ nayo  // Sad_165 //
+jātyatthe rūḷhiyā hoti samāso taddhito kito  /
+jātyatthe ṇyādayo honti na ca sambandhakādike  // Sad_166 //
+
+sukkādyabhinnarūpo ca taddhitanto ca kevalo  /
+guṇe vā jātiyaṃvāpi pavattanti yathārahaṃ  // Sad_167 //
+
+santasaddo byabhicāri tasambandhe kriyāya vā  /
+vattate vattamānopi dabbe kamme guṇamhi ca  // Sad_168 //
+
+yathāssa kaṇṇattaṃ rāja purisattañca hatthittaṃ  /
+daṇḍīttaṃ kumbhakārattaṃ gottamicceva no mati  // Sad_169 //
+
+pācakattañca sukkattaṃ pāvārassa guṇassa vā  /
+sato vatthussa sattāca kammaññaṃ devatātica  // Sad_170 //
+
+yathākathañci byuppatti rūḷhiyā atthanicchayo  /
+iti rūḷhī pasiddhena byuppatti yena kenaci  // Sad_171 //
+
+ye yatthatthesu jāyanti bhiyyo pekkhanasattiyā  /
+bhāvato tehi te ñattā anuttā tadabhāvato  // Sad_172 //
+
+sabāhirattha anto tthā pekkhānuttatthadvārato  /
+saddosantotthabāhyatthā pekkho uttoti lakkhaṇaṃ  // Sad_173 //
+
+surūpenābhirūpo ko so narodhaññatodhana  /
+vā naro paccate sūde nodano pacitoti ca  // Sad_174 //
+
+payogasiddhiyā sutto padeso tena yaṃ samā  /
+sādisañcātidesādi tenuttaṃ sāmikārakaṃ  // Sad_175 //
+
+jātyāṇāvisayakkhettabhūtaṃ nuttaṃ yathātathā  /
+abhāvatoti taññūhi vuttaṃjātiniruttiyaṃ  // Sad_176 //
+
+sāsane nahutaṃjāti kkhettaṃlakkhañca koṭinaṃ  /
+āṇākkhettamanantañca visayakkhettamīritaṃ  // Sad_177 //
+
+yassa yattha vidhānattā saṅketeneva tena so  /
+ñattoti kārikāyantu vuccate kārikaññunā  // Sad_178 //
+
+samāsādīhi uttāno amādīhīti kehici  /
+yuttāpekkhehi vuttāno napekkhehīti no mati  // Sad_179 //
+
+uttānuttā sarūpena bhāvasattamakārakā  /
+sāmīca vācakāmādi samāsādi yathārahaṃ  // Sad_180 //
+
+kattari jitamāro ko so jino vābhidhammiko  /
+bhikkhu pacati sūdo pācako sūdodananti ca  // Sad_181 //
+
+kattādisāmimattaṃ te huttaṃ nāññaṃ tato pare  /
+padhānānuparodhena anuvattanti nāññathā  // Sad_182 //
+
+vācakattena uttanti keci tesaṃtu nādisu  /
+samāsādīsu kattādi vohāro na jinādike  // Sad_183 //
+
+teneva jotakattena vutte tatthāpi yujjati  /
+sāmaññatthe hi te hutte sātthakaṃva visesanaṃ  // Sad_184 //
+
+teneva jotakattena vutte tatthāpi yujjati  /
+sāmaññatthe hi te hutte sātthakaṃva visesanaṃ  // Sad_185 //
+
+sāmaññaṃ hi samāsādi vade syādi visesanaṃ  /
+tato visesanatthena sāmaññattho visesyate  // Sad_186 //
+
+samāsādīnamatthānaṃ vilakkhaṇa sabhāvato  /
+vākyato tena vākyena visesattho na manyate  // Sad_187 //
+
+jitamārādisāmaññaṃ bhikkhunādippayogato  /
+pārādiva jinādica katakiccādiyogato  // Sad_188 //
+
+vuttiyā kāmacārāpi visesanavisesyatā  /
+lokena manyate siddhā lokasiddhasabhāvato  // Sad_189 //
+
+attharūpaṃ pasiddhannu vādarūpanti vuccate  /
+visesanaṃva taṃ appasiddhakaṃ vidhirūpakaṃ  // Sad_190 //
+
+visesyameva taṃtyeva mattharūpaṃdudhā mataṃ  /
+yathā nīluppalaṃrāja purisoti nidassanaṃ  // Sad_191 //
+
+n ate hutte vibhattīti ce vinā tu vibhattiyā  /
+nātthaṃ nidassittuṃ sakkā liṅgatthaṃpana pekkhiya  // Sad_192 //
+
+paṭhamā yeva bhavati tatthā pyaññakriyādike  /
+bhavatyāpekkhite yeva tatiyādi yathārahaṃ  // Sad_193 //
+
+visesye dissamānāyā liṅgasaṅkhyāvibhattiyo  /
+tulyādhikaraṇe bhiyyo kattabbā tā visesane  // Sad_194 //
+
+saddo niyataliṅgekavacano gaṇhate padhā  /
+nassa vibhattimattaṃ jāyanti cittāni vīsati  // Sad_195 //
+
+nākhyātena maliṅgattā liṅgaṃ sakkānuvattituṃ  /
+visesyādhīnabhāvena saṅkhyāmattaṃva tassamaṃ  // Sad_196 //
+
+taddhito sattimaṃdabbaṃ saddasattisabhāvato  /
+kriyāmukhyepi ākhyāte bhiyyo bravītimukhyato  // Sad_197 //
+
+ekakkhaṇevanekesa mutate sattiyā pana  /
+abhāvato ttamekeka mākhyātena kitena ca  // Sad_198 //
+
+kriyāyeva nimittattā nissayattā ca yujjate  /
+uttānuttopi bhāvopaladdhihetuhi kārako  // Sad_199 //
+
+karaṇe chinnarukkho parasu paharaṇāvudhaṃ  /
+pāyena dutiyo khārī gottaṃjāti ca appato  // Sad_200 //
+
+kamme āgatasaṃgho ko so vihārova saṃghiko  /
+ghātiko odano paccatodano pacitodano  // Sad_201 //
+
+bhujjate odanotyettha mukhato paccatodano  /
+ityetthāmukhyato vutto phalanāmūpacārato  // Sad_202 //
+
+ekakammakriyākamme utte taṃyeva manyate  /
+neka kammakriyākamme utte kiṃ tesu manyate  // Sad_203 //
+
+appadhānaṃduhādīnaṃnyādīnantu padhānakaṃ  /
+kammaṃkammesvanekesu vuttaṃ kammanti manyate  // Sad_204 //
+
+duha yāca rudhi puccha bhikkhasāsavacādayo  /
+nīvaha haramādīca ubhaye te dvikammikā  // Sad_205 //
+
+duhamāno gavaṃ khīraṃ gopo duhati vāti ca  /
+go khīraṃduhito tena duyhate vāti cābravuṃ  // Sad_206 //
+
+nayamāno ajaṃgāmaṃjapālo nayatītica  /
+nīyamāno ajo gāmaṃtena nīyati vātica  // Sad_207 //
+
+kriyāyābhimataṃkammaṃpadhānanti pavuccate  /
+kriyānimittamattantu appadhānanti vuccate  // Sad_208 //
+
+yaṃkattuno kriyāyicchi taṃkammaṃtaṃpadhānakaṃ  /
+yaṃ tabbiparitaṃtantu appadhānanti vā mataṃ  // Sad_209 //
+
+padhānamappadhānañca ākhyātassa kitassa ca  /
+visayo dhammatāyāti vuttaṃjātiniruttiyaṃ  // Sad_210 //
+
+gatibodhannasaddattha harakarākammakānaṃ  /
+kattā akārite yo taṃ vuttakammanti kārite  // Sad_211 //
+
+dāso gacchati gāmantyakārite kāritepana  /
+dāsako sāminā gacchā pīyate gāmakanti ca  // Sad_212 //
+
+hatthī sayatyakammānaṃkārite kārite pana  /
+so sayāpīyate hatthā rohena kitake pyayaṃ  // Sad_213 //
+
+hetukriyāya sambandhi bhāvā kammanti manyate  /
+phalakriyāya kattāpi aññathānupapattito  // Sad_214 //
+
+kārito dhātutoññena suddhakattupayojane  /
+tathā payojakassāpi kāritantāpi kārito  // Sad_215 //
+
+so hi lokappamāṇena tikkhattuṃ paṭipajjate  /
+atra hi purimo lutto kārito va nipātanā  // Sad_216 //
+
+sūdena paccate sūdo sūdajeṭṭhena pāciya  /
+te maccena tathā raññā tathodanodanādikaṃ  // Sad_217 //
+
+sūdo pacati pāceti sūdajeṭṭhopi tena vā  /
+taṃ pi vā tassavā macco tathā rājā tathāti vā  // Sad_218 //
+
+hetukriyāya sambandhī kammatā paṭipajjate  /
+hetukriyāpadhānattā aññathānupapattito  // Sad_219 //
+
+phalakriyāya sambandhī kattutā vā vidhānato  /
+dutiyāya vikappena itaresu patīyate  // Sad_220 //
+
+kammānapekkhapekkhattā sabhāvena akammakā  /
+ekakammā dvikammā ca yathā bhūgamunyādayo  // Sad_221 //
+
+ekakammakaro dhātu sahito kārito sadhā  /
+topasaggo yathāyogaṃsakammākammakārako  // Sad_222 //
+
+sappaccayo pasaggesu upaṭṭhānavisesato  /
+te sato yeva atthassa dīpādīva pakāsakā  // Sad_223 //
+
+bhāveti kusalaṃdhammaṃ maggaṃgamayate yatiṃ  /
+bhogīnubhavati bhogaṃ uggacchati divākaro  // Sad_224 //
+
+dinnasuṅko dharādharo dikkhiṇeyyorahā yati  /
+dāniyo brāhmaṇo sampadāne niggatagāmiko  // Sad_225 //
+
+gāmako pabhavo hetu pādāneppakato pana  /
+gottaṃjātica okāse sampannavīhi gāmako  // Sad_226 //
+
+rukkhaṃva pavanaṃvāso nilayoguttabhāvato  /
+karaṇādicatukkattaṃ nevākhyātemudāhaṭaṃ  // Sad_227 //
+
+parittavisayatthākhyā tenuttaṃ kārakattayaṃ  /
+bahuttavisayattā kitenuttaṃ sattakārakaṃ  // Sad_228 //
+
+gottaṃgojāti sūdena ṭhīyate pacanaṃkriyā  /
+bhāve vidhānato yattha so samāsenudāhaṭo  // Sad_229 //
+
+dabbaguṇakriyānāma jātyatthe taddhito bhave  /
+bhāvokriyāyamākhyāto kitocātivisesatā  // Sad_230 //
+
+dhātvatthasaṅkhyāliṅgoti kārakantaranākulo  /
+ākhyātiko Saliṅgotu sasaṅkhyo kitakotica  // Sad_231 //
+
+dasabalo jino veṇiko gandhabboca sāmini  /
+so cākhyātakitā sambandhānuttattānudāhaṭo  // Sad_232 //
+
+jitamāro jino chinnarukkhosyāgatagāmiko  /
+gāmo dinnadhano yodho nikkhantagahito gaho  // Sad_233 //
+
+sampannavīhi gāmoti samāsena chakārakaṃ  /
+uttaṃ dasabalo nātho tyutto sāmica manyate  // Sad_234 //
+
+neyyo aññapadatthena tappayogavasenavā  /
+tagguṇo na tathā tagguṇoca aññapadatthako  // Sad_235 //
+
+nīyate chinnahattho yaṃ naro nīlapaṭo naro  /
+sambandhappamukho saṃgho puriso diṭṭhasāgaro  // Sad_236 //
+
+dvindena digunā kamma dhārayena samuccatye  /
+tulyatthadīpakā dassanāte vuttā na kārakā  // Sad_237 //
+
+sāmīnutto byayībhāvā mādīhutto sakārako  /
+taddhīpakavibhattīnaṃlopakesānumānato  // Sad_238 //
+
+samāsapadato aññasāpekkhatā samāsatā  /
+saddantarikasāpekkha bhāvato tyapare vidū  // Sad_239 //
+
+devadattassa kaṇhādantā rañño puriso gavo  /
+asso cātica sāpekkhabhāvantu manapekkhiya  // Sad_240 //
+
+tulyādhikaraṇatte ca cattatteca katena taṃ  /
+apekkhāyapi saṅkhāro nassatīti amādica  // Sad_241 //
+
+rājasso rūpavā lsallaviddho goti samāsatā  /
+sāpekkhepi padhānattā appadhānapadassa tu  // Sad_242 //
+
+sāpekkhattā samāsassā bhāvepi gamake sati  /
+vākye viya samāsepi bhavatyeva samāsatā  // Sad_243 //
+
+phisatvānāṅgināṅgañca tāvapacchāṅginā saha  /
+sambandho devadattassa gurukulanti ādisu  // Sad_244 //
+
+geyyādineva sambandhī nādisaddo punādinā  /
+samassate ayuttattha samāso paṭipajjate  // Sad_245 //
+
+pāyena vuttasuttattā athavādo punādiko  /
+pacchānādisayuttattho puna geyyāti ādisu  // Sad_246 //
+
+tadabhāvādinālakkhyo pasajjappaṭisedhano  /
+tassadisena lakkhyopariyudāsotidubbidho  // Sad_247 //
+
+micchāñāṇena yutto hi saddo bhāvāditulyatā  /
+vācī tenesa yuttattho katvānābrāhmaṇotica  // Sad_248 //
+
+samāso padasaṅkhepavasenekavidhothavā  /
+saddaatthasamāsena luttāluttavasena vā  // Sad_249 //
+
+niccāniccavasenāpi samāso dubbidho thavā  /
+ādimakkhuttarānampi padānaṃ lopato tidhā  // Sad_250 //
+
+godhano urasilomo kumbhakāro yathārahaṃ  /
+datto assaratho rūpamiccādica yathākkamaṃ  // Sad_251 //
+
+uttarapadalopattā kārakaññoññapekkhato  /
+uttattāvā samāsena nakriyāssarathādisu  // Sad_252 //
+
+catubbidho pi pubbuttarūbhayaññapadatthaka  /
+padhānato yathāyogaṃ samāso paṭipajjate  // Sad_253 //
+
+samāso byayībhāvovā tulyādhikaraṇo digu  /
+tappurisoca dvando ca bāhirattho ti chabbidho  // Sad_254 //
+yathopanagaraṃtassa mīpo nīluppaluppalaṃ  /
+tiyaṅgaṅgāni rājasso asso chinnakaro naro  // Sad_255 //
+
+savisesā imepañca atthā neyyā nayaññunā  /
+samaṇabrahmaṇā dvekapadatthātvavisesanā  // Sad_256 //
+
+visesanavisesyattaṃ dvandavajjesu vijjati  /
+na dvande tenanesante katthībhāvo nayujjati  // Sad_257 //
+
+nipāto sanipātena dvandeva paridīpitaṃ  /
+satthe vuttimukhenāñña matthaṃ dīpeti nāññathā  // Sad_258 //
+
+tena dvandassacekatthī bhāvo vuccati kenaci  /
+kriyāsambandha sāmañña bhāvato tyaparenaca  // Sad_259 //
+
+kriyā sambandhamattenā napekkhānamapekkhanaṃ  /
+yathā tena mabhinnatthā paratekatthatā matā  // Sad_260 //
+
+taddhituttapayogebhidhammiko bhikkhupañcamo  /
+akkharoghātikohāro dakkhiṇeyyo cabrāhmaṇo  // Sad_261 //
+
+gottaṃ jāti tathārukkha vā deso veṇikonaro  /
+iccādike visesyova utto vā ṇādiyo gato  // Sad_262 //
+
+dāsika hatthakammaṃ nāviko posobhidhammiko  /
+bhikkhu sovaggikaṃkammaṃ pabbateyyāca kunnadī  // Sad_263 //
+
+kāyikāvedanā vāsi ṭṭhoccā dīsu visesanaṃ  /
+yenavāsādiyogassa vuttattāuttamuccate  // Sad_264 //
+
+sāmaññābyayabhāvena tividhaṃ taddhitaṃidaṃ  /
+ṇādipaṭhamatoyeva vibhatyantā pajāyate  // Sad_265 //
+
+vāsiṭṭho sabbathā pāca kattamiccādi jjādikaṃ  /
+tvādikañca viahbtyatthe ekacce kārakādike  // Sad_266 //
+
+vassiṭṭhassa apaccanti chaṭṭhyantā ṇādayobhayaṃ  /
+jātā paṭhamato paccatekaṃ gaṇhanti nobhayaṃ  // Sad_267 //
+
+samāso padasaṅkhepo sappaccayapadaṃ pana  /
+taddhitanti ca nānatta mubhinnamupallakkhaye  // Sad_268 //
+
+ṇādyeva taddhitaṃnāma parikappavasādinā  /
+nipphādetabakammañca taddhitantyapare vidū  // Sad_269 //
+
+bhedasaṃsaṭṭhabhāvena nekatthantu sahabbaca  /
+nicchāvacanametassa hoti dvandekasesatā  // Sad_270 //
+
+nekatthābhihiteneka saddatthāpaṭipajjate  /
+dabbapadatthikeneka seso timunisatthake  // Sad_271 //
+
+candasatthe paneko dve haṃmayantyādayo yathā  /
+tathā saddekabahvatthā nekasesoti vuccate  // Sad_272 //
+
+evaṃpyaṭthakathādīsu munindasamayaññunā  /
+vuttattā ekasesassa lakkhaṇaṃ kiñcilakkhaye  // Sad_273 //
+
+liṅgekasesattaṃ keci animittakabhāvato  /
+vibhatyantekasesatta meke samayapālakā  // Sad_274 //
+
+sarūpasamudāyeka sesattamapare vidū  /
+iccevamatthabyākhyāne tayo pakkhā vavatthitā  // Sad_275 //
+
+ekakāraka tañceva abuddhiñca nidassituṃ  /
+byāsatthañca vibhatyantaṃ ca saddoca karīyate  // Sad_276 //
+[Note: byāsatthañca - katthaci]
+
+catubhādhāraṇo gova dīpo va saṃnidassano   /
+vibhattiyātathekāya nekasaṅkhyā patīyate  // Sad_277 //
+[Note: sanidassano - katthaci]
+
+keci apaccayattā taṃ suddhanāmapadantica  /
+apare parikappena paccaye vigatepica  // Sad_278 //
+
+taddhitanti ca ekacce dvandanti ca abhāvato  /
+taṃlakkhaṇassa taṃnāme nekasesotilakkhaye  // Sad_279 //
+
+ekasesapakappena pūrentīti kitenavā  /
+purisādipuriṭṭhane sentītyupapadenavā  // Sad_280 //
+
+mātaro pitaro sāri puttā puttātiādisu  /
+ekaseso virūpānaṃ vutto yogavibhāgato  // Sad_281 //
+
+mātaro pitaro nāma rūpaṃtyādīsu pubbakaṃ  /
+padaṃparampivā ekadesovā pyavasissate  // Sad_282 //
+
+pacchā pekkhatisāmañña mekasesepi niṭṭhite  /
+tenekavacanaṃ hoti nāmarūpanti ādisu  // Sad_283 //
+
+sarūpasseva saddattha saddatthānaṃ sabhāvato  /
+tibbidhattaṃyathāmāsā kuṭilāpurisātica  // Sad_284 //
+
+bhusoritepi nekatthaṃ vicchāvacanamīritaṃ  /
+āmeḍitaṃpanekatthaṃdvattikkhattumudīritaṃ  // Sad_285 //
+
+dvittaṃvicchāyamekassa nekatthassa nipātanā  /
+natthevāmeḍite dvittaṃmekatthattā bhayādinā  // Sad_286 //
+edisīva gate kacce dvibhāvaṃnekarūpato.
+
+bhinnavatthūni dabbena guṇena ca kriyāyavā  /
+byāpituṃ vatthuno icchā vicchātyeva patīyate  // Sad_287 //
+
+gāme gāme jalaṃgāmo gāmo rammo vagamyate  /
+gāmo gāmo kvacisyādi lopokekanti ādisu  // Sad_288 //
+
+sāpekkhattā dvirūpattā cekasseva samāsatā  /
+nivicchāyaṃ tadatthoti sāpekkhena samāsatā  // Sad_289 //
+
+pacatīodanaṃsūdo paccate tena odano  /
+ṭhīyate devadattena khyātenuttaṃ tikārakaṃ  // Sad_290 //
+
+dhātvattho kārakāmisso suddhobhāvotimanyate  /
+sokriyā sāca sāmaññaṃ tassekattaṃ patīyate  // Sad_291 //
+
+tadekavacanantañca paṭhamassathavā bahu  /
+vacanaṃ kattubhedādyapekkhite bhavate kadā  // Sad_292 //
+
+sabbhi sambhūyate āsī yante uṭṭhāsitā yathā  /
+bhavante hīti saṅkhyānaṃ bhedābhedo kadācipi  // Sad_293 //
+
+pahīyissanti te rūpaṃ bhūyate ti ca kenaci  /
+kammakattūsu bhāveca rūpaṃvuccati taññunā  // Sad_294 //
+
+bhāvakattari paccattaṃ saddanītiyamuccate  /
+paccattaṃtatiyattheti daḷhaṃkatvā parenaca  // Sad_295 //
+
+kattādibhedaliṅgattha mattāpekkhena tiṭṭhate  /
+yokadāci sa vatticchā nuparodhena manyate  // Sad_296 //
+
+sakammā kattukammesu ākhyātapaccayā siyuṃ  /
+naca bhāve akammātu kattubhāve nakammani  // Sad_297 //
+
+kammassāvacanicchāyaṃ sakammākhyātapaccayā  /
+bhāvepi taṃyathāgehe devadattena paccate  // Sad_298 //
+
+vatticchā nab have santamapyasantaṃpi sābhave  /
+taṃyathānudarā kaññā samuddo kuṇḍikātica  // Sad_299 //
+
+sattākaraṇarūpā hi dhātvatthā sakalā tato  /
+bhāvokriyāca sāmaññaṃ sakalesveva gamyate  // Sad_300 //
+
+sāmaññasaddato tena sabbadhātvatthadīpanaṃ  /
+yuttaṃbhāvadisaddena rukkhavaccā dhavādiva  // Sad_301 //
+
+visesā natupākādi sabbadhātvattha dīpakā  /
+napalāsādayo saddā sabbarukkhappakāsakā  // Sad_302 //
+
+kriyāvisesanaṃ kattu kammatthe tiṭṭhate yatto  /
+siddhaṃnyāyena taṃtasmā natadatthaṃ visuṃ vidhi  // Sad_303 //
+
+muduṃ pacati iccatra pacanaṃbhavatītica  /
+sukhaṃ sayati iccatra karoti sayanantica  // Sad_304 //
+
+kammasaddo yathā kamme tathā bhāvepi tena vā  /
+kammatthe tyekasesena padīpanayatopivā  // Sad_305 //
+
+bālāvatārasambandha cintādīsu napuṃsakaṃ  /
+dutiyekavacanantaṃ yaṃ taṃ taggatitīritaṃ  // Sad_306 //
+
+samudāyīnamekatte pekkhite paṭhamā siyā  /
+bhedatte dutiyātyattha byākhyāne tamudīritaṃ  // Sad_307 //
+
+visesyatabbisesānamabhedattamapekkhati  /
+yadā liṅgatthamattattā tadetthapaṭhamā bhave  // Sad_308 //
+
+yadāpekkhati bhedattaṃ tadātassaṅgabhāvato  /
+dutiyāca tadekattā sadekavacanaṃ siyā  // Sad_309 //
+
+asambhārasabhāvattā kattuno naca kārakaṃ  /
+bhāveteneva taññūhi tatiyantaṃpi manyate  // Sad_310 //
+
+kriyāvisesanaṃ nāma chaṭṭḥyantyaparevidū  /
+ekāheneva pāyāsi pādassukkhipanantica  // Sad_311 //
+
+kriyāvisesanaṃ satthe vuttaṃdhātuvisesanaṃ  /
+bhāvanapuṃsakaṃtyeva sāsane samudīritaṃ  // Sad_312 //
+
+kriyāvisesanaṃnāma dubbidhaṃsamudīritaṃ  /
+bahiddhālapanaṃsabbamabahiddhāmudādikaṃ  // Sad_313 //
+
+yo sādhayitumāraddho na ca niṭṭhamupāgato  /
+vattamānoti so vutto sova vippakatotica  // Sad_314 //
+
+kriyāsantānavicchede kālotīto anāgato  /
+anāraddhakriyāyanti kālattayūpalakkhaṇaṃ  // Sad_315 //
+
+anādyanidhano nicco paccayānupavattito  /
+nidassitosadāyoso kālokālaññunāmato  // Sad_316 //
+
+yathā niccopi ākāso ghaṭādidabbasaṃyuto  /
+ghaṭākāsādibhedena abhinnekopi bhijjate  // Sad_317 //
+
+kriyābhedūpacārena kālekopi pabhijjate  /
+kattādibhedato yeva kriyekāpi pabhijjate  // Sad_318 //
+
+kriyāsāmaññabhāvena abhinnāpi pabhijjate  /
+desādinātimākhyāte kasesotyaparevidū  // Sad_319 //
+
+kattādibhedato yeva kriyābhedo pathīyate  /
+nekasesenamiccevaṃnyāsādīsu nisedhanaṃ  // Sad_320 //
+
+majjhimo tumhayogena amhayogena uttamo  /
+tassesanāmayogena paṭhamottenanuttake  // Sad_321 //
+
+dhātvatthavācakeneva paccayenapayogato  /
+nāmattaṃpajahitvāna dhāturūpena tiṭṭhate  // Sad_322 //
+
+attanā vacanīyassa kattukammehi pākaṭo  /
+sakattuko sakammoti dhāturūpoti vuccati  // Sad_323 //
+
+pabbatāyati saṃghoti bālaṃmuṇḍāyatītica  /
+gamakattāca sāpekkhā pekkhitabbo payujjate  // Sad_324 //
+
+saññāya vattumicchāya mākhyātaṃnāmikaṃbhave  /
+mākhaliccādisviccevaṃ saddanītiyamāhaḍaṃ  // Sad_325 //
+
+upaggaho tu kattādi sādhanantyapare vidū  /
+keci tassa visesoti kārake tassa saṅgaho  // Sad_326 //
+
+vuttepi dhātunā bhāve vibhattapaccayāvinā  /
+bhāvino dhātunatthassā khyāte pākaṭabhāvato  // Sad_327 //
+
+kriyāpadhānabhāvena kriyamācikkhate iti  /
+ākhyātaṃ keci dhātvattho pacārenāti cābravuṃ  // Sad_328 //
+
+byatirekena gacchāmi na gacchāmīti pākaṭā  /
+kiṃ karosi pacāmīti pañhatovāpyayaṃ kriyā  // Sad_329 //
+
+evaṃpi sādhyarūpattā khyātasseva kriyāpadhā  /
+nattaṃ kitassa dabbappadhānattaṃ siddharūpato  // Sad_330 //
+
+pācako bhatakāropaharaṇaṃsyādipaccito  /
+odano dāniyobhikkhu pabhavo himavādiko  // Sad_331 //
+
+āsanaṃmañcapīṭhādi ṭṭhānaṃṭhāna kriyā iti  /
+kitenābhihitaṃsattasādhanaṃ bhāva sattamaṃ  // Sad_332 //
+
+kattukaraṇa kammasampadānavadhiyādhika  /
+raṇabhāvappabhedena sādhanaṃ sattadhā mataṃ  // Sad_333 //
+
+bhāvo tu kārakāmisso dhātvattho sakriyāyadi  /
+dhātvattho dhātunā vutto kimatthaṃpaccayo kato  // Sad_334 //
+
+nakevalā payujjanti pakatī nacapaccayā  /
+iti nyāyena bhāvattha sādhanāpekkhabhāvato  // Sad_335 //
+
+sidhasādhyappabhedena dudhābhāvo yathākkamaṃ  /
+pāko ṭhīyati ityattha byākhyāne saddasattiyā  // Sad_336 //
+
+mātulocariyo tyeko pyevaṃbhāvopi manyate  /
+kriuyāca sādhanañceti pakatyā paccayenaca  // Sad_337 //
+
+bhāvoti sattimaṃdabbaṃ yaṃyadupacarīyate  /
+chaṭṭḥī sāmini taṃyoge dhātvatthā pekkhite pana  // Sad_338 //
+
+katvatthe tatiyā chaṭṭhī keci lākhupamātica  /
+kriyāvisesanaṃchaṭṭhī yantaṃ taṃyogatotica  // Sad_339 //
+
+bhedo sambandhibhedena bhāvassupacarīyate  /
+abhedassa abhedocā bhāvākāsādino yathā  // Sad_340 //
+
+pākā telaghatādīnaṃ honti pākoti vākite  /
+bhāvekhyāte ayuttattā na chaṭṭhī sāmilakkhaṇe  // Sad_341 //
+
+kriyānissayakattādi dhārentaṃ pi kaṭādikaṃ  /
+kriyādhāro yathā kattu dabbe tannissayepica  // Sad_342 //
+bhāvassāpi abhāvassa kattupaññatti vuccate  /
+saddanītiyametassa dabbabhedena bhedato  // Sad_343 //
+vohāravisayatthattā kite dabbappadhānato  /
+dabbassevaca neyyattā bhāvo dabbanti taññunā  // Sad_344 //
+
+saddavuttinimittena kriyājātyāvisesitā  /
+kriyāvuccati dabbanti sattibyatti kriyantare  // Sad_345 //
+
+kiratīti kitosissa kaṅkhaṃvikkhipatāpane  /
+tītyattho pāyavuttittā kitakoti pavuccati  // Sad_346 //
+
+paccayo kitake kicca kitabhedena dubbidho  /
+pañca tabbādayokiccā kitaññe ṇādipaccayā  // Sad_347 //
+
+paccayo tividho kicca kitakiccakitabbasā  /
+bhāvakammesu katvatthe tīsuvātyapare vidū  // Sad_348 //
+
+kiccadhātūhyakammehi bhāveyeva napuṃsake  /
+tadantāpāyato kamme sakammehi tiliṅgikā  // Sad_349 //
+
+kitā kattari viññeyyā idamevopalakkhaṇaṃ  /
+tena kiccakitā kattu kammabhāvādike siyuṃ  // Sad_350 //
+
+nyāse suttena yeṇādī lakkhitāte tikālikā  /
+vuttā alakkhitā kāla muttekadvittikālikā  // Sad_351 //
+
+sena sena aniddiṭṭha kālā aññe nalakkhitā  /
+te lakkhitāva niddiṭṭha kālā ye rūpasiddhiyaṃ  // Sad_352 //
+
+tesaṃ tekālikattepyatīte vopapadatthato  /
+yathā purindadoccādo vattamāne ti kenaci  // Sad_353 //
+
+nekabhāvena bhinnepi santānenekataṃpati  /
+vattamānaṃ kataṃ Buddha vaṃsaaṭṭhakathādisu  // Sad_354 //
+
+visuddhimaggaṭīkāyaṃtaṃkālāpekkhanepi vā  /
+jātakaṭṭḥakathāyantu itopekkhāyatītatā  // Sad_355 //
+
+dattodāni tadā luddo ahosi viharāmahaṃ  /
+tadā sumedhabhūtohaṃgacchāmi ambare tadā  // Sad_356 //
+
+paccuppannakhaṇāpekkhaṃyatotītamanāgataṃ  /
+tato ekakkhaṇe kātuṃ yuttarūpova viggaho  // Sad_357 //
+
+yato pubbāparo bhāgo tamupādāya manyate  /
+tekālikoti vutticchā yattabhāvena vuttito  // Sad_358 //
+
+paccuppannakriyā yeva kārakattūpacārato  /
+yotyattā vā atītānā gatānaṃ kattutā siyā  // Sad_359 //
+
+yathā pacaṃpi yogyattā pācakoti pavuccati  /
+evaṃ karaṇayogyattā kattutākaraṇepica  // Sad_360 //
+
+samāsattā vibhattīnaṃ lopevopapadekate  /
+dvāgamo taññunā rūpasiddhiyaṃsamudāhaṭo  // Sad_361 //
+
+kaccāyaneca nyāse ca vuttāluttasamāsatā  /
+samāse nvāgameneva kite luttasamāsatā  // Sad_362 //
+
+sattasādhanamuttepi tassīlādīsu paccaye  /
+dhātuto paccayatthatttā kattuṭṭhāneca vuttito  // Sad_363 //
+
+porāṇehi kato tassa saṅgaho kattusādhane  /
+tulyādhikaraṇattena sīlaṃpakatimanyate  // Sad_364 //
+
+dhātvattho ti satācāro dhammo tassādhukāritā  /
+bhinnādhikaraṇattena tattha sakkaccakāritā  // Sad_365 //
+
+yathā kālattaye kumbha kārodīpaṅkaro pana  /
+luttāluttesu tassīlā dyatthe bhikkhūtyudāhaṭaṃ  // Sad_366 //
+
+ṇvutvantassatu kammatthe chaṭṭḥī bhavati ekadā  /
+kite bhāvassa kammatthe katvatthe ca yathārahaṃ  // Sad_367 //
+
+tyādyantassatu katvatthe kammatthe dissate kadā  /
+nacākhyātena sambandhā bhāvato sāmilakkhaṇe  // Sad_368 //
+
+kammassa kārako kammaṃ satte sattānamuddhatā  /
+pākodanassa sūdena vāsūdassodanampivā  // Sad_369 //
+
+dhammaṃpāṭheti sissassa na rajjassa sarissasi  /
+moggallānetu sambandhekattādyavacanicchite  // Sad_370 //
+
+mānantā vattamānānā gatekesesakentiti  /
+anto kattarimānotu bhāve kammani kattari  // Sad_371 //
+
+tiṭṭhanto tiṭṭhamāno haṃkarissāmi vibhāvayaṃ  /
+ṭhīyamānaṃmayā bhaññamānaṃtumhe suṇissatha  // Sad_372 //
+
+tadatthe nāgatebhāve tāyetuṃtyādayotayo  /
+catutthiyā tadantehi moggallānamhi lopatā  // Sad_373 //
+
+kaccāyaneca nyāse ca sabbakālesu kattari   /
+kitsaññatā tavetuñca dve hontīti patīyare  // Sad_374 //
+
+gacchaticchati kattāye tathā kātuñca kātave  /
+evaṃtu sampadānattaṃ kattuttañca yathārahaṃ  // Sad_375 //
+
+pubbakāleka kattūnaṃ majjhe tunādi pāyato  /
+samānāparakālāne kakattūnaṃnidassanā  // Sad_376 //
+
+nānākriyāsu sattīnaṃ nānāttepi patīyate  /
+kattūnamekavākyeka dabbaṭṭhattekakattukā  // Sad_377 //
+
+kalāpādīsu bhāvatthe tunātyādi vidhīyate  /
+kaccānādīsu katvatthe kittañññāya vidhīyate  // Sad_378 //
+
+kitsaññattekakattūnamitivuttasabhāvato  /
+kattariyeva tunādi kathitaṃrūpasiddhiyaṃ  // Sad_379 //
+
+kriyāvisesanatthāva tvādyantātabbisesato  /
+kattuvisesanatthāti keci kattari vuttito  // Sad_380 //
+
+pacitvā bhuñjate sūro tamaṃ hantvādito ghataṃ  /
+pitvāhoti balaṃdvāra māvaritvāna nikkhami  // Sad_381 //
+
+pacitvāodano bhujja te bhuttovāti yadyapi  /
+kammamekaṃ va te hoti uttaṃtvāpaccayena tu  // Sad_382 //
+
+nuttaṃpadhānasambandhadvāreneva tu kāriyaṃ  /
+siddhaṃ pubbāparesveva parakālappadhānato  // Sad_383 //
+
+kadāci guṇasambandha dvāreneva tukāriyaṃ  /
+gantvā piṇḍāya sāvattiṃ caratīti nidassanaṃ  // Sad_384 //
+
+nānākriyāsu nānatte kāriyānampi manyate  /
+attena dutiyantādi bhāvoviya yathārahaṃ  // Sad_385 //
+
+sāsaññāya hato ratto putto jīvova pekkhite  /
+padhānepi na saṅkhāro apadhānepi nassate  // Sad_386 //
+
+duvidhohi adhippāyo vattunodīyatodanaṃ  /
+pacitvānāti sāmaññā dhippāyo bhujjatodano  // Sad_387 //
+
+pacitvāti visesādhi ppāyo nekapade ayaṃ  /
+kāre kiccādike nānā pade pana patīyate  // Sad_388 //
+
+bhāvalakkhaṇahetvatthā tvantādīnaṃyathārahaṃ  /
+sakko hutvāna nibbatti paṭhanto vasatītica  // Sad_389 //
+
+dvinnaṃpaṭicca bhāvatthaṃchaṭṭḥyatthe paṭhamāthavā  /
+nappadhānamapekkhāya saṅkhāro nassatekadā  // Sad_390 //
+
+saṃyogojāyate tyādo yoge jāto na jāyate  /
+saṃyogo jāyamānassa kattuttena na tiṭṭhate  // Sad_391 //
+
+pākaṭābhāvatoññoññā bhimukhaṃ sattirūpakaṃ  /
+dvinnaṃ saṅgatiyaṃbyattirūpaṃpākaṭabhāvato  // Sad_392 //
+
+lokasaṅketasiddhattā sattibyattidvayena hi  /
+attho natthītyabhūtampi bhūtaṃvopacarīyate  // Sad_393 //
+
+vohāravisayo saddo bhūtābhūtatthavācako  /
+vohāratthohi saddattho bhāvatthotena dīpito  // Sad_394 //
+
+abhūtattho khaṃpupphādi bhūtattho purisādiko  /
+paramattho va phassādi bhūtattho tyapare vidū  // Sad_395 //
+
+lokasaṅketasādhyattho saddo nekantabhūtiko  /
+sammutyattho hi saddattho buddhiyā parikappito  // Sad_396 //
+
+tambadīpavhaye raṭṭhe'rimaddanapure katā  /
+saddhammasirinā guḷhasārasaddatthabhedanī  // Sad_397 //
+
+saddatthabhedacintāyaṃ niṭṭhitā ganthato pana  /
+tisataṃ navutisattatipādacaturakkharaṃ  // Sad_398 //
+
+saddatthalakkhaṇe bhedī yo yo nicchitalakkhaṇe  /
+so so ñātumakicchenapahoti piṭakattaye  // Sad_399 //
+
+iminālabhitapuññena pāpuṇeyyamanuttaraṃ  /
+taṃpatvā sakale satte moceyyaṃ bhavabandhanā ti  // Sad_400 //
+
+
+saddatthabhedacintāniṭṭhitā.
+
+
+

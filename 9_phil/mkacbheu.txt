@@ -1,0 +1,483 @@
+
+
+Mahayasa Thera: Kaccayanabheda
+Based on the ed. by Tvanḥ Sinḥ Ūḥ (et al.): Saddā ṅay 15 coṅ pāṭh,
+Rankun : Icchāsaya piṭakat cā puṃ nhip tuik 1964.
+
+
+Input by Aleix Ruiz Falqués
+
+
+
+
+
+CONTRIBUTOR'S NOTE:
+This is a provisional transcript from the Burmese edition.
+It is meant to be a searchable romanised version of the Burmese edition.
+Please do not quote it without checking the readings with the original.
+
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+
+jitamārādikaṃ buddhaṃ dhammaṃ mohavidhaṃsakaṃ  /
+vanditvā uttamaṃ saṃghaṃ kaccāyanañ ca vaṇṇitaṃ  // MKacbh_1 //
+kaccāyanassa bhedāhaṃ sappayogaṃyathārahaṃ  /
+sotujanānamatthāya pavakkhāmi samāsato  // MKacbh_1 //
+kasikammādinā byāpārena dibbati sopitā  /
+iti kacco sa puttotu tassa kaccāyano mato  // MKacbh_3 //
+teneva katasatthampi kaccāyananti ñāyati  /
+kaccāyanassidaṃ satthaṃ timinā vacanatthato  // MKacbh_4 //
+satthaṃaṭṭhavidhaṃhoti sandhi nāmañca kārakaṃ  /
+samāsaṃ taddhitākhyātaṃ kitakaṃuṇakaṃ iti  // MKacbh_5 //
+samādhiyanti yaṃ tattha adassetvānamantaraṃ  /
+vaḍḍhukināvadhiyanti sandhi tena pavuccati  // MKacbh_6 //
+sarabyañjanavuttānaṃ sandhīnañ ca vasā tidhā  /
+saresu vā byañjanesu vihitā sarabyañjanā  // MKacbh_7 //
+gāthāsu vuttāhānatthaṃ vācāsiliṭṭhatāyavā  /
+lopāgamaṃ karitvāna vihitā vuttasandhikā  // MKacbh_8 //
+sandhīdhavittaṃ kiṃ sūdha tañhitassa musā bhave  /
+seyyatthiko padamato idaṃ tesaṃnidassanaṃ  // MKacbh_9 //
+lopādesañca āgamo vikāro pakatī tathā  /
+dīgharassavasenāpi sandhi sattavidhā matā  // MKacbh_10 //
+tayo tayo tayo dvedve dvedveceva yathakkamaṃ  /
+tiūnavīsati sandhi paṇḍitehi vijāniyā  // MKacbh_11 //
+sarabyañjanabindūnaṃ vasena hi tayo matā  /
+yassindriyāni cattāro me iti saralopato  // MKacbh_12 //
+evaṃ sate āgyāgāraṃ iti byañjanalopato  /
+tāsāhanti mataṃniggahītalopanti viññunā  // MKacbh_13 //
+myāyaṃ tyāhaṃsarādesaṃ onaddho byañjano mato  /
+tamahanti mataṃ niggahītādesanti viññunā  // MKacbh_14 //
+atippagoparoccādi sarāgamoti ñāyati  /
+byañjanonayimassāti pubbaṅgamaṃ paraṃ mataṃ  // MKacbh_15 //
+sarabyañjanato ceva dvedvepubbā vijāniyā  /
+nopeti dāhamiccādi vikāroti vijāniyā  // MKacbh_16 //
+ko imaṃtu manopubbaṅgamāti pakatī mato  /
+vikāro pakaticcevaṃ ñātukāmena jāniyā  // MKacbh_17 //
+saniddesāniddesena dvedveparā vijāniyā  /
+saddhīdhāti saniddeso munīcare paromato  // MKacbh_18 //
+yathariva saniddeso bhovādi aniddesako  /
+dīgharassapabhedevaṃ ñātukāmena jāniyā  // MKacbh_19 //
+sareheva sarāpubbā luttāvācī parāramā  /
+byañjanācāgamā vācī dīgharassādi sambhavā  // MKacbh_10 //
+kālavaṇṇa byavaṭṭhāne sandhināma nasambhave   /
+gāthāsu dutiyantena tatiyādica kālikaṃ  // MKacbh_11 //
+sabbe saṅkhārā aniccā yadā paññāya passati   /
+atha nibbindati dukkhe esamaggo visuddhiyā  // MKacbh_12 //
+sakiṃ eva mahārāja sabbhikubbetha sandhavaṃ  /
+iccādīsu ca vaṇṇena buavaṭṭhānaṃ vijāniyā  // MKacbh_13 //
+puññenānena bhaveyyaṃ sukhumacchaviko ahaṃ  /
+vācāsiliṭṭhatā cāpi pesuññavigato pica  // MKacbh_14 //
+
+sappayogaṃ sandhibhedaṃ samattaṃ ||
+
+atthaṃnamanti nāmenti itināmāni yāni vā  /
+evaṃnamanabhāvena nāmaṃekavidhaṃmataṃ  // MKacbh_15 //
+etthacātvattharūḷhīnaṃvasena duvidhaṃmataṃ  /
+paṃsukūlikatissādi bhāsitaṃ taṃ yathākkamaṃ  // MKacbh_16 //
+nāmanāmaṃ sabbanāmaṃ samāsaṃ taddhitaṃ tathā  /
+kitanāmanti viññūhi nāmaṃ pañcavidhaṃ mataṃ  // MKacbh_17 //
+samūhikañ ca paccekaṃ vikappañ ca saṃyogikaṃ  /
+sambandhikaṃ paṭipakkhaṃ nāmanāmaṃ chadhā mataṃ  // MKacbh_18 //
+samūhikaṃghaṭapaṭo paccekaṃkaṭṭhaveḷuyo  /
+vikappocadisākalo kaṇhasappo saṃyogiko  // MKacbh_19 //
+sambandhiko gotamādi paṭipakkho kisādayo  /
+sappayogānināmāni paṇḍitehi vijāniyā  // MKacbh_30 //
+payogavantaṃvacanaṃ guṇapucchāpamāṇikaṃ   /
+sabbasabbaṃdisāvatthā saṅkhyākālanti dasadhā  // MKacbh_31 //
+payogantaṃ yaṃ tan ti tumhāmhavacanaṃ tathā  /
+nīlaṃpītaṃguṇonāma pucchā katarakatamaṃ  // MKacbh_32 //
+appaṃthokaṃpamāṇantu sabbasabbetaraṃ mataṃ  /
+disāpubbā aparā ca dīgharassādi avatthā  // MKacbh_33 //
+ekadviticatusaṅkhyā kālantu atītādayo  /
+dasadhā sabbanāmāni sappayogā vijāniyā  // MKacbh_34 //
+līnaṃ apākaṭaṃ aṅgaṃ līnaṃ gamayatīti vā  /
+liṅgaṃnāmanti viññeyyaṃ nāmaṃ liṅgañhi sadisaṃ  // MKacbh_35 //
+yāsāca itthiyāliṅgaṃ yo so pulliṅgameva ca  /
+yaṃ taṃ napuṃsakañceti tividhaṃliṅgalakkhaṇaṃ  // MKacbh_36 //
+āvatthiliṅgitaṃ nemi ttakā dhiccasamuppannaṃ  /
+vacchā daṇḍī ca tevijjo sirivaḍḍhanako mato  // MKacbh_37 //
+kriyajātiguṇaṃ yādi cchakanti vā catubbidhaṃ  /
+pācako ca assorājā tevijjoca tissādayo  // MKacbh_38 //
+sāmaññaguṇakittima opapātikato thavā  /
+devamanusso tevijjo temiyocandimādiko  // MKacbh_39 //
+tiliṅgesvekamekassa catuppabhedabhāvato  /
+dvādasapabhedaṃ liṅgaṃ paṇḍitehi vijāniyaṃ  // MKacbh_40 //
+tatthā  iīuūoti chabbidhā itthiyantato  /
+aāiīuūoti pulliṅgo sattadhā mato  // MKacbh_41 //
+napuṃsakopi tatheva bindantopi tiliṅgiko  /
+āvatthikādibhedena yantabhedovijāniyo  // MKacbh_42 //
+ākāro iīuūti pañcadhāitthiantato  /
+aāiīuūceti pulliṅgochabbidho mato  // MKacbh_43 //
+aiu ititīṇeva napuṃsako vijāniyo   /
+āvatthikādibhedena chappaññāsāti vuccare  // MKacbh_44 //
+napuṃsakampi pumaṃva katvā aṭṭhasaṭṭhītica  /
+ekevadanti antānaṃ gahetabbaṃ vijānatā  // MKacbh_45 //
+chappaññāsaṭṭhasaṭṭhica dvādhikanavutīritā  /
+nyāse taddīpake rūpasiddhiyañca yathārahaṃ  // MKacbh_46 //
+vuttiyantu kimatthanti pucchitabbesu dvīsuca  /
+paraṃsatipi katvāna pubbantu sambandhaṃ kare  // MKacbh_47 //
+pubbaṃsatipi katvāna parampi sambandhaṃ kare  /
+tīsupidvevasatipi ekaṃva sambandhaṃ kare  // MKacbh_48 //
+nāmavacanapuññena namanaṃnāmanaṃbhave  /
+svācārānañca viññūnaṃ saṃsaranto bhavābhave  // MKacbh_49 //
+liṅgavacanapuññena līnattho pākaṭo bhave  /
+līnapañhākathanoca satimāsīlatejasā  // MKacbh_50 //
+
+sappayogaṃnāmabhedaṃsamattaṃ ||
+
+nipphādeti padattho yo gamanapacanādikaṃ  /
+itiso kārakonāma kārakaññūhi jāniyo  // MKacbh_51 //
+kārakattākriyāyeva sattimukhyena kārakaṃ  /
+dabbaṃ ṭhānyūpacārena tadādhāraṇabhāvato  // MKacbh_52 //
+saddopi atthadvārena kārakoti pavuccati  /
+evaṃ nipphādakattena kārakekavidhaṃbhave  // MKacbh_53 //
+kattā sabbakriyābyāpī sesaṃ kammādikārakaṃ  /
+visesakriyābyāpīti kārakaṃ duvidhaṃmataṃ  // MKacbh_54 //
+kattukammañca karaṇaṃ sampadānamathāparaṃ  /
+apādānañca okāsaṃ kārakaṃchabbidhaṃ mataṃ  // MKacbh_55 //
+kattā ca duvidho hoti vuttā vuttavasena ca  /
+paṭhamena yutto vutto avutto tatiyena ca  /
+puriso gacchati maggaṃgaruḷena hato nāgo  // MKacbh_56 //
+sayaṃhetu kammakattu vasena tividho bhave  /
+datto karoti kāreti kusūlo bhijjate sayaṃ  // MKacbh_57 //
+kammaṃ pi duvidhaṃhoti vutto vutta vasena ca  /
+odano paccate datto rathaṃkaroti tyādikaṃ  // MKacbh_58 //
+nipphattivikatipatti bhedā kammaṃ tidhā mataṃ  /
+rathaṃkaroti jhāpeti kaṭṭhādiccaṃ namassati  // MKacbh_59 //
+santā santa jananānaṃ casena nipphatti dudhā  /
+mātā puttaṃ vijāyati puññaṃ sukhaṃjanetidaṃ  // MKacbh_60 //
+pariccakkā pariccakkakāraṇā vikatīdudhā  /
+karoti kaṭhaṃ aṅgāraṃ suvaṇṇaṃkaṭakaṃkaroti  // MKacbh_61 //
+pattikammaṃdvidhā kāya cittasampatti bhedato  /
+buddhaṃ vandeti pūjeti ādiccañca namassati  // MKacbh_62 //
+icchitādi vasākammaṃ tidhābhattañca bhuñjati   /
+visaṃ gilati gāmañca gacchaṃsālamupāgami  // MKacbh_63 //
+karaṇaṃ duvidhaṃ hoti bāhirajjhattabhedato  /
+vīhiṃ lunāti dattena cakkhunā candamikkhate  // MKacbh_64 //
+cakkhādinā ca chabbidhaṃ rūpaṃ passati cakkhunā  /
+saddaṃ suṇāti sotena gandhaṃ ghānena ghāyati  // MKacbh_65 //
+rasaṃ sāyati jivhāya kāyena phoṭṭhabbaṃ phuse  /
+dhammaṃ manena jānāti idaṃ tesaṃ nidassanaṃ  // MKacbh_66 //
+sampadānaṃdvidhā kāyacittapubbakabhedako  /
+bhikkhussa cīvaraṃ deti baliṃ nārāyanassa ca  // MKacbh_67 //
+anirākaraṇamārā dhanambhanuññavasena  /
+sampadānaṃ tidhā vuttaṃ rukkhayācaka bhikkhavo  // MKacbh_68 //
+apādānaṃ dvidhā kāyacittapubbakabhedato  /
+apenti munayo gāmā pāpācittaṃ nivāraye  // MKacbh_69 //
+calācalavasenāpi apādānaṃ dvidhā mataṃ  /
+hatthikkhandhato oruyha paṇṇāpatanti rukkhato  // MKacbh_70 //
+uddiṭṭhavisayaṃ taṃhi uppattivisayaṃ tathā  /
+anumeyya visayañce ti apādānaṃ tidhā mataṃ  // MKacbh_71 //
+apenti munayo gāmā kusūlā taṇḍulaṃ pace  /
+pāṭaliputtakehica abhirūpatarā ime  // MKacbh_72 //
+ādhāro catudhā byāpi kopasilesiko tathā  /
+vesayikosāmīpiko tilādikaṃnidassanaṃ  // MKacbh_73 //
+byāpiko ca dudhā sakalabyāpikekadesato  /
+tiṭṭhati telaṃtilesu khīraṃ jalesu tiṭṭhati  // MKacbh_74 //
+duvidho pasileso ca alliyānallibhedato  /
+ukkhaliyañca ācāmo pariyaṅke ca tiṭṭhati  // MKacbh_75 //
+vesayiko ca duvidho desantaraññathāvasā  /
+pādesu patitvā rodi pakkhanti sakuṇā nabhe  // MKacbh_76 //
+samīpiyā vhayaṃ tīre samīpe upacārato  /
+laddhaṃtīrena gaṅgāyaṃ tiṭṭhati sassamādisu  // MKacbh_77 //
+mukhyo paraṃparo tabbisayo tadupanissayo  /
+khaggamhi pariyaṅkeca rūpe ca sāsane vasi  // MKacbh_78 //
+sāmiālapanañceva niddhāraṇañca lakkhaṇaṃ  /
+hetuaccantasaṃyogaṃ ime akārakā matā  // MKacbh_79 //
+sāmi ālapanaṃ kattha niddhāraṇa makārakaṃ  /
+kriyāyeva tesaṃ yogā bhāvato tyupalakkhaye  // MKacbh_80 //
+sāmibhedo anekadhā janakādi pabhedato  /
+rañño putto dhanaṃ hattho svācāramādi ñāyate  // MKacbh_81 //
+sajīvājīva bhedena duvidhālapanaṃ mataṃ  /
+bhoti itthi ca bhosela jānitabbaṃ yathākkamaṃ  // MKacbh_82 //
+jātiguṇakriyānāma vasena catudhā mataṃ  /
+khattiyo cva manussesu sāmānārīsu dassaniyā  // MKacbh_83 //
+pathikesu ca dhāvanto ānando sāvakesvīti  /
+samūhāvayavaṃ jātyā dinā niddhāraṇaṃ mataṃ  // MKacbh_84 //
+lakkhaṇaṃ hetu accantaṃ kriyattassa abhāvato  /
+taṃ yoge taṃ nimittepi kārakanti navuccati  // MKacbh_85 //
+bhāvo ca bhāvavantañca lakkhavantañca lakkyiyaṃ  /
+kiriyaṃ lakkhaṇaṃ pubbaṃ parantu lakkhiyaṃ mataṃ  // MKacbh_86 //
+tesaṃkattā ca kammañca tabbantaṃ nāma jāniyā  /
+gosuca duyhamānāsu gato duddhāsu āgato  // MKacbh_87 //
+janako sampāpako hetuñāpako ti tidhāmato  /
+bījāya aṅkuro jāto tīraṃnāvāya pāpuṇi  // MKacbh_88 //
+sabhāvo byatireko ca kāriyo ñāpako tidhā  /
+uṅhattā sītattā aggi dhūmāyatthīti ñāyati  // MKacbh_89 //
+kāladdhānaṃ vasādveti accantasaṃyogaṃ mataṃ  /
+māsañca yojanaddhānaṃ sajjhāyatī ti ñāyati  // MKacbh_90 //
+visesanaṃ dvidhā tesaṃ tulyabhinnappabhedato  /
+tilokamahitonātho gottenagotamobhave  // MKacbh_91 //
+yassekattavibhattitta ekasaṅkhyā kriyāpi ca  /
+samānaliṅgatāceva tulyādhikaraṇaṃ mataṃ  // MKacbh_92 //
+āsayā sayībhāvo ca tabbhāvo tabbisesatā  /
+dhammādhāra phalānañca ekatāti chadhā mataṃ  // MKacbh_93 //
+ratto paṭo suvo seto karīhatthī buddho jino  /
+nīlovaṇṇo ambopāno sīhonaroanilasso  // MKacbh_94 //
+ambilogarukohoti lahuko kaṭukoraso  /
+gadāhataṃ susaṃyuttaṃ osadhaṃ duyuttaṃ visaṃ  // MKacbh_95 //
+tatiyāceva chaṭṭhīca sattamīceti bhedato  /
+bhinnādhikaraṇaṃ tattha tividhanti jināniyaṃ  // MKacbh_96 //
+gottena gotamo nātho ekūnatiṃsavayasā  /
+rañño va puriso hoti na seṭṭhibrāhmaṇādinaṃ  /
+geheva nisinno hoti nasālādīsu brāhmaṇo  // MKacbh_97 //
+rājatulyākriyānāma kārakā amaccādinā  /
+tasmāchakārakā tattha pāpuṇanti yathārahaṃ  // MKacbh_98 //
+kārakāamaccānāma suddānāma akārakā  /
+tasmā akārakā cha pi kārakesu yathārahaṃ  // MKacbh_99 //
+aṭṭhārasahisippehi sampanno iminā ahaṃ  /
+kāraṇehi sammānehi vatthūhupagato bhave  // MKacbh_100 //
+
+sappayogaṃ kārakabhedaṃ samattaṃ ||
+
+samāsīyanti nāmāni nāmānaṃ samāsanaṃtathā  /
+samāso nāma viññeyyo samāsanavasekadhā  // MKacbh_101 //
+samāso ca dvidhā hoti niccānicca samāsato  /
+arindamo dīpaṅkaro munindādinidassanaṃ {*1}  // MKacbh_102 //
+{*1 munindo ti katthaci}
+samāso ca dvidhā hoti luttāluttavasāthavā  /
+munindo godhano ceti gavaṃpati nidassanaṃ  // MKacbh_103 //
+samāso ca dvidhā hoti yuttāyuttavasāthavā  /
+nidassanaṃmunindo ti asaddhabhojanādikaṃ  // MKacbh_104 //
+samāso ca tidhā hoti saddatthabhedato puna  /
+asaddhabhoji urasi lomo nīluppalādikaṃ  // MKacbh_105 //
+ādimajjhattarānaṃ vā lopato tividho bhave  /
+datto assaratho rūpaṃ idaṃtesaṃ nidassanaṃ  // MKacbh_106 //
+pubbuttarubhayaññānaṃ padānatthapadhānato  /
+catudhā tilokaṃ rājaputtojeḷakaṃ godhano  // MKacbh_107 //
+byayībhāvo digu dvando kammadhārayamevaca  /
+tappuriso bahubbīhi samāso hoti chabbidho  // MKacbh_108 //
+yathāruci tilokañca samaṇabrāhmaṇādayo  /
+nīluppalaṃ rājaputto lambakaṇṇo yathākkamaṃ  // MKacbh_109 //
+sattābyayī yathārucā dhimātarādhirūpakaṃ  /
+yathākkamaṃ nibbānupa nagaraṃ adhinaccidaṃ  // MKacbh_110 //
+digu dvidhā samāhārā samāhāra vasena ca  /
+tilokantu samāhāraṃ pañcidviyāni cāsamā  // MKacbh_111 //
+dvando dvidhā samāhāra itarītarayogato  /
+ajeḷakaṃ samāhāraṃ samaṇabrāhmaṇetarā  // MKacbh_112 //
+visesanapubbaparubhayapadaṃsambhāvanā  /
+upamāvadhāraṇañca kuna pādipubbaṃ nava  // MKacbh_113 //
+nīluppalaṃ yathātañhi yathākkamaṃ gaṇuttamo  /
+saṇha sukhumadhammo ca tathā ca hetupaccayo  // MKacbh_114 //
+saṅkhasetaṃ guṇo eva dhanaṃ guṇadhanaṃtathā  /
+kuputto tu abhāvo ca pāvacananti ñāyati  // MKacbh_115 //
+tappuriso dvidhā hoti paṭhamāmādibhedato  /
+paṭhamābrāhmaṇo hoti amādibhūmiyaṃ gato  // MKacbh_116 //
+paṭhamā ca dvidhā hoti digutulyattha bhedato  /
+apañcapulidiguca tulyattho ca abrāhmaṇo  // MKacbh_117 //
+amādichabbidho hoti dutiyātatiyādito  /
+nidassanaṃ yathātassa evaṃ ñeyyaṃ vijānatā  // MKacbh_118 //
+bhūmigato devadatto kathinadussamādiko  /
+attajo rājaputto ca gāmavāsī yathākkamaṃ  // MKacbh_119 //
+bahubbīhi dvidhā hoti tagguṇātagguṇabhedato  /
+lambakaṇṇāditagguṇo pabbatādiatagguṇo  // MKacbh_120 //
+aññapadapabhedena ādimajjhantato tidhā  /
+pattahattho ananto ca chinnahattho yathākkamaṃ  // MKacbh_121 //
+sattavidho bahubbīhi paṭhamādivasā pana   /
+nigrodhaparimaṇḍalo āgatasamaṇo tathā  // MKacbh_122 //
+jitindriyo dinnasuṅko niggatajanako tathā  /
+lambakaṇṇo susassoti yathākkamaṃ vijāniyā  // MKacbh_123 //
+dvandena digunā kamma dhārayena samuccaya  /
+tulyatthavācakā sesā nāmānurūpavācakā  // MKacbh_124 //
+kammadhārayo dvando ca tappuriso ca lābhino  /
+tayo parapade liṅgaṃ bahubbīhi padantare  // MKacbh_125 //
+digu abyayībhāvo ca napuṃsakeva niyato  /
+vācakopana viññeyyo vibhatti padarūpato  // MKacbh_126 //
+puññ[e]nānena saṃsāra saṅkhepakārako bhave  /
+abhejjapariso pañño satimā ca bhavābhave  // MKacbh_127 //
+
+sappayogaṃ samāsabhedaṃ samattaṃ ||
+
+tesaṃ saddasamūhāhaṃ hitānukūlakaṃ thavā  /
+tesaṃ sissasamūhānaṃ taddhitanti pavuccati  // MKacbh_128 //
+sāmaññābyayabhāvena taddhitaṃ tividhaṃ bhave  /
+sāmaññaṃ vividhaṃ tattha liṅgehi vacanehi ca  // MKacbh_129 //
+nabyayantu tathāneva bhāvo bhāvena yuttako  /
+vāsiṭṭhādi tatatthādi opammādi nidassanaṃ  // MKacbh_130 //
+gottatrarāgajātyādi samūhaṭṭhānanissitaṃ  /
+upamā bahulaṃseṭṭhaṃ assatthipakatipūraṇaṃ  /
+saṅkhyāvibhāgaṃ sāmaññaṃ pannarasavidhaṃ bhave  // MKacbh_131 //
+vākye tu vijjamānassa padassāgammalopanaṃ  /
+tāni nāmāni ñeyyāni buddhimante hi taṃ yathā  // MKacbh_132 //
+vāsiṭṭhaṃ nāvikaṃ nīlaṃpurimājanatā tathā  /
+rajanīyaṃ duṭṭhullañca dhūmāyitattamevaca  // MKacbh_133 //
+abhijjhāluca seṭṭho ca saddho maṇimayaṃ tathā  /
+pañcamo dvikaṃdvidhāca idaṃ tesaṃ nidassanaṃ  // MKacbh_134 //
+ṇo ṇāyano ca ṇāno ca ṇeyyo ṇi ca ṇiko tathā  /
+ṇavo ṇeroca ṇyoceti nava gotte patiṭṭhitā  // MKacbh_135 //
+ṇiko ṇīyo ti dveyeva taratyādimhi jātito  /
+ṇo va rāge imikiyo jātimhi caturo kiyo  // MKacbh_136 //
+kaṇ ṇo tāsamūhe tīṇi ṭhāniyolovanissite  /
+āyitattovupamāyaṃ āluva bahule tathā  // MKacbh_137 //
+taratamisikiyiṭṭhā pañcete visiṭṭhe nava  /
+vīso sī ikaīroṇo vantumantu assatthiyaṃ  // MKacbh_138 //
+mayo va pakati yamhi pūraṇemīthaṭhātiyo  /
+saṅkhyāne kova dhāso dve vibhāge paccayāṭhitā  /
+sāmaññe paccayā evaṃ chatālīsabhavantite  // MKacbh_139 //
+sikkāyadhāritobhāro yathākājenadhārito  /
+dvinnevaṃ vacanatthāya vākyamajjhe bhavanti te  // MKacbh_140 //
+vākyetu vijjamānānaṃ lopāpadavibhattinaṃ  /
+duve atthe vadantīti paṇḍite hi vijāniyā  // MKacbh_141 //
+maṇindhanātape aggi tamhi naṭṭhe nanassati   /
+naṭṭhe padavibhattimhi paccayātthaṃ pavuccare  // MKacbh_142 //
+thāca tatthāvīthaṃ totra thodhivohicahampica  /
+hiñcanaṃ hañcanaṃ hiñci hodhodādānidācanaṃ  // MKacbh_143 //
+vacīca vacanañcāpi rahāpica rahācanaṃ  /
+rahidhunājajujotyaṭṭhavīsapaccayābyaye  // MKacbh_144 //
+ṇyattatā ttanattaṃ kvañca ṇilaṃ ṇikaṃ ṇiyaṃkaṇṇā  /
+bhāvekādasa tiṭṭhanti pañcāsīti samūhato  // MKacbh_145 //
+bhāvetu bhāvattho nāma jātiguṇa kriyātathā  /
+nāmaṃ dabbo ti pañcete saddamantā vijāniyā  // MKacbh_146 //
+labheyyaṃ nena puññena anukūlamittādikaṃ  /
+kareyyaṃ pasatthaṃkammaṃ saddhādindriyako bhave  // MKacbh_147 //
+
+sappayogaṃ taddhitabhedaṃ samattaṃ ||
+
+jotanti paccayācettha ākhyāyanti vibhattiyo  /
+bhāvakammañca kattāraṃ āuhyātanti pavuccati  // MKacbh_148 //
+atthānaṃvācakā tattha aṭṭhahonti vibhattiyo  /
+pañcamī vattamānā ca sattamī ca hiyyattanī  /
+ajjatanī parokkhā ca kālāti bhavissanti ca  // MKacbh_149 //
+tāsvekekā dudhā honti parassapadamattano  /
+pubbe chacha parassāni pare chacha ca mattano  // MKacbh_150 //
+tesvekekātidhāhonti nāmatumhāmhayogato  /
+pubbemajjheparedvedve nāmatumhāmhayogikā  // MKacbh_151 //
+tesvekekā tidhā honti purisabhedatopica  /
+pubbe majjhe pare dvedve paṭhama majjhimuttamā  // MKacbh_152 //
+tesvekekāpi duvidhā vacanabhedato pana  /
+tesu pubbāpubbāekā parātu bahuvācakā  // MKacbh_153 //
+vibhattijātito aṭṭha soḷasapadato siyuṃ  /
+aṭṭḥatālīsayogena tatheva purisena ca  // MKacbh_154 //
+chanavutituhontete vacanassa pabhedato  /
+paropurisabhedena asītīti pakāsitā  // MKacbh_155 //
+tisithañca timimañca simimaṃ tisimimaṃ tathā  /
+tyanti sithamimañce ti pañcavārā pakāsitā  // MKacbh_156 //
+vattamānā paccuppanne bhavissanti anāgate  /
+pañcamīsattamī tīsu atīte honti sesakā  // MKacbh_157 //
+parassapadamākhyātaṃ kattuno yeva vācakaṃ  /
+attano padamākhyātaṃ bhave kammani kattari  // MKacbh_158 //
+khachasāāyīyāṇoca ṇayoṇāpecaṇāpayo  /
+aloṇayārāloyoca akārādve ivaṇṇakā  // MKacbh_159 //
+eokārāyo ṇuṇāca uṇānācappaṇhātathā  /
+oyirā ṇeṇayāceti paccayā ekatiṃsime  // MKacbh_160 //
+tesu ṇecaṇayoṇāpe ṇāpayoca alotathā  /
+pañcete kāriteyeva sesā akārite ṭhitā  // MKacbh_161 //
+jotakā paccayā teci vikaraṇāpakāsitā  /
+niggahītañcivaṇṇoti āgamā dve pakāsitā  // MKacbh_162 //
+bhaveyyanenapuññena svākhyātadhammiko ahaṃ  /
+bālānaṃ jotako ceva saddhabalādiko pica  // MKacbh_163 //
+
+sappayogaṃ ākhyātabhedaṃ samattaṃ ||
+
+saṅkhaṃ kirati sissānaṃ hitaṃvā yaṃ pakāsati  /
+ñāṇassa hetubhūtaṃ taṃ kitakanti pavuccati  // MKacbh_164 //
+kitakaṃtividhaṃ tattha kitakiccubhayaṃ kamā  /
+kattaribhāvakammesu tīsu tevāṭṭhakā matā  // MKacbh_165 //
+yo karotī ti kattā ca pacīyate ti pacitā  /
+kātave iti kattuṃ ca idaṃtesaṃ nidassanaṃ  // MKacbh_166 //
+tatthākāro ca ṇoṇvuca tvāvīkvirammaṇīyurū  /
+ṇukorotabbaanīyo ṇyoteyyoriccayutica  // MKacbh_167 //
+aticaririyotoca tāvītavantunākhapi  /
+tavetuṃ tunatvānatvā mānantā ratthurituca  /
+rātutuko chattiṃ sāva honti sāmaññanāmato  // MKacbh_168 //
+tesvakāro tayo ṇoca catassotvāviyo duve  /
+rūtā duve tayoyuti pañcatālīsa atthato  // MKacbh_169 //
+tatthākārocaṇoṇīca tvāvīrūtoṇukocino  /
+anto ritu dasekeca kattariyeva ñāyare  // MKacbh_170 //
+tabbānīyya ṇyariccāca ririyocāpi paccayā  /
+pañcime bhāva kammesu māno kattari kammani  // MKacbh_171 //
+sesā ekūnavīsāca paccayā tīsu jāyare  /
+tavetuṃ tuna tvāna tvā bhāve byākaraṇe matā  // MKacbh_172 //
+antotu vattamānamhi atīte tavantā dayo  /
+mānotu vattamānānā gate sesā tikālikā  // MKacbh_173 //
+kattu kammañca karaṇaṃ sampadānamapādānaṃ  /
+adhikaraṇaṃ bhāvoti sattadhāsādhanenatu  // MKacbh_174 //
+yo vākye kārako kattā pasiddhesovalambhati  /
+kattu sādhana mīranti sesesvapi ayaṃ nayo  // MKacbh_175 //
+udāharaṇametesaṃ katamaṃ titupucchite  /
+kattukammādayo eva dassetabbā yathākkamaṃ  // MKacbh_176 //
+vuttāvuttavasā kattu dvidhā buddho tu nissayo  /
+suddhahetu vasenāpi nāmaṃ eva pakāsitaṃ  // MKacbh_177 //
+dhātudhātvatthato dveca buddho satthā pakāsitā  /
+sapadā sapadato dve buddho eva pakāsito  // MKacbh_178 //
+nāmānurūpato ceva dassetabbā vāccāpi ca  /
+te kita vācake sveva dassetabbā vijānatā  // MKacbh_179 //
+bhaveyyaṃ nena puññena kaṅkhaṃ vitaraṇā sakkā  /
+lobhodosoca moho ca tanukāca bhavābhave  // MKacbh_180 //
+
+sappayogaṃ kitabhedaṃ samattaṃ ||
+
+kaccāyanabhedapakaraṇaṃ samattaṃ ||
+
+
+
+
+
+
+
