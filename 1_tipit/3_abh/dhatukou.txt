@@ -1,0 +1,4505 @@
+
+
+Dhatukatha
+Based on the ed. by Edmund Rowland Gooneratne: The Dhātu-Kathā Pakaraṇa and its commentary.
+London : Pali Text Society 1892.
+(Reprinted, with corrections 1963, 1987)
+
+
+
+Input by the Dhammakaya Foundation, Thailand, 1989-1996
+[GRETIL-Version vom 10.4.2015]
+
+
+NOTICE
+These files are provided by courtesy of the Pali Text Society for
+scholarly purposes only.
+In principle they represent a digital edition (without revision or
+correction) of the printed editions of the complete set of Pali
+canonical texts published by the PTS. While they have been subject to a
+process of checking, it should not be assumed that there is no
+divergence from the printed editions and it is strongly recommended that
+they are checked against the printed editions before quoting.
+
+
+
+
+ANNOTATED VERSION IN PTS LAYOUT
+
+
+
+
+STRUCTURE OF REFERENCES (added):
+Dhātuk_nn.nn = Dhātukathā_Niddesa[Roman].paragraph
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+
+
+
+
+
+Dhātukathā
+
+[page 001]
+                                 1
+                        Dhātu-Kathā Pakaraṇaṃ.
+          NAMO TASSA BHAGAVATO ARAHATO SAMMĀSAMBUDDHASSA
+     [1] Saṃgaho asaṃgaho, [2] saṃgahītena asaṃgahītaṃ, [3]
+asaṃgahītena saṃgahītaṃ, [4] saṃgahītena saṃgahītaṃ, [5]
+asaṃgahītena asaṃgahītaṃ, [6] sampayogo vippayogo, [7]
+sampayuttena vippayuttaṃ, [8] vippayuttena sampayuttaṃ,
+[9] sampayuttena sampayuttaṃ, [10] vippayuttena vippayut-
+taṃ, [11] saṃgahītena sampayuttaṃ vippayuttaṃ, [12] sam-
+payuttena saṃgahītaṃ asaṃgahītaṃ, [13] asaṃgahītena
+sampayuttaṃ vippayuttaṃ, [14] vippayuttena saṃgahītaṃ
+asaṃgahītaṃ.
+     {Pañcakkhandhā}, dvādasāyatanāni, aṭṭhārasa dhātuyo,
+cattāri saccāni, bāvīsatindriyāni, paṭiccasamuppādo, cattāro
+satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā,
+cattāri jhānāni, catasso appamaññāyo, pañcindriyāni, pañca
+balāni, satta bojjhaṃgā, ariyo aṭṭhaṃgiko maggo, phasso,
+vedanā, saññā, cetanā, cittaṃ, adhimokkho, manasikāro.
+     Tīhi saṃgaho, tīhi asaṃgaho, catuhi sampayogo, catuhi
+vippayogo.
+     Sabhāgo, visabhāgo.
+     Sabbā pi Dhammasaṃgaṇi-Dhātukathāya Mātikā [ti].
+                                                  [Mātikā.]3
+                      I.- SAṂGAHĀSAṂGAHO
+     Dhātuk_I.1 Rūpakkhandho katīhi khandhehi katīhāyatanehi katīhi
+dhātūhi saṃgahīto?
+
+
+[page 002]
+2                        DHĀTU KATHĀ PAKARAṆAṂ.                 [I.
+     Rūpakkhandho ekena khandhena ekādasahi āyatanehi
+ekādasahi dhātūhi saṃgahīto.
+     Katīhi asaṃgahīto?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi
+asaṃgahīto.
+     Dhātuk_I.2 Vedanākhandho katīhi khandhehi katīhāyatanehi katīhi
+dhātūhi saṃgahīto?
+     Vedanākhandho ekena khandhena ekenāyatanena ekāya
+dhātuyā saṃgahīto.
+     Katīhi asaṃgahīto?
+     Catuhi khandhehi ekādasahi {āyatanehi} sattarasahi dhā-
+tūhi asaṃgahīto.
+     Dhātuk_I.3 Saññākkhandho katīhi khandhehi katīhāyatanehi katīhi
+dhātūhi saṃgahīto?
+     Saññākkhandho ekena khandhena ekenāyatanena ekāya
+dhātuyā saṃghahīto.
+     Katīhi asaṃgahīto?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahīto.
+     Dhātuk_I.4 Saṃkhārakkhandho katīhi khandhehi katīhāyatanehi
+katīhi dhātūhi saṃgahīto?
+     Saṃkhārakkhandho ekena khandhena ekenāyatanena
+ekāya dhātuyā saṃgahīto.
+     Katīhi asaṃgahīto?
+     Catūhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahīto.
+     Dhātuk_I.5 Viññāṇakkhandho katīhi khandhehi katīhāyatanehi
+katīhi dhātūhi saṃgahīto?
+     Viññāṇakkhandho ekena khandhena ekenāyatanena sat-
+tahi dhātūhi saṃgahīto.
+     Katīhi asaṃgahīto?
+     Catūhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi
+asaṃgahīto.
+     Dhātuk_I.6 Rūpakkhandho ca Vedanākkhandho ca katīhi khand-
+hehi katīhāyatanehi katīhi dhātūhi saṃgahīto?
+     Rūpakkhandho ca Vedanākkhandho ca dvīhi khandhehi
+ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā.
+
+
+[page 003]
+I.]                         SAṂGAHĀSAṂGAHO.                       3
+     Katīhi asaṃgahītā?
+     Tihi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.7 Rūpakkhandho ca Saññākhandho ca. . . . pe . . .
+     Dvīhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi
+saṃgahītā.
+     Katīhi asaṃgahītā?
+     Tīhi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.8 Rūpakkhandho ca Saṃkhārakkhandho ca. . . . pe . . .
+     Dvīhi khandhehi ekādasahi āyatanehi ekādasahi dhā-
+tūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Tīhi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.9 Rūpakkhandho ca Viññāṇakkhandho ca. . . . pe . . .
+     Dvīhi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhā-
+tūhi asaṃgahītā.
+     Katīhi asaṃgahītā?
+     Tīhi kandhehi na kehici āyatanehi na kāhici dhātūhi
+asaṃgahītā.
+     Dhātuk_I.10 Rūpakkhandho ca Vedanākkhandho ca Saññākkhan-
+dho ca katīhi khandhehi katīhi āyatanehi katīhi dhātūhi
+saṃgahītā?
+     Rūpakkhandho ca Vedanākkhandho ca Saññākkhandho
+ca tīhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi
+saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.11 Rūpakkhandho ca Vedanākkhandho ca Saṃkhārakk-
+hando ca. . . . pe . . .
+     Tīhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi
+saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.12 Rūpakkhandho ca Vedanākhandho ca Viññāṇakkhan-
+dho ca. . . . pe . . .
+
+
+[page 004]
+4                       DHĀTU KATHĀ PAKARAṆAṂ.                   [I.
+     Tīhi khandhehī dvādasahi āyatanehi aṭṭhārasahi dhā-
+tūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi na kehici āyatanehi na kāhici dhātūhi
+asaṃgahītā.
+     Dhātuk_I.13 Rūpakkhandho ca Vedanākkhandho ca Saññākkhandho
+ca Saṃkhārakkhandho ca katīhi khandhehi katīhāyatanehi
+katīhi dhātūhi saṃgahītā?
+     Rūpakkhandho ca Vedanākhandho ca Saññākhandho ca
+Saṃkhārakkhandho ca catūhi khandhehi ekādasahi āya-
+tanehi ekādasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.14 Rūpakkhandho ca Vedanākkhandho ca Saññākkhandho
+ca Viññāṇakkhandho ca. . . . pe . . .
+     Catūhi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhā-
+tūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena nekehici āyatanehi nekāhici dhātūhi
+asaṃgahītā.
+     Dhātuk_I.15 Rūpakkhandho ca Vedanākkhandho ca Saññākkhandho
+ca Saṃkhārakkhandho ca Viññāṇakkhandho ca katīhi khan-
+dhehi katīhāyatanehi katīhi dhātūhi saṃgahītā?
+     Rūpakkhandho ca Vedanākkhandho ca Saññākkhandho
+ca Saṃkhārakkhandho ca Viññāṇakkhandho ca pañcahi
+khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.16 Pañcakkhandhā katīhi khandhehi katīhi āyatanehi
+katīhi dhātūhi saṃgahītā?
+     Pañcakkhandhā pañcahi khandhehi dvādasahi āyatanehi
+aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+
+
+[page 005]
+I.]                          SAṂGAHĀSAṂGAHO.                      5
+     Dhātuk_I.17 Cakkhāyatanaṃ katīhi khandhehi katīhāyatanehi
+katīhi dhātūhi saṃgahītaṃ?
+     Cakkhāyatanaṃ ekenakhandhena ekenāyatanena ekāya
+dhātuyā saṃgahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītaṃ.
+     Dhātuk_I.18 Sotāyatanaṃ . . . pe . . .
+     Dhātuk_I.19 Ghānāyatanaṃ . . . pe . . .
+     Dhātuk_I.20 Jivhāyatanaṃ . . . pe . . .
+     Dhātuk_I.21 Kāyāyatanaṃ . . . pe . . .
+     Dhātuk_I.22 Rūpāyatanaṃ . . . pe . . .
+     Dhātuk_I.23 Saddāyatanaṃ . . . pe . . .
+     Dhātuk_I.24 Gandhāyatanaṃ . . . pe . . .
+     Dhātuk_I.25 Rasāyatanaṃ . . . pe . . .
+     Dhātuk_I.26 Phoṭṭhabbāyatanaṃ . . . pe . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahitaṃ.
+     Dhātuk_I.27 Manāyatanaṃ . . . pe . . .
+     Ekena khandhena ekenāyatanena sattahi dhātūhi saṃ-
+gahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhā-
+tūhi asaṃgahītaṃ.
+     Dhātuk_I.28 Dhammāyatanaṃ . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi
+ekenāyatanena ekāya dhātuyā saṃgahītaṃ.
+     Katīhi asaṃgahītaṃ.
+     Ekena khandhena ekādasahi āyatanehi sattarasahi
+dhātūhi asaṃgahītaṃ.
+     Dhātuk_I.29 Cakkhāyatanañ ca Sotāyatanañ ca. . . . pe . . .
+     Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+
+
+[page 006]
+6                        DHĀTU KATHĀ PAKARAṆAṂ.                 [I.
+     Dhātuk_I.30-36 Cakkhāyatanañ ca ghānāyatanañ ca. . . . pe . . .
+     Cakkhāyatanañ ca jivhāyatanañ ca. . . . pe . . .
+     Cakkhāyatanañ ca kāyāyatanañ ca. . . . pe . . .
+     Cakkhāyatanañ ca rūpāyatanañ ca. . . . pe . . .
+     Cakkhāyatanañ ca saddāyatanañ ca. . . . pe . . .
+     Cakkhāyatanañ ca gandhāyatanañ ca. . . . pe . . .
+     Cakkhāyatanañ ca rasāyatanañ ca. . . . pe . . .
+     Dhātuk_I.37 Cakkhāyatanañ ca phoṭṭhabbāyatanañ ca. . . .
+pe . . .
+     Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā? Catuhi khandhehi dasahāyatanehi
+soḷasahi dhātūhi asaṃgahītā.
+     Dhātuk_I.38 Cakkhāyatanañ ca manāyatanañ ca. . . . pe . . .
+Dvīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Tīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.39 Cakkhāyatanañ ca dhammāyatanañ ca. . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvī-
+hāyatanehi dvīhi dhātūhi saṃgahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītaṃ.
+     Dhātuk_I.40 Dvādasāyatanāni katīhi khandhehi katīhāyatanehi
+katīhi dhātūhi saṃgahītāni?
+     Dvādasāyatanāni asaṃkhataṃ khandhato ṭhapetvā pañ-
+cahi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi
+saṃgahītāni.
+     Katīhi asaṃgahītāni?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi
+asaṃgahītāni.
+     Dhātuk_I.41 Cakkhudhātu katīhi khandhehi katīhāyatanehi katīhi
+dhātūhi saṃgahītā?
+     Cakkhudhātu ekena khandhena ekenāyatanena ekāya
+dhātuyā saṃgahītā.
+     Katīhi asaṃgahītā?
+
+
+[page 007]
+I.]                        SAṂGAHĀSAṂGAHO.                       7
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi
+dhātūhi asaṃgahītā.
+     Dhātuk_I.42-57 Sotadhātu . . . pe . . .
+     Ghānadhātu . . . pe . . .
+     Jivhādhātu . . . pe . . .
+     Kāyadhātu . . . pe . . .
+     Rūpadhātu . . . pe . . .
+     Saddadhātu . . . pe . . .
+     Gandhandhātu . . . pe . . .
+     Rasadhātu . . . pe . . .
+     Phoṭṭhabbadhātu . . . pe . . .
+     Cakkhuviññāṇadhātu . . . pe . . .
+     Sotaviññāṇa dhātu . . . pe . . .
+     Ghānaviññāṇadhātu . . . pe . . .
+     Jivhāviññāṇadhātu . . . pe . . .
+     Kāyaviññāṇadhātu . . . pe . . .
+     Manodhātu . . . pe . . .
+     Manoviññāṇadhātu . . . pe . . .
+     Ekena khandhena {ekenāyatanena} ekāya dhātuyā saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catūhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.58 Dhammadhātu . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi
+ekenāyatanena ekāya dhātuyā saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena ekādasahi āyatanehi sattarasahi
+dhātūhi asaṃgahītā.
+     Dhātuk_I.59 Cakkhudhātu ca sotadhātu ca . . . pe . . .
+     Dhātuk_I.60 Cakkhudhātu ca ghānadhātu ca . . . pe . . .
+     Dhātuk_I.61 Cakkhudhātu ca jivhādhātu ca . . . pe . . .
+     Dhātuk_I.62 Cakkhudhātu ca kāyadhatu ca . . . pe . . .
+     Dhātuk_I.63 Cakkhudhātu ca rūpadhātu ca . . . pe . . .
+     Dhātuk_I.64 Cakkhudhātu ca saddadhātu ca . . . pe . . .
+     Dhātuk_I.65 Cakkhudhātu ca gandhadhātu ca . . . pe . . .
+     Dhātuk_I.66 Cakkhudhātu ca rasadhātu ca . . . pe . . .
+     Dhātuk_I.67 Cakkhudhātu ca phoṭṭhabbadhātu ca . . . pe . . .
+
+
+[page 008]
+8                       DHĀTU KATHĀ PAKARAṆAṂ.                  [I.
+     Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.68 Cakkhudhātu ca cakkhuviññāṇa-dhātu ca . . .
+pe . . .
+     Dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.69 Cakkhudhātu ca sotaviññāṇadhātu ca . . . pe . . .
+     Dhātuk_I.70 Cakkhudhātu ca ghānaviññāṇadhātu ca . . . pe . . .
+     Dhātuk_I.71 Cakkhudhātu ca jivhāviññāṇadhātu ca . . . pe . . .
+     Dhātuk_I.72 Cakkhudhātu ca kāyaviññāṇadhātu ca . . . pe . . .
+     Dhātuk_I.73 Cakkhudhātu ca manodhātu ca . . . pe . . .
+     Dhātuk_I.74 Cakkhudhātu ca manoviññāṇadhātu ca . . .
+pe . . .
+     Dvīhi khandhehi dvīhi āyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.75 Cakkhudhātu ca dhammadhātu ca . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvi-
+hāyatanehī dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.76 Aṭṭhārasa dhātuyo katīhi khandhehi katīhāyatanehi
+katīhi dhātūhi asaṃgahītā. Aṭṭhārasa dhātuyo asaṃ-
+khataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahi
+āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_I.77 Dukkhasaccaṃ katīhi khandhehi katīhi āyatanehi
+katīhi dhātūhi saṃgahītaṃ?
+
+
+[page 009]
+I.]                        SAṂGAHĀSAṂGAHO.                     9
+     Dukkhasaccaṃ pañcahi khandhehi dvādasahi āyatanehi
+aṭṭhārasahi dhātūhi saṃgahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītaṃ.
+     Dhātuk_I.78 Samudayasaccaṃ . . . pe . . .
+     Ekena khandhena . . . pe . . .
+     Dhātuk_I.79 Maggasaccaṃ . . . pe . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītaṃ.
+     Dhātuk_I.80 Nirodhasaccaṃ . . . pe . . .
+     Na kehici khandhehi ekenāyatanena ekāya dhātuyā saṃ-
+gahītaṃ?
+     Katīhi asaṃgahītaṃ?
+     Pañcahi khandhehi ekādasahi āyatanehi sattarasahi
+dhātūhi asaṃgahītaṃ.
+     Dhātuk_I.81 Dukkhasaccañ ca samudayasaccañ ca. . . . pe . . .
+     Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhā-
+tūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.82 Dukkhasaccañ ca maggasaccañ ca. . . . pe . . .
+     Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_I.83 Dukkhasaccañ ca nirodhasaccañ ca. . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvā-
+dasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā . . . pe . . .
+     Dhātuk_I.84 Dukkhasaccañ ca samudayasaccañ ca maggasaccañ
+ca. . . . pe . . .
+
+
+[page 010]
+10                       DHĀTU KATHĀ PAKATAṆAṂ.                 [I.
+     Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūti asaṃgahītā.
+     Dhātuk_I.85 Dukkhasaccañ ca samudayasaccañ ca nirodhasaccañ
+ca. . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātuhi saṃgahītā.
+     Katīhi asaṃgahītā? Na kehici khandhehi na kehici
+āyatanehi na kāhici dhātūhi asaṃgahītā.
+     Dhātuk_I.86 Dukkhasaccañ ca samudayasaccañ ca maggasaccañ
+ca nirodhasaccañ ca. . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā? Na kehici khandhehi na kehici āya-
+tanehi na kāhici dhātūhi asaṃgahītā.
+     Dhātuk_I.87 Cattāri saccāni katīhi khandhehi katīhāyatanehi ka-
+tīhi dhātūhi saṃgahītā?
+     Cattāri saccāni asaṃkhataṃ khandhato ṭhapetvā pañcahi
+khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.88 Cakkhundriyaṃ katīhi khandhehi katīhāyatanehi
+katīhi dhātūhi saṃgahītaṃ?
+     Cakkhundriyaṃ ekena khandhena ekenāyatanena ekāya
+dhātuyā saṃgahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītaṃ.
+     Dhātuk_I.89-94 Sotindriyaṃ . . . pe . . .
+     Ghānindriyaṃ . . . pe . . .
+     Jivhindriyaṃ . . . pe . . .
+     Kāyindriyaṃ . . . pe . . .
+
+
+[page 011]
+I.]                         SAṂGAHĀSAṂGAHO.                      11
+     Itthindriyaṃ . . . pe . . .
+     Purisindriyaṃ . . . pe . . .
+     Ekena khandhena ekanāyatanena ekāya dhātuyā saṃ-
+gahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītaṃ.
+     Dhātuk_I.95 Manindriyaṃ . . . pe . . .
+     Ekena khandhena ekenāyatanena sattahi dhātūhi saṃ-
+gahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Catūhi khandhehi ekādasahi āyatanehi ekādasahi dhā-
+tūhi asaṃgahītaṃ.
+     Dhātuk_I.96 Jivitindriyaṃ . . . pe . . .
+     Dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṃga-
+hītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Tīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi
+asaṃgahītaṃ.
+     Dhātuk_I.97-109 Sukhindriyaṃ . . . pe . . .
+     Dukkhindriyaṃ . . . pe . . .
+     Somanassindriyaṃ . . . pe . . .
+     Domanassindriyaṃ . . . pe . . .
+     Upekkhindriyaṃ . . . pe . . .
+     Saddhindriyaṃ . . . pe . . .
+     Viriyindriyaṃ . . . pe . . .
+     Satindriyaṃ . . . pe . . .
+     Samādhindriyaṃ . . . pe . . .
+     Paññindriyaṃ . . . pe . . .
+     Anaññātaṃ ñassāmitindriyaṃ . . . pe . . .
+     Aññindriyaṃ . . . pe . . .
+     Aññatāvindriyaṃ . . . pe . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahitaṃ.
+     Katīhi asaṃgahītaṃ?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītaṃ.
+     Dhātuk_I.110 Cakkhundriyañ ca sotindriyañ ca. . . . pe . . .
+
+
+[page 012]
+12                       DHĀTU KATHĀ PAKARAṆAṂ.                 [I.
+     Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.111 Cakkhundriyañ ca ghānindriyañ ca. . . .
+pe . . .
+     Dhātuk_I.112 Cakkhundriyañ ca jivhindriyañ ca. . . . pe . . .
+     Dhātuk_I.113 Cakkhundriyañ ca kāyindriyañ ca. . . . pe . . .
+     Dhātuk_I.114 Cakkhundriyañ ca itthindriyañ ca. . . . pe . . .
+     Dhātuk_I.115 Cakkhundriyañ ca purisindriyañ ca. . . .
+pe . . .
+     Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītaṃ?
+     Catūhi khandhehi dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.116 Cakkhundriyañ ca manindriyañ ca. . . .
+pe . . .
+     Dvīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Tīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.117 Cakkhundriyañ ca jīvitindriyañ ca. . . . pe . . .
+     Dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.118 Cakkhundriyañ ca sukhindriyañ ca. . . . pe . . .
+     Dhātuk_I.119 Cakkhundriyañ ca dukkhindriyañ ca. . . .
+pe . . .
+     Dhātuk_I.120 Cakkhundriyañ ca somanassindriyañ ca. . . .
+pe . . .
+     Dhātuk_I.121 Cakkhundriyañ ca domanassindriyañ ca. . . .
+pe . . .
+     Dhātuk_I.122 Cakkhundriyañ ca upekhindriyañ ca. . . .
+pe . . .
+
+
+[page 013]
+I.]                          SAṂGAHĀSAṂGAHO.                     13
+     Dhātuk_I.123 Cakkhundriyañ ca saddhindriyañ ca. . . .
+pe . . .
+     Dhātuk_I.124 Cakkhundriyañ ca viriyindriyañ ca. . . . pe . . .
+     Dhātuk_I.125 Cakkhundriyañ ca satindriyañ ca. . . . pe . . .
+     Dhātuk_I.126 Cakkhundriyañ ca samādhindriyañ ca. . . .
+pe . . .
+     Dhātuk_I.127 Cakkhundriyañ ca paññindriyañ ca. . . .
+pe . . .
+     Dhātuk_I.128 Cakkhundriyañ ca anaññātaṃ ñassāmitindriyañ
+ca. . . . pe . . .
+     Dhātuk_I.129 Cakkhundriyañ ca aññindriyañ ca. . . . pe . . .
+     Dhātuk_I.130 Cakkhundriyañ ca aññatāvindriyañ ca. . . .
+pe . . .
+     Dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.131 Bāvīsati indriyāni katīhi khandhehi katīhāyatanehi
+kātīhi dhātūhi saṃgahītā?
+     Bāvīsatindriyāni catuhi khandhehi sattahāyatanehi
+terasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena pañcahāyatanehi pañcahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.132 Avijjā . . . pe . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catūhi khandhehi ekādasahi āyatanehi sattarasahi
+dhātūhi asaṃgahītā.
+     Dhātuk_I.133 Avijjā-paccayā saṃkhārā . . . pe . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahīta.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.134 {Saṃkhāra-paccayā} viññāṇaṃ . . . pe . . .
+
+
+[page 014]
+14                        DHĀTU KATHĀ PAKARAṆAṂ.                   [I.
+     Ekena khandhena ekenāyatanena sattahi dhātūhi saṃ-
+gahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Catūhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi
+asaṃgahītaṃ
+     Dhātuk_I.135 Viññāṇa-paccayā nāmarūpaṃ . . . pe . . .
+     Catūhi khandhehi ekādasahi āyatanehi ekādasahi dhā-
+tūhi asaṃgahītaṃ
+     Katīhi asaṃgahītaṃ?
+     Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃ-
+gahītaṃ.
+     Dhātuk_I.136 Nāmarūpa-paccayā saḷāyatanaṃ . . . pe . . .
+     Dvīhī khandhehi chahāyatanehi dvādasahi dhātūhi
+saṃgahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Tīhi khandhehi chahāyatanehi chahi dhātūhi asaṃ-
+gahītaṃ.
+     Dhātuk_I.137 Saḷāyatana-paccayā phasso . . . pe . . .
+     Dhātuk_I.138 Phassa-paccayā vedanā . . . pe . . .
+     Dhātuk_I.139 Vedanā-paccayā taṇhā . . . pe . . .
+     Dhātuk_I.140 Taṇhā-paccayā upādānaṃ . . . pe . . .
+     Dhātuk_I.141 Upādāna-paccayā kamma-bhavo . . . pe . . .
+     Ekena khandhena ekenāyatanena ekāya dhātūya saṃ-
+gahīto.
+     Katīhi asaṃgahīto?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi
+dhātūhi asaṃgahīto.
+     Dhātuk_I.142-145 Uppatti-bhavo . . . pe . . . kāma-bhavo
+. . . pe . . . saññā-bhavo . . . pe . . . pañcavo-
+kāra-bhavo . . . pe . . .
+     Pañcahi khandhehi ekādasahi āyatanehi sattarasahi
+dhātūhi saṃgahīto.
+     Katīhi asaṃgahīto?
+     Na kehici khandhehi ekenāyatanena ekāya dhātuyā
+asaṃgahīto.
+     Dhātuk_I.146 Rūpa-bhavo . . . pe . . .
+     Pañcahi khandhehi pañcahāyatanehi aṭṭhahi dhātūhi
+saṃgahīto.
+
+
+[page 015]
+I.]                         SAṂGAHĀSAṂGAHO.                      15
+     Katīhi asaṃgahīto?
+     Na kehici khandhehi sattahāyatanehi dasahi dhātūhi
+asaṃgahīto.
+     Dhātuk_I.147-149 Arūpa-bhavo . . . pe . . . Nevasaññanā-
+saññabhavo . . . pe . . .
+     Catuvokāra-bhavo . . . pe . . . Catuhi khandhehi
+dvīhāyatanehi dvīhi dhātūhi saṃgahīto.
+     Katīhi asaṃgahīto?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahīto.
+     Dhātuk_I.150,151 Asañña-bhavo . . . pe . . . Ekavokāra-
+bhavo . . . pe . . .
+     Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃga-
+hīto.
+     Katīhi asaṃgahīto?
+     Catuhi khandhehi dasahāyatanehi soḷasahi dhātūhi
+asaṃgahīto.
+     Dhātuk_I.152-154 Jāti dvīhi khandhehi jarā dvīhi khandhehi mar-
+aṇaṃ dvīhi khandhehi ekena āyatanena ekāya dhātuyā
+saṃgahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Tīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi
+asaṃgahītaṃ.
+     Dhātuk_I.155-161 Soko . . . pe . . . paridevo. . . .
+pe . . . dukkhaṃ . . . pe . . . domanassaṃ. . . .
+pe . . . upāyāso . . . pe . . . satipaṭṭhānam. . . .
+pe . . . sammappadhānaṃ . . . pe . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahītaṃ
+     Katīhi asaṃgahītaṃ?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi
+dhātūhi asaṃgahītaṃ.
+     Dhātuk_I.162 Iddhipādo . . . pe . . .
+     Dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃ-
+gahīto.
+     Katīhi asaṃgahīto?
+     Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi
+asaṃgahīto.
+
+
+[page 016]
+16                      DHĀTU KATHĀ PAKARAṆAṂ.                   [I.
+     Dhātuk_I.163 Jhānaṃ dvīhi khandhehi ekenāyatanena ekāya
+dhātuyā saṃgahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Tīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi
+asaṃgahītaṃ.
+     Dhātuk_I.164-174 Appamaññā -- Pañcindriyāni -- Pañca balāni --
+Satta bojjhaṅgā -- Ariyo aṭṭhaṅgiko maggo -- Phasso --
+Vedanā -- Saññā -- Cetanā -- Adhimokkho -- Manasikāro. . . .
+pe . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahito.
+     Katīhi asaṃgahīto?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi
+dhātūhi asaṃgahīto.
+     Dhātuk_I.175 Cittam ekena khandhena ekenāyatanena sattahi
+dhātūhi saṃgahītaṃ.
+     Katīhi asaṃgahītaṃ?
+     Catūhi khandhehi ekādasahi āyatanehi ekādasahi dhā-
+tūhi asaṃgahītaṃ.
+     Dhātuk_I.176 Kusalā dhammā akusalādhammā katīhi khandhehi
+katīhi āyatanehi katīhi dhātūhi saṃgahītā?
+     Kusalā dhammā akusalā dhammā catuhi khandhehi
+dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.177 Avyākatā dhammā . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_I.178 Sukhāya vedanāya sampayuttā dhammā. . . .
+pe . . .
+     Dhātuk_I.179 Dukkhāya vedanāya sampayuttā dhammā. . . .
+pe . . .
+     Tīhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+
+
+[page 017]
+I.]                         SAṂGAHĀSAṂGAHO.                      17
+     Dvīhi khandhehi dasahāyatanehi paṇṇarasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.180 Adukkhamasukhāya vedanāya sampayuttā dhammā
+. . . pe . . .
+     Tīhi khandhehi dvīhi āyatanehi sattahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.181 Vipākadhammā . . . pe . . .
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.182 Vipākadhammadhammā . . . pe . . .
+     Dhātuk_I.183 Saṃkiliṭṭha-saṃkilesikā dhammā . . . pe . . .
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.184 Nevavipākanavipākadhamma-dhammā. . . . pe
+. . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi terasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi pañcahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.185 Upādinnupādāniyā dhammā . . . pe . . .
+     Pañcahi khandhehi ekādasahi āyatanehi sattarasahi
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi ekenāyatanena ekāya dhātuyā a-
+saṃgahītā.
+     Dhātuk_I.186 Anupādinnupādāniyā dhammā . . . pe . . .
+     Pañcahi khandhehi sattahāyatanehi aṭṭhahi dhātūhi
+saṃgahītā.
+
+
+[page 018]
+18                      DHĀTU KATHĀ PAKARAṆAṂ.                   [I.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi pañcahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.187 Anupādinnā anupādāniyā dhammā . . . pe . . .
+     Dhātuk_I.188 Asaṃkiliṭṭha-asaṃkilesikā dhammā . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvi-
+hāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.189 Asaṃkiliṭṭha-saṃkilesikā dhammā . . . pe . . .
+     Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.190 Savitakka-savicārā dhammā . . . pe . . .
+     Catūhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.191 Avitakkavicāramattā dhammā . . . pe . . .
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.192 Avitakka-avicārā dhammā . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvā-
+dasahi āyatanehi sattarasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+asaṃgahītā.
+     Dhātuk_I.193 Sukhasahagatā dhammā . . . pe . . .
+     Tīhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi paṇṇarasahi dhātūhi
+asaṃgahītā.
+
+
+[page 019]
+I.]                         SAṂGAHĀSAṂGAHO.                     19
+     Dhātuk_I.194 Upekha-sahagatā dhammā . . . pe . . .
+     Tīhi khandhehi dvīhāyatanehi sattahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.195 Dassanena pahātabbā {dhammā} --
+     Dhātuk_I.196 Bhāvanāya pahātabbā dhammā --
+     Dhātuk_I.197 Dassanena pahātabba-hetukā dhammā --
+     Dhātuk_I.198 Bhāvanāya pahātabba-hetukā dhammā --
+     Dhātuk_I.199 Ācaya-gāmino dhammā --
+     Dhātuk_I.200 Apacaya-gāmino dhammā --
+     Dhātuk_I.201 Sekkhā dhammā --
+     Dhātuk_I.202 Asekkhā dhammā --
+     Dhātuk_I.203 Mahaggatā dhammā . . . pe . . .
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.204 Neva dassanena na bhāvanāya pahātabbā dhammā --
+     Dhātuk_I.205 Neva dassanena na bhāvanāya pahātabbā-hetukā
+dhammā --
+     Dhātuk_I.206 Neva ācaya-gāmino na apacaya-gāmino dhammā --
+     Dhātuk_I.207 Neva sekkhā nāsekkha-dhammā . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.208 Parittā dhammā . . . pe . . .
+     Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhā-
+tūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_I.209 Appamāṇā dhammā . . . pe . . .
+     Asaṃkhatam khandhato ṭhapetvā catuhi khandhehi dvī-
+hāyatanehi dvīhi dhātūhi saṃgahītā.
+
+
+[page 020]
+20                      DHĀTU KATHĀ PAKARAṆAṂ.                   [I.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.210 Parittārammaṇā dhammā . . . pe . . .
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasāhayatanehi dasahi dhātūhi a-
+saṃgahītā.
+     Dhātuk_I.211-220 Mahaggatārammaṇā dhammā -- Appamāṇā-
+rammaṇā dhammā -- Hīnā dhammā -- Micchattaniyatā
+dhammā -- Sammattaniyatā dhammā -- Maggārammaṇā
+dhammā -- Maggahetukā dhammā -- Maggādhipatino dham-
+mā -- Atītārammaṇā dhammā -- Anāgatārammaṇā dhammā
+. . . pe . . .
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asa-
+ṃgahītā.
+     Dhātuk_I.221 Majjhimā dhammā . . . pe . . .
+     Pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_I.222 Aniyatā dhammā . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.223 Uppannā dhammā . . . pe . . .
+     Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+
+
+[page 021]
+I.]                         SAṂGAHĀSAṂGAHO.                      21
+     Dhātuk_I.224 Anuppannā dhammā . . . pe . . .
+     Pañcahi khandhehi sattāyatanehi aṭṭhahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi pañcahāyatanehi dasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.225 Upādinnā dhammā . . . pe . . .
+     Pañcahi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi ekenāyatanena ekāya dhātuyā
+asaṃgahītā.
+     Dhātuk_I.226-231 Atītā dhammā -- Anāgatā dhammā -- Paccup-
+pannā dhammā -- Ajjhattā dhammā -- Bahiddhā dhammā --
+Ajjhattabahiddhā dhammā . . . pe . . .
+     Pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhā-
+tūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_I.232 Bahiddhā dhammā . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.233,234 Atītārammaṇā dhammā -- Aṇāgatārammanā
+dhammā . . . pe . . .
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.235-238 Paccuppannārammaṇā dhammā -- Ajjhattāram-
+maṇā dhammā -- Bahiddhārammaṇā dhammā -- Ajjhattaba-
+hiddhārammaṇā dhammā . . . pe . . .
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+
+
+[page 022]
+22                      DHĀTU KATHĀ PAKARAṆAṂ.                   [I.
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.239 Sanidassana-sappaṭighā dhammā . . . pe . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.240 Anidassana-sappaṭighā dhammā . . . pe . . .
+     Ekena khandhena navahāyatanehi navahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi dvīhāyatanehi navahi dhātūhi asaṃga-
+hītā.
+     Dhātuk_I.241 Anidassana-appaṭighā dhammā . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi dasahāyatanehi dasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.242-244 Hetu dhammā -- Hetu ceva sahetukā dhammā --
+Hetu ceva hetu-sampayuttā dhammā . . . pe . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tuhi asaṃgahītā.
+     Dhātuk_I.245-248 Nahetudhammā -- Ahetukā dhammā -- Hetuvip-
+payuttā dhammā -- Nahetu-ahetukā dhammā. . . . pe
+. . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.249-253 Sahetukā dhammā -- Hetu-sampayuttā dhammā
+-- Hetukā ceva nahetudhammā -- Hetu-sampayuttā ceva na
+ca hetu-dhammā -- Na-hetu-sahetukā dhammā . . . pe . . .
+
+
+[page 023]
+I.]                         SAṂGAHĀSAṂGAHO.                      23
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.254,255 Sappaccayā dhammā -- Saṃkhatā dhammā. . . .
+pe . . .
+     Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_I.256 Appaccayā dhammā-asaṃkhatā dhammā. . . . pe
+. . . .
+     Na kehici khandhehi ekenāyatanena ekāya dhātuyā saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Pañcahi khandhehi ekādasahi āyatanehi sattarasahi
+dhātūhi asaṃgahītā.
+     Dhātuk_I.257 Sanidassanā dhammā . . . pe . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.258 Anidassanā dhammā . . . pe . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi ekā-
+dasahi āyatanehi sattarasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi ekenāyatanena ekāya dhātuyā asaṃ-
+gahītā.
+     Dhātuk_I.259 Sappaṭighā dhammā . . . pe . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.260 Appaṭighā dhammā . . . pe . . .
+
+
+[page 024]
+24                        DHĀTU KATHĀ PAKARAṆAṂ.                 [I.
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi dasahāyatanehi dasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.261 Rūpino dhammā . . . pe . . .
+     Ekena khandhena ekādasahi āyatanehi ekādasahi dhātūhi
+saṃgahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.262 Arūpino dhammā . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvī-
+hāyatanehi aṭṭhahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahi āyatanehi dasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.263 Lokiyā dhammā . . . pe . . . .
+     Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.264 Lokuttarā dhammā . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvī-
+hāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.265,266 Kenaci viññeyyā dhammā -- Kenaci naviññeyyā
+dhammā . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.267-267 Āsavā dhammā -- Asavā ceva sāsavā dhammā --
+Āsavā c'eva āsava-sampayuttā dhammā . . . pe . . .
+
+
+[page 025]
+I.]                         SAṂGAHĀSAṂGAHO.                      25
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.270,271 No āsavā dhammā -- Āsavā vippayuttā dhammā
+. . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.272-274 Sāsavā dhammā -- Sāsavā c'eva no ca āsavā
+dhammā -- Āsava-vippayuttā sāsavā dhammā. . . . pe
+. . . . .
+     Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhā-
+tūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.275,276 Anāsavā dhammā -- Āsava-vippayuttā anāsava-
+dhammā . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvīhā-
+yatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.277,278 Āsava-sampayuttā dhammā -- Āsava-sampa-
+yuttā c'eva no ca āsavā dhammā . . . pe . . . .
+     Catuhi khandhehi dvīhi āyatanehi dvīhī dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.279-285 Saññojanā dhammā -- Ganthā dhammā -- Oghā
+dhammā -- Yogā dhammā -- Nīvaraṇā dhammā -- Parāmāsā
+dhammā -- Parāmāsā c'eva parāmaṭṭhā dhammā. . . . pe . . .
+
+
+[page 026]
+26                        DHĀTU KATHĀ PAKARAṆAṂ.                 [I.
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.286,287 No parāmāsā dhammā -- Parāmāsa-vippayuttā
+dhammā.
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.288-290 Parāmaṭṭhā dhammā -- Parāmaṭṭhā c'eva no ca
+parāmāsā dhammā -- Parāmāsa-vippayuttā paramaṭṭhā
+dhammā. . . . pe . . . .
+     Pañcahi khandhehi dvādasahi āyatanehi {aṭṭhārasahi}
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.291,292 Parāmaṭṭhā dhammā -- Parāmāsa-vippayuttā
+aparāmaṭṭhā dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvīhā-
+yatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.293 Parāmāsa-sampayuttā dhammā. . . . pe . . . .
+     Catuhi khandhehi dvīhi āyatanehi dvīhidhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.294 Sārammaṇā dhammā. . . . pe . . . .
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+
+
+[page 027]
+I.]                         SAṂGAHĀSAṂGAHO.                      27
+     Dhātuk_I.295 Anārammaṇā dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena ekā-
+dasahi āyatanehi ekādasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.296 Cittā dhammā. . . . pe . . . .
+     Ekena khandhena ekenāyatanena sattahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatānehi ekādasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.297 No cittā dhamma . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi
+ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena ekenāyatanena sattahi dhātuhi asaṃ-
+gahītā.
+     Dhātuk_I.298-300 Cetasikā dhammā -- Citta-sampayuttā dhammā
+-- Citta-saṃsaṭṭhā dhammā. . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.301 Acetasikā dhammā . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā dvīhi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Tīhi khandhehi na kehici āyatanehi na kāhici dhātūhi
+asaṃgahītā.
+     Dhātuk_I.302,303 Citta-vippayuttā dhammā -- Citta-visaṃsaṭṭhā
+dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena
+ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+
+
+[page 028]
+28                        DHĀTU KATHĀ PAKARAṆAṂ.                 [I.
+     Dhātuk_I.304 Citta-samuṭṭhānā dhammā. . . . pe . . . .
+     Catuhi khandhehi chahāyatanehi chahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena chahāyatanehi dvādasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.305,306 No citta-samuṭṭhānā dhammā -- No citta-saha-
+bhuno dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā dvīhi khandhehi dvā-
+dasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Tīhi khandhehi na kehici āyatanehi na kāhici dhātūhi
+asaṃgahītā.
+     Dhātuk_I.307,308 Citta-sahabhuno dhammā -- Cittānuparivattino
+dhammā. . . . pe . . . .
+     Catuhi khandhehi ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.309,310 Citta-saṃsaṭṭha-samuṭṭhāna-sahabhuno dham-
+mā -- Citta-saṃsaṭṭha-samuṭṭhānānuparivattino dhammā
+. . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Dvīhī khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.311-313 No citta-saṃsaṭṭha-samuṭṭhānā-dhammā -- No
+citta-saṃsaṭṭha-samuṭṭhāna-sahabhuno dhammā. No citta-
+saṃsaṭṭha-samuṭṭhānānuparivattino dhammā . . . pe
+. . . .
+     Asaṃkhataṃ khandhato ṭhapetvā dvīhi khandhehi dvā-
+dasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Tīhī khandhehi na kehici āyatanehi na kāhici dhātūhi
+asaṃgahītā.
+     Dhātuk_I.314 Ajjhattikā dhammā. . . . pe . . .
+
+
+[page 029]
+I.]                         SAṂGAHĀSAṂGAHO.                      29
+     Dvīhi khandhehi chahāyatanehi dvādasahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Tīhi khandhehi chahāyatanehi chahi dhātūhi asaṃgahītā.
+     Dhātuk_I.315 Bāhirā dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi cha-
+hāyatanehi chahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena chahāyatanehi dvādasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.316 Upādā dhammā. . . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_I.317 No-upādā dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+tīhāyatanehi navahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi navahāyatanehi navahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.318 Upādinnā dhammā. . . . pe . . . .
+     Pañcahi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi ekenāyatanena ekāya dhātuyā
+asaṃgahītā.
+     Dhātuk_I.319 Anupādinnā dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+sattahāyatanehi aṭṭhahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi pañcahāyatanehi dasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.320-324 Upādānā dhammā -- Kilesā dhammā -- Kilesā
+c'eva saṃkilesikā dhammā -- Kilesā c'eva saṃkiliṭṭhā
+dhammā -- Kilesā c'eva kilesā-sampayuttā dhammā . . .
+pe . . .
+
+
+[page 030]
+30                        DHĀTU KATHĀ PAKARAṆAṂ.                 [I.
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.325-327 No kilesā dhammā -- Asaṃkiliṭṭhā dhammā --
+Kilesa-vippayuttā dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.328-330 Saṃkilesikā dhammā -- Saṃkilesikā c'eva no ca
+kilesā dhammā -- Kilesa-vippayuttā saṃkilesikā dhammā
+. . . . pe . . . .
+     Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.331,332 Asaṃkilesikā dhammā -- Kilesa-vippayuttā asaṃ-
+kilesikā dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvī-
+hāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.333-336 Saṃkiliṭṭhā dhammā -- Kilesa-sampayuttā dham-
+mā -- Saṃkiliṭṭhā c'eva no ca kilesā dhammā -- Kilesa-sam-
+payuttā c'eva no ca kilesā dhammā. . . . pe . . . .
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.337-340 Dassanena pahātabbā dhammā -- Bhāvānāya pa-
+hātabbā dhammā -- Dassanena pahātabbahetukā dhammā --
+Bhavānāya pahātabbahetukā dhammā . . . pe . . .
+
+
+[page 031]
+I.]                          SAṂGAHĀSAṂGAHO.                     31
+     Catuhi khandhehi dvihāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.341-344 Na dassanena pahātabbā dhammā -- Na bhāva-
+naya pahātabbā dhammā -- Na dassanena pahātabbahetukā
+dhammā -- Na bhāvanāya pahātabbahetukā dhammā . . .
+pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.345,346 Savitakkā dhammā -- Savicārā dhammā . . .
+pe . . . .
+     Catuhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.347,348 Avitakkā dhammā -- Avicārā dhammā . . .
+pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi sattarasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+asaṃgahītā.
+     Dhātuk_I.349,350 Sappītikā dhammā -- Pītisahagatā dhammā
+. . . . pe . . . .
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.351-353 Asappītikā dhammā -- Napītisahagatā dhammā
+-- Nasukhasahagatā dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+
+
+[page 032]
+32                        DHĀTU  KATHĀ  PAKKARAṆAṂ.                [I.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_I.354 Sukhasahagatā dhammā. . . . pe . . . .
+     Tīhi khandhehi dvihāyatanehi tīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi paṇṇarasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.355 Upekhāsahagatā dhammā. . . . pe . . . .
+     Tīhi khandhehi dvīhāyatanehi sattahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.356 Na-upekhāsahagatā dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi terasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi pañcahi dhā-
+tūhi asaṃgahītā.
+     Pañcahi dhātūhi asaṃgahītā.
+     Dhātuk_I.357-359 Kāmāvacarā dhammā -- Pariyāpannā dhammā --
+Sa-uttarā dhammā. . . . pe . . . .
+     Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_I.360-362 Na kāmāvacarā dhammā -- Apariyāpannā
+dhammā -- Anuttarā dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi
+dvihāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dhātuk_I.363-367 Rūpāvacarā dhammā -- Arūpāvacarā dhammā --
+Nīyānikā dhammā -- Niyatā dhammā -- Saraṇā dhammā
+. . . . pe . . .
+
+
+[page 033]
+I.]                          SAṂGAHĀSAṂGAHO.                     33
+     Catuhi khandhehi dvihāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Kātīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_I.368-372 Na rūpāvacarā dhammā -- Na arūpāvacarā
+dhammā -- Aniyyānikā dhammā -- Aniyatā dhammā -- Asa-
+raṇā dhamma. . . . pe . . . .
+     Katīhi khandhehi katīhi āyatanehi katīhi dhātūhi
+asaṃgahītā?
+     Asaraṇā dhammā asaṃkhataṃ khandhato ṭhapetvā
+pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi
+dhātūhi saṃgahītā.
+     Kātīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+                     Saṃgahāsaṃgaha-pada-niddeso.
+
+
+[page 034]
+                                34
+                   II.-- SAṂGAHĪTENA  ASAṂGAHĪTAṂ.
+     Dhātuk_II.1 Cakkhāyatanena ye dhammā -- Phoṭṭhabbāyatanena
+ye dhammā -- Cakkhu-dhātuyā ye dhammā -- Phoṭṭhabba-
+dhātuyā ye dhammā khandhasaṃgahena saṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga-
+hītā te dhammā katīhi khandhehi katīhāyatanehi katīhi
+dhātūhi asaṃgahītā?
+     Te dhammā catūhi khandhehi dvihāyatanehi aṭṭhahi
+dhātūhi asaṃgahītā.
+     Dhātuk_II.2 Cakkhu-viññāṇa-dhātuyā ye dhammā -- Sota-viññāṇa-
+dhātuyā ye dhammā -- Ghāna-viññāṇa-dhātuyā ye dhammā
+-- Jivhā-viññāṇa-dhātuyā ye dhammā -- Kāya-viññāṇa-
+dhātuyā ye dhammā -- Mano-dhātuyā ye dhammā -- Mano-
+viññāṇa-dhātuyā ye dhammā khandhasaṃgahena saṃga-
+hītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena asaṃ-
+gahītā, te dhammā. . . . pe . . . .
+     Catuhi khandhehi ekādasahi āyatanehi dvādasahi
+dhātūhi asaṃgahītā.
+     Dhātuk_II.3 Cakkhundriyena ye dhammā -- Sotindrivena ye
+dhammā -- Ghānindriyena ye dhammā -- Jivhindriyena ye
+dhammā -- Kāyindriyena ye dhammā -- Itthindriyena ye
+dhammā -- Purisindriyena ye dhammā khandhasaṃgahena
+saṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena
+asaṃgahītā te dhammā. . . . pe . . . .
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃga-
+hītā.
+     Dhātuk_II.4 Asaññabhavena ye dhammā -- Ekavokārabhavena ye
+dhammā khandhasaṃgahena saṃgahītā āyatanasaṃgahena
+asaṃgahītā dhātusaṃgahena asaṃgahītā te dhammā . . .
+pe . . .
+
+
+[page 035]
+II.]                     SAṂGAHĪTENA ASAṂGAHĪTAṂ.                35
+     Catūhi khandhehi tīhāyatanehi navahi dhātūhi asaṃga-
+hītā.
+     Dhātuk_II.5 Paridevena ye dhammā -- Sanidassana-sappaṭighehi
+dhammehi ye dhammā khandhāsaṃgahena saṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga-
+hītā te dhammā. . . . pe . . . .
+     Catuhi khandhehi dvihāyatanehi aṭṭhahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_II.6 Anidassana-sappaṭighehi dhammehi ye dhammā
+khandhasaṃgahena saṃgahītā āyatana-saṃgahena
+asaṃgahītā dhātusaṃgahena asaṃgahītā te dhammā
+. . . . pe . . . .
+     Catuhi khandhehi dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_II.7 Sanidassanehi dhammehi ye dhammā khandhasaṃga-
+hena saṃgahītā āyatanasaṃgahena asaṃgahītā dhātu-
+saṃgahena asaṃgahītā te dhammā. . . . pe . . . .
+     Catuhi khandhehi dvīhi āyatanehi aṭṭhahi dhātūhi
+asaṃgahītā.
+     Dhātuk_II.8 Sappaṭighehi dhammehi ye dhammā -- Upādehi dhammehi
+ye dhammā khandhasaṃgahena saṃgahītā āyatanasaṃga-
+hena asaṃgahītā dhātusaṃgahena asaṃgahītā te dhammā
+katīhi khandhehi katīhi āyatanehi katīhi dhātūhi asaṃga-
+hītā?
+     Te dhammā catuhi khandhehi ekādasahi āyatanehi
+sattarasahi dhātūhi asaṃgahītā.
+     Dasāyatanā sattarasadhātuyo
+     Sattindriyā asañña-bhavo ekavokāra-bhavo
+     Paridevo sanidassana-sappaṭighaṃ
+     Anidassanaṃ punar eva sappaṭighaṃ upādā ti.
+             Saṃgahītena asaṃgahīta-pada-niddeso.
+
+
+[page 036]
+                                36
+                 III.-- ASAṂGAHĪTENA SAṂGAHĪTĀṂ.
+     Dhātuk_III.1 Vedanākkhandhena ye dhammā -- Saññākkhandhena ye
+dhammā -- Saṃkhārakkhandhena ye dhammā -- Samuda-
+yasaccena ye dhammā -- Maggasaccena ye dhammā khan-
+dhasaṃgahena asaṃgahītā āyātanasaṃgahena saṃgahītā
+dhātusaṃgahena saṃgahītā te dhammā katīhi khandhehi
+katīhi āyatanehi katīhi dhātūhi saṃgahītā?
+     Te dhammā asaṃkhataṃ khandhato ṭhapetvā tīhi khan-
+dhehi ekenāyatanena ekāya dhātuyā saṃgahītā.
+     Dhātuk_III.2 Nirodha-saccena ye dhammā khandhasaṃgahena
+asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃga-
+hena saṃgahītā te dhammā. . . . pe . . . .
+     Catuhi khandhehi ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Dhātuk_III.3 Jīvitindriyena ye dhammā khandhasaṃgahena asaṃga-
+hītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena saṃga-
+hītā te dhammā. . . . pe . . . .
+     Dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Dhātuk_III.4 Itthindriyena ye dhammā -- Purisindriyena ye
+dhamma -- Sukhindriyena ye dhammā -- Dukkhindriyena ye
+dhammā -- Somanassindriyena ye dhammā -- Domanassin-
+driyena ye dhammā -- Upekhindriyena ye dhammā --
+Saddhindriyena ye dhammā -- Viriyindriyena ye dhammā --
+Satindriyena ye dhammā -- Samādhindriyena ye dhammā --
+Paññindriyena ye dhammā -- Anaññātaṃ ñassāmitindri-
+yena ye dhammā -- Aññindriyena ye dhammā -- Aññatāvin-
+driyena ye dhammā -- Avijjāya ye dhammā -- Avijjā-paccayā
+saṃkhārena ye dhammā -- Saḷāyatana-paccayā phassena ye
+dhammā -- Phassa-paccayā vedanāya ye dhammā -- Vedanā-
+
+
+[page 037]
+III.]                 ASAṂGAHĪTENA SAṂGAHĪTAṂ.                  37
+paccayā taṇhāya ye dhammā -- Taṇhā-paccayā upādānena
+ye dhammā -- Kammabhavena ye dhammā khandhasaṃga-
+hena asaṃgahītā āyatanasaṃgahena saṃgahītā dhātu-
+saṃgahena saṃgahītā te dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato {ṭhapetvā} tīhi khandhehi ekenā-
+yatanena ekāva dhātuyā saṃgahītā.
+     Dhātuk_III.5 Jātiyā ye dhammā -- Jarāya ye dhammā -- Maraṇena
+ye dhammā -- Jhānena ye dhammā khandhasaṃgahena
+asaṃgahītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena
+saṃgahītā te dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā dvīhi khandhehi
+ekenāyatanena ekāya dhātuyā saṃgahītā.
+     Dhātuk_III.6 Sokena ye dhammā -- Dukkhena ye dhammā -- Doma-
+nassena ye dhammā -- Upāyāsena ye dhammā -- Satipaṭ-
+ṭhānena ye dhammā -- Sammappadhānena ye dhammā --
+Appamaññāya ye dhammā -- Pañcahi indriyehi ye dhammā
+-- Pañcahi balehi ye dhammā -- Sattahi bojjhaṃgehi ye
+dhammā -- Ariyena aṭṭhaṃgikena maggena ye dhammā --
+Phassena ye dhammā -- Vedanāya ye dhammā -- Saññāya
+ye dhammā -- Cetanāya ye dhammā -- Adhimokkhena ye
+dhammā -- Manasikārena ye dhammā -- Hetuhi dhammehi
+ye dhammā -- Hetu-c'eva-sahetukehi dhammehi ye dhammā
+-- Sahetu-c'eva-hetu-sampayuttehi dhammehi ye dhammā
+khandhasaṃgahena asaṃgahītā āyatanasaṃgahena saṃga-
+hītā dhātusaṃgahena saṃgahītā te dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenā-
+yatanena ekāya dhātuyā saṃgahītā.
+     Dhātuk_III.7 Appaccayehi dhammehi ye dhammā -- Asaṃkhatehi
+dhammehi ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena saṃgahītā dhātusaṃgahena saṃgahītā
+te dhammā. . . . pe . . . .
+     Catuhi khandhehi ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Dhātuk_III.8 Āsavehi dhammehi ye dhammā -- Āsavā-ceva-sāsavehi
+dhammehi ye dhammā -- Āsavā-ceva-āsava-sampayuttehi
+dhammehi ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena saṃgahītā dhātusaṃgahena saṃgahītā
+te dhammā. . . . pe . . .
+
+
+[page 038]
+38                        DHĀTU KATHĀ PAKARAṆAṂ.                  [III.
+     Asaṃkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenā-
+yatanena ekāya dhātuyā saṃgahītā.
+     Dhātuk_III.9 Saññojanehi dhammehi ye dhammā -- Ganthehi --
+Oghehi -- Yogehi -- Nīvaraṇehi -- Parāmāsehi dhammehi ye
+dhammā -- Parāmāsā c'eva parāmaṭṭhehi dhammehi ye
+dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃga-
+hena asaṃgahītā dhātusaṃgahena saṃgahītā te dhammā
+. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenā-
+yatanena ekāya dhātuyā saṃgahītā.
+     Dhātuk_III.10 Cetasikehi dhammehi ye dhammā -- Citta-sampayut-
+tehi dhammehi ye dhammā -- Citta-saṃsaṭṭhehi dhammehi
+ye dhammā -- Citta-saṃsaṭṭha-samuṭṭhānehi dhammehi ye
+dhammā -- Citta-saṃsaṭṭha-samuṭṭhāna-sahabhūhi dham-
+mehi ye dhammā -- Citta-saṃsaṭṭha-samuṭṭhānānupari-
+vattīhi dhammehi ye dhammā khandhasaṃgahena asaṃga-
+hītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena saṃga-
+hītā te dhammā. . . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena
+ekenāyatanena ekāya dhātuyā saṃgahītā.
+     Dhātuk_III.11 Citta-sahabhūhi dhammehi ye dhammā -- Cittānu-
+parivattīhi dhammehi ye dhammā khandhasaṃgahena
+asaṃgahītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena
+saṃgahītā te dhammā. . . . pe . . . .
+     Na kehici khandhehi ekenāyatanena ekāya dhātuyā
+saṃgahītā.
+     Dhātuk_III.12 Upādānehi dhammehi ye dhammā -- Kilesehi dham-
+mehi ye dhammā -- Kilesā c'eva saṃkilesehi dhammehi ye
+dhammā -- Kilesā c'eva saṃkiliṭṭhehi dhammehi ye dham-
+mā -- Kilesā c'eva kilesa-sampayuttehi dhammehi ye dham-
+mā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena
+saṃgahītā dhātusaṃgahena saṃgahītā te dhammā. Katīhi
+khandhehi katīhāyatanehi katīhi dhātūhi saṃgahītā?
+     Te dhammā asaṃkhataṃ khandhato ṭhapetvā tīhi
+khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā.
+               Asaṃgahītena saṃgahīta-pada-niddeso.
+
+[page 039]
+                                39
+                 IV.-- SAṂGAHĪTENA  SAṂGAHĪTAṂ.
+     Dhātuk_IV.1 Samudaya-saccena ye dhammā -- Magga-saccena ye
+dhammā khandhasaṃgahena saṃgahītā āyatanasaṃgahena
+saṃgahītā dhātusaṃgahena saṃgahītā tehi dhammehi ye
+dhammā khandhasaṃgahena saṃgahītā āyatana-saṃga-
+hena saṃgahītā dhātusaṃgahena saṃgahītā te dhammā
+katīhi khandhehi katīhi āyatanehi katīhi dhātūhi saṃga-
+hītā?
+     Te dhammā ekena khandhena ekenāyatanena ekāya
+dhātuyā saṃgahītā.
+     Dhātuk_IV.2 Itthindriyena ye dhammā -- Purisindriyena ye dham-
+mā -- Sukhindriyena ye dhammā -- Dukkhindriyena ye
+dhammā -- Somanassindriyena ye dhammā-Domanassind-
+riyena ye dhammā -- Upekhindriyena ye dhammā -- Sad-
+dhindriyena ye dhammā -- Viriyindriyena ye dhammā --
+Satindriyena ye dhammā -- Samādhindriyena ye dhammā --
+Paññindriyena ye dhammā -- Anaññātaṃ ñassāmitindriyena
+ye dhammā -- Aññindriyena ye dhammā -- Aññatāvindriyena
+ye dhammā -- Avijjāya ye dhammā -- Avijjā-paccayā saṃ-
+khārena ye dhammā -- Saḷāyatana-paccayā phassena ye
+dhammā -- Vedanā-paccayā taṇhāya ye dhammā -- Taṇhā-
+paccayā upādānena ye dhammā -- Kamma-bhavena ye
+dhammā -- Sokena ye dhammā -- Paridevena ye dhammā --
+Dukkhena ye dhammā -- Domanassena ye dhammā -- Upāyā-
+sena ye dhammā -- Satipaṭṭhānena ye dhammā -- Sammap-
+padhānena ye dhammā- Appamaññāya ye dhammā -- Pañ-
+cahi indriyehi ye dhammā -- Pañcahi balehi ye dhammā --
+Sattahi bojjhaṃgehi ye dhammā -- Ariyena atthaṃgikena
+maggena ye dhammā -- Phassena ya dhammā -- Cetanāya ye
+dhammā -- Adhimokkhena ye dhammā -- Manasikārena ye
+
+
+[page 040]
+40                        DHĀTU KATHĀ PAKARAṆAṂ.                   [IV.
+dhammā -- Hetuhi dhammehi ye dhammā -- Hetu c'eva
+sahetukehi dhammehi ye dhammā -- Hetu c'eva hetu-
+sampayuttehi dhammehi ye dhammā -- Āsavehi -- Saññoja-
+nehi -- Ganthehi -- Oghehi -- Yogehi -- Nīvaraṇehi -- Parāmā-
+sehi -- Upādānehi dhammehi ye dhammā -- Kilesā c'eva
+saṃkilesikehi dhammehi ye dhammā -- Kilesā c'eva kilesa-
+sampayuttehi dhammehi ye dhammā khandhasaṃgahena
+saṃgahītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena
+saṃgahītā tehi dhammehi ye dhammā khandhasaṃgahena
+. . . . pe . . . saṃgahītā te dhammā. . . . pe . . . .
+     Te dhammā ekena khandhena ekenāyatanena ekāya
+dhātuyā saṃgahītā.
+     Dve saccā paṇṇarasindriyāni ekādasa paṭiccasamuppādā
+uddhaṃ puna ekādasa gocchakapadam ettha tiṃsavidhan
+ti.
+                Saṃgahītena saṃgahītā-pada-niddeso.
+
+
+[page 041]
+                                41
+                V.-- ASAṂGAHĪTENA  ASAṂGAHĪTAṂ.
+     Dhātuk_V.1 Rūpakkhandhena ye dhammā khandhasaṃgahena
+asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃga-
+hena asaṃgahītā tehi dhammehi ye dhammā khandha
+saṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā
+dhātusaṃgahena asaṃgahītā te dhammā katīhi khandhehi
+kathīhi āyatanehi katīhi dhātūhi asaṃgahītā?
+     Te dhammā ekena khandhena ekenāyatanena sattahi
+dhātūhi asaṃgahītā.
+     Dhātuk_V.2 Vedanākhandhena ye dhammā -- Saññākhandhena ye
+dhammā -- Saṃkhārakkhandhena ye dhammā khandhasaṃ-
+gahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātu-
+saṃgahena asaṃgahītā tehi dhammehi ye dhammā . . .
+pe . . . te dhammā. . . . pe . . . .
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.3 Viññāṇakkhandhena ye dhammā -- Manāyatanena ye
+dhammā -- - Cakkhu-viññāṇa-dhātuyā ye dhammā -- Mano-
+viññāṇa-dhātuyā ye dhammā -- Manindriyena ye dhammā
+khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃ-
+gahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye
+dhammā. . . . pe . . . te dhammā. . . . pe . . . .
+     Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.4 Cakkhāyatanena ye dhammā -- Phoṭṭhabbāyatanena
+ye dhammā -- Cakkhu-dhātuyā ye dhammā -- - Phoṭṭhabba-
+dhātuyā ye dhammā -- Khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga-
+hītā tehi dhammehi ye dhammā. . . . pe . . . te
+dhammā. . . . pe . . .
+
+
+[page 042]
+42                      DHĀTU KATHĀ PAKARAṆAṂ.                   [V.
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.5 Dhammāyatanena ye dhammā -- Dhamma-dhātuyā ye
+dhammā -- Itthindriyena ye dhammā -- Purisindriyena ye
+dhammā -- Jīvitindriyena ye dhammā khandhasaṃgahena
+asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃga-
+hena asaṃgahītā tehi dhammehi ye dhammā. . . . pe . . .
+te dhammā. . . . pe . . . .
+     Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.6 Samudayasaccena ye dhammā -- Maggasaccena ye
+dhammā -- Nirodhasaccena ye dhammā khandhasaṃgahena
+asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena
+asaṃgahītā tehi dhammehi ye dhammā. . . . pe . . .
+te dhammā. . . . pe . . . .
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.7 Cakkundriyena ye dhammā -- - Kāyindriyena ye dhammā
+khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃ
+gahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye
+dhammā. . . . pe . . . te dhammā. . . . pe . . . .
+     Catuhi khandhehi dvīhāyatanehi aṭṭhārasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_V.8 Manindriyena ye dhammā khandhasaṃgahena asaṃ-
+gahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena
+asaṃgahītā tehi dhammehi ye dhammā. . . . pe . . .
+te dhammā. . . . pe . . . .
+     Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.9 Sukhindriyena ye dhammā -- Dukkhindriyena ye dham-
+mā -- Somanassindriyena ye dhammā -- Domanassindriyena
+ye dhammā -- Upekkhindriyena ye dhammā -- - Saddhindri-
+yena ye dhammā -- Viriyindriyena ye dhammā -- - Satindri-
+yena ye dhammā -- Samādhindriyena ye dhammā -- - Paññin-
+driyena ye dhammā -- Anaññātaṃ ñassāmitindriyena ye
+dhammā -- - Aññindriyena ye dhammā -- Aññatāvindriyena ye
+dhammā -- Avijjāya ye dhammā -- Avijjā-paccayā saṃkhā-
+rena ye dhammā khandhasaṃgahena asaṃgahītā āyatana-
+
+
+[page 043]
+V.]                     ASAṂGAHĪTENA ASAṂGAHĪTAṂ.               43
+saṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi
+dhammehi ye dhammā. . . . pe . . . te dhammā . . .
+pe . . . .
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.10 Saṃkhāra-paccayā viññāṇena ye dhammā khandha-
+saṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā
+dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā
+. . . . pe . . . te dhammā. . . . pe . . . .
+     Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.11 Viññāṇa-paccayā nāmarūpena ye dhammā khandha-
+saṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā
+dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā
+. . . . pe . . . te dhammā. . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā asaṃga-
+hītā.
+     Dhātuk_V.12 Saḷāyatana-paccayā phassena ye dhammā -- Phassa-
+paccayā vedanāya ye dhammā -- Vedanā-paccayā taṇhayā
+ye dhammā -- Taṇhā-paccayā upādānena ye {dhammā} --
+Kamma-bhavena ye dhammā khandhasaṃgahena asaṃ-
+gahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena
+asaṃgahītā tehi dhammehi ye dhammā. . . . pe . . .
+te dhammā. . . . pe . . . .
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.13 Arūpa-bhavena ye dhammā -- Nevasaññāsaññā-bha-
+vena ye dhammā -- Catu-vokāra-bhavena ye dhammā --
+Iddhi-pādena ye dhammā khandhasaṃgahena asaṃga-
+hītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃ-
+gahītā tehi dhammehi ye dhammā. . . . pe . . . te
+dhammā. . . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.14 Asañña-bhavena ye dhammā -- Ekavokāra-bhavena
+ye dhammā -- Jātiyā ye dhammā -- Jarāya ye dhammā --
+Maraṇena ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga-
+
+
+[page 044]
+44                      DHĀTU KATHĀ PAKARAṆAṂ                   [V.
+hīta tehi dhammehi ye dhammā. . . . pe . . . te
+dhammā. . . . pe . . . .
+     Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.15 Paridevena ye dhammā khandhasaṃgahena asaṃga-
+hītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena
+asaṃgahītā tehi dhammehi ye dhammā. . . . pe . . .
+te dhammā. . . . pe . . . .
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.16 Sokena ye dhammā -- Dukkhena ye dhammā -- Doma-
+nassena ye dhammā -- Upāyāsena ye dhammā -- Satipaṭṭhā-
+nena ye dhammā -- Sammappadhānena ye dhammā --
+Jhānena ye dhammā -- Appamaññāya ye dhammā -- Pañcahi
+indriyehi ye dhammā -- Pañcahi balehi ye dhammā -- Sattahi
+bhojjhaṃgehi ye dhammā -- Ariyena aṭṭhaṃgikena maggena
+ye dhammā -- Phassena ye dhammā -- Vedanāya ye dham-
+mā -- Saññāya ye dhammā -- Cetanāya ye dhammā -- Adhi-
+mokkhena ye dhammā -- Manasikārena ye dhammā -- Khand-
+hasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā
+dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā
+. . . . pe . . . te dhammā. . . . pe . . . .
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_V.17 Cittena ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃ-
+gahītā tehi dhammehi ye dhammā. . . . pe . . . te
+dhammā. . . . pe . . . .
+     Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_V.18 Kusalehi dhammehi ye dhammā -- Akusalehi dham-
+mehi ye dhammā -- Sukhāya vedanāya sampayuttehi dham-
+mehi ye dhammā -- Dukkhāya vedanāya sampayuttehi
+dhammehi ye dhammā -- Adukkhamasukhāya vedanāya
+sampayuttehi dhammehi ye dhammā -- Vipākehi dhammehi
+ye dhammā -- Vipākadhammadhammehi ye dhammā --
+Anupādinna-anupādaniyehi dhammehi ye dhammā -- Saṃ-
+kiliṭṭha-saṃkilesikehi dhammehi ye dhammā -- Asaṃkiliṭ-
+
+
+[page 045]
+V.]                  ASAṂGAHĪTENA ASAṂGAHĪTAṂ.                  45
+ṭha-asaṃkilesikehi dhammehi ye dhammā -- Savitakka-
+savicārehi dhammehi ye dhammā -- Avitakka-vicāramattehi
+dhammehi ye dhammā -- Pīti-sahagatehi dhammehi ye
+dhammā -- Sukha-sahagatehi dhammehi ye dhammā --
+Upekhā-sahagatehi dhammehi ye dhamma -- Dassanena
+pahātabbehi dhammehi ye dhammā -- Bhāvanāya pahātab-
+behi dhammehi ye dhammā -- Dassanena pahātabba-hetu-
+kehi dhammehi ye dhammā -- Bhāvanāya pahātabba-
+hetukehi dhammehi ye dhammā -- Ācayagāmihi dhammehi
+ye dhammā -- Apacayagāmihi dhammehi ye dhammā --
+Sekkhehi dhammehi ye dhammā -- Asekkhehi dhammehi ye
+dhammā -- Mahaggatehi dhammehi ye dhammā -- Appamā-
+ṇehi dhammehi ye dhammā -- Parittārammaṇehi dhammehi
+ye dhammā -- Mahaggatārammaṇehi dhammehi ye dhammā
+-- Appamāṇārammaṇehi dhammehi ye dhammā -- Hīnehi
+dhammehi ye dhammā -- Paṇītehi dhammehi ye dhammā --
+Micchatta-niyatehi dhammehi ye dhammā -- Sammatta-
+niyatehi dhammehi ye dhammā -- Maggārammaṇehi dham-
+mehi ye dhammā -- Maggahetukehi dhammehi ye dhammā
+-- Maggādhipatīhi dhammehi ye dhammā -- Atītārammaṇehi
+dhammehi ye dhammā -- Anāgatārammaṇehi dhammehi ye
+dhammā -- Paccuppannārammaṇehi dhammehi ye dhammā
+-- Ajjhattārammaṇehi dhammehi ye dhammā -- Bahiddhā-
+rammaṇehi dhammehi ye dhammā -- Ajjhattabahiddhāram-
+maṇehi dhammehi ye dhammā khandhasaṃgahena asaṃ-
+gahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena
+asaṃgahītā tehi dhammehi ye dhammā. . . . pe . . .
+te dhammā. . . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_V.19 Sanidassana-sappaṭighehi dhammehi ye dhammā --
+Anidassana-sappaṭighehi dhammehi ye dhammā khan-
+dhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā
+dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā
+. . . . pe . . . te dhammā. . . . pe . . . .
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.20 Hetuhi dhammehi ye dhammā -- Hetu c'eva sahetukehi
+
+
+[page 046]
+46                      DHĀTU KATHĀ PAKARAṆAṂ.                   [V.
+dhammehi ye dhammā -- Hetu c'eva hetu-sampayuttehi
+dhammehi ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga-
+hītā tehi dhammehi ye dhammā . . . pe . . . te dham-
+mā . . . pe . . . .
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.21 Sahetukehi dhammehi ye dhammā -- Hetu-{sampayut-
+tehi} dhammehi ye dhammā -- Sahetukā c'eva na ca hetuhi
+dhammehi ye dhammā -- Hetu-{sampayuttā} ceva na ca hetuhi
+dhammehi ye dhammā -- Nahetu-sahetukehi dhammehi ye
+dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃga-
+hena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dham-
+mehi ye dhammā . . . pe . . . te dhammā. . . .
+pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.22 Appaccayehi dhammehi ye dhammā -- Asaṃkhatehi
+dhammehi ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃ-
+gahītā tehi dhammehi ye dhammā . . . pe . . . te
+dhammā . . . pe . . . .
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi
+dhātūhi asaṃgahītā.
+     Dhātuk_V.23 Sanidassanehi dhammehi ye dhammā -- Sappaṭighehi
+dhammehi ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga-
+hītā tehi dhammehi ye dhammā . . . pe . . . te
+dhammā . . . pe . . . .
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.24 Rūpīhi dhammehi ye dhammā khandhasaṃgahena
+asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃ-
+gahena asaṃgahītā tehi dhammehi ye dhammā. . . .
+pe . . . te dhammā . . . pe . . . .
+     Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.25 Arūpīhi dhammehi ye dhammā -- Lokuttarehi dham-
+
+
+[page 047]
+V.]                  ASAṂGAHĪTENA ASAṂGAHĪTAṂ.                  47
+mehi ye dhammā khandhasaṃgahena asaṃgahītā āyata-
+nasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā
+tehi dhammehi ye dhammā . . . pe . . . te dhammā
+. . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_V.26 Āsavehi dhammehi ye dhammā -- Āsavā c'eva sāsavehi
+dhammehi ye dhammā -- Āsavā c'eva āsava-sampayuttehi
+dhammehi ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga-
+hītā tehi dhammehi ye dhammā . . . pe . . . te
+dhammā . . . pe . . . .
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi
+dhātūhi asaṃgahītā.
+     Dhātuk_V.27 Anāsavehi dhammehi ye dhammā -- Āsava-sampa-
+yuttehi dhammehi ye dhammā -- Āsava-sampayuttā c'eva no
+ca āsavehi dhammehi ye dhammā -- Āsava-vippayuttā
+anāsavehi dhammehi ye dhammā khandhasaṃgahena
+asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃga-
+hena asaṃgahītā tehi dhammehi ye dhammā. . . . pe
+. . . . te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.28 Saṃyojanehi dhammehi ye dhammā -- Ganthehi
+dhammehi ye dhammā -- Oghehi dhammehi ye dhammā --
+Yogehi dhammehi ye dhammā -- Nīvaraṇehi dhammehi ye
+dhammā -- Parāmāsehi dhammehi ye dhammā -- Parāmāsā
+c'eva parāmaṭṭhehi dhammehi ye dhammā khandhasaṃ-
+gahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātu-
+saṃgahena asaṃgahītā tehi dhammehi ye dhammā. . . .
+pe . . . te dhammā . . . pe . . . .
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.29 Aparāmaṭṭhehi dhammehi ye dhammā -- Parāmāsa-
+sampayuttehi dhammehi ye dhammā -- Parāmāsa-vippa-
+yuttehi aparāmaṭṭehi dhammehi ye dhammā -- Sāramma-
+ṇehi dhammehi ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga-
+
+
+[page 048]
+48                      DHĀTU KATHĀ PAKARAṆAṂ.                   [V.
+hītā tehi dhammehi ye dhammā . . . pe . . . te dham-
+mā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.30 Anārammaṇehi dhammehi ye dhammā -- Nocittehi
+dhammehi ye dhammā -- Citta-vippayuttehi dhammehi ye
+dhammā -- {Citta-visaṃsaṭṭhehi} dhammehi ye dhammā --
+Citta-samuṭṭhānehi dhammehi ye dhammā -- Citta-saha-
+bhūhi dhammehi ye dhammā -- Cittānuparivattīhi dhammehi
+ye dhammā -- Bāhirehi dhammehi ye dhammā -- Upādānehi
+dhammehi ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga-
+hītā tehi dhammehi ye dhammā . . . pe . . . te dham-
+mā . . . pe . . . .
+     Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_V.31 Cittehi dhammehi ye dhammā khandhasaṃgahena
+asaṃgahītā āyatanasaṃgahena asaṃgahītā {dhātusaṃga-
+hena} asaṃgahītā tehi dhammehi ye dhammā. . . . pe
+. . . . te dhammā . . . pe . . . .
+     Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.32 Cetasikehi dhammehi ye dhammā -- Citta-sampayut-
+tehi dhammehi ye dhammā -- Citta-saṃsaṭṭhehi dhammehi
+ye dhammā -- Citta saṃsaṭṭha-samuṭṭhānehi dhammehi ye
+dhammā -- Citta-saṃsaṭṭha-samuṭṭhāna-sahabhūhi dham-
+mehi ye dhammā -- Citta-saṃsaṭṭha-samuṭṭhānānuparivat-
+tīhi dhammehi ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga-
+hītā tehi dhammehi ye dhammā . . . pe . . . te dham-
+mā . . . pe . . . .
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.33 Ajjhattikehi dhammehi ye dhammā khandhasaṃga-
+hena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusa-
+ṃgahena asaṃgahītā tehi dhammehi ye dhammā. . . . pe
+. . . . te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā asaṃgahītā.
+
+
+[page 049]
+V.]                  ASAṂGAHĪTENA ASAṂGAHĪTAṂ.                  49
+     Upādānehi dhammehi ye dhammā.
+     Dhātuk_V.34 Kilesehi dhammehi ye dhammā -- Kilesā c'eva saṃki-
+lesikehi dhammehi ye dhammā -- Kilesā c'eva saṃkiliṭṭhehi
+dhammehi ye dhammā -- Kilesā c'eva kilesa-sampayuttehi
+dhammehi ye dhammā khandhasaṃgahena asaṃgahītā
+āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga-
+hītā tehi dhammehi ye dhammā . . . pe . . . te
+dhammā . . . pe . . . .
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_V.35 Asaṃkilesikehi dhammehi ye dhammā. . . .
+Asaṃkiliṭṭhehi dhammehi ye dhammā. . . .
+Kilesa-sampayuttehi dhammehi ye dhammā. . . .
+Saṃkiliṭṭhā c'eva no ca kilesehi dhammehi ye dhammā. . . .
+Kilesa-sampayuttā c'eva no ca kilesehi dhammehi ye
+     dhammā. . . .
+Kilesa-vippayuttā asaṃkilesikehi dhammehi ye dhammā. . . .
+Dassanena pahātabbehi dhammehi ye dhammā. . . .
+Bhāvanāya pahātabbehi dhammehi ye dhammā. . . .
+Dassanena pahātabba-hetukehi dhammehi ye dhammā. . . .
+Bhāvanāya pahātabba-hetukehi dhammehi ye dhammā. . . .
+Savitakkehi dhammehi ye dhammā. . . .
+Savicārehi dhammehi ye dhammā. . . .
+Sappītikehi dhammehi ye dhammā. . . .
+Pītisahagatehi dhammehi ye dhammā. . . .
+Sukha-sahagatehi dhammehi ye dhammā. . . .
+Upekhā-sahagatehi dhammehi ye dhammā. . . .
+Na kāmāvacarehi dhammehi ye dhammā. . . .
+Rūpāvacarehi dhammehi ye dhammā. . . .
+Arūpāvacarehi dhammehi ye dhammā. . . .
+Apariyāpannehi dhammehi ye dhammā. . . .
+Niyyānikehi dhammehi ye dhammā. . . .
+Niyatehi dhammehi ye dhammā. . . .
+Anuttarehi dhammehi ye dhammā. . . .
+Saraṇehi dhammehi ye dhammā khandhasaṃgahena
+asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃga-
+hena asaṃgahītā tehi dhammehi ye dhammā khandha-
+saṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā
+
+
+[page 050]
+50                      DHĀTU KATHĀ PAKARAṆAṂ.                   [V.
+dhātusaṃgahena asaṃgahītā te dhammā katīhi khand-
+hehi katīhāyatanehi katīhi dhātūhi asaṃgahītā?
+     Te dhammā ekena khandhena dasahāyatanehi dasahi
+dhātūhi asaṃgahītā.
+     Rūpañ ca dhammāyatanaṃ dhammadhātu itthī pumaṃ.
+     Jīvitaṃ nāmarūpaṃ dve bhavā jāti jarā [ca.] 
+     Maccu rūpam anārammaṇaṃ nocittena vippayuttaṃ.
+     Visaṃsaṭṭha-samuṭṭhāna-sahabhūhi anuparivattī.
+     Bāhirā upādā dve vīsati esa nayo subuddho.
+              Asaṃgahītena asaṃgahīta-pada-niddeso.
+
+
+[page 051]
+                                51
+                      VI.-- SAMPAYOGO  VIPPAYOGO.
+     Dhātuk_VI.1 Rūpakkhandho katīhi khandhehi katīhi āyatanehi
+{katīhi} dhātūhi sampayutto ti? 
+     Natthi. Katīhi vippayutto?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippa-
+yutto, ekenāyatanena ekāya dhātuyā kehici vippayutto.
+     Dhātuk_VI.2 Vedanākkhandho -- Saññākkhandho -- Saṃkhārakkhandho
+tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayutto
+ekenāyatanena ekāya dhātuyā kehici sampayutto katīhi
+vippayutto?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yutto, ekenāyatanena ekāya dhātuyā kehici vippayutto.
+     Dhātuk_VI.3 Viññāṇakkhandho tīhi khandhehi sampayutto ekenā-
+yatanena ekāya dhātuyā kehici sampayutto katīhi vippa-
+yutto?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yutto, ekenāyatanena ekāya dhātuyā kehici vippayutto.
+     Dhātuk_VI.4 Cakkhāyatanaṃ . . . pe . . . Phoṭṭhabbāyata-
+naṃ . . . pe . . . [1] sampayuttan ti?
+     Natthi. Katīhi vippayuttaṃ? Catuhi khandhehi eke-
+nāyatanena sattahi dhātūhi vippayuttaṃ ekenāyatanena
+ekāya dhātuyā kehici vippayuttaṃ.
+     Dhātuk_VI.5 Manāyatanaṃ tīhi khandhehi sampayuttaṃ ekenāya-
+
+
+[page 052]
+52                      DHĀTU KATHĀ PAKARAṆAṂ.                  [VI.
+tanena ekāya dhātuyā kehici sampayuttaṃ, katīhi vippa-
+yuttaṃ?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ.
+     Dhātuk_VI.6 Cakkhudhātu . . . pe . . . Phoṭṭhabbadhātu
+. . . . pe [1] . . . . sampayuttā ti?
+     Natthi. Katīhi vippayuttā? Catuhi khandhehi ekenā-
+yatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya
+dhātuyā kehici vippayuttā?
+     Dhātuk_VI.7 Cakkhuviññāṇadhātu . . . pe . . . Manodhātu
+manoviññāṇadhātu . . . pe . . . tīhi khandhehi sampa-
+yuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā,
+katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.8 Samudayasaccaṃ maggasaccaṃ {tīhi} khandhehi eke-
+nāyatanena ekāya dhātuyā sampayuttaṃ ekena khandhena
+ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ, katīhi
+vippayuttaṃ?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayut-
+taṃ.
+     Dhātuk_VI.9 Nirodhasaccaṃ -- Cakkhundriyaṃ -- Kāyindriyaṃ --
+Itthindriyaṃ -- Purisindriyaṃ . . . pe . . . sampayuttaṃ?
+Natthi, katīhi vippayuttaṃ?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippa-
+yuttaṃ ekena āyatanena ekāya dhātuyā kehici vippayuttaṃ.
+     Dhātuk_VI.10 Manindriyam tīhi khandhehi sampayuttaṃ ekenāya-
+tanena ekāya dhātuyā kehici sampayuttaṃ, katīhi vippa-
+yuttaṃ?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttaṃ ekenāyatanena dhātuyā kehici vippayuttaṃ.
+     Dhātuk_VI.11 Sukhindriyaṃ -- Dukkhindriyaṃ -- Somanassindriyaṃ
+-- Domanassindriyaṃ tīhi khandhehi ekenāyatanena ekāya
+dhātuyā sampayuttaṃ ekenāyatanena ekāya dhātuyā kehici
+sampayuttaṃ, katīhi vippayuttaṃ?
+
+
+[page 053]
+VI.]                      SAMPAYOGO VIPPAYOGO                      53
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttaṃ.
+     Dhātuk_VI.12 Upekhindriyaṃ tīhi khandhehi ekenāyatanena chahi
+dhātūhi sampayuttaṃ ekenāyatanena ekāya dhātuyā kehici
+sampayuttaṃ, katīhi vippayuttaṃ?
+     Ekena khandhena dasahāyatanehi ekādasahi dhātūhi
+vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttaṃ.
+     Dhātuk_VI.13 Saddhindriyaṃ -- Viriyindriyaṃ -- Satindriyaṃ -- Sa-
+mādhindriyaṃ -- Paññindriyaṃ -- Anaññātaññassāmitindri-
+yaṃ -- Aññindriyaṃ -- Aññātāvindriyaṃ -- Avijjā -- Avijja-
+paccayā saṃkhārā tīhi khandhehi ekenāyatanena ekāya
+dhātuyā sampayuttā ekena khandhena ekenāyatanena
+ekāya dhātuyā kehici sampayuttā, katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_VI.14 Saṃkhārapaccayā viññaṇam tīhi khandhehi sampa-
+yuttaṃ ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ,
+katīhi vippayuttaṃ?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ.
+     Dhātuk_VI.15 Saḷāyatanapaccayā phasso tīhi khandhehi ekenāya-
+tanena sattahi dhātūhi sampayutto ekena khandhena
+ekenāyatanena ekāya dhātuyā kehici sampayutto, katīhi
+vippayutto?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yutto ekenāyatanena ekāya dhātuyā kehici vippayutto.
+     Dhātuk_VI.16 Phassapaccayā vedanā tīhi khandhehi ekenāyatanena
+sattahi dhātūhi sampayuttā ekenāyatanena ekāya dhātuyā
+kehici sampayuttā, katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.17 Vedanāpaccayā taṇhā -- Taṇhapaccayā upādāṇaṃ --
+Kammabhavo tīhi khandhehi ekanāyatanena ekāya dhātuyā
+sampayutto ekena khandhena ekenāyatanena ekāya dhātuyā
+kehici sāmpayutto, katīhi vippayutto?
+
+
+[page 054]
+54                      DHĀTU KATHĀ PAKARAṆAṂ.                  [VI.
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayutto ekenāyatanena ekāya dhātuyā kehici vippayutto
+     Dhātuk_VI.18 Rūpa-bhavo . . . pe . . . sampayutto ti? Natthi.
+Katīhi vippayutto? Na kehici khandhehi na kehici
+āyatanehi tīhi dhātūhi vippayutto.
+     Dhātuk_VI.19 Arūpabhavo -- Nevasaññānāsaññāyatanabhavo -- Catu-
+vokārabhavo . . . pe . . . sampayutto ti? Natthi.
+Katīhi vippayutto?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayutto ekenāyatanena ekāya dhātuyā kehici vippa-
+yutto.
+     Dhātuk_VI.20 Asaññabhavo -- Ekavokārabhavo -- Paridevo. . . . pe
+. . . . sampayutto ti? Natthi. Katīhi vippayutto.
+     Catuhi khandhehi ekanāyatanena sattahi dhātūhi vippa-
+yutto ekenāyatanena ekāya dhātuyā kehici vippayutto.
+     Dhātuk_VI.21 Soko -- Dukkhaṃ -- Domanassaṃ tīhi khandhehi
+ekenāyatanena ekāya dhātuyā sampayuttaṃ ekena khand-
+hena ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ,
+katīhi vippayuttaṃ?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttaṃ.
+     Dhātuk_VI.22 Upāyāso -- Satipaṭṭhānaṃ -- Sammappadhānaṃ tīhi
+khandhehi ekenāyatanena ekāya dhātuyā sampayuttaṃ
+ekena khandhena ekenāyatanena ekāya dhātuyā kehici
+sampayuttaṃ, katīhi vippayuttaṃ?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttaṃ.
+     Dhātuk_VI.23 Iddhipādo dvīhi khandhehi sampayutto ekena
+khandhena ekena āyatanena ekāya dhātuyā kehici sampa-
+yutto, katīhi vippayutto?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayutto ekenāyatanena ekāya dhātuyā kehici vippa-
+yutto.
+     Dhātuk_VI.24 Jhānam dvīhi khandhehi ekenāyatanena ekāya
+dhātuyā sampayuttaṃ ekena khandhena ekenāyatanena
+ekāya dhātuyā kehici sampayuttaṃ, katīhi vippayuttaṃ?
+
+
+[page 055]
+VI.]                      SAMPAYOGO VIPPAYOGO                      55
+     Dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ ekenāya-
+tanena ekāya dhātuyā kehici vippayuttaṃ.
+     Dhātuk_VI.25 Appamaññā -- Pañcindriyaṃ -- Pañca balāni -- Satta
+bojjhaṃgā -- Ariyo aṭṭhaṃgiko maggo tīhi khandhehi ekena
+āyatanena ekāya dhātuyā sampayutto ekena khandhena
+ekenāyatanena ekāya dhātuyā kehici sampayutto, katīhi
+vippayutto?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayutto ekena āyatanena ekāya dhātuyā kehici vippa-
+yutto.
+     Dhātuk_VI.26 Phasso -- Cetanā -- Manasikāro tīhi khandhehi ekenā-
+yatanena sattahi dhātūhi sampayutto ekena khandhena
+ekenāyatanena ekāya dhātuyā kehici sampayutto, katīhi
+vippayutto.
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yutto ekenāyatanena ekāya dhātuyā kehici vippayutto.
+     Dhātuk_VI.27 Vedanā -- Saññā tīhi khandhehi ekenāyatanena
+sattahi dhātūhi sampayutto, ekenāyatanena ekāya dhātuyā
+kehici sampayutto, katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.28 Cittaṃ tīhi khandhehi sampayuttaṃ ekenāyatanena
+ekāya dhātuyā kehici sampayuttaṃ, katīhi vippayuttaṃ?
+     Ekena khandhena dasahi āyatanehi dasahi dhātūhi
+vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttaṃ.
+     Dhātuk_VI.29 Adhimokkho tīhi khandhehi ekenāyatanena dvīhi
+dhātūhi sampayutto ekena khandhena ekenāyatanena ekāya
+dhātuyā kehici sampayutto, katīhi vippayutto?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayutto ekenāyatanena ekāya dhātuyā kehici vippayutto.
+     Dhātuk_VI.30 Kusalā dhammā -- Akusalā dhammā katīhi khandhehi
+katīhi āyatanehi katīhi dhātūhi sampayuttā ti? Natthi.
+Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.31 Sukhāya vedanāya sampayuttā dhammā -- Dukkhāya
+vedanāya sampayuttā dhammā ekena khandhena sampa-
+
+
+[page 056]
+56                      DHĀTU KATHĀ PAKARAṆAṂ.                  [VI.
+yuttā ekena āyatanena ekāya dhātuyā kehici sampayuttā,
+katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekena āyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_VI.32 Adukkhamasukhāya vedanāya sampayuttā dhammā
+ekena khandhena sampayuttā ekena āyatanena ekāya
+dhātuyā kehici sampāyuttā, katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.33 Vipākā dhammā . . . pe 30 . . . sampayuttā ti?
+Natthi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekena āyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.34 Vipākadhammadhammā -- Saṃkiliṭṭhasaṃkilesikā
+dhammā sampayuttā ti?  Natthi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttā ekena āyatanena ekāya dhātuyā kehici vipputtā.
+     Dhātuk_VI.35 Nevavipākanavipākadhammadhammā . . . pe . . .
+sampayuttā ti? Natthi.
+     Katīhi vippayuttā? Na kehici khandhehi na kehici
+āyatanehi pañcahi dhātūhi vippayuttā.
+     Dhātuk_VI.36 Anupādinna-anupādāniyā dhammā -- Asaṃkiliṭṭha-
+asaṃkilesikā dhammā sampayuttā ti? Natthi. Katīhi
+vippayuttā?
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_VI.37 Savitakkasavicārā dhammā ekena khandhena ekenā-
+yatanena ekāya dhātuyā kehici sampayuttā, katīhi vippa-
+yuttā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.38 Avitakkavicāramattā dhammā -- Pītisahagatā dham-
+
+
+[page 057]
+VI.]                      SAMPAYOGO VIPPAYOGO                      57
+mā ekena khandhena ekenāyatanena ekāya dhātuyā kehici
+sampayuttā, katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippa-
+yuttā ekena āyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.39 Avitakka-avicārā dhammā sampayuttā ti? Natthi.
+Katīhi vippayuttā? Na kehici khandhehi na kehici āya-
+tanehi ekāya dhātuyā vippayuttā.
+     Dhātuk_VI.40 Sukhasahagatā dhammā ekena khandhena sampa-
+yuttā ekena āyatanena ekāya dhātuyā kehici sampayuttā,
+katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_VI.41 Upekhāsahagatā dhammā ekena khandhena sam-
+payuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā,
+katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi ekādasahi dhātūhi
+vippayuttā ekena āyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_VI.42 Dassanena pahātabbā dhammā -- Bhāvanāya pahā-
+tabbā dhammā -- Dassanena pahātabba-hetukā dhammā --
+Bhāvanāya pahātabba-hetukā dhammā -- Ācayagāmino
+dhammā -- Apacayagāmino dhammā -- Sekkhā dhammā --
+Asekkā dhammā -- Mahaggatā dhammā. . . . pe [30]
+. . . . sampayuttā ti?  Natthi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.43 Appamāṇā dhammā -- Paṇītā dhammā. . . . sampa-
+yuttā ti?  Natthi. Katīhi vippayuttā?
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_VI.44 Parittārammaṇā dhammā. . . . sampayuttā ti?
+Natthi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.45 Mahaggatārammaṇā dhammā -- Appamāṇārammaṇā
+dhammā -- Hīnā dhammā -- Micchattaniyatā dhammā --
+Sammattaniyatā dhammā -- Maggārammaṇā dhammā --
+
+
+[page 058]
+58                      DHĀTU KATHĀ PAKARAṆAṂ.                  [VI.
+Maggahetukā dhammā -- Maggādhipatino dhammā. . . .
+sampayuttā ti?  Natthi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.46 Anuppannā dhammā. . . . sampayuttā ti? Nat-
+thi. Katīhi vippayuttā?
+     Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi
+vippayuttā.
+     Dhātuk_VI.47 Atītārammaṇā dhammā -- Anāgatārammaṇā dham-
+mā. . . . sampayuttā ti?  Natthi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.48 Paccuppannārammaṇā dhammā -- Ajjhattārammaṇā
+dhammā -- Bahiddhārammaṇā dhammā -- Ajjhattabahiddhā-
+rammaṇā dhammā. . . . sampayuttā ti? Natthi. Katīhi
+vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.49 Sanidassana-sappaṭighā dhammā -- Anidassana-sap-
+paṭighā dhammā. . . . sampayuttā ti? Natthi. Katīhi
+vippayuttā?
+     Catuhi khandhehi ekenāyatanena ekāya dhātuyā kehici
+vippayuttā.
+     Dhātuk_VI.50 Hetudhammā -- Hetu c'eva sahetukā dhammā -- Hetu
+c'eva hetusampayuttā dhammā tīhi khandhehi ekenāyata-
+nena ekāya dhātuyā sampayuttā ekena khandhena ekenā-
+yatanena ekāya dhātuyā kehici sampayuttā, katīhi vip-
+payuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā?
+     Dhātuk_VI.51 Sahetukā dhammā -- Hetusampayuttā dhammā. . . .
+sampayuttā ti?  Natthi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.52 Sahetukā c'eva na ca hetudhammā -- Hetusampa-
+yuttā c'eva na ca hetudhammā -- Na hetukā sahetukā
+dhammā ekena khandhena ekenāyatanena ekāya dhātuyā
+kehici sampayuttā, katīhi vippayuttā?
+
+
+[page 059]
+VI.]                      SAMPAYOGO VIPPAYOGO                      59
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.53 Appaccayā dhammā -- Asaṃkhatā dhammā -- Sanidas-
+sanā dhammā -- Sappaṭighā dhammā -- Rūpino dhammā
+. . . . sampayuttā ti? Natthi. Katīhi vippayuttā.
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.54 Lokuttarā dhammā. . . . sampayuttā ti? Natthi.
+Katīhi vippayuttā.
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_VI.55 Āsavā dhammā -- Āsavā c'eva sāsavā dhammā -- Āsavā
+c'eva āsavasampayuttā dhammā tīhi khandhehi ekenāyata-
+nena ekāya dhātuyā sampayuttā ekena khandhena ekenā-
+yatanena ekāya dhātuyā kehici sampayuttā, katīhi vippa-
+yuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekena āyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.56 Anāsavā dhammā -- Āsavavippayuttā anāsavā dham-
+mā. . . . sampayuttā. Natthi. Katīhi vippayuttā?
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_VI.57 Āsavasampayuttā dhammā. . . . sampayuttā ti?
+Natthi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.58 Āsavasampayuttā c'eva no ca āsavā dhammā ekena
+khandhena ekenāyatanena ekāya dhātuyā kehici sampa-
+yuttā, katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.59 Saṃyojanā dhammā. . . . pe. . . . Ganthā dham-
+mā -- Oghā dhammā -- Yogā dhammā -- Nīvaraṇā dhammā
+-- Parāmāsā dhammā -- Parāmāsā c'eva parāmaṭṭhā dham-
+mā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampa-
+yuttā ekena khandhena ekenāyatanena ekāya dhātuyā
+kehici sampayuttā, katīhi vippayuttā?
+
+
+[page 060]
+60                      DHĀTU KATHĀ PAKARAṆAṂ.                  [VI.
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.60 Aparāmaṭṭhā dhammā -- Parāmāsavippayutta-aparā-
+maṭṭhā dhammā. . . . sampayuttā ti? Natthi. Katīhi
+vippayuttā?
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_VI.61 Parāmāsasampayuttā dhammā ekena khandhena
+ekenāyatanena ekāya dhātuyā kehici sampayuttā, katīhi
+vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.62 Sārammaṇā dhammā. . . . sampayuttā ti? Nat-
+thi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.63 Anārammaṇā dhammā -- Cittavippayuttā dhammā --
+Cittavisaṃsaṭṭhā dhammā -- Upādā dhammā. . . . sampa-
+yuttā ti?  Natthi. Katīhi vippayuttā?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.64 Cittā dhammā tīhi khandhehi sampayuttā ekenāya-
+tanena ekāya dhātuyā kehici sampayuttā, katīhi vippa-
+yuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.65 Cetasikā dhammā -- Cittasampayuttā dhammā -- Cit-
+tasaṃsaṭṭhā dhammā -- Cittasaṃsaṭṭhasamuṭṭhānā dham-
+mā -- Cittasaṃsaṭṭha-samuṭṭhāna-sahabhuno dhammā --
+Cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā ekena
+khandhena ekenāyatanena sattahi dhātūhi sampayuttā,
+katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vip-
+payuttā ekena āyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.66 Anupādinnā dhammā. . . . sampayuttā ti? Natthi.
+Katīhi vippayuttā?
+     Na kehici khandhehi na kehici āyatanehi pañcahi dhā-
+tūhi vippayuttā.
+
+
+[page 061]
+VI.]                       SAMPAYOGO VIPPAYOGO                  61
+     Dhātuk_VI.67 Upādānā dhammā . . . pe . . . kilesā dhammā --
+kilesā c'eva saṃkilesikā dhammā -- Kilesā c'eva saṃkiliṭṭhā
+dhammā -- Kilesā c'eva kilesasampayuttā dhammā tīhi
+khandhehi ekenāyatanena ekāya dhātuyā sampayuttā ekena
+khandhena ekenāyatanena ekāya dhātuyā kehici sampa-
+yuttā, katīhi vippayuttā.
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.68 Asaṃkilesikā dhammā -- Kilesavippayutta-asaṃkile-
+sikā dhammā. . . . sampayuttā ti? Natthi. Katīhi
+vippayuttā?
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_VI.69 Saṃkiliṭṭhā dhammā -- Kilesasampayuttā dhammā
+. . . . sampayuttā ti?  Natthi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.70 Saṃkiliṭṭhā c'eva no ca kilesā dhammā -- kilesasam-
+payuttā c'eva no ca kilesā dhammā ekena khandhena eke-
+nāyatanena ekāya dhātuyā kehici sampayuttā, katīhi
+vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.71 Dassanena pahātabbā dhammā -- Bhāvanāya pahā-
+tabbā dhammā -- Dassanena pahātabba-hetukā dhammā --
+Bhāvanāya pahātabba-hetukā dhammā. . . . sampayuttā
+ti?  Natthi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.72 Savitakkā dhamma -- Savicārā-dhammā ekena khand-
+hena ekenāyatanena ekāya dhātuyā kehici sampayuttā,
+katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.73 Avitakkā dhammā -- Avicārā dhammā. . . . sampa-
+yuttā ti?  Natthi. Katīhi vippayuttā?
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+vippayuttā.
+
+
+[page 062]
+62                        DHĀTU KATHĀ PAKARAṆAṂ.                   [VI.
+     Dhātuk_VI.74 Sappītikā dhammā -- Pītisahagatā dhammā ekena
+khandhena ekenāyatanena ekāya dhātuyā kehici sampa-
+yuttā, katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.75 Upekhāsahagatā dhammā ekena khandhena sampa-
+yuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā,
+katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi ekādasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VI.76 Na kāmāvacarā dhammā -- Apariyāpannā dhammā --
+Anuttarā dhammā . . . sampayuttā ti? Natthi. Katīhi
+vippayuttā?
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_VI.77 Rūpāvacarā dhammā -- Arūpāvacarā dhammā -- Niy-
+yānikā dhammā -- Niyatā dhammā -- Saraṇā dhammā katīhi
+khandhehi katīhi āyatanehi katīhi dhātūhi sampayuttā ti?
+Natthi. Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+                Sampayoga-vippayoga-pada-niddeso
+
+
+[page 063]
+                               63
+                   VII.-- SAMPAYUTTENA  VIPPAYUTTAṂ.
+     Dhātuk_VII.1 Vedanākkhandhena ye dhammā -- Saññākkhandhena
+ye dhammā -- Saṃkhārakkhandhena ye dhammā -- Viññā-
+ṇakkhandhena ye dhammā -- Manāyatanena ye dhammā
+sampayuttā, tehi dhammehi ye dhammā vippayuttā te
+dhammā katīhi khandhehi katīhi āyatanehi katīhi dhātūhi
+vippayuttā?
+     Te dhammā catuhi khandhehi ekenāyatanena sattahi
+dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici
+vippayuttā.
+     Dhātuk_VII.2 Cakkhuviññāṇadhātuyā ye dhammā . . . pe . . .
+Manodhātuyā ye dhammā -- Manoviññāṇadhātuyā ye dham-
+mā sampayuttā, tehi dhammehi ye dhammā vippayuttā te
+dhammā . . . pe . . .?
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+vippāyuttā.
+     Dhātuk_VII.3 Manindriyena ye dhammā sampayuttā tehi dhammehi
+ye dhammā vippayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VII.4 Upekhindriyena ye dhammā sampayuttā tehi dham-
+mehi ye dhammā vippayuttā te {dhammā} . . . pe . . .?
+     Na kehici khandhehi na kehici āyatanehi pañcahi
+dhātūhi vippayuttā.
+     Dhātuk_VII.5 Saṃkhārapaccayā viññāṇena ye dhammā -- Saḷāyatana-
+paccayā phassena ye dhammā -- Phassapaccayā vedanāya
+ye dhammā -- Phassena ye dhammā -- Vedanāya ye dhammā
+-- Saññāya ye dhammā -- Cetanāya ye dhammā -- Cittena ye
+dhammā -- Manasikārena ye dhammā sampayuttā tehi
+dhammehi ye dhammā vippayuttā te dhammā . . . pe . . .?
+
+
+[page 064]
+64                        DHĀTU KATHĀ PAKARAṆAṂ.                  [VII.
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VII.6 Adhimokkhena ye dhammā sampayuttā tehi dhammehi
+ye dhammā vippayuttā te dhammā . . . pe . . .?
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+vippayuttā.
+     Dhātuk_VII.7 Adukkhamasukhāya vedanāya sampayuttehi dhammehi
+ye dhammā -- Upekhā-sahagatehi dhammehi ye dhammā
+sampayuttā tehi dhammehi ye dhammā vippayuttā te
+dhammā . . . pe . . .?
+     Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi
+vippayuttā.
+     Dhātuk_VII.8 Savitakka-savicārehi dhammehi ye dhammā sampa-
+yuttā tehi dhammehi ye dhammā vippayuttā te dhammā
+. . . pe . . .?
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+vippayuttā.
+     Dhātuk_VII.9 Cittehi dhammehi ye dhammā -- Cetasikehi dhammehi
+ye dhammā -- Cittasampayuttehi dhammehi ye dhammā --
+Cittasaṃsaṭṭhehi dhammehi ye dhammā -- Cittasaṃsaṭṭha-
+samuṭṭhānehi dhammehi ye dhammā -- Cittasaṃsaṭṭha-
+samuṭṭhāna-sahabhūhi dhammehi ye dhammā -- Cittasaṃ-
+saṭṭhasamuṭṭhānānuparivattīhi dhammehi ye dhammā
+sampayuttā tehi dhammehi ye dhammā vippayuttā te
+dhammā . . . pe . . .?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_VII.10 Savitakkehi dhammehi ye dhammā -- Savicārehi
+dhammehi ye dhammā sampayuttā tehi dhammehi ye
+dhammā vippayuttā te dhammā . . . pe . . .?
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+vippayuttā.
+     Dhātuk_VII.11 Upekhā-sahagatehi dhammehi ye dhammā sampa-
+yuttā tehi dhammehi ye dhammā vippayuttā te dhammā
+katīhi khandhehi katīhi āyatanehi katīhi dhātūhi vippa-
+yuttā?
+     Te dhammā na kehici khandhehi na kehici āyatanehi
+pañcahi dhātūhi vippayuttā.
+
+
+[page 065]
+VII.]                   SAMPAYUTTENA VIPPAYUTTAṂ.               65
+     Khandhā caturo āyatanañ camekaṃ
+     Dhātusu satta dve pi ca indriyāno.
+     Tayo paṭiccattariva phassa pañcamā.
+     Adhimuccanā manasi ti, kesu tīṇi.
+     Suttantarā dve ca manena yuttā.
+     Vitakkā vicāraṇā ūpekkhā nāya cāti.
+               Sampayuttena vippayutta-pada-niddeso.
+
+
+[page 066]
+                               66
+                  VIII.-- VIPPAYUTTENA SAMPAYUTTAṂ.
+     Dhātuk_VIII.1 Rūpakkhandhena ye dhammā vippayuttā tehi dham-
+mehi ye dhammā sampayuttā te dhammā katīhi khan-
+dhehi katīhāyatanehi katīhi dhātūhi sampayuttā ti?
+     Natthi.
+     Dhātuk_VIII.2 Vedanākkhandhena ye dhammā -- Saññākkhandhena
+ye dhammā -- Saṃkhārakkhandhena ye dhammā -- Viññāṇak-
+khandhena ye dhammā . . . pe . . . Saraṇehi dham-
+mehi ye dhammā -- Araṇehi dhammehi ye dhammā vip-
+payuttā tehi dhammehi ye dhammā sampayuttā te dhammā
+katīhi khandhehi katīhāyatanehi katīhi dhātūhi sampayuttā
+ti?
+     Natthi.
+               Vippayuttena sampayutta-pada-niddeso
+
+
+[page 067]
+                                67
+                    I .-- SAMPAYUTTENA SAMPAYUTTAṂ.
+     Dhātuk_I .1 Vedanākkhandhena ye dhammā -- Saññākkhandhena
+ye dhammā -- Saṃkhārakkhandhena ye dhammā sampa-
+yuttā tehi dhammehi ye dhammā sampayuttā te dhammā
+katīhi khandhehi katīhāyatanehi katīhi dhātūhi sampa-
+yuttā?
+     Te dhammā tīhi khandhehi ekenāyatanena sattahi dhā-
+tūhi sampayuttā ekenāyatanena ekāya dhātuyā kehici sam-
+payuttā.
+     Dhātuk_I .2 Viññāṇakkhandhena ye dhammā . . . pe . . . Ma-
+nāyatanena ye dhammā -- Cakkhu-viññāṇa-dhātuyā ye
+dhammā -- Mano-dhātuyā ye dhammā -- Manoviññāṇa-dhā-
+tuyā ye dhammā sampayuttā tehi dhammehi ye dhammā
+sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhā-
+tuyā kehici sampayuttā.
+     Dhātuk_I .3 Samudaya-saccena ye dhammā -- Magga-saccena ye
+dhammā sampayuttā tehi dhammehi ye dhammā sampa-
+yuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampa-
+yuttā ekena khandhena ekenāyatanena ekāya dhātuyā
+kehici sampayuttā.
+     Dhātuk_I .4 Manindriyena ye dhammā sampayuttā tehi dhammehi
+ye dhammā sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhā-
+tuyā kehici sampayuttā.
+     Dhātuk_I .5 Sukhindriyena ye dhammā -- Dukkhindriyena ye
+dhammā -- Somanassindriyena ye dhammā -- Domanassin-
+
+
+[page 068]
+68                        DHĀTU KATHĀ PAKARAṆAṂ.                   [I .
+driyena ye dhamma sampayuttā tehi dhammehi ye dhammā
+sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā kehici
+sampayuttā.
+     Dhātuk_I .6 Upekkhindriyena ye dhammā sampayuttā tehi
+dhammehi ye dhammā sampayuttā te dhammā. . . .
+pe . . . .
+     Tīhi khandhehi ekenāyatanena chahi dhātūhi sampa-
+yuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā.
+     Dhātuk_I .7 Saddhindriyena ye dhammā -- Viriyindriyena ye dhammā
+-- Satindriyena ye dhammā -- Samādhindriyena ye
+dhammā -- Paññindriyena ye dhammā -- Anaññātaññassā-
+mitindriyena ye dhammā -- Aññindriyena ye dhammā --
+Aññātāvindriyena ye dhammā -- Avijjāya ye dhammā --
+Avijjā-paccayā saṃkhārena ye dhammā sampayuttā tehi
+dhammehi ye dhammā sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampa-
+yuttā ekena khandhena ekenāyatanena ekāya dhātuyā
+kehici sampayuttā.
+     Dhātuk_I .8 Saṃkhāra-paccayā viññāṇena ye dhammā sampayuttā
+tehi dhammehi ye dhammā sampayuttā te dhammā. . . .
+pe . . . .
+     Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhā-
+tuyā kehici sampayuttā.
+     Dhātuk_I .9 Saḷāyatana-paccayā phassena ye dhammā sampayuttā
+tehi dhammehi ye dhammā sampayuttā te dhammā. . . .
+pe . . . .
+     Tīhi khandhehi ekenāyatanena sattahi dhātūhi sam-
+payuttā ekena khandhena ekenāyatanena ekāya dhātuyā
+kehici sampayuttā.
+     Dhātuk_I .10 Phassa-paccayā vedanāya ye dhammā sampayuttā
+tehi dhammehi ye dhammā sampayuttā te dhammā. . . .
+pe . . . .
+     Tīhi khandhehi ekenāyatanena sattahi dhātūhi sam-
+payuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā.
+     Dhātuk_I .11 Vedanā-paccayā taṇhāya ye dhammā -- Taṇhāppac-
+cayā upādānena ye dhammā -- Kamma-bhavena ye dhammā
+sampayuttā te dhammā . . . pe . . .
+
+
+[page 069]
+I .]                   SAMPAYUTTENA SAMPAYUTTAṂ.                   69
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā sam-
+payuttā ekena khandhena ekenāyatanena ekāya dhātuyā
+kehici sampayuttā.
+     Dhātuk_I .12 Sokena ye dhammā -- Dukkhena ye dhammā -- Doma-
+nassena ye dhammā sampayuttā tehi dhammehi ye
+dhammā sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā sam-
+payuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā.
+     Dhātuk_I .13 Upāyāsena ye dhammā -- Satipaṭṭhānena ye dhammā
+-- Sammappadhānena ye dhammā sampayuttā tehi dham-
+mehi ye dhammā sampayuttā dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā
+ekena khandhena ekenāyatanena ekāya dhātuyā kehici
+sampayuttā.
+     Dhātuk_I .14 Iddhipādena ye dhammā sampayuttā tehi dhammehi
+ye dhammā sampayuttā te dhammā . . . pe . . . .
+     Dvīhi khandhehi sampayuttā ekena khandhena ekenā-
+yatanena ekāya dhātuyā kehici sampayuttā.
+     Dhātuk_I .15 Jhānena ye dhammā sampayuttā tehi dhammehi ye
+dhammā sampayuttā te dhammā . . . pe . . . .
+     Dvīhi khandhehi ekenāyatanena ekāya dhātuyā sam-
+payuttā ekena khandhena ekenāyatanena ekāya dhātuyā
+kehici sampayuttā.
+     Dhātuk_I .16 Appamaññā ye dhammā -- Pañcindriyena ye dhammā
+-- Pañca balehi ye dhammā -- Sattahi bojjhaṃgehi ye
+dhammā -- Ariyena aṭṭhaṃgikena maggena ye dhammā
+sampayuttā tehi dhammehi ye dhammā sampayuttā te
+dhammā . . . pe . . . .
+     Tīhi khandhena ekenāyatanena ekāya dhātuyā sam-
+payuttā ekena khandhena ekenāyatanena ekayā dhātuyā
+kehici sampayuttā.
+     Dhātuk_I .17 Phassena ye dhammā -- Cetanāya ye dhammā --
+Manasikārena ye dhammā sampayuttā tehi dhammehi ye
+dhammā sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena sattahi dhātūhi sam-
+payuttā ekena khandhena ekenāyatanena ekāya dhātuyā
+kehici sampayuttā.
+     Dhātuk_I .18 Vedanāya ye dhammā saññāya ye dhammā sam-
+
+
+[page 070]
+70                        DHĀTU KATHĀ PAKARAṆAṂ.                   [I .
+payuttā tehi dhammehi ye dhammā sampayuttā te dhammā
+. . . pe . . . .
+     Tīhi khandhehi ekenāyatanena sattahi dhātūhi sam-
+payuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā.
+     Dhātuk_I .19 Cittena ye dhammā sampayuttā tehi dhammehi ye
+dhammā sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhā-
+tuyā kehici sampayuttā.
+     Dhātuk_I .20 Adhimokkhena ye dhammā sampayuttā tehi dham-
+mehi ye dhammā sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena dvīhi dhātūhi sampayuttā
+ekena khandhena ekenāyatanena ekāya dhātuyā kehici
+sampayuttā.
+     Dhātuk_I .21 Sukhāya vedanāya sampayuttehi dhammehi ye
+dhammā -- Dukkhāya vedanāya sampayuttehi dhammehi
+ye dhammā -- Adukkhamasukhāya vedanāya sampayuttehi
+dhammehi ye dhammā sampayuttā tehi dhammehi ye
+dhammā sampayuttā te dhammā . . . pe . . . .
+     Ekena khandhena sampayuttā ekenāyatanena ekāya
+dhātuyā kehici sampayuttā.
+     Dhātuk_I .22 Savitakka-savivārehi dhammehi ye dhammā -- Avi-
+takka-vicāra-mattehi dhammehi ye dhammā -- Pīti-sahaga-
+tehi dhammehi ye dhammā sampayuttā tehi dhammehi ye
+dhammā sampayuttā te dhammā . . . pe . . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā kehici
+sampayuttā.
+     Dhātuk_I .23 Sukha-sahagatehi dhammehi ye dhammā -- Upekhā-
+sahagatehi dhammehi ye dhammā sampayuttā tehi dham-
+mehi ye dhammā sampayuttā te dhammā . . . pe . . . .
+     Ekena khandhena sampayuttā ekenāyatanena ekāya
+dhātuyā kehici sampayuttā.
+     Dhātuk_I .24 Hetuhi dhammehi ye dhammā -- Hetu c'eva sahetu-
+kehi dhammehi ye dhammā -- Hetu c'eva hetu-sampayuttehi
+dhammehi ye dhammā sampayuttā tehi dhammehi ye
+dhammā sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā sam-
+payuttā ekena khandhena ekenāyatanenā ekāya dhātuyā
+kehici sampayuttā.
+
+
+[page 071]
+I .]                   SAMPAYUTTENA SAMPAYUTTAṂ.                   71
+     Dhātuk_I .25 Sahetukā c'eva na ca hetuhi dhammehi ye dhammā --
+Hetu-sampayuttā c'eva na ca hetuhi dhammehi ye dhammā
+-- Na hetu sahetukehi dhammehi ye dhammā sampayuttā
+tehi dhammehi ye dhammā sampayuttā te dhammā. . . .
+pe . . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā kehici
+sampayuttā.
+     Dhātuk_I .26 Āsavehi dhammehi ye dhammā -- Āsavā c'eva sāsa-
+vehi dhammehi ye dhammā -- Āsavā c'eva āsava-sam-
+payuttehi dhammehi ye dhammā sampayuttā te dhammā
+. . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā
+ekena khandhena ekenāyatanena ekāya dhātuyā kehici
+sampayuttā.
+     Dhātuk_I .27 Āsavā-sampayuttehi dhammehi ye dhammā -- Āsavā
+sampayuttā c'eva no ca āsavehi dhammehi ye dhammā
+sampayuttā tehi dhammehi ye dhammā sampayuttā te
+dhammā . . . pe . . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā kehici
+sampayuttā.
+     Dhātuk_I .28 Saṃyojanehi dhammehi ye dhammā . . . pe . . .
+Ganthehi dhammehi ye dhammā -- Oghehi dhammehi ye
+dhammā -- Yogehi dhammehi ye dhammā -- Nīvaraṇehi
+dhammehi ye dhammā -- Parāmāsehi dhammehi ye
+dhammā -- Parāmāsā c'eva parāmaṭṭhehi dhammehi ye
+dhammā sampayuttā tehi dhammehi ye dhammā sam-
+payuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuya sam-
+payuttā ekena khandhena ekenāyatanena ekāya dhātuyā
+kehici sampayuttā.
+     Dhātuk_I .29 Parāmāsa-sampayuttehi dhammehi ye dhammā sam-
+payuttā tehi dhammehi ye dhammā sampayuttā te dhammā
+. . . pe . . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā kehici
+sampayuttā.
+     Dhātuk_I .30 Cittehi dhammehi ye dhammā sampayuttā tehi dham-
+mehi ye dhammā sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi sampayuttā ekena khandhena ekenā-
+yatanena ekāya dhātuyā kehici sampayuttā.
+
+
+[page 072]
+72                        DHĀTU KATHĀ PAKARAṆAṂ.                   [I .
+     Dhātuk_I .31 Cetasikehi dhammehi ye dhammā -- Citta-sampayut-
+tehi dhammehi ye dhammā -- Citta-saṃsaṭṭhehi dhammehi
+ye dhammā -- Citta-saṃsaṭṭha-samuṭṭhānehi dhammehi ye
+dhammā -- Citta-saṃsaṭṭha-samuṭṭhāna-sahabhūhi dham-
+mehi ye dhammā -- Citta-saṃsaṭṭha-samuṭṭhānānupari-
+vattīhi dhammehi ye dhammā sampayuttā tehi dhammehi
+ye dhammā sampayuttā te dhammā . . . pe . . . .
+     Ekena khandhena ekenāyatanena sattahi dhātūhi sam-
+payuttā.
+     Dhātuk_I .32 Upādānehi . . . pe . . . kilesehi dhammehi ye
+dhammā -- Kilesā c'eva saṃkilesikehi dhammehi ye
+dhammā -- Kilesā c'eva saṃkiliṭṭhehi dhammehi ye
+dhammā -- Kilesā c'eva kilesa-sampayuttehi dhammehi
+ye dhammā sampayuttā tehi dhammehi ye dhammā sam-
+payuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā
+ekena khandhena ekenāyatānena ekāya dhātuyā kehici
+sampayuttā.
+     Dhātuk_I .33 Saṃkiliṭṭhā c'eva no ca kilesehi dhammehi ye dham-
+mā -- Kilesa-sampayuttā c'eva no ca kilesehi dhammehi ye
+dhammā -- Savitakkehi dhammehi ye dhammā -- Savicārehi
+dhammehi ye dhammā -- Sappītikehi dhammehi ye dhammā
+-- Pīti-sahagatehi dhammehi ye dhammā sampayuttā tehi
+dhammehi ye dhammā sampayuttā te dhammā. . . .
+pe . . . .
+     Ekena khandhena ekenāyatanena ekāya dhātuyā kehici
+sampayuttā.
+     Dhātuk_I .34 Sukha-sahagatehi dhammehi ye dhammā upekhā-
+sahagatehi dhammehi ye dhammā sampayuttā tehi dham-
+mehi ye dhammā sampayuttā te dhammā katīhi khandhehi
+katīhāyatanehi katīhi dhātūhi sampayuttā.
+     Te dhammā ekena khandhena sampayuttā ekenāyatanena
+ekāya dhātuyā kehici sampayuttā.
+              Sampayutta-sampayuttena pada-niddeso.
+
+
+[page 073]
+                                73
+                    .-- VIPPAYUTTENA VIPPAYUTTAṂ.
+     Dhātuk_ .1 Rūpakkhandhena ye dhammā vippayuttā tehi dham-
+mehi ye dhammā vippayuttā te dhammā katīhi khandhehi
+katīhāyatanehi katīhi dhātūhi vippayuttā.
+     Te dhammā catuhi khandhehi ekenāyatanena sattahi
+dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici
+vippayuttā.
+     Dhātuk_ .2 Vedanakkhandhena ye dhammā -- Saññākkhandhena ye
+dhammā -- Saṃkhārakkhandhena ye dhammā -- Viññāṇak-
+khandhena ye dhammā -- Manāyatanena ye dhammā vippa-
+yuttā tehi dhammehi ye dhammā vippayuttā te dhammā
+. . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vip-
+payuttā ekenāyatanena ekayā dhātuyā kehici vippayuttā.
+     Dhātuk_ .3 Cakkhāyatanena ye dhammā . . . pe . . . Phoṭ-
+ṭhabbāyatanena ye dhammā -- Cakkhudhātuyā ye
+dhammā . . . pe . . . Phoṭṭhabbadhātuyā ye dhammā
+vippayuttā te dhammā . . . pe . . . .
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .4 Cakkhuviññāṇadhātuyā ye dhammā . . . pe . . .
+Manodhātuyā ye dhammā -- Manoviññāṇadhātuyā ye
+dhammā -- Samudayasaccena ye dhammā -- Maggasaccena
+ye dhammā vippayuttā tehi dhammehi ye dhammā vippa-
+yuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .5 Nirodhasaccena ye dhammā -- Cakkhundriyena ye
+dhammā . . . pe . . . Kāyindriyena ye dhammā --
+
+
+[page 074]
+74                        DHĀTU KATHĀ PAKARAṆAṂ.                 [ .
+Itthindriyena ye dhammā -- Purisindriyena ye dhammā
+vippayuttā tehi dhammehi ye dhammā vippayuttā te
+dhammā . . . pe . . . .
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .6 Manindriyena ye dhammā vippayuttā tehi dhammehi
+ye dhammā vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .7 Sukhindriyena ye dhammā -- Dukkhindriyena ye
+dhammā -- Somanassindriyena ye dhammā -- Domanassin-
+driyena ye dhammā vippayuttā tehi dhammehi ye dhammā
+vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .8 Upekhindriyena ye dhammā vippayuttā tehi dhammehi
+ye dhammā vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi ekādasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .9 Saddhindriyena ye dhammā -- Viriyindriyena ye
+dhammā -- Satindriyena ye dhammā -- Samādhindriyena
+ye dhammā -- Paññindriyena ye dhammā -- Anaññataññas-
+sāmītindriyena ye dhammā -- Aññindriyena ye dhammā --
+Aññatāvindriyena ye dhammā -- Avijjāya ye dhammā --
+Avijjā-paccayā saṃkhārena ye dhammā vippayuttā tehi
+dhammehi ye dhammā vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā.
+     Dhātuk_ .10 Saṃkhāra-paccayā viññāṇena ye dhammā -- Saḷāya-
+tana-paccayā phassena ye dhammā -- Phassa-paccayā veda-
+nāya ye dhammā vippayuttā te dhammā vippayuttā tehi
+dhammehi ye dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vip-
+payuttā ekenāyatanena ekāyā dhātuyā kehici vippayuttā.
+     Dhātuk_ .11 Vedanā-paccayā taṇhāya ye dhammā -- Taṇhā-paccayā
+upādānena ye dhammā -- Kammabhavena ye dhammā vip-
+payuttā tehi dhammehi ye dhammā vippayuttā te dhammā
+. . . pe . . .
+
+
+[page 075]
+ .]                    SAMPAYUTTENA SAMPAYUTTAṂ.                   75
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .12 Rūpabhavena ye dhammā vippayuttā tehi dhammehi
+ye dhammā vippayuttā te dhammā . . . pe . . . .
+     Na kehici khandhehi na kehici āyatanehi tīhi dhātūhi
+vippayuttā.
+     Dhātuk_ .13 Asaññabhavena ye dhammā -- Ekavokārabhavena ye
+dhammā -- Paridevena ye dhammā vippayuttā tehi dham-
+mehi ye dhammā vippayuttā te dhammā . . . pe . . . .
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .14 Arūpabhavena ye dhammā -- Nevasaññānāsaññā-
+bhavena ye dhammā -- Catuvokārabhavena ye dhammā --
+Sokena ye dhammā -- Dukkhena ye dhammā -- Domanassena
+ye dhamma -- Upāyāsena ye dhammā -- Satipaṭṭhānena ye
+dhammā -- Sammappadhānena ye dhammā -- Iddhipādena ye
+dhammā -- Jhānena ye dhammā -- Appamaññāya ye
+dhammā -- Pañcahi indriyehi ye dhammā -- Pañcahi balehi
+ye dhammā -- Sattahi bojjhaṃgehi ye dhammā -- Ariyena
+aṭṭhaṃgikena maggena ye dhammā vippayuttā tehi dham-
+mehi ye dhammā vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanhehi soḷasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_ .15 Phassena ye dhammā -- Vedanāya ye dhammā -- Sañ-
+ñāya ye dhammā -- Cetanāya ye dhammā -- Cittena ye
+dhammā -- Manasikārena ye dhammā vippayuttā tehi
+dhammehi ye dhammā vippayuttā te dhammā. . . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .16 Adhimokkhena ye dhammā vippayuttā tehi dham-
+mehi ye dhammā vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .17 Kusalehi dhammehi ye dhammā -- Akusalehi dham-
+mehi ye dhammā vippayuttā tehi dhammehi ye dhammā
+vippayuttā te dhammā . . . pe . . .
+
+
+[page 076]
+76                      DHĀTU KATHĀ PAKARAṆAṂ.                   [ .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .18 Sukhāya vedanāya sampayuttehi dhammehi ye
+dhammā -- Dukkhāya vedanāya sampayuttehi dhammehi ye
+dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā
+te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .19 Adukkhamasukhāya vedanāya sampayuttehi dham-
+mehi ye dhammā vippayuttā tehi dhammehi ye dhammā
+vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi ekādasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .20 Vipākehi dhammehi ye dhammā vippayuttā tehi
+dhammehi ye dhammā vippayuttā te dhammā. . . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā keheci vippayuttā.
+     Dhātuk_ .21 Vipākadhammadhammehi ye dhammā -- Saṃkiliṭṭha-
+saṃkilesikehi dhammehi ye dhammā vippayuttā tehi dham-
+mehi ye dhammā vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .22 Neva-vipāka-na-vipāka-dhamma-dhammehi ye
+dhammā -- Anupādinnupādāniyehi dhammehi ye dhammā
+vippayuttā tehi dhammehi ye dhammā vippayuttā te
+dhammā . . . pe . . . .
+     Na kehici khandhehi na kehici āyatanehi pañcahi dhā-
+tūhi vippayuttā.
+     Dhātuk_ .23 Anupādinna-anupādāniyehi dhammehi ye dhammā
+-- Asaṃkiliṭṭha-asaṃkilesikehi dhammehi ye dhammā
+vippayuttā tehi dhammehi ye dhammā vippayuttā te
+dhammā . . . pe . . . .
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_ .24 Savitakka-savicārehi dhammehi ye dhammā vippa-
+yuttā tehi dhammehi ye dhammā vippayuttā te dhammā
+. . . pe . . .
+
+
+[page 077]
+ .]                    VIPPAYUTTENA VIPPAYUTTAṂ.                   77
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_ .25 Avitakka-vicāramattehi dhammehi ye dhammā --
+Pītisahagatehi dhammehi ye dhammā vippayuttā te
+dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .26 Avitakka-avicārehi dhammehi ye dhammā vippayuttā
+tehi dhammehi ye dhammā vippayuttā te dhammā
+. . . pe . . . .
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+vippayuttā.
+     Dhātuk_ .27 Sukhasahagatehi dhammehi ye dhammā vippayuttā
+te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .28 Upekhāsahagatehi dhammehi ye dhammā vippayuttā
+tehi dhammehi ye dhammā vippayuttā te dhammā. . . .
+pe . . . .
+     Ekena khandhena dasahāyatanehi ekādasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_ .29 Dassanena pahātabbehi dhammehi ye dhammā --
+Bhāvanāya pahātabbehi dhammehi ye dhammā --
+Dassanena pahātabba-hetukehi dhammehi ye dhammā --
+Bhāvanāya pahātabba-hetukehi dhammehi ye dhammā --
+Ācayagāmihi dhammehi ye dhammā -- Apacayagāmihi
+dhammehi ye dhammā -- Sekhehi dhammehi ye dhammā --
+Asekhehi dhammehi ye dhammā -- Mahaggatehi dhammehi
+ye dhammā vippayuttā tehi dhammehi ye dhammā vippa-
+yuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttā ekanāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_ .30 Appamāṇehi dhammehi ye dhammā -- Parittehi
+dhammehi ye dhammā vippayuttā tehi dhammehi ye
+dhammā vippayuttā te dhammā . . . pe . . .
+
+
+[page 078]
+78                      DHĀTU KATHĀ PAKARAṆAṂ.                   [ .
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_ .31 Parittārammaṇehi dhammehi ye dhammā vippayuttā
+tehi dhammehi ye dhammā vippayuttā te dhammā. . . .
+pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .32 Mahaggatārammaṇehi dhammehi ye dhammā --
+Appamāṇārammaṇehi dhammehi ye dhammā -- Hīnehi
+dhammehi ye dhammā -- Paṇītehi dhammehi ye dhammā
+-- Micchattaniyatehi dhammehi ye dhammā -- Sam-
+mattaniyatehi dhammehi ye dhammā -- Maggārammaṇehi
+dhammehi ye dhammā -- Maggahetukehi dhammehi ye
+dhammā -- Maggādhipatīhi dhammehi ye dhammā vippa-
+yuttā tehi dhammehi ye dhammā vippayuttā te dhammā
+. . . pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_ .33 Anuppannehi dhammehi ye dhammā vippayuttā tehi
+dhammehi ye dhammā vippayuttā te dhammā. . . .
+pe . . . .
+     Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi
+vippayuttā.
+     Dhātuk_ .34 Atītārammaṇehi dhammehi ye dhammā -- Anāgatā-
+rammaṇehi dhammehi ye dhammā vippayuttā tehi dham-
+mehi ye dhammā vippayuttā te dhamma . . . pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .35 Paccuppannārammaṇehi dhammehi ye dhammā --
+Ajjhattārammaṇehi dhammehi ye dhammā -- Bahiddha-
+rammaṇehi dhammehi ye dhammā -- Ajjhattabahiddhāram-
+maṇehi dhammehi ye dhammā vippayuttā tehi dhammehi
+ye dhammā vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .36 Sanidassana-sappaṭighehi dhammehi ye dhammā --
+Anidassana-sappaṭighehi dhammehi ye dhammā vippa-
+
+
+[page 079]
+ .]                    VIPPAYUTTENA VIPPAYUTTAṂ.                   79
+yuttā tehi dhammehi ye dhammā vippayuttā te dhammā
+. . . pe . . . .
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippa-
+yutta ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .37 Hetuhi dhammehi ye dhammā -- Sahetukehi dham-
+mehi ye dhammā -- Hetu-sampayuttehi dhammehi ye
+dhammā -- Hetu c'eva sahetukehi dhammehi ye dhammā --
+Hetu c'eva hetu-sampayuttehi dhammehi ye dhammā --
+Hetu-sampayuttā c'eva na ca hetuhi dhammehi ye dhammā
+-- Na hetu sahetukehi dhammehi ye dhammā vippayuttā
+tehi dhammehi ye dhammā vippayuttā te dhammā. . . .
+pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_ .38 Appaccayehi dhammehi ye dhammā -- Asaṃkhatehi
+dhammehi ye dhammā -- Sanidassanehi dhammehi ye
+dhammā -- Sappaṭighehi dhammehi ye dhammā -- Rūpīhi
+dhammehi ye dhammā vippayuttā tehi dhammehi ye
+dhammā vippayuttā te dhammā . . . pe . . . .
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .39 Lokuttarehi dhammehi ye dhammā vippayuttā tehi
+dhammehi ye dhammā vippayuttā te dhammā. . . . pe
+. . . . .
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_ .40 Āsavehi dhammehi ye dhammā -- Āsava-sampayuttehi
+dhammehi ye dhammā -- Āsavā c'eva sāsavehi dhammehi
+ye dhammā -- Āsavā c'eva āsava-sampayuttehi dhammehi
+ye dhammā -- Āsava-sampayuttā c'eva no ca āsavehi dham-
+mehi ye dhammā vippayuttā tehi dhammehi ye dhammā
+vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .41 Anāsavehi dhammehi ye dhammā -- Āsava-vippayuttā
+anāsavehi dhammehi ye dhammā vippayuttā tehi dhammehi
+ye dhammā vippayuttā te dhammā . . . pe . . .
+
+
+[page 080]
+80                      DHĀTU KATHĀ PAKARAṆAṂ.                   [ .
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_ .42 Saṃyojanehi dhammehi ye dhammā . . . pe . . . .
+     Ganthehi dhammehi ye dhammā -- Oghehi dhammehi ye
+dhammā -- Yogehi dhammehi ye dhammā -- Nīvaraṇehi
+dhammehi ye dhammā -- Parāmāsehi dhammehi ye dhammā
+-- Parāmāsa-sampayuttehi dhammehi ye dhammā -- Parā-
+māsā c'eva parāmaṭṭhehi dhammehi ye dhammā vippayuttā
+tehi dhammehi ye dhammā vippayuttā te dhammā. . . .
+pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .43 Aparāmaṭṭhehi dhammehi ye dhammā -- Parāmāsa-
+vippayuttā aparāmaṭṭhehi dhammehi ye dhammā vippa-
+yuttā tehi dhammehi ye dhammā vippayuttā te dhammā
+. . . pe . . . .
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_ .44 Sārammaṇehi dhammehi ye dhammā -- Cittehi dham-
+mehi ye dhammā -- Cetasikehi dhammehi ye dhammā --
+Citta-sampayuttehi dhammehi ye dhammā -- Citta-saṃsaṭ-
+ṭhehi dhammehi ye dhammā -- Citta-saṃsaṭṭha-samuṭṭhā-
+nehi dhammehi ye dhammā -- Citta-saṃsaṭṭha-samuṭṭhā-
+na-sahabhūhi dhammehi ye dhammā -- Citta-saṃsaṭṭha-
+samuṭṭhānānuparivattīhi dhammehi ye dhammā vippayuttā
+te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .45 Ārammaṇehi dhammehi ye dhammā -- Citta-vippayut-
+tehi dhammehi ye dhammā -- Citta-saṃsaṭṭhehi dhammehi
+ye dhammā -- Upādā-dhammehi ye dhammā vippayuttā tehi
+dhammehi ye dhammā vippayuttā te dhammā. . . . pe
+. . . . .
+     Catuhi khanehehi ekenāyatanena sattahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .46 Anupādiṇṇehi dhammehi ye dhammā vippayuttā tehi
+dhammā ye dhammehi vippayuttā te dhammā. . . . pe
+. . . .
+
+
+[page 081]
+ .]                    VIPPAYUTTENA VIPPAYUTTAṂ.                   81
+     Na kehici khandhehi na kehici āyatanehi pañcahi dhā-
+tūhi vippayuttā.
+     Dhātuk_ .47 Upādānehi dhammehi ye dhammā . . . pe . . . .
+     Kilesehi dhammehi ye dhammā -- Saṃkiliṭṭhehi dham-
+mehi ye dhammā -- Kilesa-sampayuttehi dhammehi ye
+dhammā -- Kilesā c'eva saṃkilesekehi dhammehi ye
+dhammā -- Kilesā c'eva saṃkiliṭṭhehi dhammehi ye dhammā
+-- Kilesā c'eva kilesa-sampayuttehi dhammehi ye dhammā
+-- Kilesa-sampayuttā c'eva no ca kilesehi dhammehi ye
+dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā
+te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .48 Asaṃkilesikehi dhammehi ye dhammā -- Kilesa-vippa-
+yutta-asaṃkilesikehi dhammehi ye dhammā vippayuttā
+tehi dhammehi ye dhammā vippayuttā te dhammā. . . .
+pe . . . .
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_ .49 Dassanena pahātabbehi dhammehi ye dhammā --
+Bhāvanāya pahātabbehi dhammehi ye dhammā -- Dassa-
+nena pahātabba-hetukehi dhammehi ye dhammā -- Bhāva-
+nāya pahātabba-hetukehi dhammehi ye dhammā vippa-
+yuttā tehi dhammehi ye dhammā vippayuttā te dhammā
+. . . pe . . . .
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_ .50 Savitakkehi dhammehi ye dhammā -- Savicārehi
+dhammehi ye dhammā vippayuttā tehi dhammehi ye
+dhammā vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_ .51 Avitakkehi dhammehi ye dhammā -- Avicārehi dham-
+mehi ye dhammā vippayuttā tehi dhammehi ye dhammā
+vippayuttā te dhammā . . . pe . . . .
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+vippayuttā.
+
+
+[page 082]
+82                      DHĀTU KATHĀ PAKARAṆAṂ.                   [ .
+     Dhātuk_ .52 Sappītikehi dhammehi ye dhammā -- Pītisahagatehi
+dhammehi ye dhammā vippayuttā tehi dhammehi ye
+dhammā vippayuttā te dhammā . . . pe . . . .
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     52 Sukhasahagatehi dhammehi ye dhammā vippayuttā
+tehi dhammehi ye dhammā vippayuttā te dhammā. . . .
+pe . . . .
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_ .53 Upekhāsahagatehi dhammehi ye dhammā vippayuttā
+tehi dhammehi ye dhammā vippayuttā te dhammā. . . .
+pe . . . .
+     Ekena khandhena dasahāyatanehi ekādasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_ .54 Na kāmāvacarehi dhammehi ye dhammā -- Apariyā-
+pannehi dhammehi ye dhammā -- Anuttarehi dhammehi ye
+dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā
+te dhammā . . . pe . . . .
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+vippayuttā.
+     Dhātuk_ .55 Rūpāvacarehi dhammehi ye dhammā -- Arūpāvacarehi
+dhammehi ye dhammā -- Niyyānikehi dhammehi ye dham-
+mā -- Niyatehi dhammehi ye dhammā -- Saraṇehi dhammehi
+ye dhammā vippayuttā tehi dhammehi ye dhammā vippa-
+yuttā te dhammā katīhi khandhehi katīhi āyatanehi katīhi
+dhātūhi vippayuttā.
+     Te dhammā ekena khandhena dasahāyatanehi soḷasahi
+dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici
+vippayuttā.
+               Vippayuttena vippayutta pada niddeso.
+
+
+[page 083]
+                                 83
+               XI.-- SAṂGAHĪTENA SAMPAYUTTAṂ VIPPAYUTTAṂ.
+     Dhātuk_XI.1 Samudaya-saccena ye dhammā, magga-saccena ye
+dhammā khandha-saṃgahena saṃgahītā āyatana-saṃga-
+hena saṃgahītā dhātu-saṃgahena saṃgahītā te dhammā
+katīhi khandhehi katīhāyatanehi katīhi dhātūhi sampa-
+yuttā?
+     Te dhammā tīhi khandhehi ekenāyatanena sattahi dhā-
+tuhi sampayuttā ekena khandhena ekenāyatanena ekāya
+dhātuyā kehici sampayuttā.
+     Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_XI.2 Itthindriyena ye dhammā, purisindriyena ye dhammā
+khandha-saṃgahena saṃgahītā āyatana-saṃgahena saṃga-
+hītā dhātu-saṃgahena saṃgahītā te dhammā katīhi khan-
+dhehi katīhāyātanehi katīhi dhātūhi sampayuttā ti?
+Natthi. Katīhi vippayuttā.
+     Catuhi khandhehi ekenāyatanena sattahi dhātuhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_XI.3 Sukhindriyena ye dhammā -- Dukkhindriyena ye
+dhammā -- Somanassindriyena ye dhammā -- Domanassin-
+driyena ye dhammā khandha-saṃgahena saṃgahītā āya-
+tana-saṃgahena saṃgahītā dhātu-saṃgahena saṃgahītā te
+dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena sattahi dhātūhi sampa-
+yuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā.
+     Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi
+vippayuttā ekenāyatanena ekāya dhātuya kehici vippayuttā.
+     Dhātuk_XI.4 Upekhindriyena ye dhammā khandha-saṃgahena saṃ-
+gahītā āyatana-saṃgahena saṃgahītā dhātu-saṃgahena
+saṃgahītā te dhammā . . . pe . . .
+
+
+[page 084]
+84                      DHĀTU KATHĀ PAKARAṆAṂ.                  [XI.
+     Tīhi khandhehi ekenāyatanena dvīhi dhātūhi sampa-
+yuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā.
+     Katīhi vippayuttā? Ekena khandhena dasahāyatanehi
+paṇṇarasahi dhātūhi vippayuttā ekenāyatanena ekāya
+dhātuyā kehici vippayuttā.
+     Dhātuk_XI.5 Saddhindriyena ye dhammā -- Viriyindriyena ye dham-
+mā -- Satindriyena ye dhammā -- Samādhindriyena ye
+dhammā -- Paññindriyena ye dhammā -- Anaññātaññassā-
+mītindriyena ye dhammā -- Aññindriyena ye dhammā --
+Aññatāvindriyena ye dhammā -- Avijjāya ye dhammā --
+Avijjā-paccayā saṃkhārena ye dhammā -- Saḷāyatana-pac-
+cayā phassena ye dhammā -- Vedanā-paccayā taṇhāya ye
+dhammā -- Taṇhā-paccayā upādānena ye dhammā -- Kamma-
+bhavena ye dhammā khandha-saṃgahena saṃgahītā āya-
+tana-saṃgahena saṃgahītā dhātu-saṃgahena saṃgahītā te
+dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena sattahi dhātūhi sampa-
+yuttā ekena khandhena ekenāyatanena ekāya dhātuyā
+kehici sampayuttā.
+     Katīhi vippayuttā?
+     Ekena khandhena dasahi āyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_XI.6 Paridevena ye dhammā khandha-saṃgahena saṃgahītā
+āyatana-saṃgahena saṃgahītā dhātu-saṃgahena saṃga-
+hītā te dhammā katīhi khandhehi katīhi āyatanehi katīhi
+dhātūhi sampayuttā ti?  Natthi. Katīhi vippayuttā?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_XI.7 Sokena ye dhammā -- Dukkhena ye dhammā -- Domanas-
+sena ye dhammā khandha-saṃgahena saṃgahītā āyatana-
+saṃgahena saṃgahītā dhātu-saṃgahena saṃgahītā te
+dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena sattahi dhātūhi sampa-
+yuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā.
+     Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_XI.8 Upāyāsena ye dhammā -- Satipaṭṭhānena ye dhammā
+
+
+[page 085]
+XI.]           SAṂGAHĪTENA SAMPAYUTTAṂ VIPPAYUTTAṂ.              85
+-- Sammappadhānena ye dhammā -- Appamaññāya ye
+dhammā -- Pañcahi indriyehi ye dhammā -- Pañcahi balehi
+ye dhammā -- Sattahi bhojjaṃgehi ye dhammā -- Ariyena
+aṭṭhaṃgikena maggena ye dhammā -- Phassena ye dham-
+mā -- Cetanāya ye dhammā -- Adhimokkhena ye dhammā --
+Manasikārena ye dhammā -- Hetuhi dhammehi ye dhammā
+-- Hetu c'eva sahetukehi dhammehi ye dhammā -- Hetu
+c'eva hetusampayuttehi dhammehi ye dhammā -- Āsavehi
+dhammehi ye dhammā -- Āsavā c'eva sāsavehi dhammehi
+ye dhammā -- Āsavā c'eva āsavasampayuttehi dhammehi
+ye dhammā -- Saṃyojanehi dhammehi ye dhammā. . . .
+pe . . . Ganthehi dhammehi ye dhammā -- Oghehi dham-
+mehi ye dhammā -- Yogehi dhammehi ye dhammā -- Nīva-
+raṇehi dhammehi ye dhammā -- Parāmāsehi dhammehi ye
+dhammā -- Upādāniyehi dhammehi ye dhammā -- Kilesehi
+dhammehi ye dhammā -- Kilesā c'eva saṃkilesikehi dham-
+mehi ye dhammā -- Kilesā c'eva saṃkiliṭṭehi dhammehi ye
+dhammā -- Kilesā c'eva kilesasampayuttehi dhammehi
+ye dhammā khandha-saṃgahena saṃgahītā āyatana-
+saṃgahena saṃgahītā dhātu-saṃgahena saṃgahītā te
+dhammā katīhi khandhehi katīhāyatanehi katīhi dhātūhi
+sampayuttā?
+     Te dhammā tīhi khandhehi ekenāyatanena sattahi dhā-
+tuhi sampayuttā ekena khandhena ekenāyatanena ekāya
+dhātuyā kehici sampayuttā.
+     Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+           Saṃgahītena sampayutta-vippayutta-padaniddeso.
+
+
+[page 086]
+                                86
+            XII.-- SAMPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ.
+     Dhātuk_XII.1 Vedanākkhandhena ye dhammā -- Saññākkhandhena
+ye dhammā -- {Saṃkhārakkhandhena} ye dhammā sampa-
+yuttā te dhammā katīhi khandhehi katīhāyatanehi katīhi
+dhātūhi saṃgahītā.
+     Te dhammā tīhi khandhehi divīhāyatanehi aṭṭhahi dhā-
+tūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XII.2 Viññāṇakkhandhena ye dhammā -- Manāyatanena ye
+dhammā -- Cakkhu-viññāṇa-dhātuyā ye dhammā. . . .
+pe . . . Manodhātuyā ye dhammā -- Maṇo-viññāṇa-dhā-
+tuyā ye dhamma sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XII.3 Samudaya-saccena ye dhammā -- Magga-saccena ye
+dhammā sampayuttā te dhammā . . . pe . . . .
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XII.4 Manindriyena ye dhammā sampayuttā te dhammā
+. . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+
+
+[page 087]
+XII.]            SAMPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ.             87
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XII.5 Sukhindriyena ye dhammā -- Dukkhindriyena ye
+dhammā -- Somanassindriyena ye dhammā -- Domanassin-
+driyena ye dhammā sampayuttā te dhammā . . . pe . . . .
+     Tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XII.6 Upekhindriyena ye dhammā sampayuttā te dhammā
+. . . pe . . . .
+     Tīhi khandhehi dvīhāyatanehi sattahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XII.7 Saddhindriyena ye dhammā -- Viriyindriyena ye dham-
+mā -- Satindriyena ye dhammā -- Samādhindriyena ye
+dhammā -- {Paññindriyena} ye dhammā -- Anaññātaṃ ñas-
+sāmītindriyena ye dhammā -- Aññindriyena ye dhammā --
+Aññatāvindriyena ye dhammā -- Avijjāya ye dhammā --
+Avijjā-paccayā saṃkhārena ye dhammā sampayuttā te
+dhammā . . . pe . . . .
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XII.8 Saṃkhāra-paccayā viññāṇena ye dhammā sampayuttā
+te dhammā . . . pe . . . .
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+
+
+[page 088]
+88                   DHĀTU KATHĀ PAKARAṆAṂ.                    [XII.
+     Dhātuk_XII.9 Saḷāyatana-paccayā phassena ye dhammā sampayuttā
+te dhammā . . . pe . . . .
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XII.10 Phassa-paccayā vedanāya ye dhammā sampayuttā te
+dhammā . . . pe . . .?
+     Tīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XII.11 Vedanā-paccayā taṇhāya ye dhammā -- Taṇhā-paccayā
+upādānena ye dhammā -- Kamma-bhavena ye dhammā
+sampayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XII.12 Sokena ye dhammā -- Dukkhena ye dhammā -- Doma-
+nassena ye dhammā sampayuttā te dhammā. . . . pe
+. . . .?
+     Tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XII.13 Upāyāsena ye dhammā -- Satipaṭṭhānena ye dhammā
+-- Sammappadhānena ye dhammā sampayuttā te dhammā
+. . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XII.14 Iddhipādena ye dhammā sampayuttā te dhammā
+. . . pe . . .
+
+
+[page 089]
+XII.]            SAMPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ.             89
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XII.15 Jhānena ye dhammā sampayuttā te dhammā. . . .
+pe . . .?
+     Tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XII.16 Appamaññāya ye dhammā -- Pañcahi balehi ye
+dhammā -- Sattahi bhojjhaṃgehi ye dhammā -- Ariyena
+aṭṭhaṃgikena maggena ye dhammā sampayuttā te dhammā
+. . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XII.17 Phassena ye dhammā -- Cetanāya ye dhammā -- Mana-
+sikāreṇa ye dhammā sampayuttā te dhammā. . . . pe
+. . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XII.18 Vedanāya ye dhammā -- Saññāya ye dhammā -- Sam-
+payuttā te dhammā . . . pe . . .?
+     Tīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Dvīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XII.19 Cittena ye dhammā sampayuttā te dhammā. . . .
+pe . . .?
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃ-
+gahītā.
+
+
+[page 090]
+90                      DHĀTU KATHĀ PAKARAṆAṂ.                 [XII.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XII.20 Sukhāya vedanāya sampayuttehi dhammehi ye
+dhammā -- Dukkhāya vedanāya sampayuttehi dhammehi
+ye dhammā -- Adukkhamasukhāya vedanāya sampayuttehi
+dhammehi ye dhammā -- Savitakka-savicārehi dhammehi
+ye dhammā -- Avitakka-vicara-mattehi dhammehi ye dham-
+mā -- Pīti-sahagatehi dhammehi ye dhammā -- Sukha-saha-
+gatehi dhammehi ye dhammā -- Upekhā-sahagatehi dham-
+mehi ye dhammā sampayuttā te dhammā . . . pe . . .?
+     Ekena khandhena ekenāyatanena ekāya dhātuyā asaṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XII.21 Hetūhi dhammehi ye dhammā -- Hetu c'eva sahetu-
+kehi dhammehi ye dhammā -- Hetu-sampayuttehi dham-
+mehi ye dhammā sampayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā -- Sahetukā c'eva na ca hetuhi dhammehi ye
+dhammā -- Hetu-sampayuttā c'eva na ca hetuhi dhammehi
+ye dhammā -- Na hetu sahetukehi dhammehi ye dhammā
+sampayuttā te dhammā . . . pe . . .?
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XII.22 Āsavehi dhammehi ye dhammā -- Āsavā c'eva sāsa-
+vehi dhammehi ye dhammā -- Āsavā c'eva āsava-sampa-
+yuttehi dhammehi ye dhammā sampayuttā te dhammā
+. . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hīta.
+
+
+[page 091]
+XII.]             SAMPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ.         91
+     Kātīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XII.23 Āsava-sampayuttā c'eva no ca āsavehi dhammehi ye
+dhammā {sampayuttā} te dhammā . . . pe . . .?
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XII.24 Saṃyojanehi dhammehi ye dhammā . . . pe . . .
+Ganthehi dhammehi ye dhammā -- Oghehi dhammehi ye
+dhammā-Yogehi dhammehi ye dhammā -- Nīvaraṇehi
+dhammehi ye dhammā . . . pe . . . Parāmāsehi dham-
+mehi ye dhammā -- Parāmāsā c'eva parāmaṭṭhehi dham-
+mehi ye dhammā sampayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XII.25 Parāmāsa-sampayuttehi dhammehi ye dhammā
+sampayuttā te dhammā . . . pe . . .?
+     Ekena khandhena ekenāyatanena ekāya dhātuyā saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XII.26 Cittehi dhammehi ye dhammā sampayuttā te
+dhammā . . . pe . . .?
+     Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā.
+     {Katīhi} asaṃgahītā?
+     Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XII.27 Cetasikehi dhammehi ye dhammā -- Citta-saṃsaṭṭhehi
+dhammehi ye dhammā -- Citta-saṃsaṭṭha-samuṭṭhānehi
+dhammehi ye dhammā -- Citta-saṃsaṭṭha-samuṭṭhāna-
+sahabhūhi dhammehi ye dhammā -- Citta-saṃsaṭṭha-sa-
+
+
+[page 092]
+92                    DHĀTU KATHĀ PAKARAṆAṂ.                  [XII.
+muṭṭhānānuparivattīhi dhammehi ye dhammā sampa-
+yuttā te dhammā . . . pe . . .?
+     Ekena khandhena ekenāyatanena sattahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XII.28 Upādānehi dhammehi ye dhammā . . . pe . . . .
+     Kilesehi dhammehi ye dhammā -- Kilesā c'eva saṃkile-
+sikehi dhammehi ye dhammā -- Kilesā c'eva saṃkiliṭṭhehi
+dhammehi ye dhammā -- Kilesā c'eva kilesa-sampayuttehi
+dhammehi ye dhammā sampayuttā te dhammā. . . .
+pe . . .?
+     Catuhi khandhehi dvihāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XII.29 Saṃkilesā c'eva no ca kilesehi dhammehi ye dhammā
+-- Kilesa-sampayuttā c'eva no ca kilesehi dhammehi ye
+dhammā -- Savitakkehi dhammehi ye dhammā -- Savicārehi
+dhammehi ye dhammā -- Sappītikehi dhammehi ye dhammā
+-- Pīti-sahagatehi dhammehi ye dhammā -- Sukha-sahaga-
+tehi dhammehi ye dhammā -- Upekhā-sahagatehi dhammehi
+ye dhammā sampayuttā te dhammā katīhi khandhehi katī-
+hāyatanehi katīhi dhātūhi saṃgahītā?
+     Te dhammā ekena khandhena ekenāyatanena ekāya dhā-
+tuyā saṃgahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhā-
+tūhi asaṃgahītā.
+          Sampayuttena saṃgahītāsaṃgahīta-pada-niddeso.
+
+
+[page 093]
+                                  93
+     XIII.] -- ASAṂGAHĪTENA SAMPAYUTTAṂ VIPPAYUTTAṂ.
+     Dhātuk_XIII.1 Rūpakkhandhena ye dhammā khandha-saṃgahena
+asaṃgahītā āyatana-saṃgahena asaṃgahītā dhātu-saṃga-
+hena asaṃgahītā te dhammā katīhi khandhehi katīhāya-
+tanehi katīhi dhātūhi sampayuttā? Te dhammā tīhi
+khandhehi sampayuttā ekenāyatanena ekāya dhātuyā
+kehici sampayuttā.
+     Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_XIII.2 Dhammāyatanena ye dhammā -- Dhammā-dhātuyā ye
+dhammā -- Itthindriyena ye dhammā -- Purisindriyena ye
+dhammā -- Jīvitindriyena ye dhammā -- Viññāṇa-paccayā
+nāmarūpena ye dhammā -- Asañña-bhavena ye dhammā --
+Eka-vokāra-bhavena ye dhammā -- Jātiyā ye dhammā --
+Jarāya ye dhammā -- Maraṇena ye dhammā khandha-saṃ-
+gahena asaṃgahītā dhātu-saṃgahena asaṃgahītā te
+dhammā . . . pe . . . .
+     Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhā-
+tuyā kehici sampayuttā.
+     Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_XIII.3 Arūpa-bhavena ye dhammā -- Nevasaññānāsaññabha-
+vena ye dhammā -- Catu-vokāra-bhavena ye dhammā --
+Iddhipādena ye dhammā khandha-saṃgahena asaṃgahītā
+āyatana-saṃgahena asaṃgahītā dhātu-saṃgahena asaṃga-
+hītā te dhammā katīhi khandhehi katīhāyatanehi katīhi
+dhātūhi sampayuttā ti?
+     Natthi.
+     Katīhi vippayuttā?
+
+
+[page 094]
+94                      DHĀTU KATHĀ PAKARAṆAṂ.                 [XIII.
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_XIII.4 Kusalehi dhammehi ye dhammā -- Akusalehi dham-
+mehi ye dhammā -- Sukhāya vedanāya sampayuttehi dham-
+mehi ye dhammā -- Dukkhāya vedanāya sampayuttehi
+dhammehi ye dhammā -- Adukkhamasukhāya vedanāya
+sampayuttehi dhammehi ye dhammā -- Vipākehi dhammehi
+ye dhammā -- Vipāka-dhamma-dhammehi ye dhammā --
+Anupādinna-anupādāniyehi dhammehi ye dhammā -- Saṃ-
+kiliṭṭha-saṃkilesikehi dhammehi ye dhammā -- Asaṃkiliṭ-
+ṭha-asaṃkilesikehi dhammehi ye dhammā -- Savitakka-
+savicārehi dhammehi ye dhammā -- Avitakka-avicāramattehi
+dhammehi ye dhammā -- Pīti-sahagatehi dhammehi ye
+dhammā -- Sukha-sahagatehi dhammehi ye dhammā --
+Upekhā-sahagatehi dhammehi ye dhammā -- Dassanena
+pahātabbehi dhammehi ye dhammā -- Bhāvanāya pahā-
+tabbehi dhammehi ye dhammā -- Dassanena pahātabba-
+hetukehi dhammehi ye dhammā -- Bhāvanāya pahātabba-
+hetukehi dhammehi ye dhammā -- Ācayagāmīhi dhammehi
+ye dhammā -- Apacayagāmihi dhammehi ye dhammā --
+Sekkhehi dhammehi ye dhammā -- Asekkhehi dhammehi ye
+dhammā -- Mahaggatehi dhammehi ye dhammā -- Appamā-
+ṇehi dhammehi ye dhammā -- Parittārammaṇehi dhammehi
+ye dhammā -- Mahaggatārammaṇehi dhammehi ye dhammā
+-- Appamāṇārammaṇehi dhammehi ye dhammā -- Hīnehi
+dhammehi ye dhammā -- Paṇītehi dhammehi ye dhammā --
+Micchatta-niyatehi dhammehi ye dhammā -- Samatta-niya-
+tehi dhammehi ye dhammā -- Maggārammaṇehi dhammehi
+ye dhammā -- Maggahetukehi dhammehi ye dhammā --
+Maggādhipatīhi dhammehi ye dhammā -- Atītārammaṇehi
+dhammehi ye dhammā -- Anāgatārammaṇehi dhammehi ye
+dhammā -- Paccuppannārammaṇehi dhammehi ye dhammā
+-- Ajjhattārammaṇehi dhammehi ye dhammā -- Bahiddhā-
+rammaṇehi dhammehi ye dhammā -- Ajjhattā-bahiddhā-
+rammaṇehi dhammehi ye dhammā -- Sahetukehi dhammehi
+ye dhammā -- Hetu-sampayuttehi dhammehi ye dhammā --
+Sahetukā c'eva na ca hetūhi dhammehi ye dhammā -- Hetu-
+sampayuttā c'eva na ca hetu-dhammehi ye dhammā -- Na-
+
+
+[page 095]
+XIII.]         ASAṂGAHĪTENA SAMPAYUTTAṂ VIPPAYUTTAṂ.           95
+hetu-sahetukehi dhammehi ye dhammā khandha-saṃga-
+hena asaṃgahītā āyatana-saṃgahena asaṃgahītā dhātu-
+saṃgahena asaṃgahītā te dhammā katīhi khandhehi katī-
+hāyatanehi katīhi dhātūhi sampayuttā ti?
+     Natthi.
+     Katīhi vippayuttā?
+     Catūhi khandhehi ekenāyatanena sattahi dhātuhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_XIII.5 Rūpīhi dhammehi ye dhammā khandha-saṃgahena
+asaṃgahītā āyatana-saṃgahena asaṃgahītā dhātu-saṃga-
+hena asaṃgahītā te dhammā . . . pe . . .?
+     Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhā-
+tuyā kehici sampayuttā.
+     Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vip-
+payuttā ekenāyatanena ekāya dhātuyā kehici vippa-
+yuttā.
+     Dhātuk_XIII.6 Arūpīhi dhammehi ye dhammā -- Lokuttarehi dham-
+mehi ye dhammā -- Anāsavehi dhammehi ye dhammā --
+Āsava-sampayuttehi dhammehi ye dhammā -- Āsava-sam-
+payuttā c'eva no ca āsavehi dhammehi ye dhammā -- Āsava-
+vippayuttā anāsavehi dhammehi ye dhammā -- Asaṃyoja
+nehi dhammehi ye dhammā -- Aganthaniyehi dhammehi ye
+dhammā -- Anoghaniyehi dhammehi ye dhammā -- Ayogani-
+yehi dhammehi ye dhammā -- Anīvaraṇiyehi dhammehi ye
+dhammā -- Aparāmaṭṭhehi dhammehi ye dhammā -- Parā-
+māsa-sampayuttehi dhammehi ye dhammā -- Parāmāsa-
+vippayutta-aparāmaṭṭhehi dhammehi ye dhammā -- Sāram-
+maṇehi dhammehi ye dhammā khandha-saṃgaheṇa asaṃ-
+gahītā āyatana-saṃgahena asaṃgahītā dhātu-saṃgahena
+asaṃgahītā te dhammā katīhi khandhehi katīhāyatanehi
+katīhi dhātūhi sampayuttā ti?
+     Natthi.
+     Katīhi vippayuttā?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_XIII.7 Anārammaṇehi dhammehi ye dhammā -- No cittehi
+dhammehi ye dhammā -- Citta vippayuttehi dhammehi ye
+
+
+[page 096]
+96                        DHĀTU KATHĀ PAKARAṆAṂ.                 [XIII.
+dhammā -- Cittā-saṃsaṭṭhehi dhammehi ye dhammā -- Cit-
+tasamuṭṭhānehi dhammehi ye dhammā -- Citta-sahabhūhi
+dhammehi ye dhammā -- Cittānuparivattīhi dhammehi ye
+dhammā -- Bāhirehi dhammehi ye dhammā -- Upādā-dham-
+mehi ye dhammā khandha-saṃgahena asaṃgahītā āyatana-
+saṃgahena asaṃgahītā dhātu-saṃgahena asaṃgahītā te
+dhammā katīhi dhātuhi sampayuttā?
+     Te dhamma tīhi khandhehi sampayuttā ekenāyatanena
+ekāya dhātuyā kehici sampayuttā.
+     Katīhi vippayuttā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Dhātuk_XIII.8 Anupādāniyehi dhammehi ye dhammā -- Upādāna-
+sampayuttehi dhammehi ye dhammā -- Upādāna-vippa-
+yutta-anupādānehi dhammehi ye dhammā -- Asaṃkilesikehi
+dhammehi ye dhammā -- Asaṃkiliṭṭhehi dhammehi ye
+dhammā -- Kilesa-sampayuttehi dhammehi ye dhammā --
+Saṃkiliṭṭhā c'eva no ca kilesehi dhammehi ye dhammā --
+Kilesa-sampayuttā c'eva no ca kilesehi dhammehi ye
+dhammā -- Kilesa-vippayutta asaṃkilesikehi dhammehi ye
+dhammā -- Dassanena pahātabbehi dhammehi ye dhammā
+-- Bhāvanāya pahātabbehi dhammehi ye dhammā -- Das-
+sanena pahātabba-hetukehi dhammehi ye dhammā -- Bhāva-
+nāya pahātabba-hetukehi dhammehi ye dhammā -- Savi-
+takkehi dhammehi ye dhammā -- Savicārehi dhammehi ye
+dhammā -- Sappītikehi dhammehi ye dhammā -- Pīti-
+sahagatehi dhammehi ye dhammā -- Sukha-sahagatehi
+dhammehi ye dhammā -- Upekha-sahagatehi dhammehi ye
+dhammā -- Kāmāvacarehi dhammehi ye dhammā -- Rūpā-
+vacarehi dhammehi ye dhammā -- Arūpāvacarehi dhammehi
+ye dhammā -- Apariyāpannehi dhammehi ye dhammā --
+Niyyānikehi dhammehi ye dhammā -- Niyatehi dhammehi
+ye dhammā -- Anuttarehi dhammehi ye dhammā -- Saraṇehi
+dhammehi ye dhammā khandha-saṃgahena asaṃgahītā
+āyatana-saṃgahena asaṃgahītā dhātu-saṃgahena asaṃga-
+hītā te dhammā katīhi khandhehi katīhāyatanehi katīhi
+dhātūhi sampayuttā ti?
+     Natthi.
+
+
+[page 097]
+XIII.]         ASAṂGAHĪTENA SAMPAYUTTAṂ VIPPAYUTTAṂ.           97
+     Katīhi vippayuttā?
+     Catuhi khandhehi ekenāyatanena sattahi dhātuhi vippa-
+yuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā.
+     Tatruddānaṃ.
+Rūpañ ca dhammāyatanaṃ dhammā -- dhātu itthī pumaṃ
+Jīvitam nāmarūpaṃ dve bhavā jāti jarā
+Maccu rūpaṃ anārammaṇaṃ no cittena vippayuttaṃ
+Visaṃsaṭṭha-samuṭṭhāna-sahabhu-anuparivattī
+Bāhiraṃ upādā dve vīsatiyo esa nayo subuddho.
+     Asaṃgahitena sampayutta-vippayutta-pada-niddeso.
+
+
+[page 098]
+                                98
+            XIV.-- VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ.
+     Dhātuk_XIV.1 Rūpakkhandhena ye dhammā vippayuttā te dhammā
+katīhi khandhehi katīhāyatanehi katīhi dhātūhi saṃ-
+gahītā?
+     Te dhammā catuhi khandhehi dvīhāyatanehi aṭṭhahi
+dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.2 Vedanākkhandhena ye dhammā -- Saññākkhandhena ye
+dhammā -- Saṃkhārakkhandhena ye dhammā -- Viññāṇak-
+khandhena ye dhammā -- Manāyatanena ye dhammā -- Ma-
+nindriyena ye dhammā vippayuttā te dhammā katīhi
+khandhehi katīhāyatanehi katīhi dhātūhi saṃgahītā.
+     Te dhammā asaṃkhataṃ khandhato ṭhapetvā ekena
+khandhena ekādasahi āyatanehi ekādasahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.3 Cakkhāyatanena ye dhammā . . . pe . . . Phoṭ-
+ṭhabbāyatanena ye dhammā -- Cakkhu-dhātuyā ye dhammā
+. . . pe . . . Phoṭṭhabba-dhātuyā ye dhammā vippa-
+yuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.4 Cakkhu-viññāṇa-dhātuyā ye dhammā -- Sota-viññāṇa-
+
+
+[page 099]
+XIV.]          VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ.            99
+dhātuyā ye dhammā -- Ghāna-viññāṇa-dhātuyā ye dhammā
+-- Jivhā-viññaṇa-dhātuyā ye dhammā -- Kāya-viññāṇa-
+dhātuyā ye dhammā -- Mano-dhātuyā ye dhammā -- Mano-
+viññāṇa-dhātuyā ye dhammā vippayuttā te dhammā. . . .
+pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvā-
+dasahi āyatanehi sattarasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+asaṃgahītā.
+     Dhātuk_XIV.5 Dukkha-saccena ye dhammā vippayuttā te dhammā
+. . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.6 Samudaya-saccena ye dhammā -- Magga-saccena ye
+dhammā vippayuttā te dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃghahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.7 Nirodha-saccena ye dhammā -- Cakkhundriyena ye
+dhammā -- Sotindriyena ye dhammā -- Ghānindriyena ye
+dhammā -- Jivhindriyena ye dhammā -- Kāyindriyena ye
+dhammā -- Itthindriyena ye dhammā -- Purisindriyena ye
+dhammā vippayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.8 Manindriyena ye dhammā -- Sukhindriyena ye dhammā
+-- Dukkhindriyena ye dhammā -- Somanassindriyena ye
+dhammā -- Domanassindriyena ye dhammā vippayuttā te
+dhammā . . . pe . . .?
+
+
+[page 100]
+100                  DHĀTU KATHĀ {PAKARAṆAṂ}.                 [XIV.
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanhehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi {asaṃgahītā}?
+     Na kehici khandhehi na kehici ayatanehi pañcahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.9 Saddhindriyena ye dhammā -- Viriyindriyena ye
+dhammā -- Satindriyena ye dhammā -- Samādhindriyena ye
+dhammā -- Paññindriyena ye dhammā -- Anaññātaṃ ñasā-
+mītindriyena ye dhammā -- Aññindriyena ye dhammā --
+Aññatāvindriyena ye dhammā -- Avijjāya ye dhammā --
+Avijjā-paccayā saṃkhārena ye dhammā vippayuttā te
+dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.10 Saṃkhāra-paccayā viññāṇena ye dhammā -- Saḷāya-
+tana-paccayā phassena ye dhammā -- Phassa-paccayā veda-
+nāya ye dhammā vippayuttā te dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena ekā-
+dasahi āyatanehi ekādasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.11 Vedanā-paccayā taṇhāya ye dhammā -- Taṇhā-paccayā
+upādānena ye dhammā -- Kamma-bhavena ye dhammā
+vippayuttā te dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.12 Uppatti-bhavena ye dhammā -- Saññā-bhavena ye
+dhammā -- Pañca-vokāra-bhavena ye dhammā vippayuttā
+te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātuhi saṃga-
+hītā.
+
+
+[page 101]
+XIV.]             VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ.           101
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.13 Kamma-bhavena ye dhammā vippayuttā te dhammā
+. . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi pañcahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi terasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.14 Rūpa-bhavena ye dhammā -- Asañña-bhavena ye
+dhammā -- Eka-vokāra-bhavena ye dhammā-Paridevena
+ye dhammā vippayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.15 Arūpa-bhavena ye dhammā -- Nevasaññānāsaññā-
+bhavena ye dhammā -- Catu-vokāra-bhavena ye dhammā --
+Sokena ye dhammā -- Dukkhena ye dhammā -- Domanassena
+ye dhammā -- Upāyāsena ye dhammā -- Satipaṭṭhānena ye
+dhammā -- Sammappadhānena ye dhammā -- Iddhipādena
+ye dhammā -- Jhānena ye dhammā -- Appamaññāya ye
+dhammā -- Pañcahi indriyehi ye dhammā -- Pañcahi balehi
+ye dhammā -- Sattahi bojjhaṃgehi ye dhammā -- Ariyena
+aṭṭhaṃgikena maggena ye dhammā vippayuttā te dhammā
+. . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.16 Phassena ye dhammā -- Vedanāya ye dhammā --
+Saññāya ye dhammā -- Cetanāya ye dhammā -- Cittena ye
+dhammā -- Manasikārena ye dhammā vippayuttā te dhammā
+. . . pe . . . .
+     Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena ekāda-
+sahi āyatanehi ekādasahi dhātūhi saṃgahītā.
+
+
+[page 102]
+102                     DHĀTU KATHĀ {PAKARAṆAṂ}.                 [XIV.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.17 Adhimokkhena ye dhammā vippayuttā te dhammā
+. . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi sattarasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+asaṃgahītā.
+     Dhātuk_XIV.18 Kusalehi dhammehi ye dhammā -- Akusalehi dham-
+mehi ye dhammā -- Sukhāya vedanāya sampayuttehi dham-
+mehi ye dhammā -- Dukkhāya vedanāya sampayuttehi
+dhammehi ye dhammā vippayuttā te dhammā . . . pe
+. . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.19 Avyākatehi dhammehi ye dhammā vippayuttā te
+dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.20 Adukkhamasukhāya vedanāya sampayuttehi dham-
+mehi ye dhammā -- Vipākehi dhammehi ye dhammā vippa-
+yuttā te dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi terasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi pañcahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XIV.21 Vipāka-dhamma-dhammehi ye dhammā -- {Saṃkiliṭ-
+ṭha-saṃkilesikehi} dhammehi ye dhammā vippayuttā te
+dhammā . . . pe . . .?
+
+
+[page 103]
+XIV.]             VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ.           103
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XIV.22 Neva-vipāka-na-vipāka-dhamma-dhammehi ye dham-
+mā -- Anupādinnupādāniyehi dhammehi ye dhammā --
+Anupādinna-anupādāniyehi dhammehi ye dhammā -- Asaṃ-
+kiliṭṭha-asaṃkilesikehi dhammehi ye dhammā vippayuttā
+te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.23 Upādinnupādāniyehi dhammehi ye dhammā vippa-
+yuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.24 Asaṃkiliṭṭha-saṃkilesikehi dhammehi ye dhammā
+vippayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.25 Savitakka-savicārehi dhammehi ye dhammā vippa-
+yuttā te dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi sattarasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+asaṃgahītā.
+     Dhātuk_XIV.26 Avitakkavicāramattehi dhammehi ye dhammā -- Pīti-
+sahagatehi dhammehi ye dhammā -- Sukha-sahagatehi
+
+
+[page 104]
+104                     DHĀTU KATHĀ PAKARAṆAṂ.                 [XIV.
+dhammehi ye dhammā vippayuttā te dhammā . . . pe
+. . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.27 Avitakkavicārehi dhammehi ye dhammā vippayuttā
+te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.28 Upekhā-sahagatehi dhammehi ye dhammā vippa-
+yuttā te dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi terasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi pañcahi dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XIV.29 Dassanena pahātabbehi dhammehi ye dhammā --
+Bhāvanāya pahātabbehi dhammehi ye dhammā -- Dassa-
+nena pahātabba-hetukehi dhammehi ye dhammā -- Bhāva-
+nāya pahātabba-hetukehi dhammehi ye dhammā -- Ācaya-
+gāmihi dhammehi ye dhammā -- Apacayagāmihi dhammehi
+ye dhammā -- Sekhehi dhammehi ye dhammā -- Asekhehi
+dhammehi ye dhammā -- Mahaggatehi dhammehi ye
+dhammā vippayuttā te dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XIV.30 Neva dassanena na bhāvanāya pahātabbehi dham-
+mehi ye dhammā -- Neva dassanena na bhāvanāya pahā-
+
+
+[page 105]
+XIV.]             VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ.           105
+tabba-hetukehi dhammehi ye dhammā -- Nevā-ācayagāmi-
+na-apacayagāmīhi dhammehi ye dhammā -- Neva sekhā
+nāsekhehi dhammehi ye dhammā -- Parittehi dhammehi
+ye dhammā vippayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.31 Appamāṇehi dhammehi ye dhammā -- Paṇītehi dham-
+mehi ye dhammā vippayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi {saṃga-
+hītā}.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.32 Parittārammaṇehi dhammehi ye dhammā vippa-
+yuttā te dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi dvādasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.33 Mahaggatārammaṇehi dhammehi ye dhammā -- Appa-
+māṇārammaṇehi dhammehi ye dhammā -- Hīnehi dham-
+mehi ye dhammā -- Micchatta-niyatehi dhammehi ye dham-
+mā -- Sammatta-niyatehi dhammehi ye dhammā -- Maggā-
+rammaṇehi dhammehi ye dhammā -- Magga-hetukehi
+dhammehi ye dhammā -- Maggādhipatīhi dhammehi ye
+dhammā vippayuttā te dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XIV.34 Majjhimehi dhammehi ye dhammā -- Aniyatehi dham-
+mehi ye dhammā vippayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhatūhi saṃgahītā.
+
+
+[page 106]
+106                       DHĀTU KATHĀ PAKARAṆAṂ.                  [XIV.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.35 Uppannehi dhammehi ye dhammā -- Anuppannehi
+dhammehi ye dhammā -- Uppādehi dhammehi ye dhammā --
+Atītehi dhammehi ye dhammā -- Anāgatehi dhammehi ye
+dhammā -- Paccuppannehi dhammehi ye dhammā -- Ajjhat-
+tehi dhammehi ye dhammā -- Bahiddhā dhammehi ye
+dhammā -- Sanidassana-sappaṭighehi dhammehi ye dhammā
+-- Anidassana-sappaṭighehi dhammehi ye dhammā vippa-
+yuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.36 Atītārammaṇehi dhammehi ye dhammā -- Anāgatāram-
+maṇehi dhammehi ye dhammā -- Ajjhattārammaṇehi dham-
+mehi ye dhammā -- Bahiddhārammaṇehi dhammehi ye
+dhammā vippayuttā te dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XIV.37 Paccuppannārammaṇehi dhammehi ye dhammā --
+Ajjhattabahiddhārammaṇehi dhammehi ye dhammā vippa-
+yuttā te dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi dvādasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi chahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.38 Hetuhi dhammehi ye dhammā -- Sahetukehi dham-
+mehi ye dhammā -- Hetu-sampayuttehi dhammehi ye dham-
+mā -- Hetu c'eva sahetukehi dhammehi ye dhammā -- Sahe-
+tukā c'eva na ca hetukehi dhammehi ye dhammā -- Hetu
+c'eva hetu-sampayuttehi dhammehi ye dhammā -- Hetu-
+
+
+[page 107]
+XIV.]          VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ.            107
+sampayuttā c'eva na ca hetuhi dhammehi ye dhammā --
+Na-hetu-sahetukehi dhammehi ye dhammā vippayutta te
+dhammā . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.39 Ahetukehi dhammehi ye dhammā -- Hetuvippayuttehi
+dhammehi ye dhammā -- Nahetuahetukehi dhammehi ye
+dhammā vippayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     {Katīhi} asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.40 Appaccayehi dhammehi ye dhammā -- Asaṃkhatehi
+dhammehi ye dhammā -- Sanidassanehi dhammehi ye
+dhammā -- Sappaṭighehi dhammehi ye dhammā -- Rūpīhi
+dhammehi ye dhammā -- Lokuttarehi dhammehi ye dhammā
+vippayuttā te dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.41 Lokiyehi dhammehi ye dhammā vippayuttā te
+dhammā . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.42 Āsavehi dhammehi ye dhammā -- Āsava-sampayuttehi
+dhammehi ye dhammā -- Āsavā c'eva sāsavehi dhammehi
+ye dhammā -- Āsavā c'eva āsava-sampayuttehi dhammehi
+ye dhammā -- Āsava-sampayuttā c'eva no ca āsavehi
+dhammehi ye dhammā vippayuttā te dhammā . . .
+pe . . .?
+
+
+[page 108]
+108                       DHĀTU KATHĀ PAKARAṆAṂ.                  [XIV.
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā?
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.43 Sāsavehi dhammehi ye dhammā-Āsava-sampayut-
+tehi dhammehi ye dhammā-Sāsavā c'eva no ca āsavehi
+dhammehi ye dhammā-Āsava-vippayutta-sāsavehi dham-
+mehi ye dhammā vippayuttā te dhammā. . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.44 Anāsavehi dhammehi ye dhammā-Āsava-vippayutta-
+anāsavehi dhammehi ye dhammā vippayuttā te dhammā
+. . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhārasahi dhātūhi
+saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.45 Saṃyojanehi dhammehi ye dhammā. . . . pe . . .
+Ganthehi dhammehi ye dhammā-Oghehi dhammehi ye
+dhammā-Yogehi dhammehi ye dhammā-Nīvaraṇehi
+dhammehi ye dhammā. . . . pe . . . Parāmāsehi
+dhammehi ye dhammā-Parāmāsa-sampayuttehi dham-
+mehi ye dhammā-Parāmāsā c'eva parāmaṭṭhehi dhammehi
+ye dhammā vippayuttā te dhammā. . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.46 Parāmaṭṭhehi dhammehi ye dhammā-Parāmāsa-
+vippayuttehi dhammehi ye dhammā-Parāmaṭṭhā c'eva
+no ca parāmāsehi dhammehi ye dhammā-Parāmāsa-
+vippayutta-parāmaṭṭhehi dhammehi ye dhammā vippayuttā
+te dhammā. . . . pe . . .?
+
+
+[page 109]
+XIV.]           VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ             109
+     Catuhi khandhehi dvihāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.47 Aparāmaṭṭhehi dhammehi ye dhammā-Parāmāsa-
+vippayutta-aparāmaṭṭhehi dhammehi ye dhammā vippayuttā
+te dhammā. . . . pe . . .?
+     Catuhi khandhehi dvihāyatanehi aṭṭhahi dhātuhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā.
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.48 Sārammaṇehi dhammehi ye dhammā-Cittehi dham-
+mehi ye dhammā-Cetasikehi dhammehi ye dhammā-
+Citta-sampayuttehi dhammehi ye dhammā-Citta-saṃ-
+saṭṭhehi dhammehi ye dhammā-Citta-saṃsaṭṭha-samuṭ-
+ṭhānehi dhammehi ye dhammā-Citta-saṃsaṭṭha-samuṭ-
+ṭhāna-sahabhūhi dhammehi ye dhammā-Citta-saṃsaṭṭha-
+samuṭṭhānānuparivattīhi dhammehi ye dhammā vippayuttā
+te dhammā. . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena
+ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.49 Anārammaṇehi dhammehi ye dhammā-Citta-vippa-
+yuttehi dhammehi ye dhammā-Citta-saṃsaṭṭhehi dham-
+mehi ye dhammā-Upādā-dhammehi ye dhammā-Anupā-
+dinnehi dhammehi ye dhammā vippayutta te dhammā
+. . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.50 Upādinnehi dhammehi ye dhammā vippayuttā te
+dhammā. . . . pe . . .
+
+
+[page 110]
+110                      DHĀTU KATHĀ PAKARAṆAṂ.                  [XIV.
+     Catuhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.51 Upādānehi dhammehi ye dhammā. . . . pe . . .
+Kilesehi dhammehi ye dhammā-Saṃkiliṭṭhehi dhammehi
+ye dhammā-Kilesa-sampayuttehi dhammehi ye dhammā
+-Kilesā c'eva saṃkilesikehi dhammehi ye dhammā-
+Saṃkiliṭṭhā c'eva no ca kilesehi dhammehi ye dhamma-
+Kilesā c'eva kilesa-sampayuttehi dhammehi ye dhammā-
+Kilesa-sampayuttā c'eva no ca kilesehi dhammehi ye
+dhammā vippayuttā te dhammā. . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.52 Saṃkilesikehi dhammehi ye dhammā-Asaṃkiliṭ-
+ṭhehi dhammehi ye dhammā-Kilesa-vippayuttehi dham-
+mehi ye dhammā-Saṃkilesikā c'eva no ca kilesehi
+dhammehi ye dhammā-Kilesa-vippayutta-asaṃkilesikehi
+dhammehi ye dhammā vippayuttā te dhammā. . . . pe
+. . . .?
+     Catuhi khandhehi dvīhāyatanehi dvihi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.53 Asaṃkilesikehi dhammehi ye dhammā-Kilesa-vippa-
+yutta-asaṃkilesikehi dhammehi ye dhammā vippayuttā te
+dhammā. . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃ-
+gahītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.54 Dassanena pahātabbehi dhammehi ye dhammā-
+Bhāvanāya pahātabbehi dhammehi ye dhammā-Dassanena
+
+
+[page 111]
+XIV.]           VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ             111
+pahātabba-hetukehi dhammehi ye dhammā-Bhāvanāya
+pahātabba-hetukehi dhammehi ye dhammā vippayuttā te
+dhammā. . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Kātīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.55 Na dassanena pahātabbehi dhammehi ye dhammā-
+Na bhāvanāya pahātabbehi dhammehi ye dhammā-Na
+dassanena pahātabba-hetukehi dhammehi ye dhammā-
+Na bhāvanāya pahātabba-hetukehi dhammehi ye dhammā
+vippayuttā te dhammā. . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
+asaṃgahītā.
+     Dhātuk_XIV.56 Savitakkehi dhammehi ye dhammā-Savicārehi
+dhammehi ye dhammā vippayuttā te dhammā. . . . pe
+. . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi sattarasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
+asaṃgahītā.
+     Dhātuk_XIV.57 Sappītikehi dhammehi ye dhammā-Pīti-sahagatehi
+dhammehi ye dhammā-Sukha-sahagatehi dhammehi ye
+dhammā vippayuttā te dhammā. . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.58 Upekhā-sahagatehi dhammehi ye dhammā vippayuttā
+te dhammā. . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi terasahi dhātūhi saṃgahītā.
+
+
+[page 112]
+112                       DHĀTU KATHĀ PAKARAṆAṂ.                  [XIV.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi pañcahi
+dhātūhi asaṃgahītā.
+     Dhātuk_XIV.59 Kāmāvacarehi dhammehi ye dhammā-Pariyāpan-
+nehi dhammehi ye dhammā-Sauttarehi dhammehi ye
+dhammā vippayuttā te dhammā. . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi asaṃga-
+hītā
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhātuk_XIV.60 Na kāmāvacarehi dhammehi ye dhammā-Apariyā-
+pannehi dhammehi ye dhammā-Anuttarehi dhammehi ye
+dhammā vippayuttā te dhammā. . . . pe . . .?
+     Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃga-
+hītā.
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃga-
+hītā.
+     Dhātuk_XIV.61 Rūpāvacarehi dhammehi ye dhammā-Arūpāvacarehi
+dhammehi ye dhammā-Niyyānikehi dhammehi ye dhammā
+-Niyatehi dhammehi ye dhammā-Saraṇehi dhammehi
+ye dhammā vippayuttā te dhammā. . . . pe . . .?
+     Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi
+dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā.
+     Katīhi asaṃgahītā?
+     Na kehici khandhehi na kehici āyatanehi na kāhici dhā-
+tūhi asaṃgahītā.
+     Dhātuk_XIV.62 Na rūpāvacarehi dhammehi ye dhammā-Na arūpā-
+vacarehi dhammehi ye dhammā-Aniyyānikehi dhammehi
+ye dhammā-Aniyatehi dhammehi ye dhammā-Ara-
+ṇehi dhammehi ye dhammā vippayuttā te dhammā katīhi
+khandhehi katīhi āyatanehi katīhi dhātūhi saṃgahītā?
+     Te dhammā catuhi khandhehi dvīhāyatanehi dvīhi dhā-
+tūhi saṃgahītā.
+
+
+[page 113]
+XIV.]           VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ             113
+     Katīhi asaṃgahītā?
+     Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃ-
+gahītā.
+     Dhammāyatanaṃ dhammadhātu jīvitannāma chalā-
+bhi
+     Jātiyo jarā maraṇaṃ dve jātike na labbhare
+     Paṭhamantare satta gocchake dasa aparanena cuddasa
+     Cha paṭhamake icc ete satta cattārīsā dhammā
+     Samucchedenupalabbhati mogha-pucchakena vā ti.
+     Vippayuttena saṃgahīta-asaṃgahīta-pada-niddeso.
+     Dhātukathāppakaranaṃ samattaṃ Mahāvihāra-vāsinaṃ
+vācanā-maggena.
+     Saṃgahamasaṃgahaṃ sampayoga-vippayogaṃ paramhi
+ca
+     Gambhīraṃ nipuṇaṃ ṭhānaṃ tam pi Buddhena desitaṃ.
+     Saṃgahītena asaṃgahītaṃ asaṃgahītena ca saṃgahī-
+taṃ
+     Saṃgahītena saṃgahītam asaṃgahītena c'asaṃgahītaṃ
+     Gambhīra-dhammaṃ catusaccagocaram
+     Catuppakāraṃ vibhajī Tathāgato.
+     Sampayuttena ca vippayuttaṃ vippayuttena sampayut-
+taṃ
+     Sampayuttena ca sampayuttaṃ vippayuttena ca vippa-
+yuttam
+     Rūpī arūpī bahu-dhamma-saṃkulaṃ
+     Vibhajji dhammaṃ catudhā Tathāgato.
+                           Siddhir astu.
+
+
+
+
+
