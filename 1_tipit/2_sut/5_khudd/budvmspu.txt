@@ -1,0 +1,2801 @@
+
+
+Buddhavamsa
+Based on the new ed. by N. A. Jayawickrama: Buddhavaṃsa and Cariyāpiṭaka,
+London : Pali Text Society 1974 (PTS Text Series, 166).
+
+
+
+
+Input by the Dhammakaya Foundation, Thailand, 1989-1996
+
+
+
+
+NOTICE
+These files are provided by courtesy of the Pali Text Society for
+scholarly purposes only.
+In principle they represent a digital edition (without revision or
+correction) of the printed editions of the complete set of Pali
+canonical texts published by the PTS. While they have been subject to a
+process of checking, it should not be assumed that there is no
+divergence from the printed editions and it is strongly recommended that
+they are checked against the printed editions before quoting.
+
+
+
+PLAIN TEXT VERSION
+(In order to fascilitate word search, all annotations have been remove, 
+and the line breaks of the printed edition have been converted into floating text.)
+
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+
+
+
+[page 001]
+                                  1
+              Namo tassa bhagavato arahato sammāsambuddhassa.
+                              BUDDHAVAṂSO
+                      I -- RATANACAṄKAMANAKAṆḌAṂ
+Brahmā ca lokādhipatī Sahampatī katañjalī anadhivaraṃ ayācatha:  /
+santīdha sattā apparajakkhajātikā, desehi dhammaṃ anukamp'; imaṃ pajaṃ // Bv_1.1 //
+Sampannavijjācaraṇassa tādino jutindharass'; antimadehadhārino  /
+tathāgatass'; appaṭipuggalassa uppajji kāruññatā sabbasatte  // Bv_1.2 //
+Na h'; ete jānanti sadevamānusā buddho ayaṃ kīdisako nar'; uttamo  /
+iddhibalaṃ paññābalañca kīdisaṃ buddhabalaṃ lokahitassa kīdisaṃ  // Bv_1.3 //
+Na h'; ete jānanti sadevamānusā buddho ayaṃ īdisako nar'; uttamo  /
+iddhibalaṃ paññābalañca īdisaṃ buddhabalaṃ lokahitassa īdisaṃ // Bv_1.4 //
+Handāhaṃ dassayissāmi buddhabalaṃ anuttaraṃ  /
+caṅkamaṃ māpayissāmi nabhe ratanamaṇḍitaṃ  // Bv_1.5 //
+Bhummā Mahārājika-Tāvatiṃsā Yāmā ca devā Tusitā ca Nimmitā  /
+Paranimmitā ye pi ca Brahmakāyikā ānanditā vipulam-akaṃsu ghosaṃ  // Bv_1.6 //
+Obhāsitā ca paṭhavī sadevakā puthū ca lok'; antarikā asaṃvutā,  /
+tamo ca tibbo vihato tadā ahū disvāna accherakaṃ pāṭihīraṃ  // Bv_1.7 //
+
+
+[page 002]
+2                             BUDDHAVAṂSO
+
+Sadevagandhabbamanussarakkhase ābhā uḷārā vipulā ajāyatha  /
+imasmiṃ loke parasmiṃ cobhayasmiṃ adho ca uddhaṃ tiriyañca vitthataṃ  // Bv_1.8 //
+Satt'; uttamo anadhivaro vināyako satthā ahū devamanussapūjito  /
+mahānubhāvo satapuññalakkhaṇo dassesi accherakaṃ pāṭihīraṃ // Bv_1.9 //
+So yācito devavarena cakkhumā atthaṃ samekkhitva tadā nar'; uttamo  /
+caṅkamaṃ tattha māpayi lokanāyako suniṭṭhitaṃ sabbaratananimmitaṃ  // Bv_1.10 //
+Iddhī ca ādesanā'; nusāsanī tipāṭihīre bhagavā vasī ahu  /
+caṅkamaṃ māpayi lokanāyako suniṭṭhitaṃ sabbaratananimmitaṃ  // Bv_1.11 //
+Dasasahassīlokadhātuyā Sinerupabbat'; uttame  /
+thambhe va dassesi paṭipāṭiyā caṅkame ratanāmaye  // Bv_1.12 //
+Dasasahassī atikkamma caṅkamaṃ māpayī jino  /
+sabbasovaṇṇamayā passe caṅkame ratanāmaye  // Bv_1.13 //
+Tulāsaṅghāṭānuvaggā sovaṇṇaphalak'; atthatā  /
+vedikā sabbasovaṇṇā d-ubhatopassesu nimmitā  // Bv_1.14 //
+Maṇimuttāvālukākiṇṇā nimmitā ratanāmayā  /
+obhāseti disā sabbā sataraṃsī va uggato  // Bv_1.15 //
+Tasmiṃ caṅkamane dhīro dvattiṃsavaralakkhaṇo  /
+virocamāno sambuddho caṅkame caṅkamī jino  // Bv_1.16 //
+Dibbaṃ mandāravaṃ pupphaṃ padumaṃ pāricchattakaṃ  /
+caṅkamane okiranti sabbe devā samāgatā  // Bv_1.17 //
+Passanti taṃ devasaṅghā dasasahassī pamoditā  /
+namassamānā nipatanti tuṭṭhahaṭṭhā pamoditā  // Bv_1.18 //
+Tāvatiṃsā ca Yāmā ca Tusitā cāpi devatā  /
+Nimmāṇaratino devā ye devā Vasavattino  /
+udaggacittā sumanā passanti lokanāyakaṃ  // Bv_1.19 //
+
+
+[page 003]
+                           RATANACAṄKAMANAKAṆḌAM               3
+
+Sadevagandhabbamanussarakkhasā nāgā supaṇṇā athavāpi kinnarā  /
+passanti taṃ lokahitānukampakaṃ nabhe va accuggatacandamaṇḍalaṃ  // Bv_1.20 //
+Ābhassarā Subhakiṇhā Vehapphalā Akaniṭṭhā ca devatā  /
+susuddhasukkavatthavasanā tiṭṭhanti pañjalīkatā  // Bv_1.21 //
+Muñcanti pupphaṃ pana pañcavaṇṇikaṃ mandāravaṃ candanacuṇṇamissitaṃ  /
+bhamenti celāni ca ambare tadā aho jino lokahitānukampako  // Bv_1.22 //
+Tuvaṃ satthā ca ketū ca dhajo yūpo ca pāṇinaṃ  /
+parāyano patiṭṭhā ca dīpo ca dvipad'; uttamo  // Bv_1.23 //
+Dasasahassī- lokadhātuyā devatāyo mah'; iddhikā  /
+parivāretvā namassanti tuṭṭhahaṭṭhā pamoditā  // Bv_1.24 //
+Devatā devakaññā ca pasannā tuṭṭhamānasā  /
+pañcavaṇṇikapupphehi pūjayanti narāsabhaṃ  // Bv_1.25 //
+Passanti taṃ devasaṅghā pasannā tuṭṭhamānasā  /
+pañcavaṇṇikapupphehi pūjayanti narāsabhaṃ  // Bv_1.26 //
+Aho acchariyaṃ loke abbhutaṃ lomahaṃsanaṃ  /
+na-m-edisaṃ bhūtapubbaṃ accheraṃ lomahaṃsanaṃ  // Bv_1.27 //
+Sakaṃsakamhi bhavane nisīditvāna devatā  /
+hasanti mahāhasitaṃ disvan'; accherakaṃ nabhe  // Bv_1.28 //
+Ākasaṭṭhā ca bhummaṭṭhā tiṇapanthanivāsino  /
+katañjalī namassanti tuṭṭhahaṭṭhā pamoditā  // Bv_1.29 //
+Ye pi dīghāyukā nāgā puññavanto mah'; iddhikā  /
+pamoditā namassanti pūjayanti nar'; uttamaṃ  // Bv_1.30 //
+Saṅgītiyo pavattenti ambare anil'; añjase  /
+cammanaddhāni vādenti disvan'; accherakaṃ nabhe  // Bv_1.31 //
+Saṅkhā ca paṇavā c'; eva atho pi ḍiṇḍimā bahū  /
+antalikkhasmi vajjenti disvān'; accherakaṃ nabhe  // Bv_1.32 //
+Abbhuto vata no ajja uppajji lomahaṃsano  /
+dhuvam-atthasiddhiṃ labhāma khaṇo no paṭipādito  // Bv_1.33 //
+
+
+[page 004]
+4                               BUDDHAVAṂSO
+
+Buddho 'ti tesaṃ sutvāna pīti uppajji tāvade  /
+buddho buddho 'ti kathayantā tiṭṭhanti pañjalīkatā  // Bv_1.34 //
+Hiṃkāraṃ sādhukārañca ukkuṭṭhiṃ sampasādanaṃ /
+pajā vividhā gagane vattenti pañjalīkatā  // Bv_1.35 //
+Gāyanti selenti ca vādayanti ca bhujāni poṭhenti ca naccayanti ca  /
+muñcanti pupphaṃ pana pañcavaṇṇikaṃ mandāravaṃ candanacuṇṇamissitaṃ  // Bv_1.36 //
+Yathā tuyhaṃ mahāvīra pādesu cakkalakkhaṇaṃ  /
+dhajavajirapatākā vaḍḍhamān'; aṅkusācitaṃ, // Bv_1.37 //
+Rūpe sīle samādhimhi paññāya ca asādiso  /
+vimuttiyā asamasamo dhammacakkappavattane  // Bv_1.38 //
+Dasanāgabalaṃ kāye tuyhaṃ pākatikaṃ balaṃ  /
+iddhibalena asamo dhammacakkappavattane  // Bv_1.39 //
+Evaṃ sabbaguṇopetaṃ sabbaṅgasamupāgataṃ  /
+mahāmuniṃ kāruṇikaṃ lokanāthaṃ namassatha  // Bv_1.40 //
+Abhivādanaṃ thomanañca vandanañca pasaṃsanaṃ  /
+namassanañca pūjañca sabbaṃ arahasī tuvaṃ  // Bv_1.41 //
+Ye keci loke vandaneyyā vandanaṃ arahanti ye  /
+sabbaseṭṭho mahāvīra, sadiso te na vijjati  // Bv_1.42 //
+Sāriputto mahāpañño samādhijjhānakovido  /
+Gijjhakūṭe ṭhito yeva passati lokanāyakaṃ  // Bv_1.43 //
+Suphullaṃ sālarājaṃ va candaṃ va gagane yathā  /
+majjhantike va suriyaṃ oloketi narāsabhaṃ  // Bv_1.44 //
+Jalantaṃ dīparukkhaṃ va taruṇasuriyaṃ va uggataṃ  /
+byāmappabhānurañjitaṃ dhīraṃ passati nāyakaṃ // Bv_1.45 //
+Pañcannaṃ bhikkhusatānaṃ katakiccāna tādinaṃ  /
+khīṇasavānaṃ vimalānaṃ khaṇena sannipātayī  // Bv_1.46 //
+Lokappasādanaṃ nāma pāṭihīraṃ nidassayī  /
+amhe pi tattha gamissāma, vandissāma mayaṃ jinaṃ  // Bv_1.47 //
+Etha sabbe samāgantvā pucchissāma mayaṃ jinaṃ  /
+kaṅkhaṃ vinodayissāma passitvā lokanāyakaṃ  // Bv_1.48 //
+
+
+[page 005]
+                                 RATANACAṄKAMANAKAṆḌAṂ               5
+
+Sādhū 'ti te paṭissutvā nipakā saṃvut'; indriyā  /
+pattacīvaram-ādāya taramānā upāgamuṃ  // Bv_1.49 //
+Khīṇāsavehi vimalehi dantehi uttame dame  /
+Sāriputto mahāpañño iddhiyā upasaṅkamī  // Bv_1.50 //
+Tehi bhikkhūhi parivuto Sāriputto mahāgaṇī  /
+jalanto devo va gagane iddhiyā upasaṅkamī  // Bv_1.51 //
+Ukkāsitañca khipitaṃ ajjhupekkhiya subbatā  /
+sagāravā sappatissā sambuddhaṃ upasaṅkamuṃ  // Bv_1.52 //
+Upasaṅkamitvā passanti sayambhuṃ lokanāyakaṃ  /
+nabhe accuggataṃ dhīraṃ candaṃ va gagane yathā  // Bv_1.53 //
+Jalantaṃ dīparukkhaṃ va vijjū va gagane yathā  /
+majjhantike va suriyaṃ passanti lokanāyakaṃ  // Bv_1.54 //
+Pañca bhikkhusatā sabbe passanti lokanāyakaṃ  /
+rahadam-iva vippasannaṃ suphullaṃ padumaṃ yathā  // Bv_1.55 //
+Añjaliṃ paggahetvāna tuṭṭhahaṭṭhā pamoditā  /
+namassamānā nipatanti satthuno cakkalakkhaṇe  // Bv_1.56 //
+Sāriputto mahāpañño koraṇḍasamasādiso  /
+samādhijjhānakusalo vandatī lokanāyakaṃ  // Bv_1.57 //
+Gajjitā kālamegho va nīl'; uppalasamasādiso  /
+iddhibalena asamo Moggallāno mah'; iddhiko  // Bv_1.58 //
+Mahākassapo pi ca thero uttattakanakasannibho  /
+dhutaguṇe agganikkhitto thomito satthuvaṇṇito  // Bv_1.59 //
+Dibbacakkhūnaṃ yo aggo Anuruddho mahāgaṇī  /
+ñātiseṭṭho bhagavato avidūre va tiṭṭhati  // Bv_1.60 //
+Āpatti-anāpattiyā satekicchāya kovido  /
+vinaye agganikkhitto Upāli satthuvaṇṇito  // Bv_1.61 //
+Sukhumanipuṇ'; atthapaṭividdho kathikānaṃ pavaro gaṇī  /
+isi Mantāniyā putto Puṇṇo nāmā 'ti vissuto  // Bv_1.62 //
+Etesaṃ cittam-aññāya opammakusalo muni  /
+kaṅkhacchedo mahāvīro kathesi attano guṇaṃ  // Bv_1.63 //
+
+
+[page 006]
+6                               BUDDHAVAṂSO
+
+Cattāro te asaṅkheyyā koṭi yesaṃ na ñāyati  /
+sattakāyo ca ākāso cakkavāḷā c'; anantakā,  /
+Buddhañāṇaṃ appameyyaṃ na sakkā ete vijānituṃ  // Bv_1.64 //
+Kim-etaṃ acchariyaṃ loke yaṃ me iddhivikubbanaṃ  /
+aññe bahū acchariyā abbhutā lomahaṃsanā  // Bv_1.65 //
+Yadā'; haṃ Tusite kāye Santusito nām'; ahaṃ tadā  /
+dasasahassī samāgamma yācanti pañjalī mamaṃ  // Bv_1.66 //
+Kālo deva mahāvīra, uppajja mātukucchiyaṃ   /
+sadevakaṃ tārayanto bujjhassu amataṃ padaṃ  // Bv_1.67 //
+Tusitā kāyā cavitvāna yadā okkami kucchiyaṃ  /
+dasasahassī lokadhātu kampittha dharaṇī tadā  // Bv_1.68 //
+Yadā'; haṃ mātukucchito sampajāno va nikkhamiṃ  /
+sādhukāraṃ pavattentī dasasahassī pakampatha  // Bv_1.69 //
+Okkanti me samo n'; atthi jātito abhinikkhame  /
+sambodhiyaṃ ahaṃ seṭṭho dhammacakkappavattane  // Bv_1.70 //
+Aho acchariyaṃ loke buddhānaṃ guṇamahantatā  /
+dasasahassī lokadhātu chappakāraṃ pakampatha  // Bv_1.71 //
+Obhāso ca mahā āsi accheraṃ lomahaṃsanaṃ  /
+bhagavā ca tamhi samaye lokajeṭṭho narāsabho  // Bv_1.72 //
+Sadevakaṃ dassayanto iddhiyā caṅkamī jino  /
+caṅkame caṅkamanto va kathesi lokanāyako,  /
+antarā na nivatteti catuhatthe caṅkame yathā  // Bv_1.73 //
+Sāriputto mahāpañño samādhijjhānakovido  /
+paññāya pāramippatto pucchati lokanāyakaṃ:  // Bv_1.74 //
+Kīdiso te mahāvīra abhinīhāro nar'; uttama  /
+kamhi kāle tayā dhīra pattitā bodhi-m-uttamā  // Bv_1.75 //
+Dānaṃ sīlañca nekkhammaṃ paññāviriyañca kīdisaṃ  /
+khanti-saccam-adhiṭṭhānaṃ mett'; upekkhā ca kīdisā  // Bv_1.76 //
+Dasapāramī tayā dhīra kīdisā lokanāyaka  /
+kathaṃ upapāramī puṇṇā param'; atthapāramī kathaṃ // Bv_1.77 //
+Tassa puṭṭho viyākāsi karavīkamadhuraṅgiro  /
+nibbāpayanto hadayaṃ hāsayanto sadevakaṃ  // Bv_1.78 //
+
+
+[page 007]
+                                    RATANACAṄKAMANAKAṆḌAṂ               7
+
+Atītabuddhānaṃ jinānaṃ desitaṃ nikīḷitaṃ buddhaparamparāgataṃ  /
+pubbenivāsānugatāya buddhiyā pakāsayī lokahitaṃ sadevake  // Bv_1.79 //
+Pītipāmojjajananaṃ sokasallavinodanaṃ  /
+sabbasampattipaṭilābhaṃ cittīkatvā suṇātha me  // Bv_1.80 //
+Madanimmadanaṃ sokanudaṃ saṃsāraparimocanaṃ /
+sabbadukkhakkhayaṃ maggaṃ sakkaccaṃ paṭipajjathā 'ti  // Bv_1.81 //
+                            Ratanacaṅkamanakaṇḍaṃ niṭṭhitaṃ
+
+
+[page 008]
+8
+
+
+
+[page 009]
+                                        9
+                              II -- DĪPAṄKARABUDDHAVAṂSO
+Kappe ca satasahasse ca caturo ca asaṅkhiye  /
+Amaraṃ nāma nagaraṃ dassaneyyaṃ manoramaṃ  // Bv_2.1 //
+Dasahi saddehi avivittaṃ annapānasamāyutaṃ  /
+hatthisaddaṃ assasaddaṃ bherisaṅkharathāni ca  /
+khādatha pivaca c'; eva annapānena ghositaṃ // Bv_2.2 //
+Nagaraṃ sabbaṅgasampannaṃ sabbakammam-upāgataṃ  /
+sattaratanasampannaṃ nānājanasamākulaṃ  /
+samiddhaṃ devanagaraṃ va āvāsaṃ puññakamminaṃ  // Bv_2.3 //
+Nagare Amaravatiyā Sumedho nāma brāhmaṇo  /
+anekakoṭisannicayo pahūtadhanadhaññavā  // Bv_2.4 //
+Ajjhāyako mantadharo tiṇṇaṃ vedāna pāragū  /
+lakkhaṇe itihāse ca sadhamme pāramiṃ gato  // Bv_2.5 //
+Rahogato nisīditvā evaṃ cintes'; ahaṃ tadā:  /
+dukkho punabbhavo nāma sarīrassa ca bhedanaṃ, // Bv_2.6 //
+Jātidhammo jarādhammo vyādhidhammo c'; ahaṃ tadā  /
+ajaraṃ amaraṃ khemaṃ pariyesissāmi nibbutiṃ  // Bv_2.7 //
+Yannūn'; imaṃ pūtikāyaṃ nānākuṇapapūritaṃ  /
+chaḍḍayitvāna gaccheyyaṃ anapekkho anatthiko  // Bv_2.8 //
+Atthi hehiti so maggo na so sakkā na hetuye  /
+pariyesissāmi taṃ maggaṃ bhavato parimuttiyā  // Bv_2.9 //
+Yathā pi dukkhe vijjante sukhaṃ nāma pi vijjati  /
+evaṃ bhave vijjamāne vibhavo p'; icchitabbako  // Bv_2.10 //
+Yathā pi uṇhe vijjante aparaṃ vijjati sītalaṃ  /
+evaṃ tividhaggi vijjante nibbānaṃ icchitabbakaṃ  // Bv_2.11 //
+Yathā pi pāpe vijjante kalyāṇam-api vijjati  /
+evam-eva jāti vijjante ajātim-p'; icchitabbakaṃ // Bv_2.12 //
+Yathā gūthagato puriso taḷākaṃ disvāna pūritaṃ  /
+na gavesati taṃ taḷākaṃ na doso taḷākassa so,  // Bv_2.13 //
+
+
+[page 010]
+10                                  BUDDHAVAṂSO
+
+Evaṃ kilesamaladhove vijjante amatantale  /
+na gavesati taṃ taḷākaṃ na doso amatantale  // Bv_2.14 //
+Yathā arīhi pariruddho vijjante gamane pathe  /
+na palāyati so puriso na doso añjasassa so,  // Bv_2.15 //
+Evaṃ kilesapariruddho vijjamāne sive pathe  /
+na gavesati taṃ maggaṃ na doso siva-m-añjase  // Bv_2.16 //
+Yathā pi vyādhito puriso vijjamāne tikicchake  /
+na tikicchāpeti taṃ vyādhiṃ na doso so tikicchake,  // Bv_2.17 //
+Evaṃ kilesavyādhīhi dukkhito paripīḷito  /
+na gavesati taṃ ācariyaṃ na doso so vināyake  // Bv_2.18 //
+Yathā pi kuṇapaṃ puriso kaṇṭhe baddhaṃ jigucchiya  /
+mocayitvāna gaccheyya sukhī serī sayaṃvasī,  // Bv_2.19 //
+Tath'; ev'; imaṃ pūtikāyaṃ nānākuṇapasañcayaṃ  /
+chaḍḍayitvāna gaccheyyaṃ anapekkho anatthiko  // Bv_2.20 //
+Yathā uccāraṭhānamhi karīsaṃ naranāriyo  /
+chaḍḍayitvāna gacchanti anapekkhā anatthikā,  // Bv_2.21 //
+Evam-evāham-imaṃ kāyaṃ nānākuṇapapūritaṃ  /
+chaḍḍayitvāna gacchissaṃ vaccaṃ katvā yathā kuṭiṃ  // Bv_2.22 //
+Yathā pi jajjaraṃ nāvaṃ paluggaṃ udakagāhiniṃ /
+sāmī chaḍḍetvā gacchanti anapekkhā anatthikā,  // Bv_2.23 //
+Evam-evāham-imaṃ kāyaṃ navacchiddaṃ dhuvassavaṃ  /
+chaḍḍayitvāna gacchissaṃ chinnanāvaṃ va sāmikā  // Bv_2.24 //
+Yathā pi puriso corehi gacchanto bhaṇḍam-ādiya  /
+bhaṇḍacchedabhayaṃ disvā chaḍḍayitvāna gacchati,  // Bv_2.25 //
+Evam-evam-ayaṃ kāyo mahācorasamo viya  /
+pahāy'; imaṃ gamissāmi kusalacchedanā bhayā 'ti  // Bv_2.26 //
+Evāhaṃ cintayitvāna nekakoṭisataṃ dhanaṃ  /
+nāthānāthānaṃ datvāna Himavantam-upāgamiṃ  // Bv_2.27 //
+Himavantassāvidūre Dhammako nāma pabbato  /
+assamo sukato mayhaṃ paṇṇasālā sumāpitā  // Bv_2.28 //
+Caṅkamaṃ tattha māpesiṃ pañcadosavivajjitaṃ  /
+aṭṭhaguṇasamūpetaṃ abhiññābalam-āhariṃ  // Bv_2.29 //
+
+
+[page 011]
+                                    DĪPAṄKARABUDDHAVAṂSO                11
+
+Sāṭakaṃ pajahiṃ tattha navadosam-upāgataṃ /
+vākacīraṃ nivāsesiṃ dvādasaguṇ'; upāgataṃ // Bv_2.30 //
+Aṭṭhadosasamākiṇṇaṃ pajahiṃ paṇṇasālakaṃ  /
+upāgamiṃ rukkhamūlaṃ guṇe dasah'; upāgataṃ // Bv_2.31 //
+Vāpitaṃ ropitaṃ dhaññaṃ pajahiṃ niravasesato  /
+anekaguṇasampannaṃ pavattaphalam-ādiyiṃ  // Bv_2.32 //
+Tattha padhānaṃ padahiṃ nisajjaṭṭhānacaṅkame  /
+abbhantaramhi sattāhe abhiññābalam-āpuṇiṃ // Bv_2.33 //
+Evaṃ me siddhipattassa vasībhūtassa sāsane  /
+Dīpaṅkaro nāma jino uppajji lokanāyako  // Bv_2.34 //
+Upajjante ca jāyante bujjhante dhammadesane  /
+caturo nimitte nāddasaṃ jhānaratisamappito  // Bv_2.35 //
+Paccantadesavisaye nimantetvā tathāgataṃ  /
+tassa āgamanaṃ maggaṃ sodhenti tuṭṭhamānasā  // Bv_2.36 //
+Ahaṃ tena samayena nikkhamitvā sak'; assamā  /
+dhunanto vākacīrāni gacchāmi ambare tadā  // Bv_2.37 //
+Vedajātaṃ janaṃ disvā tuṭṭhahaṭṭhaṃ pamoditaṃ  /
+orohitvāna gaganā mānuse pucchi tāvade:  // Bv_2.38 //
+Tuṭṭhahaṭṭho pamudito vedajāto mahājano  /
+kassa sodhīyatī maggo añjasaṃ vaṭumāyanan-ti  // Bv_2.39 //
+Te me puṭṭhā viyākaṃsu: buddho loke anuttaro  /
+Dīpaṅkaro nāma jino uppajji lokanāyako,  /
+tassa sodhīyate maggo añjasaṃ vaṭumāyanaṃ  // Bv_2.40 //
+Buddho 'ti mama sutvāna pīti uppajji tāvade  /
+buddho buddho 'ti kathayanto somanassaṃ pavedayiṃ  // Bv_2.41 //
+Tattha ṭhatvā vicintesiṃ tuṭṭho saṃviggamānaso  /
+idha bījāni ropissaṃ khaṇo ve mā upaccagā  // Bv_2.42 //
+Yadi buddhassa sodhetha ek'; okāsaṃ dadātha me  /
+aham-pi sodhayissāmi añjasaṃ vaṭumāyanaṃ  // Bv_2.43 //
+Adaṃsu te mam'; okāsaṃ sodhetuṃ añjasaṃ tadā  /
+buddho buddho 'ti cintento maggaṃ sodhem'; ahaṃ tadā  // Bv_2.44 //
+
+
+[page 012]
+12                                  BUDDHAVAṂSO
+
+Aniṭṭhite mam'; okāse Dīpaṅkaro mahāmuni  /
+catūhi satasahassehi chaḷabhiññehi tādihi  /
+khīṇāsavehi vimalehi paṭipajji añjasaṃ jino  // Bv_2.45 //
+Paccuggamanā vattanti vajjanti bheriyo bahū  /
+āmoditā naramarū sādhukāraṃ pavattayuṃ  // Bv_2.46 //
+Devā manusse passanti manussā pi ca devatā  /
+ubho pi te pañjalikā anuyanti tathāgataṃ  // Bv_2.47 //
+Devā dibbehi turiyehi manussā mānusakehi ca  /
+ubho pi te vajjayantā anuyanti tathāgataṃ  // Bv_2.48 //
+Dibbaṃ mandāravaṃ pupphaṃ padumaṃ pāricchattakaṃ  /
+disodisaṃ okiranti ākāsanabhagatā marū  // Bv_2.49 //
+Campakaṃ salalaṃ nīpaṃ nāgapunnāga-ketakaṃ  /
+disodisaṃ ukkhipanti bhūmitalagatā narā  // Bv_2.50 //
+Kese muñcitv'; ahaṃ tattha vākacīrañca cammakaṃ  /
+kalale pattharitvāna avakujjo nipajj'; ahaṃ:  // Bv_2.51 //
+Akkamitvāna maṃ buddho saha sissehi gacchatu  /
+mā naṃ kalale akkamitho hitāya me bhavissati  // Bv_2.52 //
+Paṭhaviyaṃ nipannassa evaṃ me āsi cetaso:  /
+Icchamāno ahaṃ ajja kilese jhāpaye mamaṃ, // Bv_2.53 //
+Kiṃ me aññātavesena dhammaṃ sacchikaten'; idha  /
+sabbaññutaṃ pāpuṇitvā buddho hessaṃ sadevake  // Bv_2.54 //
+Kiṃ me ekena tiṇṇena purisena thāmadassinā  /
+sabbaññutaṃ pāpuṇitvā santāressaṃ sadevake  // Bv_2.55 //
+Iminā me adhikārena katena puris'; uttame  /
+sabbaññutaṃ pāpuṇitvā tāremi janataṃ bahuṃ  // Bv_2.56 //
+Saṃsārasotaṃ chinditvā viddhaṃsetvā tayo bhave  /
+dhammanāvaṃ samāruyha santāressaṃ sadevake  // Bv_2.57 //
+Manussattaṃ liṅgasampatti hetu satthāradassanaṃ  /
+pabbajjā guṇasampatti adhikāro ca chandatā  /
+aṭṭhadhammasamodhānā abhinīhāro samijjhati  // Bv_2.58 //
+Dīpaṅkaro lokavidū āhutīnaṃ paṭiggaho  /
+ussīsake maṃ ṭhatvāna idaṃ vacanam-abravī:  // Bv_2.59 //
+
+
+[page 013]
+                                    DĪPAṄKARABUDDHAVAṂSO                13
+
+Passatha imaṃ tāpasaṃ jaṭilaṃ uggatāpanaṃ  /
+aparimeyye ito kappe buddho loke bhavissati  // Bv_2.60 //
+Ahu Kapilavhayā rammā nikkhamitvā tathāgato  /
+padhānaṃ padahitvāna katvā dukkarakārikaṃ // Bv_2.61 //
+Ajapālarukkhamūlasmiṃ nisīditvā tathāgato  /
+tattha pāyāsam-aggayha Nerañjaram-upehiti  // Bv_2.62 //
+Nerañjarāya tīramhi pāyāsam-adā so jino  /
+paṭiyattavaramaggena bodhimūlaṃ hi ehiti  // Bv_2.63 //
+Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro  /
+assattharukkhamūlamhi bujjhissati mahāyaso  // Bv_2.64 //
+Imassa janikā mātā Māyā nāma bhavissati  /
+pitā Suddhodano nāma ayaṃ hessati Gotamo  // Bv_2.65 //
+Anāsavā vītarāgā Santacittā samāhitā  /
+Kolito Upatisso ca aggā hessanti sāvakā  // Bv_2.66 //
+Ānando nām'; upaṭṭhāko upaṭṭhissati taṃ jinaṃ  /
+Khemā Uppalavaṇṇā ca aggā hessanti sāvikā,  // Bv_2.67 //
+Anāsavā vītarāgā santacittā samāhitā  /
+bodhi tassa bhagavato assattho 'ti pavuccati  // Bv_2.68 //
+Citto ca Hatthāḷavako aggā hessant'; upaṭṭhakā  /
+Uttarā Nandamātā ca aggā hessant'; upaṭṭhikā  // Bv_2.69 //
+Idaṃ sutvāna vacanaṃ asamassa mahesino  /
+āmoditā naramarū: buddhabīj'; aṅkuro ayaṃ  // Bv_2.70 //
+Ukkuṭṭhisaddā vattanti apphoṭhenti hasanti ca  /
+katañjalī namassanti dasasahassī sadevakā:  // Bv_2.71 //
+Yad'; imassa lokanāthassa virajjhissāma sāsanaṃ  /
+anāgatamhi addhāne hessāma sammukhā imaṃ  // Bv_2.72 //
+Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya  /
+heṭṭhā titthe gahetvāna uttaranti mahānadim,  // Bv_2.73 //
+Evam-eva mayaṃ sabbe yadi muñcām'; imaṃ jinaṃ  /
+anāgatamhi addhāne hessāma sammukhā imaṃ  // Bv_2.74 //
+
+
+[page 014]
+14                          BUDDHAVAṂSO
+
+Dīpaṅkaro lokavidū āhutīnaṃ paṭiggaho  /
+mama kammaṃ pakittetvā dakkhiṇaṃ padam-uddhari  // Bv_2.75 //
+Ye tatthāsuṃ jinaputtā padakkhiṇam-akaṃsu maṃ  /
+devā manussā asurā ca abhivādetvāna pakkamuṃ  // Bv_2.76 //
+Dassanaṃ me atikkante sasaṅghe lokanāyake  /
+sayanā vuṭṭhahitvāna pallaṅkam-ābhujiṃ tadā  // Bv_2.77 //
+Sukhena sukhito homi pāmojjena pamodito  /
+pītiyā ca abhissanno pallaṅkam-ābhujiṃ tadā  // Bv_2.78 //
+Pallaṅkena nisīditvā evaṃ cintes'; ahaṃ tadā:  /
+vasībhūto ahaṃ jhāne abhiññāsu pāramiṅgato  // Bv_2.79 //
+Sahassiyamhi lokamhi isayo natthi me samā  /
+asamo iddhidhammesu alabhiṃ īdisaṃ sukhaṃ  // Bv_2.80 //
+Pallaṅkābhujane mayhaṃ dasasahassādhivāsino  /
+mahānādaṃ pavattesuṃ: dhuvaṃ buddho bhavissasi  // Bv_2.81 //
+Yā pubbe bodhisattānaṃ pallaṅkavaram-ābhuje  /
+nimittāni padissanti tāni ajja padissare  // Bv_2.82 //
+Sītaṃ vyapagataṃ hoti uṇhañca upasammati  /
+tāni ajja padissanti, dhuvaṃ buddho bhavissasi  // Bv_2.83 //
+Dasasahassī lokadhātu nissaddā hoti nirākulā  /
+tāni ajja padissanti, dhuvaṃ buddho bhavissasi  // Bv_2.84 //
+Mahāvātā na vāyanti na sandanti savantiyo  /
+tāni ajja padissanti, dhuvaṃ buddho bhavissasi  // Bv_2.85 //
+Thalajā dakajā pupphā sabbe pupphanti tāvade  /
+te p'; ajja pupphitā sabbe, dhuvaṃ buddho bhavissasi  // Bv_2.86 //
+Latā vā yadi vā rukkhā phalabhārā honti tāvade  /
+te p'; ajja phalitā sabbe, dhuvaṃ buddho bhavissasi  // Bv_2.87 //
+Ākasaṭṭhā ca bhummaṭṭhā ratanā jotanti tāvade  /
+te p'; ajja ratanā jotanti, dhuvaṃ buddho bhavissasi  // Bv_2.88 //
+Mānusakā ca dibbā ca turiyā vajjanti tāvade  /
+te p'; ajj'; ubho'; bhiravanti, dhuvaṃ buddho bhavissasi  // Bv_2.89 //
+Vicittapupphā gaganā abhivassanti tāvade  /
+te pi ajja padissanti, dhuvaṃ buddho bhavissasi  // Bv_2.90 //
+
+
+[page 015]
+                                    DĪPAṄKARABUDDHAVAṂSO                15
+
+Mahāsamuddo ābhujati dasasahassī pakampati  /
+te p'; ajj'; ubho'; bhiravanti, dhuvaṃ buddho bhavissasi  // Bv_2.91 //
+Niraye pi dasasahassī aggī nibbanti tāvade  /
+te p'; ajja nibbutā aggī, dhuvaṃ buddho bhavissasi  // Bv_2.92 //
+Vimalo hoti suriyo sabbā dissanti tārakā  /
+te pi ajja padissanti, dhuvaṃ buddho bhavissasi  // Bv_2.93 //
+Anovaṭṭena udakena mahiyā ubbhijji tāvade  /
+tam-p'; ajj'; ubbhijjate mahiyā, dhuvaṃ buddho bhavissasi  // Bv_2.94 //
+Tārāgaṇā virocanti nakkhattā gaganamaṇḍale  /
+visākhā candimayuttā, dhuvaṃ buddho bhavissasi  // Bv_2.95 //
+Bilāsayā darīsayā nikkhamanti sakāsayā  /
+te p'; ajja āsayā chuddhā, dhuvaṃ buddho bhavissasi  // Bv_2.96 //
+Na hoti arati sattānaṃ santuṭṭhā honti tāvade  /
+te p'; ajja sabbe santuṭṭhā, dhuvaṃ buddho bhavissasi  // Bv_2.97 //
+Rogā tad'; ūpasammanti jighacchā ca vinassati  /
+tāni ajja padissanti, dhuvaṃ buddho bhavissasi  // Bv_2.98 //
+Rāgo tadā tanu hoti doso moho vinassati  /
+te p'; ajja vigatā sabbe, dhuvaṃ buddho bhavissasi  // Bv_2.99 //
+Bhayaṃ tadā na bhavati ajja p'; etaṃ padissati  /
+tena liṅgena jānāma, dhuvaṃ buddho bhavissasi  // Bv_2.100 //
+Rajo n'; uddhaṃsatī uddhaṃ ajja p'; etaṃ padissati  /
+tena liṅgena jānāma, dhuvaṃ buddho bhavissasi  // Bv_2.101 //
+Aniṭṭhagandho pakkamati dibbagandho pavāyati  /
+so p'; ajja vāyatī gandho, dhuvaṃ buddho bhavissasi  // Bv_2.102 //
+Sabbe devā padissanti ṭhapayitvā arūpino  /
+te p'; ajja sabbe dissanti, dhuvaṃ buddho bhavissasi  // Bv_2.103 //
+Yāvatā nirayā nāma sabbe dissanti tāvade  /
+te p'; ajja sabbe dissanti, dhuvaṃ buddho bhavissasi  // Bv_2.104 //
+Kuḍḍā kavaṭā selā ca na hont'; āvaraṇā tadā  /
+ākāsabhūtā te p'; ajja, dhuvaṃ buddho bhavissasi  // Bv_2.105 //
+Cutī ca upapattī ca khaṇe tasmiṃ na vijjati  /
+tāni ajja padissanti, dhuvaṃ buddho bhavissasi  // Bv_2.106 //
+
+
+[page 016]
+16                                  BUDDHAVAṂSO
+
+Daḷhaṃ paggaṇha viriyaṃ mā nivatti abhikkama  /
+mayaṃ p'; etaṃ pajānāma, dhuvaṃ buddho bhavissasi  // Bv_2.107 //
+Buddhassa vacanaṃ sutvā dasasahassīna c'; ūbhayaṃ  /
+haṭṭhatuṭṭho pamudito evaṃ cintes'; ahaṃ tadā:  // Bv_2.108 //
+Advejjhavacanā buddhā amoghavacanā jinā  /
+vitathaṃ natthi buddhānaṃ dhuvaṃ buddho bhavām'; ahaṃ // Bv_2.109 //
+Yathā khittaṃ nabhe leḍḍu dhuvaṃ patati bhūmiyaṃ  /
+tath'; eva buddhaseṭṭhānaṃ vacanaṃ dhuvasassataṃ  /
+vitathaṃ natthi buddhānaṃ dhuvaṃ buddho bhavām'; ahaṃ // Bv_2.110 //
+Yathā'; pi sabbasattānaṃ maraṇaṃ dhuvasassataṃ  /
+tath'; eva buddhaseṭṭhānaṃ vacanaṃ dhuvasassataṃ  /
+vitathaṃ natthi buddhānaṃ dhuvaṃ buddho bhavām'; ahaṃ // Bv_2.111 //
+Yathā rattikkhaye patte suriyass'; uggamanaṃ dhuvaṃ  /
+tath'; eva buddhaseṭṭhānam vacanaṃ dhuvasassataṃ  /
+vitathaṃ natthi buddhānaṃ dhuvaṃ buddho bhavām'; ahaṃ // Bv_2.112 //
+Yathā nikkhantasayanassa sīhassa nadanaṃ dhuvaṃ  /
+tath'; eva buddhaseṭṭhānaṃ vacanaṃ dhuvasassataṃ  /
+vitathaṃ natthi buddhānaṃ dhuvaṃ buddho bhavām'; ahaṃ // Bv_2.113 //
+Yathā āpannasattānaṃ bhāram-oropanaṃ dhuvaṃ  /
+tath'; eva buddhaseṭṭhānaṃ vacanaṃ dhuvasassataṃ  /
+vitathaṃ natthi buddhānaṃ dhuvaṃ buddho bhavām'; ahaṃ // Bv_2.114 //
+Handa buddhakare dhamme vicināmi ito c'; ito  /
+uddhaṃ adho dasadisā yāvatā dhammadhātuyā  // Bv_2.115 //
+Vicinanto tadā'; dakkhiṃ paṭhamaṃ dānapāramiṃ  /
+pubbakehi mahesīhi anuciṇṇaṃ mahāpathaṃ  // Bv_2.116 //
+Imaṃ tvaṃ paṭhamaṃ tāva daḷhaṃ katvā samādiya  /
+dānapāramitaṃ gaccha yadi bodhiṃ pattum-icchasi  // Bv_2.117 //
+Yathā pi kumbho sampuṇṇo yassa kassaci adhokato  /
+vamate udakaṃ nissesaṃ na tattha parirakkhati,  // Bv_2.118 //
+Tath'; eva yācake disvā hīna-m-ukkaṭṭha-majjhime  /
+dadāhi dānaṃ nissesaṃ kumbho viya adhokato  // Bv_2.119 //
+
+
+[page 017]
+                      DĪPAṄKARABUDDHAVAṂSO                              17
+
+Na h'; ete ettakā yeva buddhadhammā bhavissare  /
+aññe pi vicinissāmi ye dhammā bodhipācanā  // Bv_2.120 //
+Vicinanto tadā'; dakkhiṃ dutiyaṃ sīlapāramiṃ  /
+pubbakehi mahesīhi āsevitanisevitaṃ  // Bv_2.121 //
+Imaṃ tvaṃ dutiyaṃ tāva daḷhaṃ katvā samādiya  /
+sīlapāramitaṃ gaccha yadi bodhiṃ pattum-icchasi  // Bv_2.122 //
+Yathā pi camarī vālaṃ kismici paṭilaggitaṃ /
+upeti maraṇaṃ tattha na vikopeti vāladhiṃ, // Bv_2.123 //
+Tath'; eva catusu bhūmīsu sīlāni paripūraya  /
+parirakkha sabbadā sīlaṃ camarī viya vāladhiṃ // Bv_2.124 //
+Na h'; ete ettakā yeva buddhadhammā bhavissare  /
+aññe pi vicinissāmi ye dhammā bodhipācanā  // Bv_2.125 //
+Vicinanto tadā'; dakkhiṃ tatiyaṃ nekkhammapāramiṃ  /
+pubbakehi mahesīhi āsevitanisevitaṃ  // Bv_2.126 //
+Imaṃ tvaṃ tatiyaṃ tāva daḷhaṃ katvā samādiya  /
+nekkhammapāramiṃ gaccha yadi bodhiṃ pattum-icchasi  // Bv_2.127 //
+Yathā andughare puriso ciravuttho dukha'; ddito  /
+na tattha rāgaṃ abhijaneti muttiṃ yeva gavesati,  // Bv_2.128 //
+Tath'; eva tvaṃ sabbabhave passa andughare viya  /
+nekkhammābhimukho hohi bhavato parimuttiyā  // Bv_2.129 //
+Na h'; ete ettakā yeva buddhadhammā bhavissare  /
+aññe pi vicinissāmi ye dhammā bodhipācanā  // Bv_2.130 //
+Vicinanto tadā'; dakkhiṃ catutthaṃ paññāpāramiṃ  /
+pubbakehi mahesīhi āsevitanisevitaṃ  // Bv_2.131 //
+Imaṃ tvaṃ catutthaṃ tāva daḷhaṃ katvā samādiya  /
+paññāpāramitaṃ gaccha yadi bodhiṃ pattum-icchasi  // Bv_2.132 //
+Yathā pi bhikkhu bhikkhanto hīna-m-ukkaṭṭha-majjhime  /
+kulāni na vivajjento evaṃ labhati yāpanaṃ,  // Bv_2.133 //
+Tath'; eva tvaṃ sabbakālaṃ paripucchaṃ budhaṃ janaṃ  /
+paññāpāramitaṃ gantvā sambodhiṃ pāpuṇissasi  // Bv_2.134 //
+
+
+[page 018]
+18                                  BUDDHAVAṂSO
+
+Na h'; ete ettakā yeva buddhadhammā bhavissare  /
+aññe pi vicinissāmi ye dhammā bodhipācanā  // Bv_2.135 //
+Vicinanto tadā'; dakkhiṃ pañcamaṃ viriyapāramiṃ  /
+pubbakehi mahesīhi āsevitanisevitaṃ  // Bv_2.136 //
+Imaṃ tvaṃ pañcamaṃ tāva daḷhaṃ katvā samādiya  /
+viriyapāramitaṃ gaccha yadi bodhiṃ pattum-icchasi  // Bv_2.137 //
+Yathā pi sīho migarājā nisajjaṭṭhānacaṅkame  /
+alīnaviriyo hoti paggahītamano sadā,  // Bv_2.138 //
+Tath'; eva tvaṃ sabbabhave paggaṇha viriyaṃ daḷhaṃ,  /
+viriyapāramitaṃ gantvā sambodhiṃ pāpuṇissasi  // Bv_2.139 //
+Na h'; ete ettakā yeva buddhadhammā bhavissare  /
+aññe pi vicinissāmi ye dhammā bodhipācanā  // Bv_2.140 //
+Vicinanto tadā'; dakkhiṃ chaṭṭhamaṃ khantiparamiṃ  /
+pubbakehi mahesīhi āsevitanisevitaṃ  // Bv_2.141 //
+Imaṃ tvaṃ chaṭṭhamaṃ tāva daḷhaṃ katvā samādiya  /
+tattha advejjhamānaso sambodhiṃ pāpuṇissasi  // Bv_2.142 //
+Yathā pi paṭhavī nāma sucim-pi asucim-pi ca  /
+sabbaṃ sahati nikkhepaṃ na karoti paṭighaṃ dayaṃ, // Bv_2.143 //
+Tath'; eva tvam-pi sabbesaṃ sammānāvamānakkhamo  /
+khantipāramitaṃ gantvā sambodhiṃ pāpuṇissasi  // Bv_2.144 //
+Na h'; ete ettakā yeva buddhadhammā bhavissare  /
+aññe pi vicinissāmi ye dhammā bodhipācanā  // Bv_2.145 //
+Vicinanto tadā'; dakkhiṃ sattamaṃ saccapāramiṃ  /
+pubbakehi mahesīhi āsevitanisevitaṃ  // Bv_2.146 //
+Imaṃ tvaṃ sattamaṃ tāva daḷhaṃ katvā samādiya  /
+tattha advejjhavacano sambodhiṃ pāpuṇissasi  // Bv_2.147 //
+Yathā pi osadhī nāma tulābhūtā sadevake  /
+samaye utuvasse vā na vokkamati vīthito,  // Bv_2.148 //
+Tath'; eva tvam-pi saccesu nātikkamma hi vīthito  /
+saccapāramitaṃ gantvā sambodhiṃ pāpuṇissasi  // Bv_2.149 //
+
+
+[page 019]
+                                    DĪPAṄKARABUDDHAVAṂSO                19
+
+Na h'; ete ettakā yeva buddhadhammā bhavissare  /
+aññe pi vicinissāmi ye dhammā bodhipācanā  // Bv_2.150 //
+Vicinanto tadā'; dakkhiṃ aṭṭhamaṃ adhiṭṭhānapāramiṃ  /
+pubbakehi mahesīhi āsevitanisevitaṃ  // Bv_2.151 //
+Imaṃ tvaṃ aṭṭhamaṃ tāva daḷhaṃ katvā samādiya  /
+tattha tvaṃ acalo hutvā sambodhiṃ pāpuṇissasi  // Bv_2.152 //
+Yathā pi pabbato selo acalo suppatiṭṭhito  /
+na kampati bhusavātehi sakaṭṭhane'; va tiṭṭhati,  // Bv_2.153 //
+Tath'; eva tvam-pi adhiṭṭhāne sabbadā acalo bhava  /
+adhiṭṭhānapāramitaṃ gantvā sambodhiṃ pāpuṇissasi  // Bv_2.154 //
+Na h'; ete ettakā yeva buddhadhammā bhavissare  /
+aññe pi vicinissāmi ye dhammā bodhipācanā  // Bv_2.155 //
+Vicinanto tadā'; dakkhiṃ navamaṃ mettāpāramiṃ  /
+pubbakehi mahesīhi āsevitanisevitaṃ // Bv_2.156 //
+Imaṃ tvaṃ navamaṃ tāva daḷhaṃ katvā samādiya  /
+mettāya asamo hohi yadi bodhiṃ pattum-icchasi  // Bv_2.157 //
+Yathā pi udakaṃ nāma kalyāṇe pāpake jane  /
+samaṃ pharati sītena pavāheti rajomalaṃ,  // Bv_2.158 //
+Tath'; eva tvaṃ ahitahite samaṃ mettāya bhāvaya  /
+mettāpāramitaṃ gantvā sambodhiṃ pāpuṇissasi  // Bv_2.159 //
+Na h'; ete ettakā yeva buddhadhammā bhavissare  /
+aññe pi vicinissāmi ye dhammā bodhipācanā  // Bv_2.160 //
+Vicinanto tadā'; dakkhim dasamaṃ upekkhāparamiṃ  /
+pubbakehi mahesīhi āsevitanisevitaṃ  // Bv_2.161 //
+Imaṃ tvaṃ dasamaṃ tāva daḷhaṃ katvā samādiya  /
+tulābhūto daḷho hutvā sambodhiṃ pāpuṇissasi  // Bv_2.162 //
+Yathā pi paṭhavī nāma nikkhittaṃ asuciṃ suciṃ  /
+upekkhati ubho p'; ete kopānunayavajjitā, // Bv_2.163 //
+Tath'; eva tvam-pi sukhadukkhe tulābhūto sadā bhava  /
+upekkhāpāramitaṃ gantvā sambodhiṃ pāpuṇissasi  // Bv_2.164 //
+
+
+[page 020]
+20                                  BUDDHAVAṂSO
+
+Ettakā yeva te loke ye dhammā bodhipācanā  /
+tat'; uddhaṃ n'; atthi aññatra daḷhaṃ tattha patiṭṭhaha  // Bv_2.165 //
+Ime dhamme sammasato sabhāvasarasalakkhaṇe  /
+dhammatejena vasudhā dasasahassī pakampatha  // Bv_2.166 //
+Calati ravati paṭhavī ucchuyantaṃ va pīḷitaṃ  /
+telayante yathā cakkaṃ evaṃ kampati medinī  // Bv_2.167 //
+Yavatā parisā āsi buddhassa parivesane  /
+pavedhamānā sā tattha mucchitā seti bhūmiyā  // Bv_2.168 //
+Ghaṭānekasahassāni kumbhīnañca satā bahū  /
+sañcuṇṇamathitā tattha aññamaññaṃ paghaṭṭitā  // Bv_2.169 //
+Ubbiggā tasitā bhītā bhantā vyādhitamānasā  /
+mahājanā samāgamma Dīpaṅkaram-upāgamum:  // Bv_2.170 //
+Kiṃ bhavissati lokassa kalyāṇam-atha pāpakaṃ  /
+sabbo upadduto loko taṃ vinodehi cakkhuma  // Bv_2.171 //
+Tesaṃ tadā saññapesī Dīpaṅkaro mahāmuni  /
+vissatthā hotha mā bhātha imasmiṃ puthuvikampane  // Bv_2.172 //
+Yam-ahaṃ ajja vyākāsiṃ: buddho loke bhavissati  /
+eso sammasatī dhammaṃ pubbakaṃ jinasevitaṃ  // Bv_2.173 //
+Tassa sammasato dhammaṃ buddhabhūmiṃ asesato  /
+tenāyaṃ kampitā puthuvī dasasahassī sadevake  // Bv_2.174 //
+Buddhassa vacanaṃ sutvā mano nibbāyi tāvade  /
+sabbe maṃ upasaṅkamma punā'; pi abhivandisuṃ // Bv_2.175 //
+Samādiyitvā buddhaguṇaṃ daḷhaṃ katvāna mānasaṃ  /
+Dīpaṅkaraṃ namassitvā āsanā vuṭṭhahiṃ tadā  // Bv_2.176 //
+Dibbaṃ mānusakaṃ pupphaṃ devā mānusakā ubho  /
+samokiranti puppehi vuṭṭhahantassa āsanā  // Bv_2.177 //
+Vedayanti ca te sotthiṃ devā mānusakā ubho  /
+mahantaṃ patthitaṃ tuyhaṃ taṃ labhassu yath'; icchitaṃ  // Bv_2.178 //
+Sabb'; ītiyo vivajjantu soko rogo vinassatu  /
+mā te bhavatvantarāyo phusa khippaṃ bodhim-uttamaṃ  // Bv_2.179 //
+Yathā pi samaye patte pupphanti pupphino dumā  /
+tath'; eva tvaṃ mahāvīra buddhañāṇena pupphasi  // Bv_2.180 //
+
+
+[page 021]
+                                    DĪPAṄKARABUDDHAVAṂSO                21
+
+Yathā ye keci sumbuddhā pūrayuṃ dasapāramī  /
+tath'; eva tvaṃ mahāvīra pūraya dasapāramī  // Bv_2.181 //
+Yathā ye keci sambuddhā bodhimaṇḍamhi bujjhare  /
+tath'; eva tvaṃ mahāvīra bujjhassu jinabodhiyaṃ  // Bv_2.182 //
+Yathā ye keci sambuddhā dhammacakkaṃ pavattayuṃ  /
+tath'; eva tvaṃ mahāvīra dhammacakkaṃ pavattaya  // Bv_2.183 //
+Puṇṇamāse yathā cando parisuddho virocati  /
+tath'; eva tvaṃ puṇṇamano viroca dasasahassiyaṃ  // Bv_2.184 //
+Rāhumutto yathā suriyo tāpena atirocati  /
+tath'; eva lokā muñcitvā viroca siriyā tvaṃ  // Bv_2.185 //
+Yathā yā kāci nadiyo osaranti mahodadhiṃ  /
+evaṃ sadevakā lokā osarantu tav'; antike  // Bv_2.186 //
+Tehi thutappasattho so dasadhamme samādiya  /
+te dhamme paripūrento pavanaṃ pāvisī tadā 'ti  // Bv_2.187 //
+     Sumedhakathā194 niṭṭhitā
+Tadā te bhojayitvāna sasaṅghaṃ lokanāyakaṃ  /
+upagañchuṃ saraṇaṃ tassa Dīpaṅkarassa satthuno  // Bv_2.188 //
+Saraṇāgamane kañci nivesesi Tathāgato  /
+kañci pañcasu sīlesu sīle dasavidhe paraṃ  // Bv_2.189 //
+Kassaci deti sāmaññaṃ caturo phala-m-uttame  /
+kassaci asame dhamme deti so paṭisambhidā  // Bv_2.190 //
+Kassaci varasamāpattiyo aṭṭha deti narāsabho  /
+tisso kassaci vijjāyo chaḷabhiññā pavecchati  // Bv_2.191 //
+Tena yogena janakāyaṃ ovadati mahāmuni  /
+tena vitthārikaṃ āsi lokanāthassa sāsanaṃ  // Bv_2.192 //
+Mahāhanūsabhakkhandho Dīpaṅkarasanāmako  /
+bahū jane tārayati parimoceti duggatiṃ  // Bv_2.193 //
+Bodhaneyyaṃ janaṃ disvā satasahasse pi yojane  /
+khaṇena upagantvāna bodheti taṃ mahāmuni  // Bv_2.194 //
+
+
+[page 022]
+22                                  BUDDHAVAṂSO
+
+Paṭhamābhisamaye buddho koṭisatam-abodhayi  /
+dutiyābhisamaye nātho navutikoṭim-abodhayi  // Bv_2.195 //
+Yadā ca devabhavanamhi buddho dhammam-adesayi  /
+navutikoṭisahassānaṃ tatiyābhisamayo ahu  // Bv_2.196 //
+Sannipātā tayo āsuṃ Dīpaṅkarassa satthuno  /
+koṭisatasahassānaṃ paṭhamo āsi samāgamo  // Bv_2.197 //
+Puna Nāradakūṭamhi pavivekagate jine  /
+khīṇāsavā vītamalā samiṃsu satakoṭiyo  // Bv_2.198 //
+Yamhi kāle mahāvīro Sudassanasil'; uccaye  /
+navutikoṭisahassehi pavāresi mahāmuni, // Bv_2.199 //
+Ahaṃ tena samayena jaṭilo uggatāpano  /
+antalikkhamhi caraṇo pañcābhiññāsu pāragū  // Bv_2.200 //
+Dasavīsasahassānaṃ dhammābhisamayo ahu  /
+ekadvinnaṃ abhisamayo gaṇanāto asaṅkhiyo  // Bv_2.201 //
+Vitthārikaṃ bāhujaññaṃ iddhaṃ phītaṃ ahū tadā  /
+Dīpaṅkarassa bhagavato sāsanaṃ suvisodhitaṃ  // Bv_2.202 //
+Cattāri satasahassāni chaḷabhiññā mah'; iddhikā  /
+Dīpaṅkaraṃ lokaviduṃ parivārenti sabbadā  // Bv_2.203 //
+Ye keci tena samayena jahanti mānusaṃ bhavaṃ  /
+appattamānasā sekhā garahitā'; va bhavanti te  // Bv_2.204 //
+Supupphitaṃ pāvacanaṃ arahantehi tādihi  /
+khīṇāsavehi vimalehi upasobhati sabbadā  // Bv_2.205 //
+Nagaraṃ Rammavatī nāma Sudevo nāma khattiyo  /
+Sumedhā nāma janikā Dīpaṅkarassa satthuno  // Bv_2.206 //
+Dasavassasahassāni agāraṃ ajjha so vasī  /
+Haṃsā Koñcā Mayūrā ca tayo pāsāda-m-uttamā  // Bv_2.207 //
+Tīṇi satasahassāni nāriyo samalaṅkatā  /
+Padumā nāma sā nārī Usabhakkhandho nāma atrajo  // Bv_2.208 //
+Nimitte caturo disvā hatthiyānena nikkhami  /
+anūnadasamāsāni padhānaṃ padahī jino  // Bv_2.209 //
+Padhānacāraṃ caritvā abujjhi mānasaṃ muni  /
+Brahmunā yācito santo Dīpaṅkaro mahāmuni,  // Bv_2.210 //
+
+
+[page 023]
+                                    DĪPAṄKARABUDDHAVAṂSO                23
+
+Vatti cakkuṃ mahāvīro Nandārāme sirīdhare  /
+nisinno sirīsamūlamhi akā titthiyamaddanaṃ  // Bv_2.211 //
+Sumaṅgalo ca Tisso ca ahesuṃ aggasāvakā  /
+Sāgato nām'; upaṭṭhāko Dīpaṅkarassa satthuno  // Bv_2.212 //
+Nandā c'; eva Sunandā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato pipphalī 'ti pavuccati  // Bv_2.213 //
+Tapassu-Bhallikā nāma ahesuṃ agg'; upaṭṭhakā  /
+Sirimā Soṇā upaṭṭhikā Dīpaṅkarassa satthuno  // Bv_2.214 //
+Asītihattha-m-ubbedho Dīpaṅkaro mahāmuni  /
+sobhati dīparukkho va sālarāja va phullito  // Bv_2.215 //
+Satasahassavassāni āyu tassa mahesino  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_2.216 //
+Jotayitvāna saddhammaṃ santāretvā mahājanaṃ  /
+jalitvā aggikkhandho va nibbuto so sasāvako  // Bv_2.217 //
+Sā ca iddhi so ca yaso tāni ca pādesu cakkaratanāni  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_2.218 //
+Dīpaṅkaro jino satthā Nandārāmamhi nibbuto  /
+tatth'; eva tassa jinathūpo chattiṃs'; ubbedhayojano 'ti  // Bv_2.219 //
+                         Dīpaṅkarassa bhagavato vaṃso paṭhamo
+
+
+[page 024]
+24         Blank Page.  [24]
+
+
+
+[page 025]
+          Blank Page.  [25]      25
+
+
+
+[page 026]
+                                        26
+                              III -- KOṆḌAÑÑABUDDHAVAṂSO
+Dīpaṅkarassa aparena Koṇḍañño nāma nāyako  /
+anantatejo amitayaso appameyyo durāsado  // Bv_3.1 //
+Dharaṇ'; ūpamo khamanena sīlena sāgar'; ūpamo  /
+samādhinā Merusamo ñāṇena gagan'; ūpamo  // Bv_3.2 //
+Indriyabalabojjhaṅga-maggasaccappakāsanaṃ  /
+pakāsesi sadā buddho hitāya sabbapāṇinaṃ  // Bv_3.3 //
+Dhammacakkappavattente Koṇḍaññe lokanāyake  /
+koṭisatasahassānaṃ paṭhamābhisamayo ahū  // Bv_3.4 //
+Tato param-pi desente naramarūnaṃ samāgame  /
+navutikoṭisahassānaṃ dutiyābhisamayo ahū  // Bv_3.5 //
+Titthiye abhimaddanto yadā dhammam-adesayi  /
+asītikoṭisahassānaṃ tatiyābhisamayo ahū  // Bv_3.6 //
+Sannipātā tayo āsuṃ Koṇḍaññassa mahesino  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_3.7 //
+Koṭisatasahassānaṃ paṭhamo āsi samāgamo  /
+dutiyo koṭisahassānaṃ tatiyo navuti koṭinaṃ  // Bv_3.8 //
+Ahaṃ tena samayena Vijitāvī nāma khattiyo  /
+samuddaṃ antam-antena isseraṃ vattayām-ahaṃ  // Bv_3.9 //
+Koṭisatasahassānaṃ vimalānaṃ mahesinaṃ  /
+saha lok'; agganāthena param'; annena tappayiṃ  // Bv_3.10 //
+So pi maṃ buddho vyākāsi Koṇḍañño lokanāyako';  /
+aparimeyye ito kappe buddho loke bhavissati  // Bv_3.11 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_3.12 //
+Imassa janikā mātā Māyā nāma bhavissati  /
+pitā Suddhodano nāma ayaṃ hessati Gotamo  // Bv_3.13 //
+Kolito Upatisso ca aggā hessanti sāvakā  /
+Ānando nām'; upaṭṭhāko upaṭṭhissati taṃ jinaṃ  // Bv_3.14 //
+
+
+[page 027]
+                                    KOṆḌAÑÑABUDDHAVAṂSO                 27
+
+Khemā Uppalavaṇṇā ca aggā hessanti sāvikā  /
+bodhi tassa bhagavato assattho 'ti pavuccati  // Bv_3.15 //
+Citto ca Hatthāḷavako aggā hessant'; upaṭṭhakā  /
+Uttarā Nandamātā ca aggā hessant'; upaṭṭhikā  /
+āyu vassasataṃ tassa Gotamassa yasassino  // Bv_3.16 //
+Idaṃ sutvāna vacanaṃ asamassa mahesino  /
+āmoditā naramarū: buddhabīj'; aṅkuro ayaṃ  // Bv_3.17 //
+Ukkuṭṭhisaddā vattanti apphoṭhenti hasanti ca  /
+katañjalī namassanti dasasahassī sadevakā:  // Bv_3.18 //
+Yad'; imassa lokanāthassa virajjhissāma sāsanaṃ  /
+anāgatamhi addhāne hessāma sammukhā imaṃ  // Bv_3.19 //
+Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya  /
+heṭṭhā titthe gahetvāna uttaranti mahānadiṃ,  // Bv_3.20 //
+Evam-eva mayaṃ sabbe yadi muñcām'; imaṃ jinaṃ  /
+anāgatamhi addhāne hessāma sammukhā imaṃ  // Bv_3.21 //
+Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+tam-eva atthaṃ sādhento mahārajjaṃ jine adaṃ  /
+mahārajjaṃ cajitvāna pabbajiṃ tassa santike  // Bv_3.22 //
+Suttantaṃ vinayañcā'; pi navaṅgaṃ satthusāsanaṃ  /
+sabbaṃ pariyāpuṇitvāna sobhayiṃ jinasāsanaṃ  // Bv_3.23 //
+Tatth'; appamatto viharanto nisajjaṭṭhānacaṅkame  /
+abhiññāpāramiṃ gantvā brahmalokam-agañch'; ahaṃ  // Bv_3.24 //
+Nagaraṃ Rammavatī nāma Sunando nāma khattiyo  /
+Sujātā nāma janikā Koṇḍaññassa mahesino  // Bv_3.25 //
+Dasavassasahassāni agāraṃ ajjha so vasī  /
+Ruci Suruci subho tayo pāsada-m-uttamā  // Bv_3.26 //
+Tīṇi satasahassāni nāriyo samalaṅkatā  /
+Rucidevī nāma nārī Vijitaseno nāma atrajo  // Bv_3.27 //
+Nimitte caturo disvā rathayānena nikkhami  /
+anūnadasamāsāni padhānaṃ padahī jino  // Bv_3.28 //
+Brahmunā yācito santo Koṇḍañño dvipad'; uttamo  /
+vatti cakkaṃ mahāvīro devānaṃ nagar'; uttame  // Bv_3.29 //
+
+
+[page 028]
+28                                  BUDDHAVAṂSO
+
+Bhaddo c'; eva Subhaddo ca ahesuṃ aggasāvakā  /
+Anuruddho nām'; upaṭṭhāko Koṇḍaññassa mahesino  // Bv_3.30 //
+Tissā ca Upatissā ca ahesuṃ aggasāvikā  /
+Sālakalyāṇikā bodhi Koṇḍaññassa mahesino  // Bv_3.31 //
+Soṇo ca Upasoṇo ca ahesuṃ agg'; upaṭṭhakā  /
+Nandā c'; eva Sirimā ca ahesuṃ agg'; upaṭṭhakā  // Bv_3.32 //
+So aṭṭhāsīti hatthāni accuggato mahāmuni  /
+sobbati ulurājā va suriyo majjhantike yathā  // Bv_3.33 //
+Vassasatasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_3.34 //
+Khīṇāsavehi vimalehi vicittā āsi medinī  /
+yathā gaganam-ulūhi evaṃ so upasobhatha  // Bv_3.35 //
+Te pi nāgā appameyyā asaṅkhobhā durāsadā  /
+vijjupātaṃ va dassetvā nibbutā te mahāyasā  // Bv_3.36 //
+Sā ca atuliyā jinassa iddhi ñāṇaparibhāvito ca samādhi  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_3.37 //
+Koṇḍañño pavaro Buddho Candārāmamhi nibbuto  /
+tatth'; eva cetiyo citto sattayojanam-ussito 'ti  // Bv_3.38 //
+                       Koṇḍaññassa bhagavato vaṃso dutiyo
+
+
+[page 029]
+                                    29
+                            IV -- MAṄGALABUDDHAVAṂSO
+Koṇḍaññassa aparena Maṅgalo nāma nāyako  /
+tamaṃ loke nihantvāna dhammokkam-abhidhārayi  // Bv_4.1 //
+Atulā pi pabhā tassa jineh'; aññehi uttariṃ  /
+candasuriyapabhaṃ hantvā dasasahassī virocati  // Bv_4.2 //
+So pi buddho pakāsesi catusaccavar'; uttame  /
+te te saccarasaṃ pītvā vinodenti mahātamaṃ  // Bv_4.3 //
+Patvāna bodhim-atulaṃ paṭhame dhammadesane,  /
+koṭisatasahassānaṃ paṭhamābhisamayo ahu  // Bv_4.4 //
+Sur'; indadevabhavane buddho dhammam-adesayi, /
+nava koṭisahassānaṃ dutiyābhisamayo ahu  // Bv_4.5 //
+Yadā Sunando cakkavattī sambuddhaṃ upasaṅkami  /
+tadā ahani sambuddho dhammabheriṃ var'; uttamaṃ  // Bv_4.6 //
+Sunandassānucarā janatā tadāsuṃ navutikoṭiyo  /
+sabbe pi te niravasesā ahesuṃ ehi-bhikkhukā  // Bv_4.7 //
+Sannipātā tayo āsuṃ Maṅgalassa mahesino  /
+Koṭisatasahassānaṃ paṭhamo āsi samāgamo  // Bv_4.8 //
+Dutiyo koṭisahassānaṃ tatiyo navutikoṭinaṃ  /
+khīṇāsavānaṃ vimalānaṃ tadā āsi samāgamo  // Bv_4.9 //
+Ahaṃ tena samayena Surucī nāma brāhmaṇo  /
+ajjhāyako mantadharo tiṇṇaṃ vedāna pāragū  // Bv_4.10 //
+Tam-ahaṃ upasaṅkamma saraṇaṃ gantvāna satthuno  /
+sambuddhapamukhaṃ saṅghaṃ gandhamālena pūjayiṃ,  /
+pūjetvā gandhamālena gavapānena tappayiṃ  // Bv_4.11 //
+So pi maṃ buddho vyākāsi Maṅgalo dvipad'; uttamo:  /
+aparimeyye ito kappe ayaṃ buddho bhavissati  // Bv_4.12 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_4.13 //
+
+
+[page 030]
+30                                  BUDDHAVAṂSO
+
+Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vataṃ adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_4.14 //
+Tadā pītim-anubrūhanto sambodhivarapattiyā  /
+buddhe datvāna maṃ gehaṃ pabbajiṃ tassa santike  // Bv_4.15 //
+Suttantaṃ vinayañcā'; pi navaṅgaṃ satthusāsanaṃ  /
+sabbaṃ pariyāpuṇitvāna sobhayiṃ jinasāsanaṃ  // Bv_4.16 //
+Tatth'; appamatto viharanto brahmaṃ bhāvetva bhāvanaṃ  /
+abhiññāsu pāramiṃ gantvā brahmalokam-agacch'; ahaṃ // Bv_4.17 //
+Nagaraṃ Uttaraṃ nāma Uttaro nāma khattiyo  /
+Uttarā nāma janikā Maṅgalassa mahesino  // Bv_4.18 //
+Nava vassasahassāni agāraṃ ajjha so vasī  /
+Yasavā Sucimā Sirimā tayo pāsāda-m-uttamā  // Bv_4.19 //
+Samatiṃsasahassāni nāriyo samalaṅkatā  /
+Yasavatī nāma nārī Sīvalo nāma atrajo  // Bv_4.20 //
+Nimitte caturo disvā assayānena nikkhami  /
+anūnakam-aṭṭhamāsaṃ padhānaṃ padahī jino  // Bv_4.21 //
+Brahmunā yācito santo Maṅgalo lokanāyako  /
+vatti cakkaṃ mahāvīro vane Sirivar'; uttame  // Bv_4.22 //
+Sudevo Dhammaseno ca ahesuṃ aggasāvakā  /
+Pālito nām'; upaṭṭhāko Maṅgalassa mahesino  // Bv_4.23 //
+Sīvalā ca Asokā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato nāgarukkho 'ti vuccati  // Bv_4.24 //
+Nando c'; eva Visākho ca ahesuṃ agg'; upaṭṭhakā  /
+Anulā c'; eva Sutanā ca ahesuṃ agg'; upaṭṭhikā  // Bv_4.25 //
+Aṭṭhāsiti ratanāni accuggato mahāmuni  /
+tato niddhāvanti raṃsī anekasatasahassiyo  // Bv_4.26 //
+Navuti vassasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so taresi janataṃ bahuṃ  // Bv_4.27 //
+Yathā pi sāgare ūmī na sakkā tā gaṇetuye  /
+tath'; eva sāvakā tassa na sakkā te gaṇetuye  // Bv_4.28 //
+
+
+[page 031]
+                                    MAṄGALABUDDHAVAṂSO                  31
+
+Yāva-d-aṭṭhāsi sambuddho Maṅgalo lokanāyako  /
+na tassa sāsane atthi saṅkilesamaraṇaṃ tadā  // Bv_4.29 //
+Dhamokkaṃ dhārayitvāna santāretvā mahājanaṃ  /
+jalitvā dhūmaketū'; va nibbuto so mahāyaso  // Bv_4.30 //
+Saṅkhārānaṃ sabhāvattaṃ dassayitvā sadevake  /
+jalitvā aggikkhandho va suriyo atthaṅgato yathā,  // Bv_4.31 //
+Uyyāne Vessare nāma buddho nibbāyi Maṅgalo  /
+tatth'; eva tassa jinathūpo tiṃsayojana-m-uggato ti  // Bv_4.32 //
+                             Maṅgalassa bhagavato vaṃso tatiyo
+
+
+[page 032]
+                                        32
+                                 V -- SUMANABUDDHAVAṂSO
+Maṅgalassa aparena Sumano nāma nāyako  /
+sabbadhammehi asamo sabbasattānam-uttamo  // Bv_5.1 //
+So pi tadā amatabheriṃ ahanī Mekhale pure,  /
+dhammasaṅkhasamāyuttaṃ navaṅgaṃ jinasāsanaṃ  // Bv_5.2 //
+Nijjinitvā kilese so patvā sambodhim-uttamaṃ  /
+māpesi nagaraṃ satthā dhammapuravar'; uttamaṃ // Bv_5.3 //
+Nirantaraṃ akuṭilaṃ ujuṃ vipulavitthataṃ  /
+māpesi so mahāvīthiṃ satipaṭṭhānavar'; uttamaṃ  // Bv_5.4 //
+Phale cattāri sāmaññe catasso paṭisambhidā  /
+chaḷabhiññāṭṭhasamāpatti pasāresi tattha vīthiyaṃ  // Bv_5.5 //
+Ye appamattā akhilā hiriviriyeh'; upāgatā  /
+te te ime guṇavare ādiyanti yathā sukhaṃ  // Bv_5.6 //
+Evam-etena yogena uddharanto mahājanaṃ  /
+bodhesi paṭhamaṃ satthā koṭisahassiyo  // Bv_5.7 //
+Yamhi kāle mahāvīro ovadī titthiye gaṇe  /
+koṭisahassābhisamiṃsu dutiye dhammadesane  // Bv_5.8 //
+Yadā devā manussā ca samaggā ekamānasā  /
+nirodhapañhaṃ pucchiṃsu saṃsayañcāpi mānasaṃ, // Bv_5.9 //
+Tadā pi dhammadesane nirodhaparidīpane  /
+navutikoṭisahassānaṃ tatiyābhisamayo ahu  // Bv_5.10 //
+Sannipātā tayo āsuṃ Sumanassa mahesino  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_5.11 //
+Vassaṃ vutthassa bhagavato abhighuṭṭhe pavāraṇe  /
+koṭisatasahassehi pavāresi tathāgato  // Bv_5.12 //
+Tato paraṃ sannipāte vimale Kañcanapabbate  /
+navutikoṭisahassānaṃ dutiyo āsi samāgamo  // Bv_5.13 //
+Yadā Sakko devarājā buddhadassan'; upāgami  /
+asītikoṭisahassānaṃ tatiyo āsi samāgamo  // Bv_5.14 //
+
+
+[page 033]
+                                    SUMANABUDDHAVAṂSO                   33
+
+Ahaṃ tena samayena nāgarājā mah'; iddhiko  /
+Atulo nāma nāmena ussannakusalasañcayo  // Bv_5.15 //
+Tadā'; haṃ nāgabhavanā nikkhamitvā sañātibhi  /
+nāgānaṃ dibbaturiyehi sasaṅghaṃ jinam-upaṭṭhahiṃ  // Bv_5.16 //
+Koṭisatasahassānaṃ annapānena tappayiṃ  /
+paccekadussayugaṃ datvā saraṇaṃ taṃ upāgamiṃ  // Bv_5.17 //
+So pi maṃ buddho vyākāsi Sumano lokanāyako:  /
+aparimeyye ito kappe ayaṃ buddho bhavissati  // Bv_5.18 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_5.19 //
+Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_5.20 //
+Mekhalaṃ nāma nagaraṃ Sudatto nāma khattiyo  /
+Sirimā nāma janikā Sumanassa mahesino  // Bv_5.21 //
+Navavassasahassāni agāraṃ ajjha so vasi  /
+Cando Sucando Vaṭaṃso ca tayo pāsāda-m-uttamā  // Bv_5.22 //
+Tesaṭṭhisatasahassāni nāriyo samalaṅkatā,  /
+Vaṭaṃsikā nāma nārī Anūpamo nāma atrajo  // Bv_5.23 //
+Nimitte caturo disvā hatthiyānena nikkhami  /
+anūnadasamāsāni padhānaṃ padahī jino  // Bv_5.24 //
+Brahmunā yacito santo Sumano lokanāyako  /
+vatti cakkaṃ mahāvīro Mekhale puravar'; uttame  // Bv_5.25 //
+Saraṇo Bhāvitatto ca ahesuṃ aggasāvakā  /
+Udeno nām'; upaṭṭhāko Sumanassa mahesino  // Bv_5.26 //
+Soṇā ca Upasoṇā ca ahesuṃ aggasāvikā  /
+so pi buddho amitayaso nāgamūle abujjhatha  // Bv_5.27 //
+Varuṇo ca Saraṇo ca ahesuṃ agg'; upaṭṭhakā  /
+Cālā ca Upacālā ca ahesuṃ agg'; upaṭṭhikā  // Bv_5.28 //
+Uccattanena so buddho navutihatthasamuggato  /
+kañcan'; agghiyasaṅkāso dasasahassī virocatha  // Bv_5.29 //
+
+
+[page 034]
+34                                  BUDDHAVAṂSO
+
+Navutivassasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_5.30 //
+Tāraṇīye tārayitvā bodhanīye ca bodhayī  /
+parinibbāyi sambuddho ulurājā va atthamī  // Bv_5.31 //
+Te pi khīṇāsavā bhikkhū so pi buddho asādiso  /
+atulaṃ pabhaṃ dassayitvā nibbutā te mahāyasā  // Bv_5.32 //
+Tañca ñāṇaṃ atuliyaṃ tāni cātuliyāni ratanāni  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_5.33 //
+Sumano yasadharo buddho Aṅgārāmamhi nibbuto  /
+tatth'; eva tassa jinathūpo catuyojana-m-uggato ti  // Bv_5.34 //
+                           Sumanassa bhagavato vaṃso catuttho
+
+
+[page 035]
+                                        35
+                                VI -- REVATABUDDHAVAṂSO
+Sumanassa aparena Revato nāma nāyako  /
+anūpamo asadiso atulo uttamo jino  // Bv_6.1 //
+So pi dhammaṃ pakāsesi brahmunā abhiyācito  /
+khandhadhātuvavatthānaṃ appavattaṃ bhavābhave  // Bv_6.2 //
+Tassābhisamayā tīni ahesuṃ dhammadesane  /
+gaṇanāya na vattabbo paṭhamābhisamayo ahū  // Bv_6.3 //
+Yadā Arindamaṃ rājaṃ vinesi Revato muni  /
+tadā koṭisahassānaṃ dutiyābhisamayo ahū  // Bv_6.4 //
+Sattāhaṃ paṭisallānā vuṭṭhahitvā narāsabho  /
+koṭisataṃ naramarūnaṃ vinesi uttame phale  // Bv_6.5 //
+Sannipātā tayo āsuṃ Revatassa mahesino  /
+khīṇāsavānaṃ vimalānaṃ suvimuttāna tādinaṃ  // Bv_6.6 //
+Atikkantā gaṇanapathaṃ paṭhamaṃ ye samāgatā  /
+koṭisatasahassānaṃ dutiyo āsi samāgamo  // Bv_6.7 //
+Yo so paññāya asamo tassa cakkānuvattako  /
+so tadā vyādhito āsi patto jīvitasaṃsayaṃ  // Bv_6.8 //
+Tassa gilānapucchāya ye tadā upagatā munī  /
+koṭisatasahassā arahanto tatiyo āsi samāgamo  // Bv_6.9 //
+Ahaṃ tena samayena Atidevo nāma brāhmaṇo  /
+upagantvā Revataṃ buddhaṃ saraṇaṃ tass'; agacch'; ahaṃ // Bv_6.10 //
+Tassa sīlaṃ samādhiñca paññāguṇavar'; uttamaṃ /
+thomayitvā yathā thomaṃ uttarīyam-adās'; ahaṃ  // Bv_6.11 //
+So pi maṃ buddho vyākāsi Revato lokanāyako:  /
+aparimeyye ito kappe ayaṃ buddho bhavissati  // Bv_6.12 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_6.13 //
+
+
+[page 036]
+36                                  BUDDHAVAṂSO
+
+Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_6.14 //
+Tadāp'; imaṃ buddhadhammaṃ saritvā anubrūhayiṃ  /
+āharissāmi taṃ dhammaṃ yaṃ mayhaṃ abhipatthitaṃ  // Bv_6.15 //
+Nagaraṃ Sudhammakaṃ nāma Vipulo nāma khattiyo  /
+Vipulā nāma janikā Revatassa mahesino  // Bv_6.16 //
+Chabbassasahassāni agāraṃ ajjha so vasi  /
+Sudassano ca Ratan'; agghī Avelo ca vibhūsito,  /
+puññakammābhinibbattā tayo pasāda-m-uttamā  // Bv_6.17 //
+Tettiṃsa ca sahassāni nāriyo samalaṅkatā,  /
+Sudassanā nāma devī Varuṇo nāma atrajo  // Bv_6.18 //
+Nimitte caturo disvā rathayānena nikkhami  /
+anūnasattamāsāni padhānaṃ padahī jino  // Bv_6.19 //
+Brahmunā yācito santo Revato lokanāyako  /
+Vatti cakkaṃ mahāvīro Varuṇārāme sirīghane  // Bv_6.20 //
+Varuṇo Brahmadevo ca ahesuṃ aggasāvakā  /
+Sambhavo nām'; upaṭṭhāko Revatassa mahesino  // Bv_6.21 //
+Bhaddā c'; eva Subhaddā ca ahesuṃ aggasāvikā  /
+so pi buddho asamasamo nāgamūle abujjhatha  // Bv_6.22 //
+Padumo Kuñjaro c'; eva ahesuṃ agg'; upaṭṭhakā  /
+Sirimā c'; eva Yasavatī ahesuṃ agg'; upaṭṭhikā  // Bv_6.23 //
+Uccattanena so buddho asīti hattha-m-uggato  /
+obhāseti disā sabbā indaketū'; va uggato  // Bv_6.24 //
+Tassa sarīre nibbattā pabhāmālā anuttarā  /
+divā vā yadi vā rattiṃ samantā phari yojanaṃ  // Bv_6.25 //
+Saṭṭhivassasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_6.26 //
+Dassayitvā buddhabalaṃ amataṃ loke pakāsayaṃ /
+nibbāyi anupādāno yath'; agg'; upādānasaṅkhayā  // Bv_6.27 //
+So ca kāyo ratananibho so ca dhammo asādiso  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_6.28 //
+
+
+[page 037]
+                                    REVATABUDDHAVAṂSO                   37
+
+Revato yasadharo buddho nibbuto so mahāpure  /
+dhātuvitthārikaṃ āsi tesu tesu padesato ti  // Bv_6.29 //
+                            Revatassa bhagavato vaṃso pañcamo
+
+
+[page 038]
+                                38
+                         VII -- SOBHITABUDDHAVAṂSO
+Revatassa aparena Sobhito nāma nāyako  /
+samāhito santacitto asamo appaṭipuggalo  // Bv_7.1 //
+So jino sakagehamhi mānasaṃ vinivaṭṭayi  /
+patvāna kevalaṃ bodhiṃ dhammacakkaṃ pavattayi  // Bv_7.2 //
+Yāva heṭṭhā Avīcito bhavaggā cāpi uddhato  /
+etth'; antare ekaparisā ahosi dhammadesane  // Bv_7.3 //
+Tāya parisāya sambuddho dhammacakkaṃ pavattayi  /
+gaṇanāya na vattabbo paṭhamābhisamayo ahu  // Bv_7.4 //
+Tato param-pi desente naramarūnaṃ samāgame  /
+navutikoṭisahassānaṃ dutiyābhisamayo ahu  // Bv_7.5 //
+Punāparaṃ rājaputto Jayaseno nāma khattiyo  /
+ārāmaṃ ropayitvāna buddhe nīyādayī tadā  // Bv_7.6 //
+Tassa yāgaṃ pakittento dhammaṃ desesi cakkhumā  /
+tadā koṭisahassānaṃ tatiyābhisamayo ahu  // Bv_7.7 //
+Sannipātā tayo āsuṃ Sobhitassa mahesino  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_7.8 //
+Uggato nāma so rājā dānaṃ deti nar'; uttame  /
+tamhi dāne samāgañchuṃ arahantā satakoṭiyo  // Bv_7.9 //
+Punāparaṃ puragaṇo dānaṃ deti nar'; uttame  /
+tadā navutikoṭīnaṃ dutiyo āsi samāgamo  // Bv_7.10 //
+Devaloke vasitvāna yadā orohatī jino  /
+tadā asītikoṭīnam tatiyo āsi samāgamo  // Bv_7.11 //
+Ahaṃ tena samayena Sujāto nāma brāhmaṇo  /
+tadā sasāvakaṃ buddhaṃ annapānena tappayiṃ  // Bv_7.12 //
+So pi maṃ buddho vyākāsi Sobhito lokanāyako  /
+aparimeyye ito kappe ayaṃ buddho bhavissati  // Bv_7.13 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāvaso  // Bv_7.14 //
+
+
+[page 039]
+                                    SOBHITABUDDHAVAṂSO                  39
+
+Tassāpi vacanaṃ sutvā haṭṭho saṃviggamānaso  /
+tam-ev'; attham-anuppattiyā uggaṃ dhitim-akās'; ahaṃ  // Bv_7.15 //
+Sudhammaṃ nāma nagaraṃ Sudhammo nāma khattiyo  /
+Sudhammā nāma janikā Sobhitassa mahesino  // Bv_7.16 //
+Navavassasahassāni agāraṃ ajjha so vasi  /
+Kumudo Kalīro Padumo tayo pāsāda-m-uttamā  // Bv_7.17 //
+Chasattati-sahassāni nāriyo samalaṅkatā  /
+Samaṅgī nāma sā nārī Sīho nām'; āsi atrajo  // Bv_7.18 //
+Nimitte caturo disvā pāsādenābhinikkhami  /
+sattāhaṃ padhānacāraṃ caritvā puris'; uttamo,  // Bv_7.19 //
+Brahmunā yācito santo Sobhito lokanāyako  /
+vatti cakkaṃ mahāvīro Sudhamm'; uyyāna-m-uttame  // Bv_7.20 //
+Asamo ca Sunetto ca ahesuṃ aggasāvakā  /
+Anumo nām'; upaṭṭhāko Sobhitassa mahesino  // Bv_7.21 //
+Nakulā ca Sujātā ca ahesuṃ aggasāvikā  /
+bujjhamāno ca so buddho nāgamūle abujjhatha  // Bv_7.22 //
+Rammo c'; eva Sudatto ca ahesuṃ agg'; upaṭṭhakā  /
+Nakulā c'; eva Cittā ca ahesuṃ agg'; upaṭṭhikā  // Bv_7.23 //
+Aṭṭhapaññāsaratanaṃ accuggato mahāmuni  /
+obhāseti disā sabbā sataraṃsīva uggato  // Bv_7.24 //
+Yathā suphullaṃ pavanaṃ nānāgandhehi dhūpitaṃ  /
+tath'; eva tassa pāvacanaṃ sīlagandhehi dhūpitaṃ  // Bv_7.25 //
+Yathā pi sāgaro nāma dassanena atappiyo  /
+tath'; eva tassa pāvacanaṃ savaṇena atappiyaṃ  // Bv_7.26 //
+Navutivassasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_7.27 //
+Ovādaṃ anusiṭṭhiñca datvāna 'sesake jane  /
+hutāsano va tāpetvā nibbuto so sasāvako  // Bv_7.28 //
+So ca buddho asamasamo te pi ca sāvakā balappattā  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_7.29 //
+
+
+[page 040]
+40                                  BUDDHAVAṂSO
+
+Sobhito varasambuddho Sīhārāmamhi nibbuto  /
+dhātuvitthārikaṃ āsi tesu tesu padesato ti  // Bv_7.30 //
+                          Sobhitassa bhagavato vaṃso chaṭṭhamo
+
+
+[page 041]
+                                        41
+                              VII -- ANOMADASSIBUDDHAVAṂSO
+Sobhitassa aparena sambuddho dvipad'; uttamo  /
+Anomadassī amitayaso tejasī duratikkamo  // Bv_8.1 //
+So chetvā bandhanaṃ sabbaṃ viddhaṃsetvā tayo bhave  /
+anivattigamanaṃ maggaṃ desesi devamānuse  // Bv_8.2 //
+Sāgaro va asaṅkhobho pabbato va durāsado  /
+ākāso va ananto so sālarājā va phullito  // Bv_8.3 //
+Dassanena pi taṃ buddhaṃ tositā honti pāṇino  /
+vyāharantaṃ giraṃ sutvā amataṃ pāpuṇanti te  // Bv_8.4 //
+Dhammābhisamayo tassa iddho phīto tadā ahu  /
+koṭisatāni abhisamiṃsu paṭhame dhammadesane  // Bv_8.5 //
+Tato param-pi abhisamaye vassante dhammavuṭṭhiyo  /
+asīti koṭiyo abhisamiṃsu dutiye dhammadesane  // Bv_8.6 //
+Tato param-pi vassante tappayante ca pāṇinaṃ  /
+aṭṭhasattatikoṭīnaṃ tatiyābhisamayo ahu  // Bv_8.7 //
+Sannipātā tayo āsuṃ tassāpi ca mahesino  /
+abhiññābalappattānaṃ pupphitānaṃ vimuttiyā  // Bv_8.8 //
+Aṭṭhasatasahassānaṃ sannipāto tadā ahu  /
+pahīṇamadamohānaṃ santacittāna tādinaṃ  // Bv_8.9 //
+Sattasatasahassānaṃ dutiyo āsi samāgamo  /
+anaṅgaṇānaṃ virajānaṃ upasantāna tādinaṃ  // Bv_8.10 //
+Channaṃ satasahassānaṃ tatiyo āsi samāgamo  /
+abhiññābalappattānaṃ nibbutānaṃ tapassinaṃ  // Bv_8.11 //
+Ahaṃ tena samayena yakkho āsiṃ mah'; iddhiko  /
+nekānaṃ yakkhakoṭīnaṃ vasavatti'; mhi issaro  // Bv_8.12 //
+Tadā pi taṃ buddhavaraṃ upagantvā mahesinaṃ  /
+annapānena tappesiṃ sasaṅghaṃ lokanāyakaṃ  // Bv_8.13 //
+
+
+[page 042]
+42                                  BUDDHAVAṂSO
+
+So pi maṃ tadā vyākāsi visuddhanayano muni:  /
+aparimeyye ito kappe ayaṃ buddho bhavissati  // Bv_8.14 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_8.15 //
+Tassāpi vacanaṃ sutvā haṭṭho saṃviggamānaso  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_8.16 //
+Nagaraṃ Candavatī nāma Yasavā nāma khattiyo  /
+mātā Yasodharā nāma Anomadassissa satthuno  // Bv_8.17 //
+Dasavassasahassāni agāraṃ ajjha so vasi  /
+Sirī Upasirī Vaḍḍho tayo pāsāda-m-uttamā  // Bv_8.18 //
+Tevīsati sahassāni nāriyo samalaṅkatā  /
+Sirimā nāma nārī ca Upavāno nāma atrajo  // Bv_8.19 //
+Nimitte caturo disvā sivikāyābhinikkhami  /
+anūnadasamāsāni padhānaṃ padahī jino  // Bv_8.20 //
+Brahmunā yācito santo Anomadassī mahāmuni  /
+vatti cakkaṃ mahāvīro uyyāne so Sudassane  // Bv_8.21 //
+Nisabho ca Asoko ca ahesuṃ aggasāvakā  /
+Varuṇo nām'; upaṭṭhāko Anomadassissa satthuno  // Bv_8.22 //
+Sundarī ca Sumanā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato ajjuno 'ti pavuccati  // Bv_8.23 //
+Nandivaḍḍho Sirivaḍḍho ahesuṃ agg'; upaṭṭhakā  /
+Uppalā c'; eva Padumā ca ahesuṃ agg'; upaṭṭhikā  // Bv_8.24 //
+Aṭṭhapaññāsaratanaṃ accuggato mahāmuni  /
+pabhā niddhāvatī tassa sataraṃsī va uggato  // Bv_8.25 //
+Vassasatasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_8.26 //
+Supupphitaṃ pāvacanaṃ arahantehi tādihi  /
+vītarāgehi vimalehi sobhittha jinasāsanaṃ  // Bv_8.27 //
+So ca satthā amitayaso yugāni tāni atuliyāni  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_8.28 //
+
+
+[page 043]
+                                    ANOMADASSIBUDDHAVAṂSO               43
+
+Anomadassī jino satthā Dhammārāmamhi nibbuto  /
+tatth'; eva tassa jinathūpo ubbedho pañcavīsatī ti  // Bv_8.29 //
+                           Anomadassissa bhagavato vaṃso sattamo
+
+
+[page 044]
+                                        44
+                                IX -- PADUMABUDDHAVAṂSO
+Anomadassissa aparena sambuddho dvipad'; uttamo  /
+Padumo nāma nāmena asamo appaṭipuggalo  // Bv_9.1 //
+Tassāpi asamaṃ sīlaṃ samādhī pi anantakā  /
+asaṅkheyyaṃ ñāṇavaraṃ vimuttī ca anūpamā  // Bv_9.2 //
+Tassāpi atulatejassa dhammacakkappavattane  /
+abhisamayā tayo āsuṃ mahātamapavāhanā  // Bv_9.3 //
+Paṭhamābhisamaye buddho koṭisatam-abodhayī  /
+dutiyābhisamaye dhīro navutikoṭim-abodhayī  // Bv_9.4 //
+Yadā ca Padumo buddho ovadī sakam-atrajaṃ  /
+tadā asītikoṭīnaṃ tatiyābhisamayo ahu  // Bv_9.5 //
+Sannipātā tayo āsuṃ Padumassa mahesino  /
+koṭisatasahassānaṃ paṭhamo āsi samāgamo  // Bv_9.6 //
+Kaṭhin'; atthārasamaye uppanne kaṭhinacīvare  /
+dhammasenāpat'; atthāya bhikkhū sibbiṃsu cīvaraṃ // Bv_9.7 //
+Tadā te vimalā bhikkhū chaḷabhiññā mah'; iddhikā  /
+tīṇi satasahassāni samiṃsu aparājitā  // Bv_9.8 //
+Punāparaṃ so narāsabho pavane vāsam-upāgami, /
+tadā samāgamo āsi dvinnaṃ satasahassinaṃ // Bv_9.9 //
+Ahaṃ tena samayena sīho āsiṃ migādhibhū  /
+vivekam-anubrūhantaṃ pavane addasaṃ jinaṃ // Bv_9.10 //
+Vanditvā sirasā pāde katvāna taṃ padakkhiṇaṃ  /
+tikkhattuṃ abhināditvā sattāhaṃ jinam-upaṭṭhahiṃ // Bv_9.11 //
+Sattāhā varasamāpattiyā uṭṭhahitvā tathāgato  /
+manasā cintayitvāna koṭibhikkhū samānayī  // Bv_9.12 //
+Tadā pi so mahāvīro tesaṃ majjhe viyākarī:  /
+aparimeyye ito kappe ayaṃ buddho bhavissati  // Bv_9.13 //
+
+
+[page 045]
+                                    PADUMABUDDHAVAṂSO                   45
+
+Padhānaṃ padahitvāva katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_9.14 //
+Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_9.15 //
+Campakaṃ nāma nagaraṃ Asamo nāma khattiyo  /
+Asamā nāma janikā Padumassa mahesino  // Bv_9.16 //
+Dasavassasahassāni agāraṃ ajjha so vasi  /
+Nandā ca Suyasā Uttarā tayo pāsāda-m-uttamā  // Bv_9.17 //
+Tettiṃsasatasahassāni nāriyo samalaṅkatā  /
+Uttarā nāma sā nārī Rammo nāmāsi atrajo  // Bv_9.18 //
+Nimitte caturo disvā rathayānena nikkhami  /
+anūnakaṃ aḍḍhamāsaṃ padhānaṃ padahī jino  // Bv_9.19 //
+Brahmunā yācito santo Padumo lokanāyako  /
+vatti cakkaṃ mahāvīro Dhanañjay'; uyyāna-m-uttame  // Bv_9.20 //
+Sālo ca Upasālo ca ahesuṃ aggasāvakā  /
+Varuṇo nām'; upaṭṭhāko Padumassa mahesino  // Bv_9.21 //
+Rādhā c'; eva Surādhā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato mahāsoṇo 'ti vuccati  // Bv_9.22 //
+Bhiyyo c'; eva Asamo ca ahesuṃ agg'; upaṭṭhakā  /
+Rucī ca Nandarāmā ca ahesuṃ agg'; upaṭṭhikā  // Bv_9.23 //
+Aṭṭhapaññāsaratanaṃ accuggato mahāmuni  /
+pabhā niddhāvatī tassa asamā sabbaso disā  // Bv_9.24 //
+Candappabhā suriyappabhā ratan'; agghimaṇippabhā  /
+sabbā pi tā hatā honti patvā jinapabh'; uttamaṃ // Bv_9.25 //
+Vassasatasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_9.26 //
+Paripakkamānase satte bodhayitvā asesato  /
+sesake anusāsitvā nibbuto so sasāvako  // Bv_9.27 //
+Urago va tacaṃ jiṇṇaṃ vuddhapattaṃ va pādapo  /
+jahitvā sabbasaṅkhāre nibbuto so yathā sikhī  // Bv_9.28 //
+
+
+[page 046]
+46                                  BUDDHAVAṂSO
+
+Padumo jinavaro satthā Dhammārāmamhi nibbuto  /
+dhātuvitthārikaṃ āsi tesu tesu padesato 'ti  // Bv_9.29 //
+                         Padumassa bhagavato vaṃso aṭṭhamo
+
+
+[page 047]
+                                        47
+                                X -- NĀRADABUDDHAVAṂSO
+Padumassa aparena sambuddho dvipad'; uttamo  /
+Nārado nāma nāmena asamo appaṭipuggalo  // Bv_10.1 //
+So buddho cakkavattissa jeṭṭho dayita-oraso  /
+āmuttamālyābharaṇo uyyānaṃ upasaṅkami  // Bv_10.2 //
+Tatrāsi rukkho yasavipulo abhirūpo brahā suci  /
+tam-ajjhapatvā upanisīdi mahāsoṇassa heṭṭhato  // Bv_10.3 //
+Tattha ñāṇavar'; uppajji anantaṃ vajir'; ūpamaṃ  /
+tena vicini saṅkhāre ukkujjam-avakujjakaṃ // Bv_10.4 //
+Tattha sabbakilesāni asesaṃ abhivāhayī  /
+pāpuṇī kevalaṃ bodhiṃ buddhañāṇe ca cuddasa  // Bv_10.5 //
+Pāpuṇitvāna sambodhiṃ dhammacakkaṃ pavattayi  /
+koṭisatasahassānaṃ paṭhamābhisamayo ahu  // Bv_10.6 //
+Mahādoṇaṃ nāgarājaṃ vinayanto mahāmuni  /
+pāṭiheraṃ tadākāsi dassayanto sadevake  // Bv_10.7 //
+Tadā devamanussānaṃ tamhi dhammappakāsane  /
+navutikoṭisahassāni tariṃsu sabbasaṃsayaṃ  // Bv_10.8 //
+Yamhi kāle mahāvīro ovadī sakam-atrajaṃ  /
+asītikoṭisahassānaṃ tatiyābhisamayo ahu  // Bv_10.9 //
+Sannipātā tayo āsuṃ Nāradassa mahesino  /
+koṭisatasahassānaṃ paṭhamo āsi samāgamo  // Bv_10.10 //
+Yadā buddho buddhaguṇaṃ sanidānaṃ pakāsayi  /
+navutikoṭisahassāni samiṃsu vimalā tadā  // Bv_10.11 //
+Yadā Verocano nāgo dānaṃ dadāti satthuno  /
+tadā samiṃsu jinaputtā asītisatasahassiyo  // Bv_10.12 //
+Ahaṃ tena samayena jaṭilo uggatāpano  /
+antalikkhacaro āsiṃ pañcābhiññāsu pāragū  // Bv_10.13 //
+Tadā p'; āhaṃ asamasamaṃ sasaṅghaṃ saparijjanaṃ /
+annapānena tappetvā candanenābhipūjayiṃ  // Bv_10.14 //
+
+
+[page 048]
+48                                  BUDDHAVAṂSO
+
+So pi maṃ tadā vyākāsi Nārado lokanāyako:  /
+aparimeyye ito kappe ayaṃ buddho bhavissati  // Bv_10.15 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_10.16 //
+Tassāpi vacanaṃ sutvā bhiyyo hāsetva mānasaṃ  /
+adhiṭṭhahiṃ vataṃ uggaṃ dasapāramipūriyā  // Bv_10.17 //
+Nagaraṃ Dhaññavatī nāma Sudevo nāma khattiyo  /
+Anomā nāma janikā Nāradassa mahesino  // Bv_10.18 //
+Nava vassasahassāni agāraṃ ajjha so vasī  /
+Jitā Vijitā'; Bhirāmā tayo pāsāda-m-uttamā  // Bv_10.19 //
+Ticattārīsasahassāni nāriyo samalaṅkatā  /
+Jitasenā nāma nārī Nand'; uttaro nāma atrajo  // Bv_10.20 //
+Nimitte caturo disvā padasā gamanena nikkhami  /
+sattāhaṃ padhānacariyaṃ acarī lokanāyako  // Bv_10.21 //
+Brahmunā yācito santo Nārado lokanāyako  /
+vatti cakkaṃ mahāvīro Dhanañjay'; uyyāna-m-uttame  // Bv_10.22 //
+Bhaddasālo Jitamitto ahesuṃ aggasāvakā  /
+Vāseṭṭho nām'; upaṭṭhāko Nāradassa mahesino  // Bv_10.23 //
+Uttarā Phagguṇī c'; eva ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato mahāsoṇo ti vuccati  // Bv_10.24 //
+Uggar'; indo Vasabho ca ahesuṃ agg'; upaṭṭhakā  /
+Indāvarī ca Caṇḍī ca ahesuṃ agg'; upaṭṭhikā  // Bv_10.25 //
+Aṭṭhāsīti ratanāni accuggato mahāmuni  /
+kañcan'; agghikasaṅkāso dasasahassī virocatha  // Bv_10.26 //
+Tassa byāmappabhā kāyā niddhāvati disodisaṃ /
+nirantaraṃ divā rattiṃ yojanaṃ pharate sadā  // Bv_10.27 //
+Na keci tena samayena samantā yojane janā  /
+ukkā padīpe ujjalenti buddharaṃsena otthaṭā  // Bv_10.28 //
+Navutivassasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_10.29 //
+
+
+[page 049]
+                                    NĀRADABUDDHAVAṂSO                   49
+
+Yathā ulūhi gaganaṃ vicittaṃ upasobhati  /
+tath'; eva sāsanaṃ tassa arahantehi sobhati  // Bv_10.30 //
+Saṃsārasotaṃ taraṇāya sesake paṭipannake  /
+dhammasetuṃ daḷhaṃ katvā nibbuto so narāsabho  // Bv_10.31 //
+So pi buddho asamasamo te pi khīṇāsavā atulatejā  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_10.32 //
+Nārado jinavasabho nibbuto Sudassane pure  /
+tatth'; eva jinathūpavaro catu yojanam-uggato  // Bv_10.33 //
+                             Nāradassa bhagavato vaṃso navamo
+
+
+[page 050]
+                                        50
+                            XI -- PADUMUTTARABUDDHAVAṂSO
+Nāradassa aparena sambuddho dvipad'; uttamo  /
+Padumuttaro nāma jino akkhobho sāgar'; ūpamo  // Bv_11.1 //
+Maṇḍakappo va so āsi yamhi buddho ajāyatha  /
+ussannakusalā janatā tamhi kappe ajāyatha  // Bv_11.2 //
+Padumuttarassa bhagavato paṭhame dhammadesane  /
+koṭisatasahassānaṃ dhammābhisamayo ahu  // Bv_11.3 //
+Tato param-pi vass'; ante tappayante ca pāṇine  /
+sattatiṃsasahassānaṃ dhammābhisamayo ahu  // Bv_11.4 //
+Yamhi kāle mahāvīro Ānandaṃ upasaṅkami  /
+pitu santikam-upāgantvā ahanī amatadundubhiṃ  // Bv_11.5 //
+Āhate amatabherimhi vassante dhammavuṭṭhiyo  /
+paññāsasatasahassānaṃ tatiyābhisamayo ahu  // Bv_11.6 //
+Ovādako viññāpako tārako sabbapāṇinaṃ  /
+desanākusalo buddho tāresi janataṃ bahuṃ  // Bv_11.7 //
+Sannipātā tayo āsuṃ Padumuttarassa satthuno  /
+koṭisatasahassānaṃ paṭhamo āsi samāgamo  // Bv_11.8 //
+Yadā buddho asamasamo vasī Vebhārapabbate  /
+navutikoṭisahassānaṃ dutiyo āsi samāgamo  // Bv_11.9 //
+Puna cārikaṃ pakkante gāmanigamaraṭṭhato  /
+asītikoṭisahassānaṃ tatiyo āsi samāgamo  // Bv_11.10 //
+Ahaṃ tena samayena Jaṭilo nāma raṭṭhiko  /
+sambuddhapamukhaṃ saṅghaṃ sabhattaṃ dussam adās'; ahaṃ  // Bv_11.11 //
+So pi maṃ buddho vyākāsi saṅghamajjhe nisīdiya:  /
+satasahasse ito kappe ayaṃ buddho bhavissati  // Bv_11.12 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_11.13 //
+
+
+[page 051]
+                                    PADUMUTTARABUDDHAVAṂSO              51
+
+Tassāpi vacanaṃ sutvā uttariṃ vatam-adhiṭṭhahiṃ  /
+akāsim-uggaṃ daḷhaṃ dhitiṃ dasapāramipūriyā  // Bv_11.14 //
+Vyāhatā titthiyā sabbe vimanā dummanā tadā  /
+na tesaṃ keci paricaranti raṭṭhato nicchubhanti te  // Bv_11.15 //
+Sabbe tattha samāgantvā upagacchuṃ buddhasantike  /
+tuvaṃ nātho mahāvīro saraṇaṃ hohi cakkhuma  // Bv_11.16 //
+Anukampako kāruṇiko hitesī sabbapāṇinaṃ  /
+sampatte titthiye sabbe pañcasīle patiṭṭhahi  // Bv_11.17 //
+Evaṃ nirākulaṃ āsi suññataṃ titthiyehi taṃ  /
+vicittaṃ arahantehi vasībhūtehi tādihi  // Bv_11.18 //
+Nagaraṃ Haṃsavatī nāma Ānando nāma khattiyo  /
+Sujātā nāma janikā Padumuttarassa mahesino  // Bv_11.19 //
+Dasavassasahassāni agāraṃ ajjha so vasī  /
+Nārivāhano Yaso Yasavatī tayo pāsāda-m-uttamā  // Bv_11.20 //
+Ticattārīsasahassāni nāriyo samalaṅkatā  /
+Vasudattā nāma nārī Uttaro nāma atrajo  // Bv_11.21 //
+Nimitte caturo disvā pāsādenābhinikkhami  /
+sattāhaṃ padhānacāraṃ acarī puris'; uttamo  // Bv_11.22 //
+Brahmunā yācito santo Padumuttaro vināyako  /
+vatti cakkaṃ mahāvīro Mithil'; uyyāna-m-uttame  // Bv_11.23 //
+Devalo ca Sujāto ca ahesuṃ aggasāvakā  /
+Sumano nām'; upaṭṭhāko Padumuttarassa mahesino  // Bv_11.24 //
+Amitā Asamā c'; eva ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato salalo 'ti pavuccati  // Bv_11.25 //
+Vitiṇṇo c'; eva Tisso ca ahesuṃ agg'; upaṭṭhakā  /
+Hatthā c'; eva Vicittā ca ahesuṃ agg'; upaṭṭhikā  // Bv_11.26 //
+Aṭṭhapaññāsaratanaṃ accuggato mahāmuni  /
+kañcan'; agghikasaṅkāso dvattiṃsavaralakkhaṇo  // Bv_11.27 //
+Kuḍḍā kavāṭā bhittī ca rukkhā nagasil'; uccayā  /
+na tassāvaraṇaṃ atthi samantā dvādasayojane  // Bv_11.28 //
+
+
+[page 052]
+52                                  BUDDHAVAṂSO
+
+Vassasatasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_11.29 //
+Santāretvā bahujanaṃ chinditvā sabbasaṃsayaṃ  /
+jalitvā aggikkhandho va nibbuto so sasāvako  // Bv_11.30 //
+Padumuttaro jino buddho Nandārāmamhi nibbuto  /
+tatth'; eva tassa thūpavaro dvadas'; ubbedhayojano ti  // Bv_11.31 //
+                          Padumuttarassa bhagavato vaṃso dasamo
+
+
+[page 053]
+                                        53
+                                    XII -- SUMEDHABUDDHAVAṂSO
+Padumuttarassa aparena Sumedho nāma nāyako  /
+durāsado uggatejo sabbalok'; uttaro muni  // Bv_12.1 //
+Pasannanetto sumukho brahā uju patāpavā  /
+hitesī sabbasattānaṃ bahū mocesi bandhanā  // Bv_12.2 //
+Yadā buddho pāpuṇitvā kevalaṃ bodhim-uttamaṃ  /
+Sudassanamhi nagare dhammacakkam-pavattayi,  // Bv_12.3 //
+Tassābhisamayā tīṇi ahesuṃ dhammadesane  /
+koṭisatasahassānaṃ paṭhamābhisamayo ahu  // Bv_12.4 //
+Punāparaṃ Kumbhakaṇṇaṃ yakkhaṃ so damayī jino  /
+navutikoṭisahassānaṃ dutiyābhisamayo ahu  // Bv_12.5 //
+Punāparaṃ amitayaso catusaccaṃ pakāsayi  /
+asītikoṭisahassānaṃ tatiyābhisamayo ahu  // Bv_12.6 //
+Sannipātā tayo āsuṃ Sumedhassa mahesino  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_12.7 //
+Sudassanaṃ nagaravaraṃ upagañchi jino yadā  /
+tadā khiṇāsavā bhikkhū samiṃsu satakoṭiyo  // Bv_12.8 //
+Punāparaṃ Devakūṭe bhikkhūnaṃ kaṭhin'; atthate  /
+tadā navutikoṭīnaṃ dutiyo āsi samāgamo  // Bv_12.9 //
+Punāparaṃ dasabalo yadā carati cārikaṃ  /
+tadā asītikoṭīnaṃ tatiyo āsi samāgamo  // Bv_12.10 //
+Ahaṃ tena samayena Uttaro nāma māṇavo  /
+asīti koṭiyo mayhaṃ ghare sannicitaṃ dhanaṃ  // Bv_12.11 //
+Kevalaṃ sabbaṃ datvāna sasaṅghe lokanāyake  /
+saraṇaṃ tass'; upāgañchiṃ pabbajjañcābhirocayiṃ // Bv_12.12 //
+So pi maṃ buddho vyākāsi karonto anumodanaṃ:  /
+tiṃsakappasahassamhi ayaṃ buddho bhavissati  // Bv_12.13 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_12.14 //
+
+
+[page 054]
+54                                  BUDDHAVAṂSO
+
+Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ /
+uttariṃ vatam-adhihiṭṭhāsiṃ dasapāramipūriyā  // Bv_12.15 //
+Suttantaṃ vinayañcāpi navaṅgaṃ satthusāsanaṃ  /
+sabbaṃ pariyāpuṇitvāna sobhayiṃ jinasāsanaṃ  // Bv_12.16 //
+Tatth'; appamatto viharanto nisajjaṭṭhānacaṅkame  /
+abhiññāsu pāramiṃ gantvā brahmalokam-agañch'; ahaṃ // Bv_12.17 //
+Sudassanaṃ nāma nagaraṃ Sudatto nāma khattiyo  /
+Sudattā nāma janikā Sumedhassa mahesino  // Bv_12.18 //
+Navavassasahassāni agāraṃ ajjha so vasi  /
+Sucanda-Kañcana-Sirivaḍḍhā tayo pāsāda-m-uttamā  // Bv_12.19 //
+Tisoḷasasahassāni nāriyo samalaṅkatā  /
+Sumanā nāma sā nārī Sumitto nāma atrajo  // Bv_12.20 //
+Nimitte caturo disvā hatthiyānena nikkhami  /
+anūnakaṃ aṭṭhamāsaṃ padhānaṃ padahī jino  // Bv_12.21 //
+Brahmunā yācito santo Sumedho lokanāyako  /
+vatti cakkaṃ mahāvīro Sudassan'; uyyāna-m-uttame  // Bv_12.22 //
+Saraṇo Sabbakāmo ca ahesuṃ aggasāvakā  /
+Sāgaro nām'; upaṭṭhāko Sumedhassa mahesino  // Bv_12.23 //
+Rāmā c'; eva Surāmā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato mahānimbo 'ti vuccati  // Bv_12.24 //
+Uruvelo ca Yasavo ca ahesuṃ agg'; upaṭṭhakā  /
+Yasodharā Sirimā ca ahesuṃ agg'; upaṭṭhikā  // Bv_12.25 //
+Aṭṭhāsīti ratanāni accuggato mahāmuni  /
+obhāseti disā sabbā cando tāragaṇe yathā  // Bv_12.26 //
+Cakkavattimaṇī nāma yathā tapati yojanaṃ  /
+tath'; eva tassa ratanaṃ samantā pharati yojanaṃ  // Bv_12.27 //
+Navutivassasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_12.28 //
+Tevijjachaḷabhiññehi balappattehi tādihi  /
+samākulam-idaṃ āsi arahantehi sādhuhi  // Bv_12.29 //
+
+
+[page 055]
+                                    SUMEDHABUDDHAVAṂSO                  55
+
+Te pi sabbe amitayasā vippamuttā nirūpadhī  /
+ñāṇālokaṃ dassayitvā nibbutā te mahāyasā  // Bv_12.30 //
+Sumedho jinavaro buddho Medhārāmamhi nibbuto  /
+dhātuvitthārikaṃ āsi tesu tesu padesato  // Bv_12.31 //
+     Sumedhassa bhagavato vaṃso ekādasamo
+
+
+[page 056]
+                                        56
+                               XIII -- SUJĀTABUDDHAVAṂSO
+Tatth'; eva Maṇḍakappamhi Sujāto nāma nāyako  /
+Sīhahanūsabhakkhandho appameyyo durāsado  // Bv_13.1 //
+Cando va vimalo suddho sataraṃsī va tāpavā  /
+evaṃ sobhati sambuddho jalanto siriyā sadā  // Bv_13.2 //
+Pāpuṇitvāna sambuddho kevalaṃ bodhi-m-uttamaṃ  /
+Sumaṅgalamhi nagare dhammacakkaṃ pavattayi  // Bv_13.3 //
+Desente pavaraṃ dhammaṃ Sujāte lokanāyake  /
+asītikoṭī abhisamiṃsu paṭhame dhammadesane  // Bv_13.4 //
+Yadā Sujāto amitayaso deve vassaṃ upāgami  /
+sattatiṃsasahassānaṃ dutiyābhisamayo ahu  // Bv_13.5 //
+Yadā Sujāto asamasamo upagacchi pitu santikaṃ  /
+saṭṭhisatasahassānaṃ tatiyābhisamayo ahu  // Bv_13.6 //
+Sannipātā tayo āsuṃ Sujātassa mahesino  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_13.7 //
+Abhiññābalappattānam appattānaṃ bhavābhave  /
+saṭṭhisatasahassāni paṭhamaṃ sannipatiṃsu te  // Bv_13.8 //
+Punāparaṃ sannipāte tidiv'; orohaṇe jine  /
+paññāsasatasahassānaṃ dutiyo āsi samāgamo  // Bv_13.9 //
+Upasaṅkamanto naravasabhaṃ tassa yo aggasāvako  /
+catūhi satasahassehi sambuddhaṃ upasaṅkami  // Bv_13.10 //
+Ahaṃ tena samayena catudīpamhi issaro  /
+antalikkhacaro āsiṃ cakkavattī mahabbalo  // Bv_13.11 //
+Loke acchariyaṃ disvā abbhutaṃ lomahaṃsanaṃ  /
+upagantvāna vandiṃ so Sujātaṃ lokanāyakaṃ  // Bv_13.12 //
+Catudīpe mahārajjaṃ ratane satta uttame  /
+buddhe niyyādayitvāna pabbajiṃ tassa santike  // Bv_13.13 //
+Āramikā janapade uṭṭhānaṃ paṭipiṇḍiya  /
+upanenti bhikkhusaṅghassa paccayaṃ sayanāsanaṃ  // Bv_13.14 //
+
+
+[page 057]
+                                    SUJĀTABUDDHAVAṂSO                   57
+
+So pi maṃ buddho vyākāsi dasasahassimhi issaro:  /
+tiṃsakappasahassamhi ayaṃ buddho bhavissati  // Bv_13.15 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_13.16 //
+Tassāpi vacanaṃ sutvā bhiyyo hāsaṃ janes'; ahaṃ /
+adhiṭṭhahiṃ vataṃ uggaṃ dasapāramipūriyā  // Bv_13.17 //
+Suttantaṃ vinayañcāpi navaṅgaṃ satthusāsanaṃ /
+sabbaṃ pariyāpuṇitvāna sobhayiṃ jinasāsanaṃ  // Bv_13.18 //
+Tatth'; appamatto viharanto brahmaṃ bhāvetva bhāvanaṃ  /
+abhiññāsu pāramiṃ gantvā brahmalokaṃ agacch'; ahaṃ // Bv_13.19 //
+Sumaṅgalaṃ nāma nagaraṃ Uggato nāma khattiyo  /
+mātā Pabhāvatī nāma Sujātassa mahesino  // Bv_13.20 //
+Navavassasahassāni agāraṃ ajjha so vasi  /
+Sirī Upasirī Nandā tayo pāsāda-m-uttamā  // Bv_13.21 //
+Tevīsatisahassāni nāriyo samalaṅkatā  /
+Sirinandā nāma nārī Upaseno nāma atrajo  // Bv_13.22 //
+Nimitte caturo disvā assayānena nikkhami  /
+anūnanavamāsāni padhānaṃ padahī jino  // Bv_13.23 //
+Brahmunā yācito santo Sujāto lokanāyako  /
+vatti cakkaṃ mahāvīro Sumaṅgal'; uyyāna-m-uttame  // Bv_13.24 //
+Sudassano Sudevo ca ahesuṃ aggasāvakā  /
+Nārado nām'; upaṭṭhāko Sujātassa mahesino  // Bv_13.25 //
+Nāgā ca Nāgasamālā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato mahāveḷū 'ti vuccati  // Bv_13.26 //
+So ca rukkho ghanaruciro acchiddo hoti pattiko  /
+ujuvaṃso brahā hoti dassaneyyo manoramo  // Bv_13.27 //
+Ekakkhandho pavaḍḍhitvā tato sākhā pabhijjatha  /
+yathā subaddho morahattho evaṃ sobhati so dumo  // Bv_13.28 //
+Na tassa kaṇḍakā honti nāpi chiddaṃ mahā ahu  /
+vitthiṇṇasākho aviralo sandacchāyo manoramo  // Bv_13.29 //
+
+
+[page 058]
+58                                 BUDDHAVAṂSO
+
+Sudatto c'; eva Citto ca ahesuṃ agg'; upaṭṭhakā  /
+Subhaddā c'; eva Padumā ca ahesuṃ agg'; upaṭṭhikā  // Bv_13.30 //
+Paññāsaratano āsi uccattanena so jino  /
+sabbākāravar'; ūpeto sabbaguṇa-m-upāgato  // Bv_13.31 //
+Tassa pabhā asamasamā niddhāvati samantato  /
+appamāṇo atuliyo opammehi anūpamo  // Bv_13.32 //
+Navutivassasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_13.33 //
+Yathā pi sāgare ūmi gagane tārakā yathā  /
+evaṃ tadā pāvacanaṃ arahantehi cittitaṃ // Bv_13.34 //
+So ca buddho asamasamo guṇāni ca tāni atuliyāni  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_13.35 //
+Sujāto jinavaro buddho Sīlārāmamhi nibbuto  /
+tatth'; eva tassa cetiyo tīṇi gāvuta-m-uggato  // Bv_13.36 //
+                          Sujātassa bhagavato vaṃso dvādasamo
+
+
+[page 059]
+                                        59
+                              XIV -- PIYADASSIBUDDHAVAṂSO
+Sujātassa aparena sayambhū lokanāyako  /
+durāsado asamasamo Piyadassī mahāyaso  // Bv_14.1 //
+So pi buddho amitayaso ādicco va virocati  /
+nihantvāna tamaṃ sabbaṃ dhammacakkaṃ pavattayi  // Bv_14.2 //
+Tassāpi atulatejassa ahesum-abhisamayā tayo  /
+koṭisatasahassānaṃ paṭhamābhisamayo ahū  // Bv_14.3 //
+Sudassano devarājā micchādiṭṭhim-aracoyi  /
+tassa diṭṭhiṃ vinodento satthā dhammam-adesayi  // Bv_14.4 //
+Janasannipāto atulo mahā sannipatī tadā  /
+navutikoṭisahassānaṃ dutiyābhisamayo ahu  // Bv_14.5 //
+Yadā Doṇamukhaṃ hatthiṃ vinesi narasārathi  /
+asītikoṭisahassānaṃ tatiyābhisamayo ahu  // Bv_14.6 //
+Sannipātā tayo āsuṃ tassāpi Piyadassino  /
+koṭisatasahassānaṃ paṭhamo āsi samāgamo  // Bv_14.7 //
+Tato paraṃ navutikoṭī samiṃsu ekato munī  /
+tatiye sannipātamhi asītikoṭiyo ahū  // Bv_14.8 //
+Ahaṃ tena samayena Kassapo nāma brāhmaṇo  /
+ajjhāyako mantadharo tiṇṇaṃ vedāna pāragū  // Bv_14.9 //
+Tassa dhammaṃ suṇitvāna pasādaṃ janayī-m-ahaṃ /
+koṭisatasahassehi saṅghārāmaṃ amāpayiṃ // Bv_14.10 //
+Tassa datvāna ārāmaṃ haṭṭho saṃviggamānaso  /
+saraṇaṃ pañcasīlañca daḷhaṃ katvā samādiyiṃ  // Bv_14.11 //
+So pi maṃ buddho vyākāsi saṅghamajjhe nisīdiya:  /
+aṭṭhārase kappasate ayaṃ buddho bhavissati  // Bv_14.12 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_14.13 //
+Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_14.14 //
+
+
+[page 060]
+60                                  BUDDHAVAṂSO
+
+Sudhaññaṃ nāma nagaraṃ Sudatto nāma khattiyo  /
+Sucandā nāma janikā Piyadassissa satthuno  // Bv_14.15 //
+Navavassasahassāni agāraṃ ajjha so vasī  /
+Sunimmala-Vimala-Giriguhā tayo pāsāda-m-uttamā  // Bv_14.16 //
+Tettiṃsati sahassāni nāriyo samalaṅkatā  /
+Vimalā nāma nārī ca Kañcanaveḷo nāma atrajo  // Bv_14.17 //
+Nimitte caturo disvā rathayānena nikkhami  /
+chamāsaṃ padhānacāraṃ acarī puris'; uttamo  // Bv_14.18 //
+Brahmunā yācito santo Piyadassī mahāmunī  /
+vatti cakkaṃ mahāvīro Ussāvan'; uyyāne manorame  // Bv_14.19 //
+Pālito Sabbadassī ca ahesuṃ aggasāvakā  /
+Sobhito nām'; upaṭṭhāko Piyadassissa satthuno  // Bv_14.20 //
+Sujātā Dhammadinnā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato kakudho 'ti pavuccati  // Bv_14.21 //
+Sannako Dhammiko c'; eva ahesuṃ agg'; upaṭṭhakā  /
+Visākhā Dhammadinnā ca ahesuṃ agg'; upaṭṭhikā  // Bv_14.22 //
+So pi buddho amitayaso dvattiṃsavaralakkhaṇo  /
+asītihattha-m-ubhedho sālarājā va dissati  // Bv_14.23 //
+Aggicandasuriyānaṃ n'; atthi tādisikā pabhā  /
+yathā ahu pabhā tassa asamassa mahesino  // Bv_14.24 //
+Tassāpi devadevassa āyu tāvatakaṃ ahu  /
+navutivassasahassāni loke aṭṭhāsi cakkhumā  // Bv_14.25 //
+So pi buddho asamasamo yugāni pi tāni atuliyāni  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_14.26 //
+So Piyadassī munivaro Assatthārāmamhi nibbuto  /
+tatth'; eva tassa jinathūpo tīṇi yojana-m-uggato ti  // Bv_14.27 //
+                       Piyadassissa bhagavato vaṃso terasamo
+
+
+[page 061]
+     Blank Page. [61]                 61
+
+
+
+[page 062]
+62                             XV -- ATTHADASSIBUDDHAVAṂSO
+
+Tatth'; eva Maṇḍakappamhi Atthadassī narāsabho  /
+mahātamaṃ nihantvāna patto sambodhim-uttamaṃ  // Bv_15.1 //
+Brahmunā yācito santo dhammacakkaṃ pavattayi  /
+amatena tappayī lokaṃ dasasahassī sadevakaṃ // Bv_15.2 //
+Tassāpi lokanāthassa ahesum-abhisamayā tayo  /
+koṭisatasahassānaṃ paṭhamābhisamayo ahu  // Bv_15.3 //
+Yadā buddho Atthadassī carati devacārikaṃ  /
+koṭisatasahassānaṃ dutiyābhisamayo ahu  // Bv_15.4 //
+Punāparaṃ yadā buddho desesi pitu santike  /
+koṭisatasahassānaṃ tatiyābhisamayo ahu  // Bv_15.5 //
+Sannipātā tayo āsuṃ tassāpi ca mahesino  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_15.6 //
+Aṭṭhanavutisahassānaṃ paṭhamo āsi samāgamo  /
+aṭṭhāsītisahassānaṃ dutiyo āsi samāgamo  // Bv_15.7 //
+Aṭṭhasattatisahassānaṃ tatiyo āsi samāgamo  /
+anupādā vimuttānaṃ vimalānaṃ mahesinaṃ  // Bv_15.8 //
+Ahaṃ tena samayena jaṭilo uggatāpano  /
+Susīmo nāma nāmena mahiyā seṭṭhasammato  // Bv_15.9 //
+Dibbaṃ mandāravaṃ pupphaṃ padumaṃ pāricchattakaṃ  /
+devalokāharitvāna sambuddhaṃ abhipūjayiṃ  // Bv_15.10 //
+So pi maṃ buddho vyākāsi Atthadassī mahamuni  /
+aṭṭhārase kappasate ayaṃ buddho bhavissati  // Bv_15.11 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_15.12 //
+Tassāpi vacanaṃ sutvā haṭṭho saṃviggamānaso  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_15.13 //
+Sobhanaṃ nāma nagaraṃ Sāgaro nāma khattiyo  /
+Sudassanā nāma janikā Atthadassissa satthuno  // Bv_15.14 //
+
+
+[page 063]
+                                    ATTHADASSIBUDDHAVAṂSOÑ              63
+
+Dasavassasahassāni agāraṃ ajjha so vasi  /
+Amaragiri-Suragiri-Girivāhanā tayo pāsāda-m-uttamā  // Bv_15.15 //
+Tettiṃsañca sahassāni nāriyo samalaṅkatā  /
+Visākhā nāma sā nārī Selo nāmāsi atrajo  // Bv_15.16 //
+Nimitte caturo disvā assayānena nikkhami  /
+anūna-aṭṭhamāsāni padhānaṃ padahī jino  // Bv_15.17 //
+Brahmunā yācito santo Atthadassī mahāyaso  /
+vatti cakkaṃ mahāvīro Anom'; uyyāne narāsabho  // Bv_15.18 //
+Santo ca Upasanto ca ahesuṃ aggasāvakā  /
+Abhayo nām'; upaṭṭhāko Atthadassissa satthuno  // Bv_15.19 //
+Dhammā c'; eva Sudhammā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato campako 'ti pavuccati  // Bv_15.20 //
+Nakulo ca Nisabho ca ahesuṃ agg'; upaṭṭhakā  /
+Makilā ca Sunandā ca ahesuṃ agg'; upaṭṭhikā  // Bv_15.21 //
+So pi buddho asamasamo asītihattha-m-uggato  /
+sobhati sālarājā va ulurājā va pūrito  // Bv_15.22 //
+Tassa pākatikā raṃsī anekasatakoṭiyo  /
+uddhaṃ adho dasadisā pharanti yojanaṃ tadā  // Bv_15.23 //
+So pi buddho narāsabho sabbasatt'; uttamo muni  /
+vassasatasahassāni loke aṭṭhāsi cakkhumā  // Bv_15.24 //
+Atulaṃ datvāna obhāsaṃ virocetvā sadevake  /
+so pi aniccataṃ patto yath'; agg'; upādānasaṅkhayā  // Bv_15.25 //
+Atthadassī jinavaro Anomārāmamhi nibbuto  /
+dhātuvitthārikaṃ āsi tesu tesu padesato ti  // Bv_15.26 //
+                     Atthadassissa bhagavato vaṃso cuddasamo
+
+
+[page 064]
+64            Blank Page. [64]
+
+
+
+[page 065]
+                                65
+                      XVI -- DHAMMADASSIBUDDHAVAṂSO
+Tatth'; eva Maṇḍakappamhi Dhammadassī mahāyaso  /
+tam'; andhakāraṃ vidhametvā atirocati sadevake  // Bv_16.1 //
+Tassāpi atulatejassa dhammacakkappavattane  /
+koṭisatasahassānaṃ paṭhamābhisamayo ahu  // Bv_16.2 //
+Yadā buddho Dhammadassī vinesi Sañjayaṃ isiṃ  /
+tadā navutikoṭīnaṃ dutiyābhisamayo ahu  // Bv_16.3 //
+Yadā Sakko upāgañchi sapariso vināyakaṃ  /
+tadā asītikoṭīnaṃ tatiyābhisamayo ahu  // Bv_16.4 //
+Tassāpi devadevassa sannipātā tayo ahuṃ /
+khīṇāsavānaṃ vimalānaṃ santicittāna tādinaṃ  // Bv_16.5 //
+Yadā buddho Dhammadassī Saraṇe vassam-upāgami  /
+tadā koṭisahassānaṃ paṭhamo āsi samāgamo  // Bv_16.6 //
+Punāparaṃ yadā buddho devato eti mānuse  /
+tadāpi satakoṭīnaṃ dutiyo āsi samāgamo  // Bv_16.7 //
+Punāparaṃ yadā buddho pakāsesi dhute guṇe  /
+tadā asītikoṭīnaṃ tatiyo āsi samāgamo  // Bv_16.8 //
+Ahaṃ tena samayena Sakko āsiṃ purindado  /
+dibbena gandhamālena turiyena abhipūjayiṃ // Bv_16.9 //
+So pi maṃ buddho vyākāsi devamajjhe nisīdiya:  /
+aṭṭhārase kappasate ayaṃ buddho bhavissati  // Bv_16.10 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_16.11 //
+Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_16.12 //
+Saraṇaṃ nāma nagaraṃ Saraṇo nāma khattiyo  /
+Sundarā nāma janikā Dhammadassissa satthuno  // Bv_16.13 //
+
+
+[page 066]
+66                                  BUDDHAVAṂSO
+
+Aṭṭhārasavassāni agāraṃ ajjha so vasi  /
+Arajo Virajo Sudassano tayo pāsāda-m-uttamā  // Bv_16.14 //
+Ticattārīsasahassāni nāriyo samalaṅkatā  /
+Vicikolī nāma nārī atrajo Puṇṇavaḍḍhano  // Bv_16.15 //
+Nimitte caturo disvā pāsādenābhinikkhami  /
+sattāhaṃ padhānacāraṃ acarī puris'; uttamo  // Bv_16.16 //
+Brahmunā yācito santo Dhammadassī narāsabho  /
+vatti cakkaṃ mahāvīro migadāye nar'; uttamo  // Bv_16.17 //
+Padumo Phussadevo ca ahesuṃ aggasāvakā  /
+Sunetto nām'; upaṭṭhāko Dhammadassissa satthuno  // Bv_16.18 //
+Khemā ca Saccanāmā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato bimbajālo 'ti vuccati  // Bv_16.19 //
+Subhaddo Kaṭissaho c'; eva ahesuṃ agg'; upaṭṭhakā  /
+Sāliyā ca Valīyā ca ahesuṃ agg'; upaṭṭhikā  // Bv_16.20 //
+So pi buddho asamasamo asītihattam-uggato  /
+atirocati tejena dasasahassimhi dhātuyā  // Bv_16.21 //
+Suphullo sālarājā va vijjū va gagane yathā  /
+majjhantike va suriyo evaṃ so upasobhatha  // Bv_16.22 //
+Tassāpi atulatejassa samakaṃ āsi jīvitaṃ  /
+vassasatasahassāni loke aṭṭhāsi cakkhumā  // Bv_16.23 //
+Obhāsaṃ dassayitvāna vimalaṃ katvāna sāsanaṃ  /
+ravi-cando va gagane nibbuto so sasāvako  // Bv_16.24 //
+Dhammadassī mahāvīro Kesārāmamhi nibbuto  /
+tatth'; eva so thūpavaro tiyojanasamuggato  // Bv_16.25 //
+                   Dhammadassissa bhagavato vaṃso paṇṇarasamo
+
+
+[page 067]
+           Blank Page. [67]    67
+
+
+
+[page 068]
+                                        68
+                              XVII -- SIDDHATTHABUDDHAVAṂSO
+Dhammadassissa aparena Siddhattho nāma nāyako  /
+nihanantvāna tamaṃ sabbaṃ suriyo abbhuggato yathā  // Bv_17.1 //
+So pi patvāna sambodhiṃ santārento sadevakaṃ  /
+abhivassi dhammameghena nibbāpento sadevakaṃ  // Bv_17.2 //
+Tassāpi atulatejassa ahesum-abhisamayā tayo  /
+koṭisatasahassānaṃ paṭhamābhisamayo ahu  // Bv_17.3 //
+Punāparaṃ Bhīmarathe yadā ahani dundubhiṃ /
+tadā navutikoṭīnaṃ dutiyābhisamayo ahu  // Bv_17.4 //
+Yadā buddho dhammaṃ desesi Vebhāre so pur'; uttame  /
+tadā navutikoṭīnaṃ tatiyābhisamayo ahu  // Bv_17.5 //
+Sannipātā tayo āsuṃ tasmim-pi dvipad'; uttame  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_17.6 //
+Koṭisatānaṃ navutīnaṃ asītiyā ca koṭinaṃ  /
+ete āsuṃ tayo ṭhānā vimalānaṃ samāgame  // Bv_17.7 //
+Ahaṃ tena samayena Maṅgalo nāma tāpaso  /
+uggatejo duppasaho abhiññābalasamāhito  // Bv_17.8 //
+Jambuto phalam-āhatvā Siddhatthassa adās'; ahaṃ  /
+paṭiggahetvā sambuddho idaṃ vacanam-abravī: // Bv_17.9 //
+Passathā imam tāpāsam jatilaṃ uggatāpanaṃ  /
+catunavute ito kappe ayaṃ buddho bhavissati  // Bv_17.10 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_17.11 //
+Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_17.12 //
+Vebhāraṃ nāma nagaraṃ Udeno nāma khattiyo  /
+Suphassā nāma janikā Siddhatthassa mahesino  // Bv_17.13 //
+
+
+[page 069]
+                           SIDDHATTHABUDDHAVAṂSO                        69
+
+Dasavassasahassāni agāraṃ ajjha so vasi  /
+Kokās'-Uppala-Kokanadā tayo pāsāda-m-uttamā  // Bv_17.14 //
+Tisoḷasasahassāni nāriyo samalaṅkatā  /
+Sumanā nāma sā nārī Anupamo nāma atrajo  // Bv_17.15 //
+Nimitte caturo disvā sivikāyānena nikkhami  /
+anūnadasamāsāni padhānaṃ padahī jino  // Bv_17.16 //
+Brahmunā yācito santo Siddhatto lokanāyako  /
+vatti cakkaṃ mahāvīro migadāye nar'; uttamo  // Bv_17.17 //
+Samphalo ca Sumitto ca ahesuṃ aggasāvakā  /
+Revato nām'; upaṭṭhāko Siddhatthassa mahesino  // Bv_17.18 //
+Sīvalā ca Surāmā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato kaṇikāro 'ti vuccati  // Bv_17.19 //
+Suppiyo ca Samuddo ca ahesuṃ agg'; upaṭṭhakā  /
+Rammā c'; eva Surammā ca ahesuṃ agg'; upaṭṭhikā  // Bv_17.20 //
+So buddho saṭṭhiratanaṃ ahosi nabham-uggato  /
+kañcan'; agghiyasaṅkāso dasasahassī virocati  // Bv_17.21 //
+So pi buddho asamasamo atulo appaṭipuggalo  /
+vassasatasahassāni loke aṭṭhāsi cakkhumā  // Bv_17.22 //
+Vimalaṃ pabhaṃ dassayitvā pupphāpetvāna sāvake  /
+vilāsetvā ca samāpatyā nibbuto so sasāvako  // Bv_17.23 //
+Siddhattho munivaro buddho Anomārāmamhi nibbuto  /
+tatth'; ev'; assa thūpavaro catuyojana-m-uggato ti  // Bv_17.24 //
+                    Siddhatthassa bhagavato vaṃso soḷasamo
+
+
+[page 070]
+70          Blank Page. [70]
+
+
+
+[page 071]
+                                        71
+                               XVIII -- TISSABUDDHAVAṂSO
+Siddhatthassa aparena asamo appaṭipuggalo  /
+anantatejo amitayaso Tisso lok'; agganāyako  // Bv_18.1 //
+Tam'; andhakāraṃ vidhametvā obhāsetvā sadevakaṃ /
+anukampako mahāvīro loke uppajji cakkhumā  // Bv_18.2 //
+Tassāpi atulā iddhi atulaṃ sīlaṃ samādhi ca  /
+sabbattha pāramiṃ gantvā dhammacakkam-pavattayi  // Bv_18.3 //
+So buddho dasasahassimhi viññāpesi giraṃ suciṃ  /
+koṭisatāni abhisamiṃsu paṭhame dhammadesane  // Bv_18.4 //
+Dutiye navutikoṭiyo tatiye saṭṭhikoṭiyo  /
+bandhanā so vimocesi sampatte naramarū tadā  // Bv_18.5 //
+Sannipātā tayo āsuṃ Tisse lok'; agganāyake  /
+khīṇāsavīnaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_18.6 //
+Khīṇāsavasahassānaṃ paṭhamo āsi samāgamo  /
+navutisatasahassānaṃ dutiyo āsi samāgamo  // Bv_18.7 //
+Asītisatasahassānaṃ tatiyo āsi samāgamo  /
+khīṇāsavānaṃ vimalānaṃ pupphitānaṃ vimuttiyā  // Bv_18.8 //
+Ahaṃ tena samayena Sujāto nāma khattiyo  /
+mahābhogaṃ chaḍḍayitvā pabbajiṃ isipabbajaṃ // Bv_18.9 //
+Mayi pabbajite sante uppajji lokanāyako  /
+buddho 'ti saddaṃ sutvāna pīti me upapajjatha  // Bv_18.10 //
+Dibbaṃ mandāravaṃ pupphaṃ padumaṃ pāricchattakaṃ /
+ubho hatthehi paggayha dhunamāno upāgamiṃ  // Bv_18.11 //
+Catuvaṇṇaparivutaṃ Tissaṃ lok'; agganāyakaṃ  /
+tam-ahaṃ pupphaṃ gahetvāna matthake dhārayiṃ jinaṃ  // Bv_18.12 //
+So pi maṃ buddho vyākāsi janamajjhe nisīdiya:  /
+dvenavute ito kappe ayaṃ buddho bhavissati  // Bv_18.13 //
+
+
+[page 072]
+72                                  BUDDHAVAṂSO
+
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_18.14 //
+Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_18.15 //
+Khemakaṃ nāma nagaraṃ Janasandho nāma khattiyo  /
+Padumā nāma janikā Tissassa ca mahesino  // Bv_18.16 //
+Sattavassasahassāni agāraṃ ajjha so vasi  /
+Guhāsela-Nāri-Nisabhā tayo pāsāda-m-uttamā  // Bv_18.17 //
+Samatiṃsasahassāni nāriyo samalaṅkatā  /
+Subhaddā nāma sā nārī Ānando nāma atrajo  // Bv_18.18 //
+Nimitte caturo disvā assayānena nikkhami  /
+anūnakaṃ aṭṭhamāsaṃ padhānaṃ padahī jino  // Bv_18.19 //
+Brahmunā yācito santo Tisso lok'; agganāyako  /
+vatti cakkaṃ mahāvīro Yasavatiyam-uttame  // Bv_18.20 //
+Brahmadevo Udayo ca ahesuṃ aggasāvakā  /
+Samaṅgo nām'; upaṭṭhāko Tissassa ca mahesino  // Bv_18.21 //
+Phussā c'; eva Sudattā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato asano 'ti pavuccati  // Bv_18.22 //
+Sambalo ca Sirī c'; eva ahesuṃ agg'; upaṭṭhakā  /
+Kisāgotamī Upasenā ahesuṃ agg'; upaṭṭhikā  // Bv_18.23 //
+So pi buddho saṭṭhiratano ahu uccattanena jino  /
+anūpamo asadiso Himavā viya dissati  // Bv_18.24 //
+Tassāpi atulatejassa āyu āsi anuttaro  /
+vassasatasahassāni loke aṭṭhāsi cakkhumā  // Bv_18.25 //
+Uttamaṃ pavaraṃ seṭṭhaṃ anubhotvā mahāyasaṃ  /
+jalitvā aggikkhandho va nibbuto so sasāvako  // Bv_18.26 //
+Valāhako va anilena suriyena viya ussavo  /
+andhakāro va dīpena nibbuto so sasāvako  // Bv_18.27 //
+Tisso jinavaro buddho Nandārāmamhi nibbuto  /
+tatth'; eva tassa jinathūpo tīṇi yojana-m-ussito 'ti  // Bv_18.28 //
+                      Tissassa bhagavato vaṃso sattarasamo
+
+
+[page 073]
+             Blank Page. [73]    73
+
+
+
+[page 074]
+                                        74
+                            XIX -- PHUSSABUDDHAVAṂSO
+Tatth'; eva Maṇḍakappamhi ahu satthā anuttaro  /
+anūpamo asamasamo Phusso lok'; agganāyako  // Bv_19.1 //
+So pi sabbaṃ tamaṃ hantvā vijaṭetvā mahājaṭaṃ  /
+sadevakaṃ tappayanto abhivassi amat'; ambunā  // Bv_19.2 //
+Dhammacakkappavattente phusse nakkhattamaṅgale  /
+koṭisatasahassānaṃ paṭhamābhisamayo ahu  // Bv_19.3 //
+Navutisatasahassānaṃ dutiyābhisamayo ahu  /
+asītisatasahassānaṃ tatiyābhisamayo ahu  // Bv_19.4 //
+Sannipātā tayo āsuṃ Phussassāpi mahesino  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_19.5 //
+Saṭṭhisatasahassānaṃ paṭhamo āsi samāgamo  /
+paññāsasatasahassānaṃ dutiyo āsi samāgamo  // Bv_19.6 //
+Cattārīsasatasahassānaṃ tatiyo āsi samāgamo  /
+anupādā vimuttānaṃ vocchinnapaṭisandhinaṃ // Bv_19.7 //
+Ahaṃ tena samayena Vijitāvī nāma khattiyo  /
+chaḍḍayitvāna mahārajjaṃ pabbajiṃ tassa santike  // Bv_19.8 //
+So pi maṃ buddho vyākāsi Phusso lok'; agganāyako:  /
+ito dvenavute kappe ayaṃ buddho bhavissati  // Bv_19.9 //
+Padhānaṃ padahitvāna katvā dukkarakārikaṃ  /
+assatthamūle sambuddho bujjhissati mahāyaso  // Bv_19.10 //
+Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_19.11 //
+Suttantaṃ vinayañcāpi navaṅgaṃ satthusāsanaṃ  /
+sabbaṃ pariyāpuṇitvāna sobhayiṃ jinasāsanaṃ  // Bv_19.12 //
+Tatth'; appamatto viharanto brahmaṃ bhāvetva bhāvanaṃ  /
+abhiññāsu pāramiṃ gantvā brahmalokaṃ agacch'; ahaṃ // Bv_19.13 //
+Kāsikaṃ nāma nagaraṃ Jayaseno nāma khattiyo  /
+Sirimā nāma janikā Phussassāpi mahesino  // Bv_19.14 //
+
+
+[page 075]
+                                    PHUSSABUDDHAVAṂSO                   75
+
+Chabbassasahassāni agāraṃ ajjha so vasi  /
+Garuḷa-Haṃsa-Suvaṇṇabharā tayo pāsāda-m-uttamā  // Bv_19.15 //
+Tevīsasahassāni nāriyo samalaṅkatā  /
+Kisāgotamī nāma nārī Ānando nāma atrajo  // Bv_19.16 //
+Nimitte caturo disvā hatthiyānena nikkhami  /
+chamāsaṃ padhānacāraṃ acarī puris'; uttamo  // Bv_19.17 //
+Brahmunā yācito santo Phusso lok'; agganāyako  /
+vatti cakkaṃ mahāvīro migadāye nar'; uttamo  // Bv_19.18 //
+Sukhito Dhammaseno ca ahesuṃ aggasāvakā  /
+Sabhiyo nām'; upaṭṭhāko Phussassa ca mahesino  // Bv_19.19 //
+Cālā ca Upacālā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato āmaṇḍo 'ti pavuccati  // Bv_19.20 //
+Dhanañjayo Visākho ca ahesuṃ agg'; upaṭṭhakā  /
+Padumā c'; eva Nāgā ca ahesuṃ agg'; upaṭṭhikā  // Bv_19.21 //
+Aṭṭhapaññāsaratanaṃ so pi accuggato muni  /
+sobhati sataraṃsī va ulurājā va pūrito  // Bv_19.22 //
+Navutivassasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_19.23 //
+Ovaditvā bahū satte santāretvā mahājane  /
+so pi satthā atulayaso nibbuto so sasāvako  // Bv_19.24 //
+Phusso jinavaro satthā Senārāmamhi nibbuto  /
+dhātuvitthārikaṃ āsi tesu tesu padesato ti  // Bv_19.25 //
+                     Phussassa bhagavato vaṃso aṭṭhārasamo
+
+
+[page 076]
+76          Blank Page. [76]
+
+
+
+[page 077]
+                                        77
+                             XX -- VIPASSIBUDDHAVAṂSO
+Phussassa ca aparena sambuddho dvipad'; uttamo  /
+Vipassī nāma nāmena loke uppajji cakkhumā  // Bv_20.1 //
+Avijjaṃ sabbaṃ padāletvā patto sambodhim-uttamaṃ  /
+dhammacakkaṃ pavattetuṃ pakkāmi Bandhumatīpuraṃ // Bv_20.2 //
+Dhammacakkaṃ pavattetvā ubho bodhesi nāyako  /
+gaṇanāya na vattabbo paṭhamābhisamayo ahu  // Bv_20.3 //
+Punāparaṃ amitayaso tattha saccaṃ pakāsayi,  /
+caturāsītisahassānaṃ dutiyābhisamayo ahu  // Bv_20.4 //
+Caturāsītisahassāni sambuddhaṃ anupabbajuṃ  /
+tesam-ārāmapattānaṃ dhammaṃ desesi cakkhumā  // Bv_20.5 //
+Sabbākārena bhāsato sutvā upanisādino  /
+te pi dhammaṃ varaṃ gantvā tatiyābhisamayo ahu  // Bv_20.6 //
+Sannipātā tayo āsuṃ Vipassissa mahesino  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_20.7 //
+Aṭṭhasaṭṭhisahassānaṃ paṭhamo āsi samāgamo  /
+bhikkhusatasahassānaṃ dutiyo āsi samāgamo  // Bv_20.8 //
+Asītibhikkhusahassānaṃ tatiyo āsi samāgamo.  /
+tattha bhikkhugaṇamajjhe sambuddho atirocati  // Bv_20.9 //
+Ahaṃ tena samayena nāgarājā mah'; iddhiko  /
+Atulo nāma nāmena puññavanto jutindharo  // Bv_20.10 //
+Nekānaṃ nāgakoṭīnaṃ parivāretvān'; ahaṃ tadā  /
+vajjanto dibbaturiyehi lokajeṭṭhaṃ upāgamiṃ  // Bv_20.11 //
+Upasaṅkamitvā sambuddhaṃ Vipassiṃ lokanāyakaṃ  /
+maṇimuttaratanakhacitaṃ sabbābharaṇabhūsitaṃ /
+nimantetvā dhammarājassa suvaṇṇapīṭham-adās'; ahaṃ  // Bv_20.12 //
+So pi maṃ buddho vyākāsi saṅghamajjhe nisīdiya:  /
+ekanavute ito kappe ayaṃ buddho bhavissati  // Bv_20.13 //
+Ahu Kapilavhaye ramme nikkhamitvā tathāgato  /
+padhānaṃ padahitvāna katvā dukkarakārikaṃ, // Bv_20.14 //
+
+
+[page 078]
+78                                  BUDDHAVAṂSO
+
+Ajapālarukkhamūlamhi nisīditvā tathāgato  /
+tattha pāyāsam-aggayha Nerañjaram-upehiti  // Bv_20.15 //
+Nerañjarāya tīramhi pāyāsaṃ asatī jino  /
+paṭiyattavaramaggena bodhimūlaṃ upehiti  // Bv_20.16 //
+Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro  /
+assatthamūle sambodhiṃ bujjhissati mahāyaso  // Bv_20.17 //
+Imassa janikā mātā Māyā nāma bhavissati  /
+pitā Suddhodano nāma ayaṃ hessati Gotamo  // Bv_20.18 //
+Anāsavā vītarāgā santacittā samāhitā  /
+Kolito Upatisso ca aggā hessanti sāvakā  // Bv_20.19 //
+Ānando nām'; upaṭṭhāko upaṭṭhissati taṃ jinaṃ  /
+Khemā Uppalavaṇṇā ca aggā hessanti sāvikā,  // Bv_20.20 //
+Anāsavā vītarāgā santacittā samāhitā  |  /
+bodhi tassa bhagavato assattho 'ti pavuccati  // Bv_20.21 //
+Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_20.22 //
+Nagaraṃ Bandhumatī nāma Bandhumā nāma khattiyo  /
+mātā Bandhumatī nāma Vipassissa mahesino  // Bv_20.23 //
+Aṭṭhavassasahassāni agāraṃ ajjha so vasi  /
+Nando Sunando Sirimā tayo pāsāda-m-uttamā  // Bv_20.24 //
+Ticattārīsasahassāni nāriyo samalaṅkatā  /
+Sutanā nāma sā nārī Samavattakkhandho nām'; atrajo  // Bv_20.25 //
+Nimitte caturo disvā rathayānena nikkhami  /
+anūna-aṭṭhamāsāni padhānaṃ padahī jino  // Bv_20.26 //
+Brahmunā yācito santo Vipassī lokanāyako  /
+vatti cakkaṃ mahāvīro migadāye nar'; uttamo  // Bv_20.27 //
+Khandho ca Tissanāmo ca ahesuṃ aggasāvakā  /
+Asoko nām'; upaṭṭhāko Vipassissa mahesino  // Bv_20.28 //
+Candā ca Candamittā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato pāṭalī 'ti pavuccati  // Bv_20.29 //
+Punabbasumitto Nāgo ca ahesuṃ agg'; upaṭṭhakā  /
+Sirimā Uttarā c'; eva ahesuṃ agg'; upaṭṭhikā  // Bv_20.30 //
+
+
+[page 079]
+                                    VIPASSIBUDDHAVAṂSO                  79
+
+Asītihattha-m-ubbedho Vipassī lokanāyako  /
+pabhā niddhāvatī tassa samantā sattayojane  // Bv_20.31 //
+Asītivassasahassāni āyu buddhassa tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_20.32 //
+Bahū devamanussānaṃ bandhanā parimocayi  /
+maggāmaggañca ācikkhi avasesaputhujjane  // Bv_20.33 //
+Ālokaṃ dassayitvāna desetvā amataṃ padaṃ  /
+jalitvā aggikkhandho va nibbuto so sasāvako  // Bv_20.34 //
+Iddhivaraṃ puññavaraṃ lakkhaṇaṃ catubhūmakaṃ /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_20.35 //
+Vipassī jinavaro dhīro Sumittārāmamhi nibbuto  /
+tatth'; eva tassa thūpavaro sattayojana-m-ussito ti  // Bv_20.36 //
+                       Vipassissa bhagavato vaṃso ekūnavīsatimo
+
+
+[page 080]
+                                   80
+                         XXI -- SIKHĪBUDDHAVAṂSO
+Vipassissa aparena sambuddho dvipad'; uttamo  /
+Sikhisavhayo nāma jino asamo appaṭipuggalo  // Bv_21.1 //
+Mārasenaṃ pamadditvā patto sambodhim-uttamaṃ  /
+dhammacakkaṃ pavattesi anukampāya pāṇinaṃ  // Bv_21.2 //
+Dhammacakkappavattente Sikhimhi jinapuṅgave  /
+koṭisatasahassānaṃ paṭhamābhisamayo ahu  // Bv_21.3 //
+Aparam-pi dhammaṃ desente gaṇaseṭṭhe nar'; uttame  /
+navutikoṭisahassānaṃ dutiyābhisamayo ahu  // Bv_21.4 //
+Yamakaṃ pāṭihīrañca dassayante sadevake  /
+asītikoṭisahassānaṃ tatiyābhisamayo ahu  // Bv_21.5 //
+Sannipātā tayo āsuṃ Sikhissāpi mahesino  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_21.6 //
+Bhikkhusatasahassānaṃ paṭhamo āsi samāgamo  /
+asītibhikkhusahassānaṃ dutiyo āsi samāgamo  // Bv_21.7 //
+Sattatibhikkhusahassānaṃ tatiyo āsi samāgamo  /
+anupalitto padumaṃ va toyamhi sampavaḍḍhitaṃ  // Bv_21.8 //
+Ahaṃ tena samayena Arindamo nāma khattiyo  /
+sambuddhapamukhaṃ saṅghaṃ annapānena tappayiṃ  // Bv_21.9 //
+Bahuṃ dussavaraṃ datvā dussakoṭiṃ anappakaṃ  /
+alaṅkataṃ hatthiyānaṃ sambuddhassa adās'; ahaṃ  // Bv_21.10 //
+Hatthiyānaṃ nimminitvā kappiyaṃ upanāmayiṃ  /
+pūrayiṃ mānasaṃ mayhaṃ niccaṃ daḷham-upaṭṭhitaṃ  // Bv_21.11 //
+So pi maṃ buddho vyākāsi Sikhī lok'; agganāyako:  /
+ekatiṃse ito kappe ayaṃ buddho bhavissati  // Bv_21.12 //
+Ahu Kapilavhaye ramme nikkhamitvā tathāgato  /
+padhānaṃ padahitvāna katvā dukkarakārikaṃ, // Bv_21.13 //
+
+
+[page 081]
+                                    SIKHĪBUDDHAVAṂSO                    81
+
+Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_21.14 //
+Nagaraṃ Aruṇavatī nāma Aruṇo nāma khattiyo  /
+Pabhāvatī nāma janikā Sikhissa ca mahesino  // Bv_21.15 //
+Sattavassasahassāni agāraṃ ajjha so vasi  /
+Sucando Giri Vahano tayo pāsāda-m-uttamā  // Bv_21.16 //
+Catuvīsasahassāni nāriyo samalaṅkatā  /
+Sabbakāmā nāma nārī Atulo nāma atrajo  // Bv_21.17 //
+Nimitte caturo disvā hatthiyānena nikkhami  /
+aṭṭhamāsaṃ padhānacāraṃ acarī puris'; uttamo  // Bv_21.18 //
+Brahmunā yācito santo Sikhī lok'; agganāyako  /
+Vatti cakkaṃ mahāvīro migadāye nar'; uttamo  // Bv_21.19 //
+Abhibhū Sambhavo nāma ahesuṃ aggasāvakā  /
+Khemaṅkaro upaṭṭhāko Sikhissāpi mahesino  // Bv_21.20 //
+Akhilā c'; eva Padumā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato puṇḍarīko 'ti vuccati  // Bv_21.21 //
+Sirivaḍḍho ca Cando ca ahesuṃ agg'; upaṭṭhakā  /
+Cittā c'; eva Suguttā ca ahesuṃ agg'; upaṭṭhikā  // Bv_21.22 //
+Uccattanena so buddho sattatihattha-m-uggato  /
+kañcan'; agghikasaṅkāso dvattiṃsavaralakkhaṇo  // Bv_21.23 //
+Tassāpi byāmappabhā kāyā divā rattiṃ nirantaraṃ /
+disodisaṃ niccharanti tīṇi yojanaso pabhā  // Bv_21.24 //
+Sattativassasahassāni āyu tassa mahesino  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_21.25 //
+Dhammameghaṃ pavassetvā temayitvā sadevake  /
+khemantaṃ pāpayitvāna nibbuto so sasāvako  // Bv_21.26 //
+Anuvyañjanasampannaṃ dvattiṃsavaralakkhaṇaṃ  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_21.27 //
+Sikhī munivaro buddho Dussārāmamhi nibbuto  /
+tatth'; eva tassa thūpavaro tīṇi yojana-m-uggato ti  // Bv_21.28 //
+                         Sikhissa bhagavato vaṃso vīsatimo
+
+
+[page 082]
+82       Blank Page. [82]
+
+
+
+[page 083]
+                                        83
+                         XXII -- VESSABHŪBUDDHAVAṂSO
+Tatth'; eva Maṇḍakappamhi asamo appaṭipuggalo  /
+Vessabhū nāma nāmena loke uppajji nāyako  // Bv_22.1 //
+Ādittaṃ vata rāg'; aggi-taṇhānaṃ vijitaṃ tadā  /
+nāgo va bandhanaṃ chetvā patto sambodhim-uttamaṃ  // Bv_22.2 //
+Dhammacakkappavattente Vessabhū-lokanāyake  /
+asītikoṭisahassānaṃ paṭhamābhisamayo ahu  // Bv_22.3 //
+Pakkante cārikaṃ raṭṭhe lokajeṭṭhe narāsabhe  /
+sattatikoṭisahassānaṃ dutiyābhisamayo ahu  // Bv_22.4 //
+Mahādiṭṭhiṃ vinodento pāṭihīraṃ karoti so  |  /
+samāgatā naramarū dasasahassī sadevake  // Bv_22.5 //
+Mahā-acchariyaṃ disvā abbhutaṃ lomahaṃsanaṃ  /
+devā c'; eva manussā ca bujjhare saṭṭhikoṭiyo  // Bv_22.6 //
+Sannipātā tayo āsuṃ Vessabhussa mahesino  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_22.7 //
+Asītibhikkhusahassānaṃ paṭhamo āsi samāgamo  /
+sattatibhikkhusahassānaṃ dutiyo āsi samāgamo  // Bv_22.8 //
+Saṭṭhibhikkhusahassānaṃ tatiyo āsi samāgamo  /
+jarādibhayabhītānaṃ orasānaṃ mahesino  // Bv_22.9 //
+Tassa buddhassa asamassa cakkaṃ vattitam-uttamaṃ  /
+sutvāna paṇītaṃ dhammaṃ pabbajjam-abhirocayiṃ // Bv_22.10 //
+Ahaṃ tena samayena Sudassano nāma khattiyo  /
+annapānena vatthena sasaṅghaṃ jinaṃ pūjayiṃ // Bv_22.11 //
+Mahādānaṃ pavattetvā rattindivam-atandito  /
+pabbajjaṃ guṇasampannaṃ pabbajiṃ jinasantike  // Bv_22.12 //
+Ācāraguṇasampanno vattasīlasamāhito  /
+sabbaññutaṃ gavesanto ramāmi jinasāsane  // Bv_22.13 //
+
+
+[page 084]
+84                                  BUDDHAVAṂSO
+
+Saddhāpītim-upāgantvā buddhaṃ vandāmi sattharaṃ /
+pīti uppajjatī mayhaṃ bodhiyā yeva kāraṇā  // Bv_22.14 //
+Anivattamānasaṃ ñatvā sambuddho etad-abravī:  /
+ekatiṃse ito kappe ayaṃ buddho bhavissati  // Bv_22.15 //
+Ahu Kapilavhaye ramme nikkhamitvā tathāgato  /
+padhānaṃ padahitvāna katvā dukkarakārikaṃ, // Bv_22.16 //
+Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_22.17 //
+Anomaṃ nāma nagaraṃ Supatīto nāma khattiyo  /
+mātā Yasavatī nāma Vessabhussa mahesino  // Bv_22.18 //
+Chabbassasahassāni agāraṃ ajjha so vasi  /
+Ruci Suruci-Vaḍḍhamānā tayo pāsāda-m-uttamā  // Bv_22.19 //
+Anūnatiṃsasahassāni nāriyo samalaṅkatā  /
+Sucittā nāma sā nārī Suppabuddho nāma atrajo  // Bv_22.20 //
+Nimitte caturo disvā sivikāyābhinikkhami  /
+chamāsaṃ padhānacāram-acarī puris'; uttamo  // Bv_22.21 //
+Brahmunā yācito santo Vessabhū lokanāyako  /
+Vatti cakkaṃ mahāvīro Aruṇārāme nar'; uttamo  // Bv_22.22 //
+Soṇo ca Uttaro c'; eva ahesuṃ aggasāvakā  /
+Upasanto nām'; upaṭṭhāko Vessabhussa mahesino  // Bv_22.23 //
+Dāmā ca Samālā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato mahāsālo 'ti vuccati  // Bv_22.24 //
+Sotthiko c'; eva Rammo ca ahesuṃ agg'; upaṭṭhakā  /
+Gotamī ca Sirīmā ca ahesuṃ agg'; upaṭṭhakā  // Bv_22.25 //
+Saṭṭhiratanam-ubbedho hemayūpasamūpamo  /
+kāyā niccharatī raṃsī rattī va pabbate sikhī  // Bv_22.26 //
+Saṭṭhivassasahassāni āyu vijjati tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_22.27 //
+Dhammaṃ vitthārikaṃ katvā vibhajitvā mahājanaṃ  /
+dhammanāvaṃ ṭhapetvāna nibbuto so sasāvako  // Bv_22.28 //
+
+
+[page 085]
+                                    VESSABHŪBUDDHAVAṂSO                 85
+
+Dassaneyyaṃ sabbajanaṃ vihārañ-c'; iriyāpathaṃ  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhāra  // Bv_22.29 //
+Vessabhū jinavaro satthā Khemārāmamhi nibbuto  /
+dhātuvitthārikaṃ āsi tesu tesu padesato ti  // Bv_22.30 //
+                         Vessabhussa bhagavato vaṃso ekavīsatimo
+
+
+[page 086]
+                                        86
+                             XXIII -- KAKUSANDHABUDDHAVAṂSO 1
+Vessabhussa aparena sambuddho dvipad'; uttamo  /
+Kakusandho nāma nāmena appameyyo durāsado  // Bv_23.1 //
+Ugghāṭetvā sabbabhavaṃ cariyā-pāramiṅgato  /
+sīho va pañjaraṃ bhetvā patto sambodhim-uttamaṃ  // Bv_23.2 //
+Dhammacakkappavattente Kakusandhe lokanāyake  /
+cattārīsaṃ koṭisahassānaṃ paṭhamābhisamayo ahu  // Bv_23.3 //
+Antalikkhamhi ākāse yamakaṃ katvā vikubbamaṃ  /
+tiṃsakoṭisahassānaṃ bodhesi devamānuse  // Bv_23.4 //
+Naradevassa yakkhassa catusaccappakāsane  /
+dhammābhisamayo tassa gaṇanāto asaṅkhiyo  // Bv_23.5 //
+Kakusandhassa bhagavato eko āsi samāgamo  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_23.6 //
+Cattālīsasahassānaṃ tadā āsi samāgamo  /
+dantabhūmim-anuppattānaṃ āsavādi-gaṇakkhayā  // Bv_23.7 //
+Ahaṃ tena samayena Khemo nāmāsi khattiyo  /
+tathāgate jinaputte dānaṃ datvā anappakaṃ,  // Bv_23.8 //
+Pattañca cīvaraṃ datvā añjanaṃ madhulaṭṭhikaṃ  /
+im'; etaṃ patthitaṃ sabbaṃ paṭiyādemi varaṃ varaṃ  // Bv_23.9 //
+So pi maṃ muni vyākāsi Kakusandho vināyako: /
+imamhi Bhaddake kappe ayaṃ buddho bhavissati  // Bv_23.10 //
+Ahu Kapilavhaye ramme nikkhamitvā tathāgato  /
+padhānaṃ padahitvāna katvā dukkarakārikaṃ, // Bv_23.11 //
+Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_23.12 //
+Nagaraṃ Khemavatī nāma Khemo nāmās'; ahaṃ tadā  /
+sabbaññutaṃ gavesanto pabbajiṃ tassa santike  // Bv_23.13 //
+Brāhmaṇo Aggidatto ca āsi buddhassa so pitā  /
+Visākhā nāma janikā Kakusandhassa mahesino  // Bv_23.14 //
+
+
+[page 087]
+                                    KAKUSANDHABUDDHAVAṂSO               87
+
+Vasī tattha Khemapure sambuddhassa mahākulaṃ  /
+narānaṃ pavaraṃ seṭṭhaṃ jātimantaṃ mahāyasaṃ  // Bv_23.15 //
+Catuvassasahassāni agāraṃ ajjha so vasi  /
+Ruci-Suruci-Vaḍḍhamānā tayo pāsāda-m-uttamā  // Bv_23.16 //
+Samatiṃsasahassāni nāriyo samalaṅkatā  /
+Virocamānā nāma nārī Uttaro nāma atrajo  // Bv_23.17 //
+Nimitte caturo disvā rathayānena nikkhami  /
+anūnakaṃ aṭṭhamāsaṃ padhānaṃ padahī jino  // Bv_23.18 //
+Brahmunā yācito santo Kakusandho lokanāyako  /
+vatti cakkaṃ mahāvīro migadāye nar'; uttamo  // Bv_23.19 //
+Vidhuro Sañjīvanāmo ca ahesuṃ aggasāvakā  /
+Buddhijo nām'; upaṭṭhāko Kakusandhassa satthuno  // Bv_23.20 //
+Samā ca Campanāmā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato sirīso 'ti pavuccati  // Bv_23.21 //
+Accuto ca Sumano ca ahesuṃ agg'; upaṭṭhakā  /
+Nandā c'; eva Sunandā ca ahesuṃ agg'; upaṭṭhikā  // Bv_23.22 //
+Cattārīsaratanāni accuggato mahāmuni  /
+kanakappabhā niccharanti samantā dasayojanaṃ // Bv_23.23 //
+Cattārīsavassasahassāni āyu tassa mahesino  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_23.24 //
+Dhammāpaṇaṃ pasāretvā naranārīnaṃ sadevake  /
+naditvā sīhanādañca nibbuto so sasāvako  // Bv_23.25 //
+Aṭṭhaṅgavacanasampanno acchiddāni nirantaraṃ  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_23.26 //
+Kakusandho jinavaro Khemārāmamhi nibbuto  /
+tatth'; eva tassa thūpavaro gāvutaṃ nabham-uggato ti  // Bv_23.27 //
+                 Kakusandhassa1 bhagavato vaṃso dvāvīsatimo
+
+
+[page 088]
+88        Blank Page. [88]
+
+
+
+[page 089]
+                                        89
+                              XXIV -- KOṆĀGAMANABUDDHAVAṂSO
+Kakusandhassa aparena sambuddho dvipad'; uttamo  /
+Koṇāgamano nāma jino lokajeṭṭho narāsabho  // Bv_24.1 //
+Dasadhamme pūrayitvāna kantāraṃ samatikkami  /
+pavāhiya malaṃ sabbaṃ patto sambodhim-uttamaṃ  // Bv_24.2 //
+Dhammacakkappavattente Koṇāgamananāyake  /
+tiṃsakoṭisahassānaṃ paṭhamābhisamayo ahu  // Bv_24.3 //
+Pāṭihīraṃ karonte ca paravādappamaddane  /
+vīsatikoṭisahassānaṃ dutiyābhisamayo ahu  // Bv_24.4 //
+Tato vikubbanaṃ katvā jino devapuraṃ gato  /
+vasati tattha sambuddho silāyaṃ Paṇḍukambale  // Bv_24.5 //
+Pakaraṇe satta desento vassaṃ vasati so muni  /
+dasakoṭisahassānaṃ tatiyābhisamayo ahu  // Bv_24.6 //
+Tassāpi devadevassa eko āsi samāgamo  /
+khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_24.7 //
+Tiṃsabhikkhusahassānaṃ tadā āsi samāgamo  /
+oghānam-atikkantānaṃ bhijjitānañca maccuyā  // Bv_24.8 //
+Ahaṃ tena samayena Pabbato nāma khattiyo  /
+mittāmaccehi sampanno anantabalavāhano  // Bv_24.9 //
+Sambuddhadassanaṃ gantvā sutvā dhammam-anuttaraṃ  /
+nimantetvā sajinaṃ saṅghaṃ dānaṃ datvā yadicchakaṃ,  // Bv_24.10 //
+Pattunnaṃ cīnapaṭṭañca koseyyaṃ kambalam-pi ca  /
+sovaṇṇapādukañc'; eva adāsiṃ satthusāvake  // Bv_24.11 //
+So pi maṃ muni vyākāsi saṅghamajjhe nisīdiya:  /
+imamhi Bhaddake kappe ayaṃ buddho bhavissati  // Bv_24.12 //
+Ahu Kapilavhaye ramme nikkhamitvā tathāgato  /
+padhānaṃ padahitvāna katvā dukkarakārikaṃ, // Bv_24.13 //
+
+
+[page 090]
+90                                  BUDDHAVAṂSO
+
+Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_24.14 //
+Sabbaññutaṃ gavesanto dānaṃ datvā nar'; uttame  /
+ohāyāhaṃ mahārajjaṃ pabbajiṃ jinasantike  // Bv_24.15 //
+Nagaraṃ Sobhavatī nāma Sobho nāmāsi khattiyo  /
+vasati tattha nagare sambuddhassa mahākulaṃ  // Bv_24.16 //
+Brāhmaṇo Yaññadatto ca āsi buddhassa so pitā  /
+Uttarā nāma janikā Koṇāgamanassa satthuno  // Bv_24.17 //
+Tīṇi vassasahassāni agāraṃ ajjha so vasi  /
+Tusita-Santusita-Santuṭṭhā tayo pasāda-m-uttamā  // Bv_24.18 //
+Anūnasoḷasasahassāni nāriyo samalaṅkatā  /
+Rucigattā nāma nārī Satthavāho nāma atrajo  // Bv_24.19 //
+Nimitte caturo disvā hatthiyānena nikkhami  /
+chamāsaṃ padhānacāraṃ acarī puris'; uttamo  // Bv_24.20 //
+Brahmunā yācito santo Koṇāgamano nāyako  /
+vatti cakkaṃ mahāvīro migadāye nar'; uttamo  // Bv_24.21 //
+Bhiyyaso Uttaro nāma ahesuṃ aggasāvakā  /
+Sotthijo nām'; upaṭṭhāko Koṇāgamanassa satthuno  // Bv_24.22 //
+Samuddā Uttarā c'; eva ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato udumbaro 'ti vuccati  // Bv_24.23 //
+Uggo ca Somadevo ca ahesuṃ agg'; upaṭṭhakā  /
+Sīvalā c'; eva Sāmā ca ahesuṃ agg'; upaṭṭhikā  // Bv_24.24 //
+Uccattanena so buddho tiṃsahatthasammuggato  /
+ukkāmukhe yathā kambu evaṃ raṃsīhi maṇḍito  // Bv_24.25 //
+Tiṃsavassasahassānī āyu buddhassa tāvade  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_24.26 //
+Dhammacetiṃ samussitvā dhammadussavibhūsitaṃ  /
+dhammapupphaguḷaṃ katvā nibbuto so sasāvako  // Bv_24.27 //
+Mahāvilāso tassa jano siridhammappakāsano  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  // Bv_24.28 //
+
+
+[page 091]
+                                    KOṆĀGAMANABUDDHAVAṂSO               91
+
+Koṇāgamano sambuddho Pabbatārāmamhi nibbuto  /
+dhātuvitthārikaṃ āsi tesu tesu padesato ti  // Bv_24.29 //
+                          Koṇāgamanassa bhagavato vaṃso tevīsatimo
+
+
+[page 092]
+                                        92
+                                 XXV -- KASSAPABUDDHAVAṂSO
+Koṇāgamanassa aparena sambuddho dvipad'; uttamo  /
+Kassapo nāma nāmena dhammarājā pabhaṅkaro  // Bv_25.1 //
+Sañchaḍḍitaṃ kulamūlaṃ bahūnaṃ pānabhojanaṃ  /
+datvāna yācake dānaṃ pūrayitvāna mānasaṃ  /
+usabho va ālakaṃ bhetvā patto sambodhim-uttamaṃ  // Bv_25.2 //
+Dhammacakkappavattente Kassape lokanāyake  /
+vīsatikoṭisahassānaṃ paṭhamābhisamayo ahu  // Bv_25.3 //
+Catumāsaṃ yadā buddho loke carati cārikaṃ  /
+dasakoṭisahassānaṃ dutiyābhisamayo ahu  // Bv_25.4 //
+Yamakaṃ vikubbanaṃ katvā ñāṇadhātum-pakittayi  /
+pañcakoṭisahassānaṃ tatiyābhisamayo ahu  // Bv_25.5 //
+Sudhammadevapure ramme tattha dhammaṃ pakāsayi  /
+tīṇī koṭisahassānaṃ devānaṃ bodhayī jino  // Bv_25.6 //
+Naradevassa yakkhassa apare dhammadesane  /
+etesānaṃ abhisamayā gaṇanāto asaṅkhiyā  // Bv_25.7 //
+Tassāpi devadevassa eko āsi samāgamo  /
+khīṇasavānaṃ vimalānaṃ santacittāna tādinaṃ  // Bv_25.8 //
+Vīsatibhikkhusahassānaṃ tadā āsi samāgamo  /
+atikkantabhavakantānaṃ hirisīlena tādinaṃ  // Bv_25.9 //
+Ahaṃ tadā māṇavako Jotipālo 'ti vissuto  /
+ajjhāyako mantadharo tiṇṇaṃ vedāna pāragū  // Bv_25.10 //
+Lakkhaṇe itihāse ca sadhamme pāramiṅgato  /
+bhumm'; antalikkhe kusalo katavijjo anāvayo  // Bv_25.11 //
+Kassapassa bhagavato Ghaṭīkāro nām'; upaṭṭhako  /
+sagāravo sappatisso nibbuto tatiye phale  // Bv_25.12 //
+Ādāya maṃ Ghaṭīkāro upagañchi Kassapaṃ jinaṃ  /
+tassa dhammaṃ suṇitvāna pabbajiṃ tassa santike  // Bv_25.13 //
+
+
+[page 093]
+                                    KASSAPABUDDHAVAṂSO                  93
+
+Āraddhaviriyo hutvā vattāvattesu kovido  /
+na kvāpi parihāyāmi pūremi jinasāsanaṃ  // Bv_25.14 //
+Yāvatā buddhabhaṇitaṃ navaṅgaṃ satthusāsanaṃ /
+sabbaṃ pariyāpuṇitvāna sobhayiṃ jinasāsanaṃ  // Bv_25.15 //
+Mama acchariyaṃ disvā so pi buddho viyākari:  /
+imamhi Bhaddake kappe ayaṃ buddho bhavissati  // Bv_25.16 //
+Ahu Kapilavhaye ramme nikkhamitvā tathāgato  /
+padhānaṃ padahitvāna katvā dukkarakārikaṃ,  // Bv_25.17 //
+Ajapālarukkhamūle nisīditvā tathāgato  /
+tattha pāyasam-paggayha Nerañjaram-upehiti  // Bv_25.18 //
+Nerañjarāya tīramhi pāyāsaṃ paribhuñjiya  /
+paṭiyattavaramaggena bodhimaṇḍam-upehiti  // Bv_25.19 //
+Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ nar'; uttamo  /
+aparājitaṭhānamhi bodhipallaṅka-m-uttame  /
+pallaṅkena nisīditvā bujjhissati mahāyaso  // Bv_25.20 //
+Imassa janikā mātā Māyā nāma bhavissati  /
+pitā Suddhodano nāma ayaṃ hessati Gotamo  // Bv_25.21 //
+Anāsavā vītarāgā santacittā samāhitā  /
+Kolito Upatisso ca aggā hessanti sāvakā  // Bv_25.22 //
+Ānando nām'; upaṭṭhāko upaṭṭhissati taṃ jinaṃ  /
+Khemā Uppalavaṇṇā ca aggā hessanti sāvikā,  // Bv_25.23 //
+Anāsavā vītarāgā santacittā samāhitā  /
+bodhi tassa bhagavato assattho 'ti pavuccati  // Bv_25.24 //
+Citto ca Hatthāḷavako aggā hessant'; upaṭṭhakā  /
+Nandamātā Uttarā ca aggā hessant'; upaṭṭhikā  // Bv_25.25 //
+Idaṃ sutvāna vacanaṃ asamassa mahesino  /
+āmoditā naramarū: buddhabīj'; aṅkuro ayaṃ  // Bv_25.26 //
+Ukkuṭṭhisaddā vattanti apphoṭhenti hasanti ca  /
+katañjalī namassanti dasasahassī sadevakā:  // Bv_25.27 //
+Yad'; imassa lokanāthassa virajjhissāma sāsanaṃ  /
+anāgatamhi addhāne hessāma sammukhā imaṃ  // Bv_25.28 //
+
+
+[page 094]
+94                                  BUDDHAVAṂSO
+
+Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya  /
+heṭṭhā titthe gahetvāna uttaranti mahānadiṃ,  // Bv_25.29 //
+Evam-eva mayaṃ sabbe yadi muñcām'; imaṃ jinaṃ  /
+anāgatamhi addhāne hessāma sammukhā imaṃ  // Bv_25.30 //
+Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ  /
+uttariṃ vatam-adhiṭṭhāsiṃ dasapāramipūriyā  // Bv_25.31 //
+Evaṃ ahaṃ saṃsaritvā parivajjento anācaraṃ  /
+dukkarañ ca kataṃ mayhaṃ bodhiyā yeva kāraṇā  // Bv_25.32 //
+Nagaraṃ Bārāṇasī nāma Kikī nām'; āsi khattiyo  /
+vasati tattha nagare sambuddhassa mahākulaṃ  // Bv_25.33 //
+Brāhmaṇo Brahmadatato ca āsi buddhassa so pitā  /
+Dhanavatī nāma janikā Kassapassa mahesino  // Bv_25.34 //
+Duve vassasahassāni agāraṃ ajjha so vasi  /
+Haṃso Yaso Sirinando tayo pasāda-m-uttamā  // Bv_25.35 //
+Tisoḷasasahassāni nāriyo samalaṅkatā  /
+Sunandā nāma sā nārī Vijitaseno nāma atrajo  // Bv_25.36 //
+Nimitte caturo disvā pāsādenābhinikkhami  /
+sattāhaṃ padhānacāraṃ acarī puris'; uttamo  // Bv_25.37 //
+Brahmunā yācito santo Kassapo lokanāyako  /
+vatti cakkaṃ mahāvīro migadāye nar'; uttamo  // Bv_25.38 //
+Tisso ca Bhāradvājo ca ahesuṃ aggasāvakā  /
+Sabbamitto upaṭṭhāko Kassapassa mahesino  // Bv_25.39 //
+Anulā ca Uruvelā ca ahesuṃ aggasāvikā  /
+bodhi tassa bhagavato nigrodho 'ti pavuccati  // Bv_25.40 //
+Sumaṅgalo Ghaṭikāro ca ahesuṃ agg'; upaṭṭhakā  /
+Vijitasenā ca Bhaddā ca ahesuṃ agg'; upaṭṭhikā  // Bv_25.41 //
+Uccattanena so buddho vīsatiratanam-uggato  /
+vijjulaṭṭhī va ākāse cando va gahapūrito  // Bv_25.42 //
+Vīsativassasahassāni āyu tassa mahesino  /
+tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  // Bv_25.43 //
+
+
+[page 095]
+                                    KASSAPABUDDHAVAṂSO                  95
+
+Dhammataḷākaṃ māpetvā sīlaṃ datvā vilepanaṃ  /
+dhammadussaṃ nivāsetvā dhammamālaṃ virājiya, // Bv_25.44 //
+Dhammavimalam-ādāsaṃ ṭhapayitvā mahājane:  /
+keci nibbānaṃ patthentā passantu me alaṅkaraṃ  // Bv_25.45 //
+Sīlakañcukaṃ datvāna jhānakavacavammitaṃ /
+dhammacammaṃ pārupitvā datvā sannāham-uttamaṃ,  // Bv_25.46 //
+Satiphalakaṃ datvāna tikhiṇañāṇakuntimaṃ /
+dhammakhaggavaraṃ datvā sīlasaṃsaggamaddanaṃ, // Bv_25.47 //
+Tevijjābhūsanaṃ datvā āvelaṃ caturo phale  /
+chaḷabhiññābharaṇaṃ datvā dhammapupphapilandhanaṃ,  // Bv_25.48 //
+Saddhammapaṇḍaraṃ chattaṃ datvā pāpanivāraṇaṃ  /
+māpetvā abhayaṃ pupphaṃ nibbuto so sasāvako  // Bv_25.49 //
+Eso hi sammāsambuddho appameyyo durāsado  /
+eso hi dhammaratano svākkhāto ehipassiko  // Bv_25.50 //
+Eso hi saṅgharatano suppaṭipanno anuttaro  /
+sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhāra  // Bv_25.51 //
+Mahākassapo jino satthā Setavyārāmamhi nibbuto  /
+tatth'; eva tassa jinathūpo yojan'; ubbedha-m-uggato ti  // Bv_25.52 //
+                          Kassapassa bhagavato vaṃso catuvīsatimo
+
+
+[page 096]
+96         Blank Page. [96]
+
+
+
+[page 097]
+                                        97
+                               XXVI -- GOTAMABUDDHAVAṂSO
+Aham-etarahi sambuddho Gotamo Sakyavaḍḍhano  /
+padhānaṃ padahitvāna patto sambodhim-uttamaṃ  // Bv_26.1 //
+Brahmunā yācito santo dhammacakkaṃ pavattayiṃ  /
+aṭṭhārasannaṃ koṭīnaṃ paṭhamābhisamayo ahu  // Bv_26.2 //
+Tato parañca desente naradevasamāgame  /
+gaṇanāya na vattabbo dutiyābhisamayo ahu  // Bv_26.3 //
+Idh'; evāham-etarahi ovadiṃ mama atrajaṃ,  /
+gaṇanāya na vattabbo tatiyābhisamayo ahu  // Bv_26.4 //
+Eko'; va sannipāto me sāvakānaṃ mahesinaṃ  /
+aḍḍhateḷasasatānaṃ bhikkhūn'; āsi samāgamo  // Bv_26.5 //
+Virocamāno vimalo bhikkhusaṅghassa majjhato  /
+dadāmi patthitaṃ sabbaṃ maṇī va sabbakāmado  // Bv_26.6 //
+Phalam-ākaṅkhamānānaṃ bhavacchandajahesinaṃ  /
+catusaccaṃ pakāsesiṃ anukampāya pāṇinaṃ  // Bv_26.7 //
+Dasavīsasahassānaṃ dhammābhisamayo ahu  /
+ekadvinnaṃ abhisamayo gaṇanāto asaṅkhiyo  // Bv_26.8 //
+Vitthārikaṃ bāhujaññaṃ iddhaṃ phītaṃ suphullitaṃ  /
+idha mayhaṃ Sakyamunino sāsanaṃ suvisodhitaṃ  // Bv_26.9 //
+Anāsavā vītarāgā santacittā samāhitā  /
+bhikkhū nekasatā sabbe parivārenti maṃ sadā  // Bv_26.10 //
+Idāni ye etarahi jahanti mānusaṃ bhavaṃ  /
+appattamānasā sekhā te bhikkhū viññugarahitā  // Bv_26.11 //
+Ariy'; añjasaṃ thomayantā sadā dhammaratā janā  /
+bujjhissanti satimanto saṃsārasaritā narā  // Bv_26.12 //
+Nagaraṃ Kapilavatthu me rājā Suddhodano pitā  /
+mayhaṃ janettikā mātā Māyādevī 'ti vuccati  // Bv_26.13 //
+
+
+[page 098]
+98                                  BUDDHAVAṂSO
+
+Ekūnatiṃsavassani agāraṃ ajjhahaṃ vasiṃ  /
+Rammo Surammo Subhako tayo pāsāda-m-uttamā  // Bv_26.14 //
+Cattārīsasahassāni nāriyo samalaṅkatā  /
+Bhaddakaccā nāma nārī Rāhulo nāma atrajo  // Bv_26.15 //
+Nimitte caturo disvā assayānena nikkhamiṃ  /
+chabbassaṃ padhānacāraṃ acariṃ dukkaraṃ ahaṃ  // Bv_26.16 //
+Bārāṇasī Isipatane cakkaṃ pavattitaṃ mayā  /
+ahaṃ Gotamasambuddho saraṇaṃ sabbapāṇinaṃ  // Bv_26.17 //
+Kolito Upatisso ca dve bhikkhū aggasāvakā  /
+Ānando nām'; upaṭṭhāko santikāvacaro mama  // Bv_26.18 //
+Khemā Uppalavaṇṇā ca bhikkhunī aggasāvikā  /
+Citto ca Hatthāḷavako agg'; upaṭṭhāk'; upāsakā  // Bv_26.19 //
+Nandamātā ca Uttarā agg'; upaṭṭhik'; upāsikā  /
+ahaṃ assatthamūlamhi patto sambodhim-uttamaṃ  // Bv_26.20 //
+Byāmappabhā sadā mayhaṃ soḷasahattham-uggatā  /
+appaṃ vassasataṃ āyu idān'; etarahi vijjati  // Bv_26.21 //
+Tāvatā tiṭṭhamāno'; haṃ tāremi janataṃ bahuṃ  /
+ṭhapayitvāna dhamm'; ukkaṃ pacchimaṃ janabodhanaṃ  // Bv_26.22 //
+Aham pi na cirass'; eva saddhiṃ sāvakasaṅghato  /
+idh'; eva parinibbissaṃ aggīvāhārasaṅkhayā;  // Bv_26.23 //
+Tāni ca atulatejāni imāni ca dasa balāni  /
+ayañca guṇavaradeho dvattiṃsalakkhaṇācito  // Bv_26.24 //
+Dasadisā pabhāsetvā sataraṃsīva chappabhā  /
+sabbā samantarahessanti nanu rittā sabbasaṅkhārā 'ti  // Bv_26.25 //
+                     Gotamassa bhagavato vaṃso pañcavīsatimo
+
+
+[page 099]
+         Blank Page. [99]   99
+
+
+
+[page 100]
+                                        100
+                                XXVII -- PAKIṆṆAKAKATHĀ
+Aparimeyye ito kappe caturo āsuṃ vināyakā  /
+Taṇhaṅkaro Medhaṅkaro atho pi Saraṇaṅkaro  /
+Dīpaṅkaro ca sambuddho ekakappamhi te jinā  // Bv_27.1 //
+Dīpaṅkarassa aparena Koṇḍañño nāma nāyako  /
+eko va ekakappamhi tāresi janataṃ bahuṃ  // Bv_27.2 //
+Dīpaṅkarassa bhagavato Koṇḍaññassa ca satthuno  /
+etesaṃ antarā kappā gaṇanāto asaṅkhiyā  // Bv_27.3 //
+Koṇḍaññassa aparena Maṅgalo nāma nāyako  /
+tesam-pi antarā kappā gaṇanāto asaṅkhiyā  // Bv_27.4 //
+Maṅgalo ca Sumano ca Revato Sobhito muni  /
+te pi buddhā ekakappe cakkhumanto pabhaṅkarā  // Bv_27.5 //
+Sobhitassa aparena Anomadassī mahāyaso  /
+tesam-pi antarā kappā gaṇanāto asaṅkhiyā  // Bv_27.6 //
+Anomadassī Padumo Nārado cāpi nāyako  /
+te pi buddhā ekakappe tam'; antakārakā munī  // Bv_27.7 //
+Nāradassa aparena Padumuttaro nāma nāyako  /
+ekakappamhi uppanno tāresi janataṃ bahuṃ  // Bv_27.8 //
+Nāradassa bhagavato Padumuttarassa satthuno  /
+tesam-pi antarā kappā gaṇanāto asaṅkhiyā  // Bv_27.9 //
+Kappasatasahassamhi eko āsi mahāmuni  /
+Padumuttaro lokavidū āhutīnaṃ paṭiggaho  // Bv_27.10 //
+Tiṃsakappasasahassamhi duve āsuṃ vināyakā  /
+Sumedho ca Sujāto ca oraso Padumuttarā  // Bv_27.11 //
+Aṭṭhārase kappasate tayo āsuṃ vināyakā  /
+Piyadassī Atthadassī Dhammadassī ca nāyakā  // Bv_27.12 //
+Oraso ca Sujātassa sambuddhā dvipad'; uttamā  /
+ekakappamhi sambuddhā loke appaṭipuggalā  // Bv_27.13 //
+Catunavute ito kappe eko āsi mahāmuni  /
+Siddhattho so lokavidū sallakatto anuttaro  // Bv_27.14 //
+
+
+[page 101]
+                                    PAKIṆṆAKAKATHĀ                      101
+
+Dvenavute ito kappe duve āsuṃ vināyakā  /
+Tisso Phusso ca sambuddhā asamā appaṭipuggalā  // Bv_27.15 //
+Ekanavute ito kappe Vipassī nāma nāyako  /
+so pi buddho kāruṇiko satte mocesi bandhanā  // Bv_27.16 //
+Ekatiṃse ito kappe duve āsuṃ vināyakā  /
+Sikhī ca Vessabhū c'; eva asamā appaṭipuggalā  // Bv_27.17 //
+Imamhi Bhaddake kappe tayo āsuṃ vināyakā  /
+Kakusandho Koṇāgamano Kassapo cāpi nāyako  // Bv_27.18 //
+Aham-etarahi sambuddho Metteyyo cāpi hessati  /
+ete p'; ime pañca buddhā dhīrā lokānukampakā  // Bv_27.19 //
+Etesaṃ dhammarājūnaṃ aññesaṃ nekakoṭinaṃ  /
+ācikkhitvāna taṃ maggaṃ nibbutā te sasāvakā ti  // Bv_27.20 //
+                           Buddhapakiṇṇakakaṇḍaṃ niṭṭhitaṃ
+
+
+[page 102]
+102                        XXVIII -- DHĀTUBHĀJANIYAKATHĀ
+
+Mahāgotamo jinavaro Kusinārāmamhi nibbuto  /
+dhātuvitthārikaṃ āsi tesu tesu padesato  // Bv_28.1 //
+Eko Ajātasattussa eko Vesāliyā pure  /
+eko Kapilavatthumhi eko ca Allakappake,  // Bv_28.2 //
+Eko ca Rāmagāmamhi eko ca Veṭhadīpake  /
+eko Pāveyyake Malle eko ca Kusinārake  // Bv_28.3 //
+Kumbhassa thūpaṃ kāresi brāhmaṇo Doṇasavhayo  /
+Aṅgārathūpaṃ kāresuṃ Moriyā tuṭṭhamānasā  // Bv_28.4 //
+Aṭṭha sārīrikā thūpā navamo Kumbhacetiyo  /
+Aṅgārathūpo dasamo tadā yeva patiṭṭhito  // Bv_28.5 //
+Ekā dāṭhā Tidasapure ekā Nāgapure ahu  /
+ekā Gandhāravisaye ekā Kāliṅgarājino  // Bv_28.6 //
+Cattāḷīsasamā dantā kesā lomā ca sabbaso  /
+devā hariṃsu ek'; ekaṃ cakkavāḷaparamparā  // Bv_28.7 //
+Vajirāyaṃ bhagavato patto daṇḍañca cīvaraṃ  /
+nivāsanaṃ Kusaghare paccattharaṇaṃ Kapilavhaye  // Bv_28.8 //
+Pāṭaliputtanagare karakaṃ kāyabandhanaṃ  /
+Campāyaṃ udakasāṭikā uṇṇalomañca Kosale,  // Bv_28.9 //
+Kāsāvañca brahmaloke veṭhanaṃ Tidase pure  /
+Pāsāṇake padaṃ seṭṭhaṃ yañcāpi accutippadaṃ /
+nisīdanaṃ Avantipure Raṭṭhe attharaṇaṃ tadā  // Bv_28.10 //
+Araṇī ca Mithilāyaṃ Videhe parissāvanaṃ  /
+vāsisūcigharañcāpi Indapatte pure tadā  // Bv_28.11 //
+Parikkhāram-avasesaṃ janapade Aparantake  /
+paribhuttañca muninā akaṃsu manujā tadā  // Bv_28.12 //
+Dhātuvitthārikaṃ āsi Gotamassa mahesino  /
+pāṇīnam-anukampāya āhu porāṇikā tadā ti  // Bv_28.13 //
+                      Dhātubhājaniyakathā niṭṭhitā
+                           Buddhavaṃso niṭṭhito
+
+
+
+

@@ -1,0 +1,4106 @@
+
+
+Jataka 3
+
+Input by the Sri Lanka Tripitaka Project
+
+
+[PTS Vol J - 3] [\z J /] [\f III /]    
+[PTS Page 001] [\q   1/]      
+[BJT Page 162] [\x 162/]     
+Catukkanipāto
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+1. Vivaravaggo
+[PTS Page 003] [\q   3/]     
+508. Vivaratha 1- imāsaṃ dvāraṃ nagaraṃ pavisituṃ mayā, 
+Aruṇarājassa sihena susiṭṭhena surakkhitaṃ nandisenena. 2-
+
+[PTS Page 006] [\q   6/]     
+509. Jayo kaliṅgānaṃ asayhasāhinaṃ
+Parājayo anayo assakānaṃ, 
+Icceva te bhāsitaṃ brahmacāri
+Na ujajubhūtā vitathaṃ bhaṇanti
+
+[PTS Page 007] [\q   7/]     
+510. Devā musāvādamupātivattā
+Saccaṃ 3- dhanaṃ paramaṃ tesu sakka, 
+Taṃ te musāhāsitaṃ devarāja
+Kiṃ vāpaṭicca maghavā mahinda. 
+
+511. Nanu te sutaṃ burāhmaṇa bhaññamāne
+Dvo na issanti purisaparakkamassa, 
+Damo samādhi manaso adejjho 4-
+Avyaggatā nikkhamanañca kāle, 
+Daḷhañca viriyaṃ purisaparakkamo ca
+Teneva āsi vijayo assakānanti. 
+1. Cullakāliṅgajātakaṃ. 
+
+[PTS Page 012] [\q  12/]     
+512. Adeyyesu dadaṃ dānaṃ deyyesu nappavecchati. 5-
+Āpāsu 6- vyasanaṃ patto sahāyaṃ nādhigacchati. 
+
+513. Nādeyyesu dadaṃ dānaṃ deyyesu yo pavecchati, 
+Āpāsu vyasanaṃ patto sahāyamadhigacchati. 
+
+1. Civaratha imāsaṃ davāraṃ nagaraṃ pavisantu aruṇarājassa, sihenasusanethana -
+surakkhiṃ nandi senena, syā civaratha imāsaṃ vāraṃ nagarantaṃ pavisituṃ - machasaṃ. 
+2. Susiṭṭhena - nandisenena - machasaṃ
+3. Saccaṃ tatha; pemakaraṃnu sakka - machasaṃ saccaṃ tataṃ paramaṃ karannu sakka - syā
+4. Ahejjo - machasaṃ 5. Na pavecchati - machasaṃ 6. Āvāsu byasanaṃ - machasaṃ. 
+
+[BJT Page 164. [\x 164/]     ] 
+514. Saññogasambhogavisesadassanaṃ. 
+Anariyadhammesu saṭhesu nasasti, 
+Katañca ariyesu ca añajasesu ca
+Mahapphalaṃ hoti aṇumpi 1- tādisu. 
+
+515. Yo pubbe katakalyāṇo akā loke sudukkaraṃ, 
+Pacchā kayirā na vā kayārā accantaṃ pujanāraho'ti. 
+1. Mahāassārohajātakaṃ. 
+
+[PTS Page 014] [\q  14/]     
+516. Anuttare 2- kāmaguṇe samiddhe
+Bhutvāna pubbe vasi 3- ekarājā, 
+Sodāni dugge narakambhi khitto
+Nappajahe vaṇṇabalaṃ purāṇaṃ. 
+
+517. Pubbeva khanti ca tapo ca mayhaṃ
+Sampatthitā dababasenā 4- ahosi, 
+Taṃdāni laddhāna kathannu rājā
+Jahe ahaṃ vaṇṇabalaṃ purāṇaṃ. 
+
+518. Sabbaṃ kireva 5- pariniṭṭhitāni
+Yasassinaṃ paññavantaṃ 6- visayha, 
+Yaso ca laddhā purimaṃ 7- uḷāraṃ
+Nappajahe vaṇṇabalaṃ purāṇaṃ. 
+
+518. Panujja dukkhena sukhaṃ janinda
+Sukhena cā dukkhamasayhasāhi, 
+Ubhayattha santo 8- abhinibbutattā
+Sukhe ca dukkhe ca bhavanti tulyā'ti
+3. Ekarājajātakaṃ. 
+
+[PTS Page 016] [\q  16/]     
+520. Imāni maṃ daddara tāpayanti
+Vācāduruttāni nussaloke, 
+Maṇḍukabhakkhā udakantasevi
+Āsivisaṃ 9- maṃ avisā sapanti. 
+
+1. Aṇumapi tādisu - machasaṃ 2. Anuttaro - machasaṃ 3. Vasi - machasaṃ
+4. Dubbhisena - machasaṃ, syā 5. Sabbākirevaṃ - machasaṃ sabbākireva - syā
+6. Paññavataṃ - si 7. Purisa - machasaṃ tthā - si
+9. Āsivasaṃ - machasaṃ. 
+[BJT Page 166] [\x 166/]     
+[PTS Page 017] [\q  17/]     
+521. Sakā raṭṭhā pabbājito 1- aññaṃ janapadaṃ gato, mahantaṃ koṭṭhaṃ kayirātha
+duruttānaṃ nidhetave. 
+
+522. Yattha posaṃ na jānanti jātiyā vinayena vā, 
+Na tattha mānaṃ kayirātha vasamaññātake jane. 
+
+523. Videsavāsaṃ vasato jātavedasamenapi, 
+Khamitabbaṃ sapaññena api dāsassa tajjitanti. 
+4. Daddarajātakaṃ. 
+
+[PTS Page 019] [\q  19/]     
+524. Natthi loke raho nāma pāpakammaṃ pakubbato, 
+Passanti vanabhūtāni taṃ bālo maññati 2- raho. 
+
+525. Ahaṃ raho na passāmi suññaṃ vāpi na vijjati, 
+Yattha aññaṃ na passāmi asuññaṃ hoti taṃ mayā. 
+
+526. Dujjacco ca 3- sujacco ca nando ca pukhavacachako, 
+Vejjo addhuvasīlo ca te dhammaṃ jahumatthikā. 
+527. Brāhmaṇe ca kathaṃ jahe sabbadhammānapāragu, 
+Yo dhammamanupāleti dhitimā saccanikkamoti. 
+5. Sīlavimaṃsajātakaṃ. 
+
+[PTS Page 021] [\q  21/]     
+528. Tiṃ aṇḍakā ime deva nikkhittā kaṃsamallake, 
+Upalohitakā vaggu taṃ 4- me akkhāhi pucchito. 
+
+[PTS Page 022] [\q  22/]     
+529. Yāni pure tvaṃ devi baṇḍu nantakavāsini, 
+Ucchaṅgahatthā pacināsi tassā te koliyaṃ phalaṃ. 
+
+530. Uḍḍayhate 5- na ramati bhogā vippajahanti taṃ, 
+Tatthevimaṃ paṭinetha yattha kolaṃ pacissati. 
+
+1. Pabbajito - simu. 2. Maññate - simu. 3. Ajacce ca - simu. 
+4. Te me tameva - sīmu. 5. Uḍayhate - machasaṃ sīmu. 
+
+[BJT Page 168] [\x 168/]     
+531. Honti hete mahārāja iddhippattāya 1- nāriyā, 
+Khama deva sujātāya māssā 2- kujjhi 3- rathesabhāti. 
+6. Sujātājātakaṃ. 
+
+[PTS Page 024] [\q  24/]     
+532. Acetanaṃ brāhmaṇa asasuṇantaṃ
+Jāno ajānantamimaṃ palāsaṃ, 
+Sukhaseyyaṃ pucchasi kissa hetu. 
+
+533. Dūre suto ceva brahā ca rukkho
+Dese ṭhito bhūtanivāsarūpo, 
+Tasmā namassāmi imaṃ palāsaṃ
+Ye cetthā bhūtā te ca dhanassa hetu. 
+
+534. So te karissāmi yathānubhāvaṃ. 
+Kataññutaṃ brāhmaṇa pekkhamāno, 
+Kathaṃ hi āgamma sataṃ sakāse
+Moghāni 4- te asasu pariphanditāni. 
+
+535. Yo tindurukkhassasa paro 5- pilakkhu
+Parivārito subbayañño uḷāro, 
+Tasseva mulasmiṃ niṭhi nikhāto
+Ādāyādo gaccha taṃ uddhārāhi'ti. 
+7. Palāsajātakaṃ. 
+
+[PTS Page 026] [\q  26/]     
+536. Akarambhasate kiccaṃ yaṃ khalaṃ ahuvambhase, 
+Migarāja nāmo nyatthu api kiñci labhāmase. 
+
+537. Mama lohitabhakkhassa niccaṃ ḷuddāni kubbato, 
+Dantantaragato santo taṃ bahuṃ yampi 6- jīvasi. 
+
+538. Akataññumakattāraṃ katassa appatikārakaṃ, 7-
+Yasmiṃ kataññutā natthi niratthi tassa sevanā. 
+[PTS Page 027] [\q  27/]     
+539. Yassa 8- sammukhaviṇṇena 9- mittadhammo na labbhati, 
+Anusuyya 10- manakkosaṃ saṇikaṃ tambhā apakkame'ti. 
+8. Javasakuṇajātakaṃ. 
+
+1. Iḍipattāya, iḍippattāya - si machasaṃ 2. Māsu - machasaṃ
+3. Kujjha - machasaṃ 4. Moghā - syā 
+5. Puro milakakhu - machasaṃ paro pilakkho- syā 6. Yambhi - si
+7. Paṭikāraka - machasaṃ appaṭikārakaṃ - syā kārassappaṭikārakaṃ - si
+8. Yattha - syā 9. Samukha - machasaṃ 10. Anussuya - machasaṃ. 
+
+[PTS Page 028] [\q  28/]     
+[BJT Page 170] [\x 170/]     
+540. Sabbamidaṃ 1- carimavataṃ ubho dhammaṃ na passare, 
+Ubho sakatiyā cutā yovāyaṃ sajjhāpayati. 2-
+Yo ca dhammaṃ adhiyati. 
+
+[PTS Page 029] [\q  29/]     
+541. Sālina bhojanaṃ 3- bhuñeja suciṃ maṃsupasevanaṃ, 
+Tasmā etaṃ na sevāmi dhammaṃ isihi sevitaṃ. 
+
+542. Paribbaja mahā loko 4- pavantaññepi pāṇino, 
+Mā 5- taṃ adhammo ācarito asmā kumbhamivābhidā. 
+
+543. Dhiratthu taṃ yasalābhaṃ dhanalāhañca brāhmaṇa, 
+Yā vutti vinipātena adhammacaraṇena vā'ti. 
+9. Chavakajātakaṃ. 6-
+
+[PTS Page 032] [\q  32/]     
+544. Sasamuddapariyāyaṃ mahiṃ sāgarakuṇḍalaṃ
+Na icche sahanindāya evaṃ sayha vijānahi. 
+
+545. Dhiratthu taṃ yasalābhaṃ dhanalāhañca brāhmaṇa, 
+Yā vutti vinipātena adhammacaraṇena vā. 
+
+546. Api ce pattamādāya anāgāro 7- paribbaje, 
+Sāyeva 8- jivikā seyyo yā cādhammena phasanā. 
+547. Api ce pattamādāya anāgāro paribbaje, 
+Aññaṃ abhiṃsayaṃ loke api rajjena taṃ varanti. 10. Sayhajātakaṃ. 
+Civaravaggo 9- paṭhamo. 
+Tassuddānaṃ: 
+Vivarañca adeyyasamiddhavaraṃ
+Atha daddarapāpamahātiraho, 
+Atha kolipalāsamarañca kara
+Carimaṃ sasamuddavarena dasa. 
+
+1. Sampadamidaṃ carimaṃ kataṃ sabbaṃ idañca marikataṃ - syā
+2. Manatachijhāyati - yova mantaṃ adhiyati - sīmu machasaṃ mattejjhāpeti - yova mantaṃ
+adhiyati- syā
+3. Odanaṃ - machasaṃ syā 4. Buhme - machasaṃ 5. Mātvaṃ adhammo ācarito mātvaṃ
+adhammācarite mā tvaṃ adhammā acari-si syā
+6. Chavajatatakaṃ - syā 7. Anagāro - machasaṃ 8. Sā eva - simu 9. Kaliṅgavaggo - machasaṃ. 
+[BJT Page 172] [\x 172/]     
+2. Pucimandavaggo
+[PTS Page 034] [\q  34/]     
+548. Uṭṭhehi cora kiṃ sesi ko attho supinena te, 
+Mā taṃ gahesuṃ 1- rājāno gāme kibbiyakārakaṃ. 
+
+549. Yannu coraṃ gahessanti gāme nibbisakārakaṃ, 
+Kiṃ tattha pucimandassa vane jātassa tiṭṭhato. 
+
+550. Na tvaṃ assattha jānāsi mama corassa cantaraṃ, 
+Coraṃ gahetvā rājāno gāme kibbisakārakaṃ
+Appenti nimbasulasmiṃ tasmiṃ me saṅkate mano. 
+
+[PTS Page 035] [\q  35/]     
+551. Saṅkeyya saṅkitabbāni rakkheyyānāgataṃ bhayaṃ, 
+Anāgatabhayā dhīro ubho loke avekkhatī'ti. 
+1. Pucimandajātakaṃ. 
+
+[PTS Page 038] [\q  38/]     
+552. Api kassapamandiyā yuvā sapati hanhi vā, 
+Sabbannaṃ khamate dhīro paṇḍito taṃ titikkhati. 
+
+553. Sacepi santo vivadanti khippaṃ sandhīyare puna, 
+Bālā pattāva bhijjanti na te samathamajjhagu. 
+
+554. Ete bhuyyo samāyanti sandhi tesaṃ na jirati, 
+Yo cādhipannaṃ jānāti yo ca jānāti desanaṃ. 
+
+555. Eso hi uttaritaro hāravāho dhurandharo, 
+Yo paresādhipannānaṃ sayaṃ sandhātumarahatī'ti. 
+2. Kassapamandiyajātakaṃ. 
+
+[PTS Page 042] [\q  42/]     
+556. Yo te hatthe ca pāde ca kaṇṇanāsañca chedayi, 
+Tassa kujjha mahāvīra mā raṭṭhaṃ vinassā idaṃ. 
+
+557. Yo me hatthe ca pāde ca kaṇṇanāsañca chedayi, 
+Ciraṃ jivatu so rājā na hi kujjhanti mādisā. 
+
+[PTS Page 043] [\q  43/]     
+558. Ahu atitamaddhānaṃ 2- samaṇo khattidipano, 
+Taṃ khantiyāyeva ṭhitaṃ kāsirājā achedayi. 
+
+1. Maṃ gaṇehayayu gahesuṃ - syā 2. Atikamaddhāne - sīmu. Machasaṃ syā. 
+
+[BJT Page 174] [\x 174/]     
+559. Tassa kammasasa pharusassa vipāko kaṭuko ahu, 
+Yaṃ kāsirājā vedesi nirayambhi samappito'ti. 
+3. Khantivādijātakaṃ. 
+
+[PTS Page 047] [\q  47/]     
+560. Dujjīvitaṃ ajivimbha ye sante na dadambase, 
+Vijjamānesu bhogesu dipaṃ nākambha attano. 
+
+561. Saṭṭhi 1- vassasahassāni paripuṇṇani sabbaso, 
+Niraye paccamānānaṃ kadā anto bhavissati. 
+562. Natthi anto kuto anto na anto patidissati, 
+Tadā hi pakataṃ pāpaṃ mamaṃ 2- tuyhañca mārisā. 3-
+
+563. Sohaṃ 4- nanu ito gantvā yoniṃ laddhāna mānāsiṃ, 
+Vadaññu silasampanno kāhāmi kusalaṃ bahu'nti. 
+4. Lohakumbhijātakaṃ. 
+
+[PTS Page 049] [\q  49/]     
+564. Pharusā vata te vācā maṃsaṃ yācanako asi, 
+Kilomasadisi vācā kilomaṃ samma dadāmi te. 
+
+[PTS Page 050] [\q  50/]     
+565. Aṅgametaṃ manussānaṃ hātā loke pavuccati, 
+Aṅgassa sadisi vācā aṅgaṃ samma dadāmi te. 
+
+566. Tātāti putto vadamāno kampeti bhadayaṃ pitu, 
+Hadayassa sadisi vācā hadayaṃ samma dadāmi te. 
+
+567. Yassa gāme sakhā natthi yathāraññaṃ tatheva taṃ, 
+Sabbassa sadidi vācā sabbaṃ samma dadāmi te'ti. 
+5. Māṃsajātakaṃ. 
+
+[PTS Page 053] [\q  53/]     
+568. Satta me rohitā macchā udakā thalamubbhatā, 
+Idaṃ brāhmaṇa me atthi etaṃ bhutvā vane vasa. 
+
+[PTS Page 054] [\q  54/]     
+569. Dussa me khettapālassa rattihattaṃ 5- apāhataṃ, 
+Maṃsasulā ca dve godhā ekañca dadhivārakaṃ;
+Idaṃ brāhmaṇa me atthi etaṃ bhutvā vane vasa. 
+
+1. Saṭṭhiṃ - sīmu. Siyā 2. Mama - simu machasaṃ, syā 3. Mārisa - simu syā
+4. Sohi - simu. 5. Ratana - sīmu machasaṃ
+
+[BJT Page 176] [\x 176/]     
+570. Ambapakkodakaṃ sītaṃ sītacchāyaṃmanoramaṃ. 
+Idaṃ brahmaṇa me atthi etaṃ bhutvā vane vasa. 
+
+[PTS Page 055] [\q  55/]     
+571. Na sasassa tilā atthi na muggā na pi taṇḍulā, 
+Iminā agginā pakkaṃ mamaṃ bhutvā vane vasāti. 
+6. Sasajātakaṃ. 
+
+[PTS Page 057] [\q  57/]     
+572. Matamatameva rodatha
+Na hi taṃ rodatha yo marissati, 
+Sabbeva sarīradhārino
+Anupubbena jahanti jīvitaṃ. 
+
+573. Devamanussā catuppadā
+Pakkhigaṇā uragā 1- ca bhogino. 
+Sambhi sarire anissarā
+Ramamānāva jahanti jīvitaṃ. 
+
+574. Evañcalitaṃ asaṇṭhitaṃ
+Sukhasukkhaṃ manujesu apekkhiya, 
+Kanditaruditaṃ niratthakaṃ
+Kiṃ vo sokagaṇāhikirare. 
+
+575. Dhuntā 2- soṇḍā akatā
+Khālā 3- surā ayogino, 
+Dhīraṃ maññanti bāloti
+Ye dhammassa akovidāti. 
+7. Matarodanajātakaṃ. 
+
+[PTS Page 062] [\q  62/]     
+576. Yantaṃ vasantasamaye kaṇaveresu hānusu, 
+Sāmaṃ bāhāya piḷesi sā taṃ ārogyabravi. 
+
+[PTS Page 063] [\q  63/]     
+577. Ambho na kira saddheyyaṃ yaṃ vāto sabbataṃ vahe, 
+Pabbatañce vahe vāto sabbampi yaṭhaviṃ vahe;
+Yattha sāmā kālakatā sā maṃ ārogyamabravi. 
+
+578. Na ceva sā kālakatā na ca sā aññamicchati, 
+Etabhattā kira sāmā tameva abhikaṅkhati. 
+
+1. Athava - sīmu 2. Dhuttāva - machasaṃ 3. Surāvirā - machasaṃ. 
+
+[BJT Page 178] [\x 178/]     
+579. Asanthukaṃ maṃ cirasanthutena
+Nimini sāmā adhuvaṃ dhuvena, 
+Mayāpi sāmā nimineyya aññaṃ
+Ito ahaṃ durataraṃ gamissanti. 
+8. Kaṇaverajātakaṃ. 
+
+[PTS Page 065] [\q  65/]     
+580. Susukhaṃ vata jivāmi labhāmi ceva bhuñjituṃ
+Paripanthe ca tiṭṭhāmi kānu 1- bhante gati mama. 
+
+581. Mano ce te na panamati pakkhī pāpassa kammuno, 
+Avyāvaṭassa bhadrassa na pāpamupalippati. 
+
+582. Ñātako no nisinnoti bahu āgacchate jano, 
+Paṭicca kammaṃ phusati tasmiṃ me saṅkate mano. 
+
+[PTS Page 066] [\q  66/]     
+583. Paṭicca kammaṃ na phusati mano ce nappadussati, 
+Appossukkassa bhadrassa na pāpamupalippatī'ti. 
+9. Tittirajākataṃ. 
+
+[PTS Page 069] [\q  69/]     
+584. Succajaṃ vata naccaji vācāya adadaṃ giriṃ, 
+Kimbhi tassaṃ caṃntassa vācā adada pabbataṃ. 
+585. Yaṃ hi kayirā taṃ hi vade yaṃ na kayirā na taṃ vade, 
+Akarontaṃ bhāsamānaṃ parijānanti paṇḍitā. 
+
+586. Rājaputta namo tyatthu sacce dhamme ṭhitovasi, 
+Yasasa te vyasanaṃ patto saccasmiṃ ramate mano. 
+
+[PTS Page 070] [\q  70/]     
+587. Yā daḷidadī daḷiddassa aḍḍhā aḍḍhassa kittimā, 
+Sa bhissa paramā bhariyā sahiraññassa itthiyoti. 
+10. Succajajātakaṃ. 
+Pucimandavaggo dutiyo
+Tassuddānaṃ: 
+Atha corasakassapakhantivaro
+Dujjivitatā ca varāpharusā, 
+Atha sasamatañca vasantasukhaṃ
+Succajaṃ vata navacajitā ca dasa. 
+
+1. Kāsu machasaṃ kāsu - si. 
+
+[BJT Page 180] [\x 180/]     
+3. Kuṭidusakavaggo
+[PTS Page 073] [\q  73/]     
+588. Manussasseva te sīsaṃ hatthapādā ca vānara, 
+Atha kena nu vaṇṇe agāraṃ te na vijjati. 
+
+589. Manussasseva me sīsaṃ hatthapādā ca siṅgila
+Yāhu seṭṭhā manussesu sā me paññāna vijjati. 
+
+590. Anavaṭṭhitacittassa lahucittassa dubbhino 1-, 
+Niccaṃ addhuvasilassa suvibhāvo 2- na vijjati. 
+
+[PTS Page 074] [\q  74/]     
+591. So karassu anubhāvaṃ vitivattassu siliyaṃ. 
+Sitavātaparittāṇaṃ karassu kuṭikaṃ kapiti. 
+1. Kuṭidusakajātakaṃ. 
+
+[PTS Page 077] [\q  77/]     
+592. Daddabhāyati 3- bhaddante yasmiṃ dese vasāmahaṃ, 
+Ahampetaṃ na jānāmi kimetaṃ daddabhāyati. 
+
+593. Kheluvaṃ patitaṃ 4- sutvā daddabhanti 5- saso javi, 
+Sasassa vacanaṃ sutvā santattā migavāhini. 
+
+594. Appatvā padaviññāṇaṃ paraghosānusārino, 
+Pamādaparamā bālā te honti parapattiyā. 
+
+[PTS Page 078] [\q  78/]     
+595. Ye ca sīlena sampannā paññāyupasame ratā, 
+"Ārakā viratā dhīrā na honti parapattiyāti. 
+2. Daddabhajākakaṃ. 7-
+
+[PTS Page 080] [\q  80/]     
+596. Dvayaṃ yāvanako rāja brahmadatta nigacchati, 
+Alābhaṃ dhanalābhaṃ vā evaṃ dhammā hi yācanā. 
+
+597. Yācanaṃ rodanaṃ āhu pañcālānaṃ rathesabha, 
+Yo yācanaṃ paccakkhāti tamāhu paṭirodanaṃ. 
+
+598. Mā maddasaṃsu 80 rodantaṃ pañcālā susamāgatā, 
+Tuvaṃ vā paṭirodantaṃ tasmā icchāmahaṃ raho. 
+
+1. Dubhino - simu. 2. Sukhabhāvo - simu 3. Dadadubhāyati - machasaṃ. 
+4. Khelalaṃ nipatita - simu 5. Dahakakanti - simu 6. Āratā - simu
+7. Dudadubha jātakaṃ - machasaṃ 8. Mā addasasu - machasaṃ - syā. 
+
+[BJT Page 182] [\x 182/]     
+[PTS Page 081] [\q  81/]     
+599. Dadāmi te brāhmaṇa rohiṇinaṃ
+Gavaṃ sahassaṃ saha puṅgavena, 
+Ariyo hi ariyassa kathaṃ na dajje 1-
+Sutvāna gāthā tava dhamyuttā'ti. 
+3. Buhmadattajātakaṃ. 
+
+[PTS Page 082] [\q  82/]     
+600. Kalyāṇarūpo vatayaṃ catuppado
+Subhaddako ceva supesalo ca, 
+Yo brāhmaṇaṃ jātimantupapannaṃ
+Apacāyati meṇḍavaro yasassi. 
+[PTS Page 083] [\q  83/]     
+
+
+601 Mā brāhmaṇa ittaradassanena 
+Vissāsamāpajji catuppadassa,
+Daḷhappamāraṃ abhikaṅkhamāno
+Apasakkati2 dassati suppahāraṃ.
+602. Ūraṭṭhi bhaggaṃ patito khāribhāro 3-
+Sabbaṃ bhaṇḍaṃ brāhmaṇassidhahinnaṃ, 
+Khāhāpaggayha nandati. 
+Abhidhāvathā haññate buhmacāri
+
+603. Evaṃ so nihato seti yo apūjaṃ namassati, 4 
+Yathāhamajja pahaṭo hato meṇḍena dummatī'ti. 
+4. Cammasāṭakajātakaṃ. 
+
+[PTS Page 085] [\q  85/]     
+604. Samaṇaṃ taṃ maññamāno upagacchiṃ asaññataṃ, 
+So maṃ daṇḍena pāhāsi yathā assamaṇo tathā. 
+
+605. Kiṃ te jaṭāhi dummedha kiṃ te ajinasāṭiyā, 
+Abbhantaraṃ te gahanaṃ bāhiraṃ parimajjasi. 
+
+606. Ehi godha nivattassu bhuñja sālinamodanaṃ, 
+Telaṃ loṇañca me atthi pahutaṃ 5-mayha pipphali. 
+
+[PTS Page 86] [\q  86/]     
+607. Esa bhiyyo pavekkhāmi vammikaṃ pataporisaṃ, 
+Telaṃ loṇañca kittesi ahitaṃ mayha pipphaliti. 
+5. Godhajātakaṃ. 
+
+[PTS Page 087] [\q  87/]     
+606. Kāyena yo nāvahare vācāya na musā bhaṇe, 
+Yaso laddhā namajjeyya 6- sa ve kakkārumarahati. 
+
+1. Dajjā - machasaṃ 2. Avasakkati - simu, syā
+3. Ūruṭṭha bhaggaṃ pavaṭṭito khārihāro- sabbaṃbhaṇḍaṃ brāhmaṇassa hinnaṃ
+Bāhāyapaggayyakandati- abhidhāvata haññate brahmacāri - machasaṃ ūraṭṭhibhaggā patito
+khāribha ro- sabbaṃbhaṇaḍaṃ buhmaṇassevabhinnaṃ ubhopi khāhā paggayehavakandati-
+abhidhāvatha haññati brahamacāriṃ syā. 
+4. Pasaṃsati - simu. 5. Mayhaṃ pipaphali - machasaṃ 6. Majjeyyu - machasaṃ, syā
+
+[PTS Page 088] [\q  88/]     
+[BJT Page 184] [\x 184/]     
+609. Dhammena vittameseyya na nikatyā dhanaṃ hare, 
+Bhoge laddhā na majjeyya sa ve kakkārumarahati. 
+
+610. Yassa cittaṃ ahāliddaṃ saddhā ca acirāgini, 
+Eko sāduṃ na bhuñjeyya sa ce kakkārumarahati. 
+
+[PTS Page 089] [\q  89/]     
+611. Sammukhā vā pārokkhā 1- vā yo sante na paribhāsati, 
+Yathāvādi tathākāri sace kakkārumarahatiti. 
+6. Kakkārujākataṃ. 
+
+[PTS Page 091] [\q  91/]     
+612. Vāti cāyaṃ tato gandho yatthā me vasati piyā, 
+Dare ito hi kākāti yattha me nirato mano. 
+
+613. Kathaṃ samudda matari kathaṃ atari 2- kekhukaṃ, 
+Kathaṃ satta samuddani kathaṃ simbalimāruhi. 
+
+[PTS Page 092] [\q  92/]      
+614. Tayā samuddamatariṃ tayā atari kekhukaṃ, 
+Tayā satta samuddāni tayā sambalimāruhiṃ, 
+
+615. Dhiratthu maṃ mahākāyaṃ dhiratthu maṃ acetanaṃ, 
+Yattha jāyāyahaṃ jāraṃ āvahāmi vahāmi cāti. 
+7. Kākātījātakaṃ. 
+
+[PTS Page 095] [\q  95/]     
+616. Bahantaṃ vijjati hoti tehi kimme bhavissati, 3-
+Tasmā etaṃ na socāmi piyaṃ sammillabhāsiniṃ. 4-
+
+617. Taṃ tañce anusoceyya 5- yaṃ yaṃ tassa na vijjati, 
+Antānamanusoceyya sadā maccuvasaṃ gataṃ. 6-
+
+618. Naheva ṭhitaṃ nāsinaṃ na sayānaṃ na paddhaguṃ, 
+Yāva pāti nimmisati tatrāpi sarati vayo. 
+
+619. Tatthantani 7- vatappaddhe vinābhāve asaṃsaye, 
+Bhūtaṃ sesaṃ dayitabbaṃ vitaṃ ananusociyanti. 8-
+8. Ananusociyajātakaṃ. 
+
+1. Tirokkhā vā - simu 2. Patari - simu 3. Tehi me kiṃ bhavissati - simu
+4. Sampilla bhāsinaṃ - machasaṃ 5. Taṃtaṃ anusoceyyaṃ - machasaṃ
+6. Sadā vaccuvasaṃ pattaṃ - machasaṃ 7. Tatthāttani - simu vātappāttho syātatthattati vata
+bandho - machasaṃ 8. Mataṃ taṃ - machasaṃ - ananusoviyaṃ. 
+
+[BJT Page 186] [\x 186/]     
+
+[PTS Page 098] [\q  98/]     
+620. Yaṃ antapānassa pure labhāma
+Taṃdāni sākhāmigameva gacchati, 
+Gacchāmadāni vanameva rādha
+Asakkatā vasma dhanañajayāya. 1-
+
+621. Lābho alābho ayaso yaso ca
+Nindā pasaṃsā ca sukhañca dukkhaṃ, 
+Ete aniccā manujesu dhammā
+Mā sovi kiṃ sovasi poṭṭhapāda. 
+
+[PTS Page 099] [\q  99/]     
+622. Addhā tuvaṃ paṇḍitakosi rādha
+Jānāsi atthāni anāgatāni, 
+Kathannu sākhāmigaṃ dakkhisāma
+Niddhāpitaṃ rājakulatova jammaṃ. 
+
+623. Cāleti kaṇṇaṃ bhaṭikuṃ karoti
+Muhuja muhuṃ bhāyayate kumāre, 
+Sayameva taṃ kāhati kāḷabāhu
+Yenārakā ṭhassati antapānāti. 
+9. Kāḷabāhujātakaṃ. 
+
+[PTS Page 100] [\q 100/]     
+624. Sīlaṃ kireva kalyāṇaṃ sīlaṃ loke anuttaraṃ, 
+Passa ghoraviso nāgo silavāti na haññati. 
+
+625. Yāvadevassahu kiñci tāvadeva akhādisuṃ, 
+Saṅgamma kuḷalā loke na hiṃsanti akiñcanaṃ. 
+
+[PTS Page 101] [\q 101/]     
+626. Sukhaṃ nirāsā supati āsā phalavati sukhā, 
+Āsaṃ nirāsaṃ katvāna sukhaṃ supati piṅgalā. 
+
+627. Na samādhiparo atthi asmiṃ loke parambhi ca, 
+Na paraṃ nāpi attānaṃ vihiṃsati samāhito'ti. 
+10. Sīlavīmaṃsajātakaṃ. 
+
+Kuṭidusakavaggo tatiyo. 
+Tassuddānaṃ: 
+Samanussa saddadabha yācanako
+Atha meṇḍavaruttama godhavaro, 
+Atha kāya sakekhuka bhotivaro
+Atha rādha susilavarena dasa. 
+
+1. Dhanañjayāyaṃ - machasaṃ. 
+
+[BJT Page 188] [\x 188/]     
+4. Kokālika vaggo
+[PTS Page 103] [\q 103/]     
+628. Yo ce kāle asampatte ativelaṃ pabhāsati, 
+Evaṃ so nihato seti kokilāyiva atujo. 
+
+629. Na hi santhaṃ sunisitaṃ visaṃ halāhalaṃ iva, 
+Evaṃ nikaṭṭhe 1- pāteti vācā dubbhāsitā yathā. 
+
+630. Tasmā kāle akāle ca vācaṃ rakkheyya paṇḍito, 
+Nātivelaṃ pabhāseyya api attasamamhi vā
+
+631. Yo ca kāle mitaṃ bhāse matipubbo vicakkhaṇo. 
+Sabbe amitte ādeti supaṇṇo uragaṃ imā'ti. 
+1. Kokālikajātakaṃ. 
+
+[PTS Page 105] [\q 105/]     
+632. Api hantvā bhato brūti jetvā jitoti bhāsati, 
+Pubbamakkhāyino rāja ekadatthuṃ 2- na saddahe. 
+
+633. Tasmā paṇḍitajātiyo suṇeyya itarassa pi, 
+Ubhintaṃ vacanaṃ sutvā yathā dhammo tathā kāre. 
+
+634. Alaso gihī kāmabhogi na sādhu
+Asaññato pabbajito na sādhu, rājā na sādhu anisammakāri
+Yo paṇḍito kodhano taṃ na sādhu. 
+
+[PTS Page 106] [\q 106/]     
+635. Nisamma khattiyo kayirā nātisamma disampati, 
+Nisamma kārino 3- rājā yaso kitti ca vaḍḍhatī'ti. 
+2. Rathalaṭṭhijātakaṃ. 
+
+[PTS Page 108] [\q 108/]     
+636. Tadeva me tvaṃ vidiko vanamajjhe rathesabha, 
+Yassa te khaggabaddhassa 4- sannaddhassa tiriṭino
+Assatthadumasākhāya pakkā 5- godhā palāyatha. 
+
+637. Name namantassa bhaje hajantaṃ
+Kiccānu kubbassa kareyya kiccaṃ, 
+Nānatthakāmassa kāreyya atthaṃ
+Asambhajantampi na sambhajeyya. 
+
+1. Nikaḍḍhe - simu nikkaḍhe - syā 2. Ekadatthu - sīmu aññatthu - machasaṃ
+3. Rañño - sīmu 4. Khandhassa - simu 5. Pakkagodhā - simu, machasaṃ. 
+
+[BJT Page 190] [\x 190/]     
+638. Caje cajantaṃ vanathaṃ na kayirā
+Apetacittena na sambajeyya, 
+Dvijo dumaṃ khiṇaphalanti 1- ñātvā
+Aññaṃ samekkheyya mahā hi loko. 
+
+[PTS Page 109] [\q 109/]     
+619. So te karissāmi yathānubhāvaṃ. 
+Kataññutaṃ khattiye pekkhamāno, 
+Sabbañca te issariyaṃ dadāmi
+Yassicchisi tassa tuvaṃ dadāmiti. 
+3. Pakkagodhajātakaṃ. 
+
+[PTS Page 111] [\q 111/]     
+640. Gavañce taramānānaṃ jimbhaṃ gacchati puṅgavo, 
+Sabbā tā jimbhaṃ gacchanti nette jimbhaṃ gate sati. 
+
+641. Evameva manussesu yo hoti seṭṭhasammato, 
+Sabbaṃ raṭṭhaṃ dukhaṃ seti rājā ce hoti adhammiko. 
+
+642. Gavañce taramānānaṃ ujuṃ gacchati puṅgavo, 
+Sabbātā ujuṃ gacchanti nette upujate sati. 
+
+643. Evameva manussesu yo hoti seṭṭhasammato, 
+So cepi dhammaṃ carati pageva itarā pajā
+Sabbaṃ raṭṭhaṃ sukhaṃ seti rājā ce hoti dhamamiko'ti. 
+4. Rājovādajākataṃ. 
+
+[PTS Page 113] [\q 113/]     
+644. Brahā pavaḍḍhakāyo 2- so dighadāṭho ca jamukhuka, 
+Na tvaṃ tamhi kule jāto yattha gaṇhanti kuñjaraṃ. 
+
+[PTS Page 114] [\q 114/]     
+645. Asīho sīhamānena yo attānaṃ vikubbati, 
+Kotthuva 3- gajamāsajja seti bhumyā anutthunaṃ. 
+
+646. Yasassino uttamapuggalassa
+Sañjātakhandhassa mahabbalassa, 
+Asamekkhiya thāmabalupapattiṃ
+Sa seti nāgena hatova 4- jambuko. 
+
+647. Yo cidha kammaṃ kurute pamāya
+Thāmabalaṃ attani saṃviditvā, 
+Jappena mantena suhāsitena
+Parikkhavā so vipulaṃ jinātī'ti. 
+5. Jambukajākataṃ. 
+
+1. Khiṇaphalaṃ ca - simu 2. Pavaddhakāyā - machasaṃ 3. Kutthuva - simu
+4. Hatoyaṃ - machasaṃ, syā
+
+[PTS Page 117] [\q 117/]     
+[BJT Page 192] [\x 192/]     
+648. Tiṇaṃ tiṇanti lapasi ko nu te tiṇamāhari, 
+Kinturu te tiṇakiccatthi tiṇameva pabhāsasi. 
+
+649. Idhāgamā brahmācāri brahā chatto bahussuto, 
+So me sabbaṃ samādāya tiṇaṃ nikkhippa gacchati. 
+[PTS Page 118] [\q 118/]     
+650. Evetaṃ hoti kattabba. Appena bahumicchatā, 
+Sabbaṃ sakassa ādānaṃ anādānaṃ tiṇassa ca
+Cāṭisu pakkhipitvāna 1- tattha kā paridevanā. 
+
+651. Silavanto na kubbanti bālo sīlāni kubbati, 
+Aniccasīlaṃ dussilyaṃ 2- kiṃ paṇḍiccaṃ karissatī'ti. 
+6. Brahāchattajātakaṃ. 
+
+[PTS Page 120] [\q 120/]     
+652. Na te pīṭhamadāyimhā na pānaṃ napi bhojanaṃ, 
+Brahmacāri khamassu me etaṃ passāma accayaṃ. 
+
+653. Nevābhisajjāmi na cāpi kuppe
+Na cāpi me appiyamāsi kiñci, 
+Athopi me āsi manovitatto
+Etādiso nūna kulassa dhammo. 
+
+654. Esasmākaṃ kule dhammo pitupitāmaho sadā, 
+Āsanaṃ udakaṃ pajjaṃ sabbetaṃ nipadāmase. 
+
+655. Esasmākaṃ kule dhammo pitupitāmaho sadā, 
+Sakkaccaṃ upatiṭṭhāma uttamaṃ viya ñātakanti. 
+7. Pīṭhajātakaṃ. 
+
+[PTS Page 123] [\q 123/]     
+656. Viditaṃ thusaṃ undurānaṃ viditaṃ pana taṇḍulaṃ
+Thusaṃ thulaṃ vivajjetvā taṇḍulaṃ pana khādare. 
+
+[PTS Page 124] [\q 124/]     
+657. Yā mannanā araññasmiṃ yā ca gāme nikaṇṇikā, 
+Yañcetaṃ iticitica etampi viditaṃ maya. 
+
+658. Dhammena kira jātassa pitā puttassa makkaṭo, 
+Daharasseva santassa dantehi phalamañchidā. 
+
+[PTS Page 125] [\q 125/]     
+659. Yametaṃ parisappasi 3- ajakāṇova sāsape, 
+Yopāyaṃ heṭṭhato sesi 4- etampi viditaṃ mayā'ti. 
+8. Thusajātakaṃ. 
+
+1. Tiṇassa cāṭisu gato - syā 2. Dussīlaṃ - sīmu 3. Parisapepasi - machasaṃ 
+4. Seti - sīmu. 
+
+[PTS Page 128] [\q 128/]     
+[BJT Page 194] [\x 194/]     
+660. Adassanena morassa sikhino mañjubhāṇino, 
+Kākaṃ tattha apūjesuṃ maṃsena ca phalena ca. 
+
+661. Yadā ca sarasampanno moro baverumāgamā, 
+Atha lābho ca sakkāro vāyasassa ahāyatha. 
+
+662. Yā nupajjati buddho dhammarājā pahaṅkaro, 
+Tā aññe apūjesuṃ puthu samaṇabrāhmaṇe. 
+
+663. Yadā ca sarasampanno buddho dhammamadesayi, 
+Atha lābho ca sakkāro titthiyānaṃ ahāyathā'ti. 
+9. Bāverujātakaṃ. 
+
+[PTS Page130] [\q 130/]     
+664. Adāsi dānini pure visayha
+Dadato ca te byadhammo
+Ito parañce na dadeyya dānaṃ
+Tiṭṭheyyuṃ te saññamantassa bhogo. 
+
+[PTS Page 131] [\q 131/]     
+665. Anariyamariyena sahassanetta
+Suduggatenāpi akiccamāhu, 
+Mā vo dhanaṃ taṃ janinda ahuvā 1-
+Yambhogahetu vijahema saddhaṃ. 
+
+666. Yena eko ratho yāti yāti tena paro ratho, 
+Porāṇaṃ nihitaṃ vattaṃ vattataññeca vāsava. 
+
+667. Yadi hesasti dassāma asante kiṃ dadāmase, 
+Evaṃ bhūtāpi dassāma mā dānaṃ pamadāmhase'ti. 
+10. Visayhajātakaṃ. 
+Kokālivaggo catuttho. 
+Tassuddānaṃ: 
+Ativelaṃ pahāsati jinavaro
+Vanamajjherathesabhajimbhagamo, 
+Atha jambutiṇāsanapiṭhavaraṃ
+Atha taṇḍula mora visayha dasa. 
+
+1. Ahudevarāja - sīmu. 
+
+[PTS Page 133] [\q 133/]     
+[BJT Page 196] [\x 196/]     
+5. Cuḷakuṇālavaggo
+[PTS Page 133] [\q 133/]     
+668. Narānamārāmakarāsu nārisu
+Anekacittāsu aniggahāsu ca, 
+Sabbantanāpitikarāpi ce siyā
+Na vissase titthasamā hi nāriyo. 
+
+669. Yaṃ ce disvā kaṇḍalari kintarānaṃ 1-
+Sabbitthiyo naramanti agāre, 
+Taṃ tādisaṃ maccaṃ cajitvā hariyā
+Aññaṃ disvā purisaṃ piṭhasappiṃ 2-
+
+670. Khakassa ca pāvārikassa rañño
+Accanatakāmānugatassa hariyā, 
+Avācari baddhavasānugassa
+Kaṃ vā itthi nāticare tadaññaṃ. 
+
+671. Piṅgiyāni sabbalokissarassa
+Rañño piyā brahmadattassa bhariyā
+Avācari baddhavasānugassa
+Taṃ vāpi sā nājjhagā kāmakāminī'ti. 
+1. Kintarijātakaṃ 3-
+
+[PTS Page 133] [\q 133/]     
+672. Asakkhiṃ vata attānaṃ uddhātuṃ udakā thalaṃ, 
+Na dānāhaṃ puna tuhayaṃ vasaṃ gacchāmi vārija. 
+
+673. Alametehi ambehi jambuhi panasehi ca, 
+Yāni pāraṃ samuddassa varaṃ mayhaṃ udumbaro. 
+
+674. Yo ca appatitaṃ atthaṃ na khippamanukhujjhati, 
+Amittavasamanevati pacchā ca anutappati. 
+
+[PTS Page 134] [\q 134/]     
+675. Yo ca appatitaṃ atthaṃ na khippameva nibodhati, 
+Muccate sattusambādhā na ca pacchātappatī'ti. 2. Vānarajātakaṃ. 
+
+1. Yaṃva disvā kittari kinnarānaṃ - machasaṃ yañca disvā kintara kinnarinaṃ - syā
+2. Piṭhasabbi - machasaṃ. 3. Kuṇḍalika jātakaṃ. - Syā 
+
+[BJT Page 198] [\x 198/]     
+676. Avasimbhā tavāgāre niccaṃ sakkatapujitā, 
+Tvameva dāni ca'kari 1- handa rāja vajāmahaṃ. 
+
+677. Yo ve kate paṭikate kibbise paṭikibbise, 
+Evaṃ taṃ sammati veraṃ masa kuntini māgamā. 
+
+[PTS Page 136] [\q 136/]     
+678. Na katassa ca kattā ca metti sandhiyate puna, 
+Bhadayaṃ nānujānāti gacchaññeva rathesabha. 
+
+679. Katassa ceva kattā ca metti sandhiyate puna, 
+Dhirānaṃ no ca bālānaṃ vasa kuntini māgamā'ti. 
+3. Kuntinījātakaṃ. 
+
+[PTS Page 138] [\q 138/]     
+680. Yo nīliyaṃ maṇḍayati saṇḍāsena vihaññati, 
+Tassa sā vasamanvetu yā te ambe avāhari. 
+
+681. Visaṃ vā pañca visaṃ 2- vā ūnatiṃsaṃva jātiyā, 
+Tādisā patimāladdhā yā te ambe avāhari. 
+
+[PTS Page 139] [\q 139/]     
+682. Dīghaṃ gacchatu addhānaṃ ekikā 3- abhisāriyā, 
+Saṅkete pati māddasa yā te ambe avāhari. 
+
+683. Alaṅkatā suvasanā mālini candanussadā, 
+Ekikā sayane setu yā te ambe avāhariti. 
+4. Ambacorajātakaṃ. 
+
+1. Makari - machasaṃ 2. Paṇṇu visaṃ - si 3. Abhisārikā - si
+[PTS Page 140] [\q 140/]     
+[BJT Page 200] [\x 200/]     
+684. Vanaṃ yadaggi dahati pāvako naṇhavantani, 
+Kathaṃ karosi pacalaka evaṃ dandhaparakkamo. 
+
+685. Bahuni rukkhajiddāni pathavyā 1- vivarāni ca, 
+Tāni ce nābhisambhoma hoti no kālapariyāyo. 
+
+[PTS Page 141] [\q 141/]     
+686. Yo dandhakāle tarati taraṇiye ca dandhati, 
+Sukkhapaṇṇaṃva akkamma atthaṃ bhañjati attano. 
+
+687. Yo dandhakāle dandheti taraṇiye ca tārayi, 
+Sasiva rattiṃ vibhajaṃ tassattho paripuratī'ti. 
+5. Gajakumbhajātakaṃ. 
+
+[PTS Page 144] [\q 144/]     
+688. Manussindaṃ jahitvāna sabbakāmasamiddhinaṃ, 
+Kathaṃ nu bhagavā kesi kappassa ramati assame. 
+
+689. Sādhuni ramaṇiyāni santi vakkhā manoramā, 
+Subhāsitāni kappassa nārada ramayanti maṃ. 
+
+690. Sālinaṃ odanaṃ bhuñeja sucimaṃsupasecanaṃ, 
+Kathaṃ sāmākanivāraṃ aloṇaṃ chādayanti taṃ. 
+
+[PTS Page 145] [\q 145/]     
+691. Asāduṃ yadi vā sāduṃ 3- appaṃ vāyadi vā bahuṃ, 
+Vissattho yattha bhuñejayya vissāsaparamā rasāti. 
+6. Kesamajātakaṃ. 4-
+
+[PTS Page 146] [\q 146/]     
+692. Sabbāyasaṃ kuṭamatippamāṇaṃ
+Paggayha so tiṭṭhati antalikkhe, 
+Rakkhāya me tvaṃ vihito nusajja
+Udāhu me vāyamase vadhāya. 
+
+693. Duto ahaṃ rājidha rakkhasānaṃ. 
+Vadhāya tuyhaṃ pahitohamasmi, 
+Indo ca taṃ rakkhati devarājā
+Tenuttamaṅgaṃ na te phālayāmi. 5-
+
+1. Pathabyā - machasaṃ 2. Rājakumbhajātakaṃ - machasaṃ 3. Sāduṃ vāyadi vā sāduṃ -
+machasaṃ 4. Kesijātakaṃ - machasaṃ 5. Nabhiphalayāmi - sīmu
+
+[BJT Page 202] [\x 202/]     
+694. Sace ca maṃ rakkhati devarājā
+Devānamindo maghavā sujampati, 
+Kāmaṃ pisāvā kandantu sabbe
+Na santase rakkhasiyā pajāya. 
+
+[PTS Page 147] [\q 147/]     
+695. Kāmaṃ nandantu kumbhaṇḍā sabbepaṃsupisācakā, 
+Nālaṃ pisācā yuddhāya mahatī sā vibhiṃsikāti. 
+7. Ayakuṭajātakaṃ. 
+
+[PTS Page 148] [\q 148/]     
+696. Araññā 1- gāmamāgamma kiṃ sīlaṃ kiṃ vataṃ ahaṃ, 
+Purisaṃ tāna seveyyaṃ taṃ me akkhāhi pucchito. 
+
+697. Yo taṃ vissāsaye tāta vissāsañca khameyya te, 
+Sussusi ca titakkhi ca taṃ bhajehi ito gato. 
+
+698. Yassa kāyena vācāya manasā natthi dukkaṭaṃ, 
+Orasiva patiṭṭhāya taṃ bhajehi ito 2- gato. 
+
+699. Haḷiddarāgaṃ kapicittaṃ purisaṃ rāgavirāginaṃ, 
+Tādisaṃ tāta mā sevi nimmanussampi ce siyā'ti. 
+8. Āraññajātakaṃ. 
+
+[PTS Page 151] [\q 151/]     
+700. Neva itthisu sāmaññaṃ napi bhakkhesu sārathi, 
+Athassa sandhibhedassa passa yāva sucintitaṃ. 
+
+701. Asi tikkhova maṃsamhi pesuññaṃ parivattati, 
+Yatthusabhañca sīhañca bhakkhayanti migādhamā. 
+
+702. Imaṃ so sayanaṃ seti yayimaṃ passasi sārathi, 
+Yo vācaṃ sandhibhedassa pisunassa nibodhati. 
+
+1. Arañña - machasaṃ 2. Taṃ bhajeyyāsitogato - machasaṃ
+
+[BJT Page 204] [\x 204/]     
+703. Te janā sukhamedhanti narā saggagatāriva, 
+Yo vācaṃ sandhibhedassa nāva bodhenti 1- sārathi'ti. 
+9. Sandhibhedajātakaṃ. 
+
+[PTS Page 152] [\q 152/]     
+704. Hanti hatthehi pādehi mukhañca parisumbhati, 
+Sa ve rāja piyo hoti kaṃ tenamabhipassasi. 
+
+705. Akkosati yathākāmaṃ āgamañcassa na icchati, 
+Sa ce rāja piyo hoti kaṃ tenamabhipassasi. 
+706. Abbhakkhāti abhutena alikenamabhisāraye, 
+Sa ce rāja piyo hoti kaṃ tenamabhipassasi. 
+707. Haraṃ antañca pānañca vatthasenāsanāni ca, 
+Aññadatthu harā santā te ve rāja piyā honti, 
+Kaṃ tena mabhipassasiti. 
+10. Devatāpañho
+
+Cuḷakuṇālavaggo pañcamo. 
+
+Tassuddānaṃ: 
+Narānaṃ asakkhivasimbhavaro
+Niliyamaggivarañca puna, 
+Puna rasāyasakuṭavaro
+Tathāraññasārathi hanti dasa. 
+Catukkanipāto niṭṭhito. 
+Tatra vagguddānaṃ: 
+Vivaraṃ pucimandañca
+Kuṭidusaṃ bahuhāṇakaṃ, 
+Cuḷakuṇālavaggo so
+Pañcamo suppakāsitoti. 
+
+1. Bodhanti - sīmu. 
+
+[PTS Page 153] [\q 153/]     
+[BJT Page 206. [\x 206/]     ] 
+Pañcakanipāto
+1. Maṇikuṇḍalavaggo
+708. Jino 1- rathassa 2- maṇikuṇḍale ca
+Putte ca dāre ca tatheva jino, 
+Sabbesu bhogesu asesitesu
+Kasmā na santappasi sokakāle. 
+
+[PTS Page 154] [\q 154/]     
+709. Pubabe va maccaṃ vijahanti bhogā
+Macco vā te 3- pubbataraṃ jahāti, 
+Asassatā bhogino kāmakāmi
+Tasmā na socāmabaṃ sokakāle. 
+
+710. Udeti āpurati 4- veti cando
+Atthaṃ tapetvāna 5- paleti suriyo, 
+Viditā mayā sattuka lokadhammā
+Tasmā na socāmahaṃ sokakāle. 
+
+711. Alaso gihi kāmabhogi na sādhu
+Asaññato pabbajito na sādhu, 
+Rājā na sādhu anisammakāri
+Yo paṇḍito kodhano taṃ na sādhu. 
+
+712. Nisamma khantiyo kayirā nānisamma disampati, 
+Nisamma kārino rañño yaso kinti ca vaḍḍhatīti. 
+1. Maṇikuṇḍalajātakaṃ. 
+
+[PTS Page 156] [\q 156/]     
+713. Kinnu santaramānova lāyitvā haritaṃ tiṇaṃ, 
+Khāda khādāti vilapi gatasattaṃ jaraggava. 
+
+714. Na hi attena pātena mato goṇo samuṭṭhahe, 
+Tvañca tucchaṃ vilapasi yathā taṃ dummati tathā. 
+
+715. Yatheva tiṭṭhati sīsaṃ hatthapādā ca vāḷadhi, 
+Sotā tatheva tiṭṭhanti maññe goṇo samuṭṭhahe. 
+
+1. Janno - syā, machasaṃ 2. Raṭṭhassa - syā 3. Macco dhane - machasaṃ, sīmu
+4. Pureti khiyati - syā 5. Andhaṃ tapetvāna - machasaṃ
+
+[BJT Page 208] [\x 208/]     
+716. Nevayyakassa sīsaṃ vā hatthapādā na dissare, 
+Rudaṃ mattikathupasmiṃ nanu tvaññeva dummati. 
+
+[PTS Page 157] [\q 157/]     
+717. Ādintaṃ vata maṃ santaṃ ghatasittaṃva pāvakaṃ, 
+Vārinā viya osiñcaṃ sabbaṃ nibbāpaye daraṃ. 
+
+718. Abbuḷhaṃ vata me sallaṃ sokaṃ badayanissitaṃ, 
+Yo me sokaparetassa pitusokaṃ apānudi. 
+
+719. Sohaṃ abbuḷhasallosmi vitasoko anāvilo, 
+Na socāmi na rodāmi tava sutvāna māṇava. 
+
+720. Evaṃ karonti sappaññā ye honti anukampakā, 
+Vinivattayanti 1- sokambhā sujato pitaraṃ yathāti. 
+2. Sujātajātakaṃ. 
+
+[PTS Page 158] [\q 158/]     
+721. Nayidaṃ niccaṃ bhavitabbaṃ brahmadanta
+Khemaṃ subhikkhaṃ sukhatā ca kāye, 
+Atthaccaye vā ahu sampamuḷho
+Bhintaplavo sāgarasseva majjhe. 
+
+722. Yāni karoti puriso tāni attani passati, 
+Kalyāṇakari kalyāṇaṃ pāpakāri ca pāpakaṃ, 
+Yādisaṃ vapate khijaṃ tādisaṃ harate phalaṃ. 
+
+[PTS Page 160] [\q 160/]     
+723. Idaṃ tadācariyavaco pārāsariyo 2- yadabravi, 
+Māssu tvaṃ akarā pāpaṃ yaṃtaṃ pacchā kataṃ tape. 
+
+724. Ayameva so piṅgiya dhonasākho 3-
+Yambhi 4- ghātayiṃ khattiyānaṃ sahassaṃ, 
+Tameva dukkhaṃ paccāgataṃ mamaṃ. 
+
+[PTS Page 161] [\q 161/]     
+725. Sāmāpi kho candana littagattā 5-
+Siṅguva sohañjanakassa uggatā, 
+Adisvāva kālaṃ karissāmi ubbaraṃ
+Taṃ me tato 6- dukkhataraṃ bavissatiti. 
+3. Dhonasākha jātakaṃ. 
+
+1. Vinavattenti - machasaṃ 5. Candanalittagatti - simu, syā
+2. Pārānācariyo - machasaṃ 6. Ito - simu 
+3. Venasākho - machasaṃ 7. Dhona sākha - sīmu, machasaṃ
+4. Yahaṃ - machasaṃ
+
+[PTS Page 164] [\q 164/]     
+[BJT Page 210] [\x 210/]     
+726. Uragova tavaṃ jiṇṇaṃ hitvā gacchati saṃ tanuṃ, 
+Evaṃ sarīre nibbhoge pete kālakate sati, 
+
+727. Ḍayhamāno na jānāti ñātinaṃ paridevitaṃ, 
+Tasmā etaṃ na sovāmi gato so tassa yā gati. 
+
+[PTS Page 165] [\q 165/]     
+728. Anabbhito tato āga 1- ananuññāto 2- ito gato, 
+Yathā gato tathā gato tattha kā paridevanā. 
+
+729. Ḍayhamāno na jānāti ñātinaṃ paridevitaṃ, 
+Tasmā etaṃ na sovāmi gato so tassa yā gati. 
+
+730. Sace rode kisā assaṃ tassā me kiṃ phalaṃ siyā, 
+Ñātimittasuhajjānaṃ bhiyyo no rati siyā. 
+
+[PTS Page 166] [\q 166/]     
+731. Ḍayhamāno na jānāti ñātinaṃ paridevitaṃ, 
+Tasmā etaṃ na sovāmi gato so tassa yā gati. 
+
+732. Yathāpi dārako candaṃ gacchannamanurodati, 
+Evaṃ sampadamevetaṃ yo petamanusocati. 
+
+733. Ḍayhamāno na jānāti ñātinaṃ paridevitaṃ, 
+Tasmā etaṃ na sovāmi gato so tassa yā gati. 
+
+[PTS Page 167] [\q 167/]     
+734. Yathāpi udakakumbho hinno appaṭisandhiyo, 
+Evaṃ sampadamevetaṃ yo petamanusocati. 
+
+735. Ḍayhamāno na jānāti ñātinaṃ paridevitaṃ, 
+Tasmā etaṃ na sovāmi gato so tassa yā gati. 
+4. Uragajātakaṃ. 
+
+[PTS Page 169] [\q 169/]     
+736. Aññe socanti rodanti aññe assumukhā janā, 3-
+Pasannamukhavaṇṇosi kasmā ghata na socasi. 
+
+1. Āgā - machasaṃ, syā 2. Nanuññāto - machasaṃ, syā
+3. Añño assu mukho jano. 
+
+[BJT Page 212. [\x 212/]     ] 
+737. Nābbhatitaharo soko nānāgatasukhāvabho, 
+Tasmā dhaṃka 1- na sovāmi natthi soko dutiyatā. 
+
+738. Sovaṃ paṇḍu kiso hoti bhattañcassi na ruccati, 
+Amintā sumanā honti sallaviddhassa na ruccati. 
+
+739. Gāme vā yadi vā raññe ninte vā yadi vā thale, 
+ hitaṃ maṃ nāgamissati 2- evaṃ diṭṭhapado ahaṃ
+
+740. Yassantā nālamekova sabbakāmarasāraho, 
+Sabbāpi yaṭhavi tassa na sukhaṃ āvahissatiti. 
+5. Ghatajātakaṃ 3-
+
+[PTS Page 172] [\q 172/]     
+741. Eko araññe girikandarāyaṃ
+Paggayha paggayha sīlaṃ pavecchasi, 4-
+Punappunaṃ santaramānarūpo
+Kāraṇḍiya ko nu tava yidhattho. 
+
+742. Ahaṃ himaṃ sāgarasevitantaṃ
+Samaṃ karissāmi yathāpi pāṇiṃ, 
+Vikiriya sānuni ca pabbatāni ca
+Tasmā sīlaṃ dariyā pakkhipāmi. 
+
+743. Nayimaṃ mahiṃ arahati pāṇikappaṃ. 
+Samaṃ manusso karaṇāyameko, 
+Maññāmimaññeva dariṃ jigiṃsaṃ
+Kāraṇḍiya hāyasi jivalokaṃ. 
+
+[PTS Page 173] [\q 173/]     
+744. Sace ayaṃ bhūta dharaṃ na sakko
+Samaṃ manusso karaṇāyameko, 
+Evameva tvaṃ buhme ime manusse
+Nānādiṭṭhike nānayissasi te. 
+
+745. Saṅkhittarūpena bhavaṃ mamatthaṃ
+Akkhāsi kāraṇḍiya evametaṃ
+Yathā na sakkā paṭhavi samāyaṃ
+Kātuṃ manussena tathā manussāti. 
+6. Kāraṇḍiyajātakaṃ. 
+
+1. Vaṃka - simu. 2. Na taṃ maṃ āgamissati - simu 3. Dhaṅkajātakaṃ - syā
+4. Pavejhasi - sīmu, machasaṃ. 
+
+[PTS Page 175] [\q 175/]     
+[BJT Page 214] [\x 214/]     
+746. Vandāmi taṃ kuñajara saṭṭhihāyanaṃ
+Āraññakaṃ yuthapatiṃ yasassiṃ, 
+Pakkhehi taṃ pañajalikaṃ karomi
+Mā me vadhi puttake dubbalāya. 
+
+[PTS Page 175] [\q 175/]     
+747. Vandāmi taṃ kuñajara ekacāriṃ
+Āraññakaṃ pabbatasānugocaraṃ, 
+Pakkhehi taṃ pañjalikaṃ karomi
+Mā me vadhi puttake dubbalāyaṃ. 
+
+748. Vadhissāmi te laṭukike puttakāni
+Kiṃ me tuvaṃ kāhasi dubbalāsi, 
+Sataṃ sahassānipi tādisinaṃ
+Vāmena pādena papothayeyya. 
+
+[PTS Page 176] [\q 176/]     
+749. Naheva sabbattha balena kiccaṃ
+Balaṃ hi bālassa vadhāya hoti, 
+Karissāmi te nāgarājā anatthaṃ
+Yo me vadhi puttake dubbalāya. 
+
+[PTS Page 177] [\q 177/]     
+750. Kākañca passa laṭukikaṃ maṇḍukaṃ nilamakkhikaṃ, 
+Ete nāgaṃ aghātesuṃ passa verassa verinaṃ. 
+Tasmā veraṃ na kayirātha appiyena ca kenaci'ti. 
+7. Laṭukikajātakaṃ. 
+
+[PTS Page 179] [\q 179/]     
+751. Ahameva dusiyā bhunahatā rañño mahāpatāpassa, 
+Etaṃ muñcatu dhammapālaṃ hatthe me deva chedehi. 
+
+[PTS Page 180] [\q 180/]     
+752. Ahameva dusiyā bhunahatā rañño mahāpatāpassa, 
+Etaṃ muñcatu dhammapālaṃ pāde me deva chedehi. 
+
+753. Ahameva dusiyā bhunahatā rañño mahāpatāpassa, 
+Etaṃ muñcatu dhammapālaṃ sīsaṃ me deva chedehi. 
+
+[PTS Page 181] [\q 181/]     
+754. Nahanunimassa rañño mittāmaccā ca vijjare suhadā, 
+Ye na vadanti rājānaṃ mā ghātayi orasaṃ puttaṃ. 
+755. Nahanunimassa rañño mittāmaccā ca vijjare suhadā, 
+Ye na vadanti rājānaṃ mā ghātayi atrajaṃ puttaṃ. 
+756. Candanarasānulittā bāhā chijjanti dhammapālassa, 
+Dāyādassa pathavyā pāṇā me deva rujjhattīti. 
+8. Culladhammapālajātakaṃ
+
+[PTS Page 184] [\q 184/]     
+[BJT Page 216] [\x 216/]     
+757. Vikkama re mahāmiga vikkama re haripada, 1-
+Chinda vārattikaṃ pāsaṃ nāhaṃ ekā vane rame. 
+
+[PTS Page 185] [\q 185/]     
+758. Vikkamāmi na pāremi bhumiṃ sumbhāmi vegasā, 
+Daḷho vārattiko pāso pādaṃ me parikantati. 
+
+759. Attharassu palāsāni asiṃ nibbāha luddaka, 
+Paṭhamaṃ maṃ hanitvāna 2- hana pacchā mahāmigaṃ. 
+
+[PTS Page 186] [\q 186/]     
+760. Na me sutaṃ vā diṭṭhaṃ vā bhāsantiṃ mānusiṃ migiṃ, 
+Tvañca bhadde sukhī hohi eso cāpi mahāmigo. 
+
+761. Evaṃ luddaka nandassu saha sabbehi ñātihi, 
+Yathāhamajja nandami muttaṃ disvā mahāmiganti. 
+9. Suvaṇṇamigajātakaṃ. 
+
+[PTS Page 189] [\q 189/]     
+762. Vāti gandho timirānaṃ kusamuddo ca ghosavā, 
+Dure ito hi susandhi tambakāmā 3- tudanti maṃ
+
+763. Kathaṃ samuddamatari kathaṃ addakkhi serumaṃ 4-
+Kathaṃ tassā ca tuyhañca ahu saggasamāgamo. 5-
+
+[PTS Page 190] [\q 190/]     
+764. Bharukacchā payātānaṃ vāṇijāna dhanesinaṃ 6, 
+Makarehambhidā 7- nāvā phalakenāhamaplaviṃ. 
+
+765. Sā maṃ saṇhena mudunā niccaṃ candanagandhini, 
+Aṅkena 8- uddharī bhaddā mātā puttaṃva orasaṃ. 
+
+766. Sāmaṃ antena pāṇena vatthena sayanena ca, 
+Attanāpi ca maddakkhi 9- evaṃ tambi vijānahiti. 
+10. Susandhijātakaṃ. 10-. 
+Maṇikuṇḍalavaggo paṭhamo. 
+Tassuddānaṃ: 
+Athajivavaroharitaṃ tiṇako
+Athabhinnapalavo uragocaghato, 
+Dariyā puna kuñajara bhunahatā
+Migaputtamasaggavarena dasa. 
+
+1. Vikkamare haripada vikkamare mahāmiga - machasaṃ 7. Maṅkarehibhidā - syā. 
+2. Vadhitvāna - machasaṃ. 8. Aṅgena - syā
+3. Tappakāha - machasaṃ 9. Mandakkhi - machasaṃ, syā
+4. Sedumaṃ - machasaṃ 10. Suyonandi jātakaṃ - machasaṃ
+5. Agga - syā 6. Dhanesinaṃ machasaṃ
+
+[BJT Page 218] [\x 218/]     
+2. Vaṇṇārohavaggo
+
+[PTS Page 192] [\q 192/]     
+767. Vaṇṇarohena jātiyā balanikkamaṇena ca, 1-
+Sukhāhu na mayā seyyo sudāṭha 2- iti bhāsati. 
+
+768. Vaṇṇarohena jātiyā balanikkamaṇena ca, 
+Sudāṭho na mayā seyyo subāhu iti bhāsati. 
+
+769. Evañce maṃ viharantaṃ subāhu samma dubbhasi, 
+Nadānāhaṃ tayā saddhiṃ saṃvāsamabhirocaye. 
+
+770. Yo paresaṃ vacanāni saddahetha 3- yathātathaṃ, 
+Khippaṃ bhijjetha mittasmiṃ verañca pasave bahuṃ. 
+
+771. Na so mitto yo sadā appamatto
+Bhedāsaṅki randhamecānupassi, 
+Yasmiñca seti urasiva putto
+Sa ce mitto yo abhejjo parehiti. 
+1. Vaṇṇārohajākataṃ. 
+
+[PTS Page 194] [\q 194/]     
+772. Sīlaṃ seyyo sutaṃ seyyo iti me saṃsayo ahu, 
+Silameva sutā seyyo iti me natthi saṃsayo. 
+773. Moghā jāti ca vaṇṇe ca silameva kiruttamaṃ, 
+Silena anupetassa sutenattho na vijjati. 
+
+774. Khattiyo ca adhammaṭṭho vesso cādhammanissito, 
+Te pariccajjajubho loke upapajjanti duggatiṃ. 
+775. Khattiya brāhmaṇā vessā saddā caṇḍālapukkusā, 
+Idha dhammaṃ caritvāna bhavanti tidive samā. 
+
+[PTS Page 195] [\q 195/]     
+776. Na do saṃparāyāya na jāti nopi bandhāvā, 
+Sakañca sīlaṃ saṃsuddhaṃ samparāyasukhāvabhanti. 
+2. Sīlavimaṃsa jātakaṃ. 
+
+1. Balā - simu 2. Sudāṭho - machasaṃ, simu 3. Saddaheyya - machasaṃ
+
+[PTS Page 196] [\q 196/]     
+[BJT Page 220] [\x 220/]     
+777. Hiraṃ tarattaṃ vijigucchamānaṃ
+Tavāhamasmiṃ iti bhāsamānaṃ, 
+Seyyāni kammāni anādiyantaṃ. 
+Noso mamanti iti taṃ vijaññā. 
+
+778. Yaṃ hi kayirā taṃ hi vade yaṃ na kayirā na taṃ vade, 
+Akarontaṃ bhāsamānaṃ parijānanti paṇḍitā. 
+
+779. Na so mitto yo sadā appamatto
+Bhedāsaṅki randhamevānupassi, 
+Yasmiñca seti urasiva putto
+Sa ve mitto yo abhejjo parehi. 
+
+780. Pāmojjakaraṇaṃ ṭhānaṃ pasaṃsāvahanaṃ sukhaṃ. 
+Phalānisaṃso bhāveti vahanto porisaṃ dhuraṃ. 
+
+781. Pavivekarasaṃ vitvā rasaṃ upasamassa ca, 
+Niddaro hoti nippāpo dhammapitirasaṃ piva'nti. 
+3. Hirijātakaṃ. 
+
+[PTS Page 197] [\q 197/]     
+782. Ko nu santambhi pajjote aggapariyesanaṃ caraṃ, 
+Addakkhi rattiṃ khajjotaṃ jātavedaṃ amaññatha. 
+
+783. Svāssa gomayacuṇṇāni abhimatthaṃ tiṇāni ca, 
+Viparitāya saññāya nāsakkhi pajjaletace. 
+
+784. Evampi anupāyena atthaṃ na labhate mago, 
+Visāṇato gavaṃ dohaṃ yattha khiraṃ na vindati. 
+
+785. Vividhehi upāyehi atthaṃ papponti māṇavā, 
+Niggahena amittānaṃ mittānaṃ paggahena ca. 
+
+786. Seṇimokkho palāhena vallabhānaṃ nayena ca, 
+Jagatiṃ jalatipālā āvasanti vasundharanti. 
+4. Khajjopaṇakapañho. 
+
+[PTS Page 198] [\q 198/]     
+[BJT Page 222] [\x 222/]     
+787. Dhattombhi 1- samma sumukha jute akkhaparājito, 
+Harehi 2- ambapakkāni viriyante bhakkhayāmase. 
+788. Alikaṃ vata maṃ samma abhutena pasaṃsasi, 
+Ko te suto vā diṭṭhā vā sumukho nāma makkaṭo. 
+
+[PTS Page 199] [\q 199/]     
+789. Ajjāpi me tvaṃ manasi yaṃ maṃ tvaṃ ahituṇḍika, 
+Dhaññāpaṇaṃ pavisitvā matto chātaṃ hanāsi ma. 
+
+790. Tāhaṃ saraṃ dukkhaseyyaṃ api rajjampi kāraye, 
+Nevāhaṃ yācito dajjaṃ tathā hi bhayatajjito. 
+
+791. Yañca jaññā kulejātaṃ gabbhe tittaṃ amacchariṃ, 
+Tena sakhiñca mittañca dhiro sandhātumarahati'ti. 
+5. Ahituṇḍikajātakaṃ. 
+
+[PTS Page 201] [\q 201/]     
+792. Madhuvaṇṇaṃ madhurasaṃ madhugandhaṃ visaṃ ahu, 
+Gumbiyā ghāsamesāno araññe odahi misaṃ. 
+
+793. Madhu iti maññamānā ye taṃ visamasāyisuṃ, 3-
+Tesaṃ taṃ kaṭukaṃ āsi maraṇaṃ tenupāgamuṃ. 
+
+794. Ye ca kho paṭisaṅkhāya visaṃ taṃ parivajjayuṃ, 
+Te āturesu sukhitā ḍayhamānesu nibbutā. 
+
+795. Evameva manussesu visaṃ kāmā samohitā, 
+Āmisaṃ bandhanaṃ cetaṃ maccuvaso guhāsayo. 
+
+796. Evameva ime kāme āturā paricārake, 
+Ye sadā parivajjenti saṅgaṃ loke upaccagutti. 
+6. Gumbiyajākataṃ. 
+
+1. Muttombhi - simu 2. Sevehi - simu, hārehi - machasaṃ 3. Visamakhāsisuṃ - machasaṃ,
+syā. 
+
+[PTS Page 203] [\q 203/]     
+[BJT Page 224] [\x 224/]     
+797. Yvāyaṃ sāḷiyachāpoti kaṇhasappaṃ agāhayi, 
+Tena sappenayaṃ daṭṭho hato pāpānusāsako. 
+
+798. Ahanantamahantāraṃ 1- yo naro hantumicchiti, 
+Evaṃ so nihato seti yathāyaṃ puriso hato. 
+
+799. Ahanantamahantāraṃ 2- yo naro hantumicchiti, 
+Evaṃ so nihato seti yathāyaṃ puriso hato. 
+
+800. Yathā paṃsumuṭṭhiṃ puriso paṭivātaṃ paṭikkhipe, 
+Tameva so rajo hanti tathāyaṃ puriso hato. 
+
+801. Yo appaduṭṭhassa narassa dussati
+Suddhassa posassa anaṅgaṇassa, 
+Tameva bālaṃ pacceti pāpaṃ
+Sukhumo rajo paṭivātaṃva khittoti. 
+7. Sāḷiyajātakaṃ. 
+
+[PTS Page 204] [\q 204/]     
+802. Amittahatthatthagatā tacasārasamappitā, 
+Pasannamukhavaṇṇattha kasmā tumbhe na socatha. 
+
+803. Na socanāya paridevanāya
+Attho ca labbhā 3- api appakopi, 
+Socantamenaṃ dukhitaṃ viditvā
+Paccatthikā attamanā bhavanti. 
+[PTS Page 205] [\q 205/]     
+804. Yato ca kho paṇḍito āpadāsu
+Na vedhati atthavinicchayaññu, 
+Paccatthikāssa dukhitā bhavanti
+Disvā mukhaṃ avikāraṃ purāṇaṃ. 
+
+805. Jappena mantena subhāsitena
+Anuppadānena paveṇiyā vā
+Yathā yathā yattha labhetha atthaṃ
+Tathā tathā tattha parakkameyya. 
+
+806. Yato ca jāneyya alabbhaneyyo +
+Mayāva 4- aññena vā esa attho, 
+Asocamāno adhivāsayeyya
+Kammaṃ daḷhaṃ kinti kāromidāniti. 
+8. Tacasārajātakaṃ. 
+
+1. Ahantāra mahantāraṃ - simu, machasaṃ 2. Ahantāramaghātentaṃ - machasaṃ
+3. Atthova labbho - syā atthocalabbhā - machasaṃ 4. Mahā vā - machasaṃ, syā
+(+ Sace pajāneyya alabbhaneyyo - aṃguttaranikāya). 
+
+[PTS Page 206] [\q 206/]     
+[BJT Page 226] [\x 226/]     
+807. Kyāhaṃ devānamakaraṃ kiṃ pāpaṃ pakataṃ mayā, yamme sirasmiṃ obhacca 1- cakkaṃ
+bhamati matthake. 
+
+[PTS Page 207] [\q 207/]     
+808. Atikkamma ramaṇakaṃ sadāmattañca dubhakaṃ, 2-
+Brāhmatarañca 3- pāsādaṃ kenaṭṭhena idhāgato. 
+
+809. Ito bahutarā bhogā atura maññe bhavissare, 
+Iti etāya saññāya passa maṃ vyasanaṃ gataṃ. 
+
+810. Catubbhi aṭṭhajjhagamā aṭṭhakāhi ca soḷasa, 4-
+Soḷasāhi ca khattiṃsa atricchaṃ cakkamāsado. 
+Icchāhatassa posassa cakkaṃ bhamati matthake. 
+811. Upari visālā 5- dupapurā icchā visadagāmini, 6-
+Yo taṃ anugijjhanti te honti cakkadhārino'ti. 
+9. Mittavindakajātakaṃ. 
+
+[PTS Page 209] [\q 209/]     
+812. Haṃso palāsamavaca nigrodho samma jāyati, 7-
+Aṅkasmiṃ 8- te nisinnova so te mammāni checchati. 
+813. Vaḍḍhatume 9- nigrodho patiṭṭhassa bhavāmahaṃ, 
+Yathā pitā ca mātā ca 10- evameso bhavissati. 
+
+814. Yaṃ tvaṃ aṅkasmi vaḍḍhesi 11- khirarukkhaṃ bhayānakaṃ, 
+Āmanta kho taṃ gacchāma vuḍḍhimassa na ruccati. 
+
+[PTS Page 210] [\q 210/]     
+815. Idāni kho maṃ bhāyati mahāneru nadassanaṃ, 
+Haṃsassa anabhiññāya mahā me bhayamāgataṃ. 
+
+816. Na tassa vuṭṭhi kusalappasatthā
+Yo vaḍḍhamāno ghasate patiṭṭhaṃ, 
+Tassuparodhaṃ parisaṅkamano
+Patārayi mulavadhāya dhīroti. 
+10. Palāsajātakaṃ
+Vaṇṇārobhavaggo dutiyo. 
+
+1. Uhacca sīmu ūhacca - machasaṃ 2. Atikkammarammaṇaṃ - saddāmattañcadubhakaṃ -
+machasaṃ
+3. Brahmattarañca - simu, machasaṃ 4. Aṭṭhahicāpisoḷasa duppuraṃ - machasaṃ
+5. Uparivisālaṃ - machasaṃ 6. Icchā visaṭagāmini - machasaṃ, simu
+7. Sasampajāyati - machasaṃ 8. Aṅgasmiṃ - machasaṃ
+9. Vaḍḍhitameva - machasaṃ 10. Pitāvā mātā vā - simu 11. Vadedhasi - simu, machasaṃ
+
+[BJT Page 228] [\x 228/]     
+3. Aḍḍhavaggo
+
+[PTS Page 211] [\q 211/]     
+817. Evambhutassa te rāja āgatassa vase mamaṃ, 
+Atthi nu koci pariyāyo yo taṃ dukkhā pamocaye. 
+
+818. Evambhutassa me tāta āgatassa vase tava, 
+Natthi no koci pariyāyo yo maṃ dukkhā pamocaye. 
+
+[PTS Page 212] [\q 212/]     
+819. Nāññaṃ sucaritaṃ rāja nāññaṃ rāja subhāsitaṃ, 
+Tāyate maraṇa kāle evamevitaraṃ dhanaṃ. 
+
+820. Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me, 
+Ye taṃ upanayhanti veraṃ tesaṃ na sammati. 
+
+821. Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me, 
+Ye taṃ upanayhanti veraṃ tesupasammati. 
+
+822. Nahi verena verāni sammanatidha kudācanaṃ, 
+Averena ca sammanti esa dhammo sanantanoti. 
+1. Dīghitikosalajātakaṃ. 
+
+[PTS Page 214] [\q 214/]     
+823. Agārā paccupetassa anāgārassa 1- te sato, 
+Samaṇassa na taṃ sādhu yaṃ petamanusocasi. 
+
+824. Saṃvāsena bhave sakka manussassa migassa vā, 
+Bhadaye jāyate pemaṃ taṃ na sakkā asocituṃ. 
+
+825. Mataṃ marissaṃ rodanti ye rudanti lapanti ca, 
+Tasmā tvaṃ isi mā rodi roditaṃ moghamāhu santo. 
+
+826. Roditena bhave brahme mato peto samuṭṭhahe, 
+Sabbe saṅgamma rodāma aññamaññassa ñātake. 
+
+[PTS Page 215] [\q 215/]     
+827. Ādittaṃ vata maṃ santaṃ ghatasittaṃva pāvakaṃ, 
+Cārinā viya masiñcaṃ sabbaṃ nibbāpaye daraṃ. 
+
+828. Abbahi vata me sallaṃ yamāsi hadayanissitaṃ, 
+Yo me sokaparetassa puttasokaṃ apānudi. 
+
+1. Anagārassa machasaṃ
+
+[BJT Page 230] [\x 230/]     
+829. Sohaṃ abbuḷabhasallosmi vitasoko anāvilo, 
+Na socāmi na rodāmi tava sutvāna vāsavāti. 
+2. Vigapotajātakaṃ. 
+
+[PTS Page 217] [\q 217/]     
+830. Tuhiṃ gātā kattha gatā iti lālappati jano, 
+Ahameva eko jānāmi udapāne musikā hatā
+
+831. Yathetaṃ 1- iti citi ca gadrabhova nivattasi, 
+Udapāne musikaṃ hanatvā yavaṃ bhakkhitumicchasi. 
+
+[PTS Page 218] [\q 218/]     
+832. Daharo cāsi dummedha paṭhamuppattiko 2- susu, 
+Dighametaṃ samāsajja 3- na te dassami jīvitaṃ. 
+
+833. Nāntalikkhahavanenāhaṃ 4- nāṅgaputtasirena vā, 5-
+Puttena sipatthayito silokehi pamovito. 
+
+834. Sabbaṃ sutamadhiyetha hinamukkaṭṭhamajjhimaṃ, 
+Sabbassa atthaṃ jāneyya na ca sabbaṃ payojaye
+Hoti tādisako kālo tattha atthāvahaṃ suta'nti. 
+3. Musikajātakaṃ. 
+
+[PTS Page 221] [\q 221/]     
+835. Sabbaṃ bhaṇḍaṃ samādāya pāraṃ tiṇṇosi brāhmaṇa, 
+Paccāgaccha lahuṃ khippaṃ mampi tārehidanito. 
+
+836. Asanthukaṃ maṃ cirasanthutena 6-
+Niminti hoti adhuvaṃ dhuvena, 
+Mayāpi hoti nimineyya aññaṃ
+Ito ahaṃ durataraṃ gamissaṃ. 
+
+[PTS Page 223] [\q 223/]     
+837. Kāyaṃ phaḷagalāgumbhe 7- kāroti ahuhāsiyaṃ, 
+Nayidha naccaṃ vā gitaṃ vā tālaṃ vā susamāhitaṃ
+Anambhi kāle sussoṇi kinnu jagghasi sobhane. 
+
+838. Sigāla bāla dummedha appapaññosi jambuka, 
+Jino macchañca pesiñca kapaṇo viya jhāyasi. 
+
+839. Sudassaṃ vajjaṃ aññesaṃ attano pana duddasaṃ, 
+Jinā patiñca jārañca mampi tvaññeva jhāyasi. 
+
+1. Yañevataṃ - sīmu, machasaṃ 2. Paṭhamuppattito - syā, machasaṃ. Simu
+3. Dīghaṃ cetaṃ samāpajja - machasaṃ 4. Nattalikkhabhavanena - machasaṃ
+5. Nāṅgaputtasitena vā - machasaṃ 6. Asanadhataṃ maṃ cirasandhatenanimisi hoti -
+machasaṃ 7. Kāyaṃ phaḷagaṇagubbe - syā, phaḷagaṇi gumbe - machasaṃ 
+
+[PTS Page 224] [\q 224/]     
+[BJT Page 232] [\x 232/]     
+840. Evametaṃ migarāja yathā bhāsasi jambuka, 
+Sā nunāhaṃ ito gantvā bhattu bhessaṃ vasānugā. 
+
+841. Yo hare mattikaṃ thālaṃ kaṃsathālampi so hare, 
+Kataṃyeva tayā pāpaṃ punapevaṃ karissasiti. 
+4. Tulladhanuggabhajātakaṃ. 
+
+[PTS Page 225] [\q 225/]     
+842. Idāni khombhi sukhito arogo. 
+Nikkaṇṭako nippatito kapoto, 
+Kāhāmidāni hadayassa tuṭṭhiṃ
+Tathāhi maṃ maṃsasākaṃ baleti. 
+
+[PTS Page 226] [\q 226/]     
+843. Kāyaṃ balākā sikhini cori laṅghipitāmahā, 
+Oraṃ balāke āgaccha caṇḍo me vāyaso sakhā. 
+
+844. Alaṃ hi te jagghitāye mmaṃ disvāna edisaṃ, 
+Vilunaṃ sudaputtena piṭṭhimaddena makkhitaṃ. 
+
+845. Sunābhāto sucilittosi antapānena tappito, 
+Kaṇṭho ca te veḷuriyo agamā nu kajaṅgalaṃ. 
+
+846. Mā te mitto amitto vā agamāsi kajaṅgalaṃ. 
+Piñchāni tattha lāyitvā kāṇṭhe bandhanti vaṭṭanaṃ. 
+
+[PTS Page 227] [\q 227/]     
+847. Punapāpajjasi samma sīlaṃ hi tava tādisaṃ
+Na hi vānusakā bhogā subhuñajā honti pakkhinā'ti. 
+5. Kapotajātakaṃ. 
+Aḍḍhavaggo tatiyo. 
+Tassuddānaṃ: 
+Atha vaṇaṇā sasila hiri labhate
+Sumukhāmisasāliya mittavaro, 
+Atha cakka palāsa sarāja sato
+Yavabālakapokataṃ paṇṇa rasāti. 
+Pañcakanipato niṭṭhito. 
+Tatra vagguddānaṃ: 
+Jinañca vaṇṇaṃ asamaṃ vaggupari
+Sudesitā jātakanti pañca visati, 
+Mahesino burahmacarittamuttama mavoca gāthā atthavati subyañcatā'ti. 
+
+[PTS Page 229] [\q 229/]     
+[BJT Page 234] [\x 234/]     
+848. Māssu kujjhi 1- bhumipati māssu kujjhi rathesabha, 
+Kuddhaṃ appaṭikujjhanto rājā raṭṭhassa pujito. 
+
+849. Gāme vā yadi vāraññe ninne vāyadi vā thale, 
+Sabbatthamanusāsāmi māssu kujjhi rathesabha. 
+
+[PTS Page 230] [\q 230/]     
+850. Avāriyapitā nāma ahu gaṃgāya nāviko, 
+Pubbe janaṃ tārayitvā 2- pacchā yācati vetanaṃ
+Tenassa bhaṇḍanaṃ hoti na ca bhogehi vaḍḍhati. 
+
+851. Atiṇṇaṃyeva yācassu apāraṃ tāta nāvika, 
+Añño hi tiṇṇassa mano añño hoti taresino. 3
+
+[PTS Page 231] [\q 231/]     
+852. Gāme vā yadi vāraññe ninne vāyadi vā thale, 
+Sabbatthamanusāsāmi māssu kujjhi nāvika. 
+
+853. Yā yevānusāsaniyā rājā gāmavaraṃ adā, 
+Tāyevānusāsaniyā nāviko pahari mukhaṃ. 
+
+[PTS Page 232] [\q 232/]     
+854. Bhattaṃ bhinnaṃ hatā bhariyā gabbho ca patito chamā, 
+Migova jātarūpena na tenatthaṃ avaḍḍhitunti. 4-
+1. Avāriyajātakaṃ. 
+
+[PTS Page 233] [\q 233/]     
+855. Mā tāna kujjhi na hi sādhu kodho
+Mahumpi te adiṭṭhaṃ assutañca, 
+Mātā pitā disatā setaketu
+Ācariyamāhu disataṃ pasatthā. 
+
+[PTS Page 234] [\q 234/]     
+856. Agārino annadapāṇavatthadā
+Avhāyikā tampi disaṃ vadanti
+Esā disā paramā setaketu 
+Yaṃ patvā dukkhi sukhino bhavanti. 
+
+[PTS Page 236] [\q 236/]     
+857. Kharājinā jaṭilā paṅkadantā
+Dumukkharūpā ye me japanti mante, 
+Kacci nu te mānusike payoge
+Idaṃ vidu parimuttā apāyā. 
+
+1. Kujjha - machasaṃ 2. Tāretvāna - machasaṃ 3. Tāresino - syā 4. Abandhiṃsu - machasaṃ
+
+[BJT Page 236] [\x 236/]     
+858. Pāpāni kammāni karitva rāja
+Bahussuto neva careyya dhammaṃ, 
+Sabhassavedāpi na taṃ paṭicca
+Dukkhā pamuñce caraṇaṃ apatvā
+
+[PTS Page 237] [\q 237/]     
+859. Sahasasavedopi taṃ paṭicca
+Dukkhā pamuñce varaṇaṃ apatvā, 
+Maññāmi vedā aphalā bhavanti
+Sasa ññamaṃ 1- caraṇaññeva saccaṃ. 
+
+860. Naheva vedā aphalā bhavanti
+Sasaṃyamaṃ caraṇañceva 2- saccaṃ, 
+Kittiṃ hi pappoti adhicca vede
+Santaṃ putoti 3- caraṇena dantoti. 
+2. Setaketujātakaṃ. 
+
+[PTS Page 241] [\q 241/]     
+861. Paṅko ca kāmā palipo ca 4- kāmā
+Bhayañca metaṃ timulaṃ pavuttaṃ, 
+Rajo ca dhumo ca mayā pakāsitā 5-
+Bhitvā tuvaṃ pabbaja brahmadatta. 
+
+[PTS Page 242] [\q 242/]     
+862. Gathito ca ratto adhimucchito ca
+Kāmesvāhaṃ 6- buhmaṇa bhiṃsarūpaṃ, 
+Taṃ nussahe jivikattho pahātuṃ
+Kāhāmi puññāni anappakāni. 
+
+[PTS Page 243] [\q 243/]     
+863. Yo atthakāmassa hitānukampino
+Ovajjamāno na karoti sāsanaṃ, 
+Idameva seyyo iti maññamāno
+Punappunaṃ gabbhamupeti mando. 
+
+864. So ghorarūpaṃ nirayaṃ upeti
+Subhāsubhaṃ muttakarisapuraṃ, 
+Santā sakāye na jahanti giddhā
+Ye honati kāmesu avitarāgā. 
+
+[PTS Page 244] [\q 244/]     
+865. Miḷhena lintā ruhirena makkhitā
+Sembhena lintā upanikkhamanti, 
+Yaṃ yaṃ hi kāyena phusanti tāvade
+Sabbaṃ asātaṃ dukkhameva 8- kevalaṃ. 
+
+1. Sasaṃyamaṃ - syā 5. Pakāsiko - machasaṃ
+2. Caraṇameva - machasaṃ 6. Kāmesvahaṃ - machasaṃ
+3. Santiṃ puṇeti - simu, machasaṃ 7. Subhā subha - machasaṃ
+4. Palipāca - simu 8. Dukhameva. 
+
+[BJT Page 238] [\x 238/]     
+866. Disvā vadāmi nahi aññako savaṃ
+Pubbenivāsaṃ bahukaṃ sarāmi, 
+Citrāhi gāthāhi subhāsitāhi
+Darimukho nijjhāpayi sumedhanti. 
+3. Dirīmukhajātakaṃ. 
+
+[PTS Page 247] [\q 247/]     
+867. Kākoḷā 1- kākasaṅghā ca mayañca pata taṃ varā, 
+Sabbeva sadisā bhoma imaṃ āgamma pabbataṃ. 
+
+868. Idha sibhā ca vyagghā ca sigālā ca migādhamā, 
+Sabbeva sadisā honti ayaṃ ko nāma pabbato. 
+
+869. Imaṃ nerunti jānanti manussā pabbatuttamaṃ, 
+Idha vaṇṇena sampannā vasanti sabbapāṇino. 
+
+870. Amānanā yattha siyā santānaṃ vā vimānanā, 
+Hinasammānanā vā'pina tattha vasatiṃ vase. 
+
+871. Yatthālaso ca 2- dakkho ca suro bhirū ca pujiyā, 
+Na tattha santo nivasanti 3- avisesakare nāge. 4-
+
+[PTS Page 248] [\q 248/]     
+872. Nāyaṃ neru vibhajati binamukkaṭṭhamajjhime 5-
+Avisesakārā neru handa neraṃ jahāmaseti. 
+4. Nerujātakaṃ. 
+
+[PTS Page 251] [\q 251/]     
+873. Āsāvati nāma latā jātā cittalatāvane, 
+Tassā vassasahassena ekaṃ nibbattate phalaṃ. 
+Taṃ devā paṭirupāsanti tāva duraphalaṃ satiṃ. 6-
+
+874. Āsiṃseva tuvaṃ rāja āsaphalavati sukhā, 
+Āsiṃsetheva so pakkhī āsiṃsetheva 7- so dijo. 
+
+875. Tassa cāsā samijjhittha tāva duragatā sati '8-
+Āsiṃseva tuvaṃ rāja āsā phalavati sukhā. 
+
+1. Kākoḷa - machasaṃ 2. Yattha ca alāso ca - sīmu. 
+3. Vasanti - machasaṃ, syā 4. Visesa akare jane - machasaṃ
+5. Hinaukkaṭṭha - machasaṃ, syā 6. Duriphalesati - machasaṃ, syā
+7. Asisatheva syā adusiṃsatheva - machasaṃ 8. Tassecāsā machasaṃ tasasvāsā samijjhati -
+tāvaduragatesati - syā. 
+
+[PTS Page 253] [\q 253/]     
+[BJT Page 240] [\x 240/]     
+876. Sampesi 1- kho maṃ vācāya na ca sampesi kammunā, 
+Mālā sereyyakasseva vaṇṇavannā agandhikā. 
+
+877. Aphalaṃ madhuraṃ vācaṃ yo mittesu pakubbati, 
+Addaṃ avissaṃ bhogaṃ sandhi tenassa jirati. 
+
+878. Yaṃ hi kayirā taṃ hi vade yaṃ na kayirā na taṃ vade, 
+Akarontaṃ bhāsamānaṃ parijānanti paṇḍitā. 
+879. Balañca vata me khiṇaṃ patheyyañca na vijjati, 
+Saṅke pāṇuparodhāya handandāni vajāmahaṃ. 
+
+[PTS Page254] [\q 254/]     
+880. Etadeva hi me nāma yaṃ nāmasmiṃ rathesabha, 
+Āgamehi mahārāja pitaraṃ āmantayāma'nti. 
+5. Āsakkajātakaṃ. 
+
+[PTS Page 255] [\q 255/]     
+881. Na me rucci migālopa yassa te tādisā gati, 
+Atuccaṃ tāta patasi abhumiṃ tāta sevasi. 
+
+882. Catukkaṇṇaṃva kedāraṃ yadā te paṭhavi 2- siyā, 
+Tāto tāta nivattassu māssu etto paraja gami. 
+
+883. Santi aññepi sakuṇā pantayānā vihaṅgamā, 
+Akkhittā vātavegena naṭṭhā te sassatisamā. 
+
+[PTS Page 256] [\q 256/]     
+884. Akatvā aparaṇṇassa 3- pitu vuddhassa sāsanaṃ, 4-
+Kāḷe vāte 5- atikkamma verambānaṃ vasaṃ gato. 6-
+
+885. Tassa puttā ca dārā ca ye caññe anujivino, 
+Sabbe vyasanamāpāduṃ anovādakare dije. 
+
+886. Evampi idha vuddhānaṃ 7- yo vākyaṃ nāvakhujjhati, 
+Atisimaṃ caro ditto gijjhovātitasāsano. 
+Sabbe saṅkhya napapponti akatvā buddhasāsananti. 
+6. Migālopajātakaṃ. 
+
+1. Saṃsesi - machasaṃ 5. Kālavāte - machasaṃ
+2. Pathavi - machasaṃ 6. Agā - simu. Machasaṃ syā
+3. Apakandassa -machasaṃ 7. Vaḍānaṃ - simu 4. Pituvadadhasa bhāsanaṃ - machasaṃ
+
+[PTS Page 259] [\q 259/]     
+[BJT Page 242] [\x 242/]     
+887. Kā nu koḷena vaṇṇe na na cāsi piyadassanā, 
+Kā vā tvaṃ kassa vā ṭhitā kathaṃ janemu taṃ mayaṃ. 
+
+888. Mahārājassabhaṃ ṭhitā virūpakkhassa caṇḍiyā, 
+Ahaṃ kāḷi alakkhikā kāḷakaṇiti maṃ vidu
+Okāsaṃ yācito dehi vasemu tava santike
+889. Kiṃ sile kiṃ samācāre purise nivisase 1- tuvaṃ, 
+Puṭṭhā me kāḷi akkhāhi yathā jānemu taṃ mayaṃ. 
+
+890. Makkhi paḷāsi sārambhi issuki macchari saṭho, 
+So mayhaṃ puriso kantoladdhaṃ yassa 2- vinassati. 
+
+[PTS Page 260] [\q 260/]     
+891. Kodhano upanāhi ca pisuno ca vibhedako. 
+Kaṇṭakavāco +pharuso so me kantataro tato. 
+
+892. Ajjusuveti puriso sadatthaṃ nāvakhuṃjhati, 
+Ovajjamāno kuppati seyyaso atimaññati. 
+
+893. Davappaluddho 3- puriso sabbamitetahi dhaṃsati, 
+So mayhaṃ puriso kanto tasmiṃ homi anāmayā. 
+
+[PTS Page 261] [\q 261/]     
+894. Apehi ento tvaṃ kāḷi netaṃ ambhesu vijjati, 
+Aññaṃ janapadaṃ gaccha nigame rājadhāniyo. 
+
+895. Ahampi kho taṃ jānāmi netaṃ tumbhesu vijjati, 
+Santi loke alalakkhikā saṅgharanti bahuṃ dhanaṃ
+Ahaṃ devo ca me hātā ubho naṃ vidhamāmase. 
+
+896. Kānu dibbena vaṇṇena pathabyā suppatiṭṭhitā, 
+Kā vā tvaṃ kassa vā ṭhitā kathaṃ jānemu taṃ mayaṃ. 
+
+1. Nicise - machasaṃ, syā 2. Yasaṃ - machasaṃ 3. Devappapuriso luḍo - machasaṃ
++ Naṇṭhakavaco nārada
+
+[PTS Page 262] [\q 262/]     
+[BJT Page 244] [\x 244/]     
+897. Mahārājassahaṃ ṭhitā dhataraṭṭhassa sirimato, ahaṃ siri ca lakkhi ca bhuripaññāti maṃ
+vidu. 
+Okāsaṃ yācito dehi vasemu tava santike. 
+
+898. Kiṃ sile kiṃ samācāre purise nivisase tuvaṃ, 
+Puṭṭhā me lakkhi akkhāhi yathā jānemu taṃ mayaṃ. 
+
+899. Yo cāpi site athavāpi uṇhe
+Vātātape ḍaṃsasiriṃsape ca, 
+Khudaṃ pipāsaṃ abhibhuyya sabbaṃ
+Rattindivaṃ yo satataṃ niyutto. 
+Kālagatañca na hāpeti atthaṃ
+So me manāpo nivaseva 1- nambhi. 
+
+900. Akkodhano 2- mittavā cāgavā ca
+Silupapatto asaṭhojubhuto, 
+Saṅgāhako sakhilo saṇhavāco
+Mahattapattopi nivātavutti. 
+
+901. Tasmāhaṃ pose vipulā bhavāmi
+Ummi 3- samuddassa yathāpi vaṇṇaṃ, 
+Yo cāpi mitte athavā amitte
+Seṭṭhe sarikkhe athavāpi hīne. 
+
+[PTS Page 262] [\q 262/]     
+902. Atthaṃ carantaṃ athavā anatthaṃ
+Āvi raho saṅgahaṭameva vatte, 
+Vācaṃ na vajjā pharusaṃ kadāci
+Matassa jivasasa vatassa homi. 
+903. Etesa yo aññataraṃ labhitvā
+Kantā siri majjati appapañño, +
+Taṃ dinnarūpaṃ visamaṃ carantaṃ
+Karisajātaṃ va 4- vivajjayāmi. 
+
+904. Attānā kurute lakkhiṃ alakkhiṃ kurutattānā, 
+Na hi lakkhiṃ alakkhiṃ vā añño aññassa kārako'ti. 
+7. Sirikālakaṇaṇijātakaṃ. 
+
+1. Nivase. 2. Akodhane, syā akkodhano - simu, machasaṃ
+3. Umami - syā 4. Karisaṭṭhānaṃ va - machasaṃ
++ Kattāsiri, nattasi, kantaṃ siranti tayopi paṭhā aṭṭhakathā. 
+
+[PTS Page 265] [\q 265/]     
+[BJT Page 246] [\x 246/]     
+905. Sucittapattacchadana tambacuḷa vihaṅgama, 
+Oroha dumasākhāya 1- mudhā bhariyā bhavāmi te. 
+
+906. Catuppadi tvaṃ kalyāṇi dvipadāhaṃ 2- manorame, 
+Migi pakkhī asaṃyuttā aññaṃ pariyesa sāmikaṃ. 
+
+[PTS Page 266] [\q 266/]     
+907. Komārikā te hessāmi mañjukā piyabhāṇini, 
+Vinda maṃ ariyena vedena sāvayā maṃ yadicchasi. 
+
+908. Sakuṇādini 3- lohitape cori kukkuṭapothini, 
+Na tvaṃ ariyena vedena mamaṃ bhattāra micchasi. 
+
+909. Evampi caturā nāri disvāna 4- pavaraṃ naraṃ, 
+Nenti sanhāhi vācāhi biḷāri viya kukkuṭaṃ. 
+
+910. Yo ve 5- uppatitaṃ atthaṃ nakhippamanukhujjhati, amittavasamānevati pacchā ca
+manutappati. 
+
+[PTS Page 267] [\q 267/]     
+911. Yo ca uppatitaṃ atthaṃ khippameva nibodhati, muccate santusambādhā kukkuṭova
+biḷariyā'ti. 
+8. Kukkuṭajākataṃ. 
+
+[PTS Page 268] [\q 268/]     
+912. Dhammaṃ caratha ñātayo dhammaṃ caratha bhaddaṃ vo, 
+Dhammacāri sukhaṃ seti asmiṃ loke parambhi ca. 
+
+913. Bhaddako vatayaṃ pakkhī dijo paramadhammiko, 
+Ekapādena tiṭṭhanto dhammamevānāsāsati. 
+
+[PTS Page 269] [\q 269/]     
+914. Nāssa sīlaṃ vijānātha anaññāya pasaṃsatha, 
+Bhutvā aṇḍañca chape ca dhammo dhammoti bhāsati. 
+
+915. Aññaṃ bhaṇati vācāya aññaṃ kāyena kubbati, 
+Vācāya no ca kāyena taṃ dhammaṃ adhiṭṭhito. 
+
+1. Dumaṃ - machasaṃ 2. Vipādāhaṃ - machasaṃ 3. Kuṇapādini, - aṭṭhakathā
+4. Disvāna sadhanaṃ - machasaṃ 5. Yoca - syā. 
+
+[BJT Page 248] [\x 248/]     
+916. Vācāya sakhilo manoviduggo
+Channo kupasayova kaṇhasappo, 
+Dhammadhajo gāmanigamāsu sādhu sammato
+Dujjāno purisena khālisena. 
+
+917. Imaṃ tuṇḍehi pakkhehi pādā cimaṃ viheṭhatha, 
+Chavaṃ himaṃ vināsetha nāyaṃ saṃvāsanāraho'ti. 
+9. Dhammadhajajātakaṃ. 
+
+[PTS Page 272] [\q 272/]     
+918. Sace brāhmaṇa gacchasi sāketaṃ añjanāvanaṃ, 
+Vajjāsi nandiyaṃ nāma puttaṃ asmākaorasaṃ. 
+Mātā pitā ca te vuddhā te taṃ icchanti passituṃ. 
+
+919. Bhuttā mayā nivāpāni rājino pāṇabhojanaṃ, 
+Taṃ rājapiṇḍaṃ avabhottuṃ nāhaṃ buhmaṇamussahe. 
+
+920. Odabhissāmahaṃ passaṃ khurappāṇissa rājino, 
+Tadāhaṃ sukhito mutto api passeyya mātaraṃ. 
+
+[PTS Page 274] [\q 274/]     
+921. Migarājā pure āsiṃ kosalassa niketave, 
+Nandiyo nāma nāmena abhirūpo catuppado. 
+
+922. Taṃ maṃ vadhitumāgañji dāyasmiṃ añajanāmane, 
+Dhanuṃ adejjhaṃ natvāna usuṃ sandhāya kosalo. 
+
+923. Tassāhaṃ odahiṃ passaṃ khurappāṇissa rājino, 
+Tadāhaṃ sukhito mutto mātaraṃ daṭṭhumāgato'ti. 
+10. Nandiyamiga 1- jātakaṃ. 
+
+Avāriyavaggo paṭhamo. 
+Tassuddānaṃ: 
+Darimukha sanerutā ca puna, 
+Āsānandasiri ca sucittavaro
+Athadhammikanandi migena dasa. 
+
+1. Migarāja - syā. 
+
+[PTS Page 278] [\q 278/]     
+[BJT Page 250. [\x 250/]     ] 
+924. Saccaṃ kireva māhaṃsu bhastaṃ 1- bāloti paṇḍitā, 
+Passa bālo rahokammaṃ āvikubbaṃ na khujjhati, 
+
+925. Tvaṃ nukho samma bālosi kharaputta vijānahi, 
+Rajjuyā hi parikkhitto vaṅkoṭṭho ohito mukho. 
+
+926. Aparampi 2- samma te bālyaṃ 3- yo mutato na palāyasi, 
+So ca bālataro samma yaṃ tvaṃ vahasi senakaṃ. 
+
+[PTS Page 279] [\q 279/]     
+927. Yannu sammā ahaṃ bālo ajarāja vijānahi, 
+Atha kena senako bāla taṃ me akkhāhi pucchito
+
+928. Uttamatthaṃ labhitvāna bhariyāya yo padassati, 4-
+Tena jahissatantānaṃ 5- sā cevassa 6- na hesasti. 
+
+[PTS Page 280] [\q 280/]     
+929. Na ve piyaṃ meti janinda tādiso
+Attaṃ niraṃ katvā piyāni sevati, 
+Antāva seyyo paramāva seyyā
+Labbhā piyā ocitatthena pacchāti. 
+1. Kharaputtajātakaṃ. 
+
+[PTS Page 282] [\q 282/]     
+930. Akakkasaṃ apharusaṃ kharadhonaṃ supāsiyaṃ, 
+Sukhumaṃ tīṇiṇaggañca ko suciṃ ketumicchati. 
+
+931. Sumajjañca supāsañca anupubbaṃ suvattitaṃ, 7-
+Ghanaghātimaṃ paṭitthaddhaṃ 8- ko suciṃ ketumicchati. 
+
+[PTS Page 283] [\q 283/]     
+932. Itodini patāyanti suciyo khaḷisāni ca, 
+Koyaṃ kammāragāmasmiṃ suciṃ vikketumicchati. 
+
+933. Ito satthāni gacchanti kammantā vividhā puthu, 
+Koyaṃ kammāragāmasmiṃ suciṃ vikketumarahati. 
+
+1. Kalakaṃ - syā, garaṃ - machasaṃ 2. Ayampi - machasaṃ
+3. Bālo - machasaṃ 4. Bhariyā na bhavisasti - machasaṃ
+5. Cachissatattānaṃ - machasaṃ 6. Sācetassa jahissati - machasaṃ
+7. Suvaṭṭitaṃ - machasaṃ 8. Paṭitadaḍaṃ - machasaṃ
+
+[PTS Page 284  [\q 284/]     BJT Page 252] [\x 252/]     
+934. Suciṃ kammāragāmasmiṃ vikketabbā pajānatā
+Ācariyāva jānanti 1- kammaṃ sukatadukkataṃ. 
+
+935. Imañca te pitā bhadde suciṃ jañña mayā kataṃ, 
+Tayā ca maṃ nimanteyya yañcatthaññaṃ ghare dhananti. 
+2. Sucijātakaṃ. 
+
+[PTS Page 288] [\q 288/]     
+936. Navachandakedāni diyati 2-
+Puṇṇāyaṃ doṇi suvāmini ṭhitā, 
+Bahuke jane pāsapāṇike
+No ca kho me paṭibhāti bhuñjituṃ. 
+
+[PTS Page 289] [\q 289/]     
+
+937. Tasasi bhamasi geṇamicchasi
+Attāṇosi 3- tuhiṃ gamissasi, 
+Appossukko bhuñja tuṇḍila
+Maṃsatthāya hi posiyāmase. 
+938. Ogaha rahadaṃ akaddamaṃ
+Sabbaṃ sedamalaṃ pavāhaya, 
+Gaṇhihi navaṃ vilepanaṃ
+Yassa gandho 4- na kadāvi chijjati. 
+
+[PTS Page 290] [\q 290/]     
+939. Katamo rahado akaddamo kiṃsu sedamalanti vuccati, katamañca navaṃ vilepanaṃ
+Tassa gandho na kadāvi chijjati. 
+
+940. Dhammo rahado akaddamo pāpaṃ sedamalanti vuccati, sīlañca navaṃ vilepanaṃ
+Tassa gandho na kadāvi chijjati. 
+
+941. Nandanti sarīraghātino
+Na ca nandanti sariradhārino, 
+Puṇṇāya ca puṇṇamāsiyā
+Ramamānāva jahanti jīvitanti. 
+3. Tuṇḍilajātakaṃ. 
+
+1. Ācariyāvasajānanti - machasaṃ 2. Navachantake doni - syāṃnacavacchaddake - machasaṃ
+3. Atāṇesi - machasaṃ + sucinti vihataticipallāso katoti - aṭṭhakathā, 
+4. Kassagandho - machasaṃ
+
+[PTS Page 295] [\q 295/]     
+[BJT Page 254] [\x 254/]     
+924. Siṅgi migo āyata cakkhunetto
+Aṭṭhittaco vārisayo alomo, 
+Tenābhibhuto kapaṇaṃ 1- rudāmi
+Hare sakhā kisasa nu maṃ jahāsi. 
+
+[PTS Page 296] [\q 296/]     
+943. So passasanto mahatā phaṇena. 
+Bhujaṅgamo kakkaṭamajjhapatto, 2 pucchāmi taṃ āyatacakkhunetta
+Bhujaṅgamaṃ kakkaṭako gahesi. 
+944. Na vāyasaṃ no pana sapparājaṃ 3 ghāsatthiko kakkaṭako adeyya, 
+Pucchāmi taṃ āyatacakkhunetta
+Atha kissa hetumbha 4- ubho gahitā. 
+
+945. Ayaṃ puriso mama atthākāmo
+Yo 5- maṃ gahetvāna dakāya neti, 
+Tasmiṃ mate dukkhamanappakaṃ me
+Ahañca eso ca ubho na homa. 
+
+946. Mamañca disvāna pavaḍḍhakāyaṃ
+Sabbo jano hiṃsitumeva micche
+Sāduñca thullañca muduñca maṃsaṃ
+Kākāpi maṃ disvā vibheṭhayeyyuṃ. 
+
+[PTS page 297]
+947. Sace tassa hetumbha 4- ubho gahitā
+Uṭṭhātu poso visamācamāmi, 
+Mamañca kākañca pamuñca khippaṃ
+Pure visaṃ gāḷahamupeti maccaṃ. 
+
+[PTS Page 298] [\q 298/]     
+948. Sappaṃ pamokkhāmi na tāva kākaṃ
+Paṭibaddhako hohiti tāva kāko, 
+Purisañca disvāna sukhiṃ arogaṃ
+Kākaṃ pamokkhāmi yatheva sappaṃ. 
+
+949. Kāko tadā devadatto ahosi
+Māro pana kaṇhasappo ahosi, 
+Ānandabhaddo kakkaṭako ahosi
+Ahaṃ tadā brāhmaṇo homi satthāti. 
+4. Suvaṇṇakakkaṭaka jātakaṃ. 
+
+1. Kapaṇo - machasaṃ 2. Kakkaṭakajjha patto - machasaṃ kakkaṭakamajjhapatto - syā
+3. Kaṇhasappaṃ - machasaṃ 4. Hetu - machasaṃ 5. So - machasaṃ
++ Sakaṃsakhārantipi pāṭho attatenā sabhāyanti attho - aṭṭhakathā
+
+[PTS Page 301] [\q 301/]     
+[BJT Page 256] [\x 256/]     
+950. Pakuṇo mayhako nāma girisānādarivaro
+Pakkaṃ pipaphalimāruyha mayhaṃ mayhanti 1- kandati. 
+
+[PTS Page 302] [\q 302/]     
+951. Tassevaṃ 2- vilapanantassa dijasaṅghā samāgatā
+Bhutvāna sipaphaliṃ yanti vilapitveva so dijo. 
+
+952. Evameva idhekacco saṅgharitvā bahuṃ dhanaṃ, 
+Nevattano na ñātinaṃ yathodhiṃ paṭipajjati. 
+
+953. Na so acchādanaṃ bhattaṃ na mālaṃ na vilepanaṃ, 
+Anubhoti sakiṃ kiñci na saṅgaṇhāti ñātake. 
+
+954. Tassevaṃ vilapantasasa mayhaṃ mayhanti 1- rakkhato, 
+Rājāno athavā corā dāyādāyeva apapiyā
+Dhanamādāya gacchanti vilapitveva so naro. 
+
+955. Dhīro ca bhoge adhigamma saṅgaṇhāti ca ñātake, 
+Tena so nittiṃ pappoti pecca sagega ca modatiti. 
+5. Mayhakajātakaṃ. 
+
+[PTS Page 305] [\q 305/]     
+956. Dubbaṇṇarūpaṃ tuvamariyavaṇṇi
+Purakkhatvā 3- pañjaliko namassasi, 
+Seyyo nu te so udavā 4- sarikkho
+Nāmaṃ parassantato cāpi brūhi. 
+
+957. Na nāmagontaṃ gaṇhanti rāja
+Sammaggatānujjugatānadevā, 
+Ahañca te nāmadheyyaṃ vadāmi
+Sakkohasmi tidasānamindo. 
+
+958. Yo disvā bhikkhuṃ caraṇupapantaṃ
+Purakkhatvā 3- pañjaliko namassati, 
+Pucchāmi taṃ devarājetamatthaṃ
+Ito cuto kiṃ labhate sukhaṃ so. 
+
+[PTS Page 306  [\q 306/]     959.] Yo disvā bhikkhuṃ caraṇupapantaṃ
+Purakkhatvā pañjaliko namassati, 
+Diṭṭheva dhamme labhate pasaṃsaṃ saggañca so yāti sarirabhedā. 
+1. Mayha mayhānti - aṭṭhakathā 2. Tasseva - machasaṃ 3. Purakkhitvā- machasaṃ, syā
+4. Udāhu - machasaṃ, syā
+
+[BJT Page 258] [\x 258/]     
+960. Lakkhi vata me udapādi ajja
+Yaṃ vāsavaṃ bhūtapataddasāma, 
+Bhikkhuñca disvāna tavajja sakka
+Kāhāmi puññāni anappakāni. 
+
+961. Addhā have sevitabbā sapaññā
+Bahussutā ye bahuṭhānacittino, 
+Bhikkhuñca disvāna mamañca rāja
+Kirohi puññāni anappakāni. 
+
+[PTS Page 307] [\q 307/]     
+962. Akkodhano niccapasannacitto
+Sabbātithiyācayogo havitvā, 
+Nihaccamānaṃ abhivādayissaṃ
+Sutvāna devinda subhāsitānī'ti. 
+6. Dhajaviheṭhajātakaṃ. 
+
+[PTS Page 308] [\q 308/]     
+963. Yametaṃ vārijaṃ pupphaṃ adinnaṃ upasiṅghasi, 
+Ekaṅgametaṃ theyyānaṃ gandhatthenosi 1- mārisa. 
+
+964. Na harāmi na bhañjāmi ārā saṅghāmi vārijaṃ, 
+Atha kena nu vaṇṇena gandhatthenoti vuccati. 
+
+[PTS Page 309] [\q 309/]     
+965. Yoyaṃ bhisāni khaṇati puṇḍarikāni bhañajati, evaṃ ākiṇṇakammanto kasmā eso na
+vuccati. 
+
+966. Ākiṇṇaluddo puriso dhātiveḷaṃva makkhito, 
+Tasmiṃ me vacanaṃ natthi tañca arahāmi vattave. 
+967. Anaṅgaṇassa posassa niccaṃ sucigavesino, 
+Vāḷaggamantaṃ pāpassa abbhāmattaṃva khāyati. 
+
+968. Addhā maṃ yakkha jānāsi atho maṃ anukampasi, 
+Punapi yakkhi vajjāsi yadā pasassi edisaṃ. 
+
+969. Neva taṃ upajivāma napi te bhatakambhase, 
+Tvameva bhikkhu jāneyya yena gaccheyya suggati'nti. 
+7. Bhisapupphajātakaṃ
+
+1. Gandhathenosi - machasaṃ, syā
+
+[PTS Page 311] [\q 311/]     
+[BJT Page 260] [\x 260/]     
+970. Susukhaṃ vata jivanti ye janā vighāsādino, 
+Diṭṭheva dhamme pāsaṃsā samparāye ca suggati. 
+
+971. Sukassa bhāsamānassa na nisāmetha paṇḍitā, 
+Idaṃ suṇātha sodariyā ambhe vāyaṃ pasaṃsati. 
+
+972. Nāhaṃ tumbhe pasaṃsāmi kuṇapādā suṇātha me, 
+Ucchiṭṭhabhojino tumbhe na tumbhe vighāsādino. 
+
+973. Sattavaso pabbajitā mejjhāraññe sikhaṇḍano, 
+Vighāseneva yāpento mayañce bhoto gārayhā, 
+Kenu bhoto pasaṃsiyā. 
+
+974. Tumbhe sihānaṃ vyagghānaṃ vāḷānañcāvasiṭṭhakaṃ, 
+Ucchiṭṭheneva yāpentā maññivhā vighāsādino. 
+
+[PTS Page 312] [\q 312/]     
+975. Ye brahmaṇassa samaṇassa aññassa ca vaṇibbino, 
+Datvāna sesaṃ bhuñjanti te janā vighāsādino'ti. 
+8. Vighāsajātakaṃ. 
+
+[PTS Page 313] [\q 313/]     
+
+976. Paṇitaṃ bhuñjase bhattaṃ sappitelañca mātula, 
+Atha kena nu vaṇṇena kiso tvamasi vāyasa. 
+
+977. Amittamajjhe vasato tesu āmisamesato, 
+Niccaṃ ubbiggahadayasasa kuto kākassa daḷhiyaṃ. 
+
+978. Niccaṃ ubbedhino kākā dhaṅkhā pāpena kammunā, 
+Laddho piṇḍo na piṇeti kiso tenasmi vaṭṭaka. 
+
+979. Lūkhāni tiṇbījāni appasenhāni bhuñjasi, 
+Atha kena nu vaṇṇena thulo tvamasi vaṭṭaka. 
+
+980. Appicchā appacintāya aviduragamanena ca, 
+Laddhā laddhena yāpento thulo tenasmi vāyasa. 
+
+981. Appicchassa hi posassa appacintisukhassa ca, 
+Susaṅgahitamānassa vutti susamudāniyā'ti. 
+9. Vaṭṭakajātakaṃ. 
+
+[PTS Page 314  [\q 314/]     262]
+982. Cirassaṃ vata passāma sahāyaṃ maṇidhārinaṃ, 
+Sukatāya massukuttiyā sohate vata me sakhā. 
+
+[PTS Page 315] [\q 315/]     
+983. Parūḷhakacchanakhalomo ahaṃ kammesu vyāvaṭo, 
+Cirassaṃ nahāpitaṃ laddhā lomantaṃ apahārayiṃ. 
+
+984. Yaṃ nu lomaṃ ahāresi dullabhaṃ laddhakappakaṃ, 
+Atha kiñcarahi te samma kaṇṭhe kiṇakiṇāyati. 
+985. Manussasukhumāpānaṃ maṇi 1- kaṇeṭhasu lambati, 
+Tesāhamanusikkhāmi mā tvaṃ maññi davā kataṃ. 
+
+986. Sacepi maṃ pihayasi massukuttiṃ sukāritaṃ, 
+Kārayismāmi te samma maṇiñcāpi dadāmi te. 
+987. Tvaññeva maṇinā chatto sukatāya ca massuyā, 
+Āmanta kho taṃ gacchāmi piyaṃ me tava dasasnanti. 
+10. Kākajātakaṃ
+Senakavaggo dutiyo
+Tassuddānaṃ: 
+Atha passa sasuvi ca tuṇḍilako
+Migamayhaka pañcama sakkavaro, 
+Atha pañjalivārija mejjha puna
+Atha vaṭṭaka kapotavarena dasa. 
+Chakkanipātaṃ niṭṭhitaṃ. 
+Tata vagguddānaṃ bhavati: 
+Atha vaggaṃ pakittisasaṃ chanipātavaruttame, 
+Avāriyo senako dveva vuttā subyañjanāti. 
+
+1. Maṇi - machasaṃ
+
+[PTS Page 318] [\q 318/]     
+[BJT Page 264] [\x 264/]     
+988. Diyaḍḍhakukku udayena kaṇṇikā
+Vidatthiyo aṭṭha parikkhipanti naṃ, 
+Sasiṃsapā sāramaya 1- apheggukā
+Kuhiṃ ṭhitā uparito na dhaṃsati. 
+
+989. Yā tiṃsati sāramayā anujajukā
+Parikiriya 2- gopāṇasiyo samaṭṭhitā, 
+Tā saṅgahitā 3- balasā ca piḷitā
+Samaṭṭhitā uparito na dhaṃsati. 
+
+990. Evaṃ mittehi daḷhehi paṇḍito
+Abhejjarūpehi sucihi mantihi, 
+Susaṅgahito siriyā na dhaṃsati
+Gopāṇasi bhāravahāva kaṇṇikā. 
+
+[PTS Page 319] [\q 319/]     
+991. Kharattavaṃ mellaṃ + yathāpi satthāvā
+Anāmasantopi karoti tittakaṃ, 
+Samāharaṃ sāduṃ kāroti patthivā
+Asādu 4- kayirā tanuvaṭṭa muddharaṃ. 5-
+
+992. Evampi gāmanigamesu paṇḍito
+Asāhasaṃ rājadhanāni saṃharaṃ, dhammānuvatti paṭipajjamāno
+Saphāni kayirā aviheṭhayaṃ paraṃ. 
+
+[PTS Page 320] [\q 320/]     
+993. Odātamulaṃ sucivārisambhavaṃ
+Jātaṃ yathā pokkharaṇisu ambujaṃ, 
+Padumaṃ yathā agginikāsaphālimaṃ
+Na kaddamo na rajo na vāri limpati. 
+994. Evampi vohārasuciṃ asāhasaṃ
+Visuddhakammantamapetapāpakaṃ, 
+Na limpati kammakilesatādiso
+Jātaṃ yathā pokkharaṇisu ambuja'nti
+1. Kukkujātakaṃ. 
+
+1. Sāsiṃpā sāramayā - machasaṃ 2. Pakiriyā - machasaṃ
+3. Kāhi susaṃgahitā - machasaṃ 4. Asāduṃ - machasaṃ asādhu - syā
+5. Tanukhandhamudadharaṃ tanuvadadhamuddharaṃ - machasaṃ, syā
++ Khellanti vā pāṭhe ayame cattho - aṭṭhakathā
+
+[PTS Page 323] [\q 323/]     
+[BJT Page 266] [\x 266/]     
+995. Yathā cāpo ninnamati jiyā cāpi nikujati, 
+Haññate nūna manojo migarājā sakhā mama. 
+
+996. Handadāni vanaṃ tāṇaṃ 1- pakkāmi yathāsukhaṃ, 
+Netādisā sakhā honati lababhā me jivato sakhā. 
+
+997. Na pāpajanasaṃsevi avavantaṃ sukhamedhati, 
+Manojaṃ passa semānaṃ giriyassānusāsani. 
+
+998. Na pāpasampavaṅkena mātā puttena nandati, manojaṃ 2passa semānaṃ acchantaṃ
+samahi lohite. 
+
+999. Evamāpajjati 3- poso pāpiyañca nigacchati, 
+Yo ve hitānaṃ vacanaṃ na kāroti atthadassinaṃ. 
+
+1000. Evañca so hoti tato ca pāpiyo
+Yo uttamo adhamanujapasevi
+Pasasuttamaṃ adhamajanupasevitaṃ 4-
+Migādhipaṃ saravaravedhanibbutaṃ, 
+
+[PTS Page 324] [\q 324/]     
+1001. Nihiyati puriso nihinasevi na ca hāyetha kadāci tulyasevi, 
+Seṭṭhamupanamaṃ 5- udeti khippaṃ
+Tasmā antano uttariṃ bhajethāti. 
+2. Manojajātakaṃ. 
+
+[PTS Page 327] [\q 327/]     
+1002. Rājā te bhattaṃ pāhesi sucimaṃsupasecanaṃ, 
+Makhādevasmiṃ 6- adhivatthe 7- ehi nikkhama bhuñjassu. 
+
+[PTS Page 328] [\q 328/]     
+1003. Ehi māṇava orena 8- bhikkhamādāya supitaṃ, 9-
+Tvañca māṇava bhikkhā 10- ca ubho bhakkhā bhavissatha. 
+
+1004. Appakena tuvaṃ yakkha thullamatthaṃ jahissasi, 
+Bhikkhaṃ te nāharissanti janā maraṇasaññino. 
+
+1. Handadāni vanantāni - rāmu 2. Manoja - machasaṃ
+3. Evamāpajjate - machasaṃ 4. Adhammanupasevitaṃ - machasaṃ
+5. Seṭṭhamupagamañca - machasaṃ 6. Māghadevasmiṃ - machasaṃ maghadevasmiṃ - syā
+7. Adhivatte - machasaṃ 8. Oreya - syā
+9. Supinaṃ - machasaṃ 10. Bhikkhaṃca - machasaṃ
+
+[BJT Page 268] [\x 268/]     
+
+1005. Laddhāya yakkha 1- tava niccabhikkhaṃ
+Suciṃ paṇitaṃ rasasā upetaṃ, 
+Bhikkhañca te āhariyo naro idha
+Sudullabho hohiti 2- khādite mayi. 
+
+[PTS Page 329] [\q 329/]     
+1006. Mamesaṃ 3- sutano attho yathā bhāsasi māṇava, 
+Mayā tvaṃ samanuññāto satthiṃ passasi mātaraṃ. 
+
+1007. Baggaṃ chattañca pātiñca 4- gacchevādāya 5- māṇava, sotthiṃ passatu te mātā tvañca
+passāhi mātaraṃ. 
+
+1008. Evaṃ yakkhi sukhī hohi saha sabbehi ñātihi, 
+Dhanañca me adhigataṃ rañño ca vacanaṃ natanti. 
+3. Sutanujātakaṃ. 
+
+[PTS Page 330] [\q 330/]     
+1009. Te kathannu karissanti vuddhā giridarisayā, 
+Ahaṃ baddhosami 6- pāsena niliyassa vasaṃ gato. 
+
+[PTS Page 331] [\q 331/]     
+1010. Kiṃ gijjha paridevasi 7- kānu te paridevanā, 
+Na me suto vā diṭṭho8- vā bhāsanto mānusiṃ dijo. 
+
+1011. Bharāmi mātāpitaro muddhe 9- giridarisaye, 
+Te kathannu karissanti ahaṃ vasaṃ gato tava. 
+
+1012. Yannu gijjho yojanasataṃ kuṇapāni avekkhati, 
+Kasmā jālañca pāsañca āsajjāpi na khujjhasi. 
+
+1013. Yadā parābhavo hoti poso jīvitasaṅkhaye, 
+Atha jālañca pāsañca āsajjāpi na khujjhati. 
+
+1014. Bharassu mātāpitaro vuddhe giridarisaye, 
+Mayā tvaṃ samanuññāto sotthiṃ passāhi ñātake. 
+
+1015. Evaṃ luddakaṃ nandassu sahasabbehi ñātihi, 
+Bharissaṃ mātāpitaro vuddhe giridarisayeti. 
+4. Gijjhajātakaṃ. 
+
+1. Laddhācayakkhā - si 6. Bandhosmi - machasaṃ
+2. Hohiti - machasaṃ, syā 7. Paridevesi - machasaṃ, syā
+3. Mameva - machasaṃ, syā 8. Diṭṭhaṃ vā sutaṃ - machasaṃ
+4. Pāṭiñca - syā 5. Gacchamādāya - machasaṃ 9. Vaddhe. 
+
+[PTS Page 333] [\q 333/]     
+[BJT Page 270] [\x 270/]     
+1016. Anutiracāri bhaddante sahāyamanudhāva maṃ, 
+Mahā me gahito 1- maccho so maṃ harati vegasā. 
+
+[PTS Page 334] [\q 334/]     
+1017. Gambhiracāri bhaddante daḷhaṃ gaṇhāhi thāmasā, 
+Ahaṃ taṃ uddharissāmi supaṇṇo uragammiva. 
+
+1018. Vivādo no samuppatto dabbhapuppha suṇohi me, 
+Samehi medhagaṃ 2- samma vivādo vupasammataṃ. 3-
+
+1019. Dhammaṭṭhohaṃ pure āsiṃ bahu aṭṭaṃ 4- me tiritaṃ, 
+Samemi medhagaṃ sammā 5- vivādo upasammatu. 
+
+1020. Anutiracāri naṅguṭṭhaṃ sisaṃ gambhiracārino, 
+Athāyaṃ 6- majjhimo khaṇḍo dhammaṭṭhassa bhavissati. 
+
+[PTS Page 335] [\q 335/]     
+1021. Cirampi bhakkho abhavissa sace na vivademase, 
+Asisakaṃ anaṅguṭṭhaṃ sigālo harati rohati. 
+
+1022. Yathāpi rājā nandeyya rajjaṃ laddhāna khattiyo, 
+Evāhamajja nandāmi disvā puṇṇukhaṃ patiṃ. 
+
+1023. Nathannu thalajo santo udake macchaṃ parāmasi, 
+Puṭṭho me samma akkhāhi kathaṃ adhigataṃ tayā. 
+
+1024. Vivādena kisā honti vivādena dhanakkhayā, 
+Jinā uddā vivādena bhuñja māyāvi rohitaṃ. 
+
+[PTS Page 336] [\q 336/]     
+1025. Evamevaṃ manussasu vivādo yattha jāyati, 
+Dhammaṭṭhaṃ paṭidhāvanti so hi nesaṃ vināyako
+Dhanāpi tattha jiyanti rājakoso pavaḍḍhati'ti. 
+5. Dabbhapupphajātakaṃ. 
+
+1. Rohito - machasaṃ 2. Medhakaṃ - rāmu 3. Upasammatu - jāa. 
+4. Atthaṃ - rāmu 5. Samma - machasaṃ, syā 6. Accāyaṃ - machasaṃ
+
+[PTS Page 338] [\q 338/]     
+[BJT Page 272] [\x 272/]     
+1026. Dasaṇṇakaṃ tīṇiṇadhāraṃ asiṃ sampantapāyinaṃ, 
+Parisāyaṃ puriso galati kiṃ dukkarataṃ tato
+Yadaññaṃ dukkaraṃ ṭhānaṃ taṃ me akkhāhi pucchato. 
+
+[PTS Page 339] [\q 339/]     
+1027. Gileyya puriso lohā asiṃ sampannapāyinaṃ, 
+Yo ca vajjā dadāmiti taṃ dukkarataraṃ tato
+Sabbaññaṃ sukaraṃ ṭhānaṃ evaṃ jānāhi māgadha. 1-
+
+1028. Vyākāsi āyuro pañhaṃ atthadhammassa kovido, 
+Pakkusaṃ dāni pucchāmi kiṃ dukkarataraṃ tato;
+Yadaññaṃ dukkaraṃ ṭhānaṃ taṃ me akkhāhi pucchito. 
+
+1029. Na vācamupajivanti aphalaṃ giramudiritaṃ, 
+Yo ca datvā avākayirā taṃ dukkarataraṃ to;
+Sbabaññaṃ sukaraṃ ṭhānaṃ evaṃ jānāhi māgadha.
+
+[PTS Page 340] [\q 340/]     
+
+1030. Vyākāsi pukkuso pañhaṃ atthaṃ dhammassa kovido, 
+Senakandāni pucchāmi kiṃ dukkarataraṃ tato;
+Yadaññaṃ dukkaraṃ ṭhānaṃ taṃ me akkhāhi pucchito. 
+
+1031. Dadeyya puriso dānaṃ appaṃ vā yadi vā bahuṃ, 
+Yo ca datvā nānutape taṃ dukkarataraṃ tato;
+Sbabaññaṃ sukaraṃ ṭhānaṃ evaṃ jānāhi māgadha.
+
+[PTS Page 341] [\q 341/]     
+
+1032. Vyākāsi āyuro pañhaṃ atho pukkusaporiso, 
+Sabbe pañhe abhibhoti 2- yathā bhāsati senako'ti. 
+6. Dasaṇṇakajātakaṃ. +
+
+[PTS Page 344] [\q 344/]     
+1033. Vibbhantavitto tupitindriyosi
+Nettehi te vārigaṇā savanti, 
+Kiṃ te naṭṭhaṃ kiṃ pana vatthayāno
+Idhāgamā brahmaṇa iṅgha bruhi 3-
+
+1. Maddava - machasaṃ 2. Atibhoti - machasaṃ 3. Brahme tadiṅghabrūhi - rāmu
++ Paṇṇakajātakaṃ - machasaṃ
+
+[PTS Page 345] [\q 345/]     
+[BJT Page 274] [\x 274/]     
+1034. Miyetha bhariyā vajato mamajja
+Agacchato maraṇaṃ āha yakkho, 
+Etena dukkhena pavedhitosmi
+Akkhāhi me senaka etamatthaṃ. 
+
+[PTS Page 346] [\q 346/]     
+1035. Bahuni ṭhānāni vicintayitvā
+Yamettha vakkhāmi tadeva saccaṃ, 
+Maññāmi te brāhmaṇa sattuhasataṃ
+Ajānato kaṇhasappo paviṭṭho. 
+
+[PTS Page 347] [\q 347/]     
+1036. Ādāya daṇḍaṃ parisumbha śastaṃ
+Passeḷamugaṃ uragaṃ dvijimhaṃ, 
+Chindajja kaṅkhaṃ vicikicchitāni
+Bhujaṅgamaṃ passa pamuñca śastaṃ. 
+
+[PTS Page 348] [\q 348/]     
+1037. Saṃviggarūpo parisāya majjhe
+So brāhmaṇo sattubhastaṃ
+Atha nikkhami urago uggatejo
+Āsiviso sappo phaṇaṃ karitvā
+Suladdha lābhā janakassa rañño
+Yo passati senakaṃ sādhupaññaṃ. 
+
+[PTS Page 349] [\q 349/]     
+1038. Vivantacchaddo 1- nusi sabbadassi
+Ñāṇaṃ nu te brahmaṇa bhiṃsarūpaṃ
+Imāni me satta satāni atthi
+Gaṇhāhi sabbāni dadāmi tuyahaṃ, 
+Tayā hi me jīvitamajja laddhaṃ
+Athopi bhariyāyamakāsi sotthiṃ. 
+
+1039. Na paṇḍitā ventanamādiyanti
+Citrāhi gāthāhi subhāsitāhi, 
+Itopi te brahme dadantu vittaṃ
+Ādāya taṃ gaccha sakaṃ niketanti
+7. Sattubhastajātakaṃ. 
+
+[PTS Page 352] [\q 352/]     
+1040. Ye me ahaṃ na jānāmi aṭṭhasena vaṇibbake, 
+Te maṃ saṅgamma yācanti kasmā maṃ tvaṃ na yācasi. 
+
+[PTS Page 353] [\q 353/]     
+1041. Yācako appiyo hoti yācaṃ addamappiyo, 
+Tasmābhantaṃ na yācāmi mā me viddesanā 2- ahu. 
+
+1. Vivaṭṭachādā - machasaṃ vivaṭṭacchado - syā 2. Videssanaṃ - syā machasaṃ 
+[BJT Page 276] [\x 276/]     
+
+1042. Yo ce yāvanajivāno kāle yāvaṃ na yācati, 
+Parañca puññā dhaṃseti antanāpi na jīvati. 
+
+1043. Yo ce yāvanajivāno kāle yāvaṃ na yācati, 
+Parañca puññaṃ labbheti antanāpi na jīvati. 
+
+1044. Na ve dissanti sappaññā disvā yācakamāgate, 
+Brahmacāri piyo mesi varataṃ bhaññamicchasi. 
+
+[PTS Page 354] [\q 354/]     
+1045. Na ve yācanti sappaññā dhīro veditumarahati, 1 uddissa ariyā tiṭṭhanti esā
+ariyānayācanā 
+
+[PTS Page 355] [\q 355/]     
+1046. Dadāmi te brāhmaṇa rohiṇinaṃ
+Gamaṃ sahassaṃ saha puṅgavena, 
+Ariyo hi ariyassa kathaṃ na dajjā
+Sutvāna gāthā tava dhammayuttāni. 
+8. Aṭṭhisenajātakaṃ. 
+
+[PTS Page 357] [\q 357/]     
+1047. Yattha veri nivasati 2- na vase tattha paṇḍito, 
+Ekarannaṃ dirantaṃ vā dukkhaṃ vasati verisu. 
+
+1048. Diso ce 3- lahucittassa posassa anuvidhiyyato, 
+Ekassa kapino hetu yuthasa anayo kato. 
+
+1049. Bālo capaṇḍitamāni yuthassa parihārako. 
+Sacittassa vasaṃ gananvā sayethāyaṃ 4- yathā kapi. 
+
+1050. Na sādhu balavā bālo yuthassa parihārako, 
+Abhito bhavati ñātinaṃ sakuṇānaṃva cetako 5-
+
+1051. Dhīro ca balavā sudhu yuthassa parihārako, 
+Bito bhavati ñātinaṃ tidasānaṃ ca vāsavo, 
+
+1. Vidatumarahati - syā 2. Nivisati - machasaṃ 3. Ve - machasaṃ
+4. Passethāyaṃ - machasaṃ 5. Veṭako - machasaṃ 
+Piṭavu 278
+1052. Yo ca silañca paññañca sutañcattini passati, 
+Ubhinnamatthaṃ carati attano ca parassa ca. 
+
+1053. Tasmā tuleyyamattānaṃ silapaññāsutāmiva, 
+Gaṇaṃ vā parihare dhīro ekovāpi paribbajeti. 
+9. Kapijātakaṃ. 
+
+[PTS Page 359] [\q 359/]     
+1054. Dvāsantati gotama 1- puññakammā
+Vasavattino jātijaraṃ atitā, 
+Ayamantimā vedagu brahmapatti 2-
+Asmābhijappanti janā anekā. 
+
+[PTS Page 360] [\q 360/]     
+1055. Appaṃ hi etaṃ na hi dighamāyu
+Yaṃ tvaṃ baka maññasi dighamāyu, 
+Sataṃ sahassānaṃ nirabbudānaṃ, 
+Āyuṃ pajānāmi tavāhaṃ brahme. 
+
+1056. Anantadassa bhagavāhamasmiṃ
+Jātijaraṃ sokamupātivatto, 
+Kimme purāṇaṃ vatasilavattaṃ
+Ācikkha me taṃ yamahaṃ vijaññaṃ. 
+
+1057. Yaṃ tvaṃ apāyesi bahu manusse
+Pipāsite ghammani samparete, 
+Taṃ te purāṇaṃ vatasilavatataṃ
+Suttappabuddhova anussarāmi. 
+
+[PTS Page 361] [\q 361/]      
+1058. Yaṃ phaṇikulasmiṃ janaṃ gahitaṃ
+Amovayi gayhakaniyamānaṃ, 
+Taṃ te purāṇaṃ vatasilavattaṃ
+Suttappabuddhova anussarāmi. 
+
+1059. Gaṅgāya sotasmiṃ gahitanāvaṃ 
+Luddena nāgena manussakappā, 
+Taṃ te purāṇaṃ vatasilavattaṃ
+Suttappabuddhova anussarāmi. 
+1. Bhogotama - machasaṃ 2. Brāhmuppatti - machasaṃ
+
+[BJT Page 280] [\x 280/]     
+1060. Kappo ca te baddhacaro ahosiṃ
+Sambuddhimantaṃ vatinaṃ amaññaṃ, 1-
+Taṃ te purāṇaṃ vatasilavannaṃ, 
+Suttappabuddhova anussarāmi. 
+
+[PTS Page 363] [\q 363/]     
+1061. Addhā pajānāsi mametemāyuṃ
+Aññampi jānāsi tathāhi buddho, 
+Tathāhi tāyaṃ jalitānubhāvo
+Obhāsayaṃ tiṭṭhati brahmalokanti. 
+10. Bakabrahmajākataṃ
+Kukkuvaggo paṭhamo. 
+Tassuddānaṃ: 
+Varakaṇṇika cāpavaro sutano
+Athagijjha sarohita macchavaro, 
+Puna paṇṇakasenakayāvanako
+Athaveri sabrahma bakena dasa. 
+
+1. Sambuddhavantaṃ vatidaṃ amaññā - machasaṃ syā. 
+
+[PTS Page 367] [\q 367/]     
+Du [BJT Page 282] [\x 282/]     
+1062. Hitvā gāmasahassāni paripuṇṇāni soḷasa, 
+Koṭṭhāgārāni phitāni sannidhiṃdāni kubbasi. 
+
+1063. Hatvā gandhāravisayaṃ pahutadhanadhāniyaṃ, 
+Pasāyanitato 1- nikkhanto idhadāni pasāsasi. 
+
+1064. Dhammaṃ bhaṇāmi vedeha adhammo me na ruccati, 
+Dhammaṃ me bhaṇamānasasa na pāpamupalippati 2-
+
+[PTS Page 368] [\q 368/]     
+1065. Ye kenaci vaṇeṇana pāro labhati ruppanaṃ, 
+Mahatthiyampi ce vācaṃ na taṃ bhāseyya paṇḍito. 
+
+1066. Kāmaṃ ruppatu va mā vā bhusaṃ vā vikiriyatu, 
+Dhamma me bhaṇamānassa na pāpamupalippati. 
+
+1067. No ce assa sakā badudhi vinayo vā susikkhito, 
+Vane andhamahisova 3- careyya bahuko jano. 
+
+1068. Yasmā ca panidhekacce ācārambhi 4- susikkhitā, 
+Tasmā vinitavinayā caranti susamāhitā'ti. . 
+1. Gandhārajākataṃ. 
+
+[PTS Page 373] [\q 373/]     
+1069. Antānaṃ saṅkamaṃ katvā yo sotthiṃ samatārayi, 
+Kiṃ tvaṃ tesaṃ kimo 5- tuyhaṃ honti ete 6- mahākapi. 
+
+1070. Rājāhaṃ issaro tesaṃ yuthassa parihārako, 
+Tesaṃ sokaparetānaṃ hitānaṃ te arindama. 
+
+1071. Ullaṅghayitvā 7- antānaṃ vissaṭṭha- 8 -dhaṇuno sataṃ, 
+Tato aparapādesu daḷhaṃ baddhaṃ latāguṇaṃ. 
+
+1072. Chinnabbhamiva vātetana nunto rukkhaṃ upāgamiṃ, 
+Sohaṃ appabhavaṃ tassa sākhaṃ hatthehi aggahiṃ. 
+
+1. Pasāsanato - pasāsanāto - vi, machasaṃ 2. Pāpamupalimpati - machasaṃ, syā
+3. Vane andhamahiṃsova - machasaṃ, syā 4. Ārembhi - machasaṃ, syā
+5. Kime - machasaṃ 7. Salaṃghayitvā - sulaṅghayitvā machasaṃ
+8. Visaṭṭha - machasaṃ. 
+
+[BJT Page 284] [\x 284/]     
+1073. Taṃ maṃ viyāyataṃ santaṃ sākhāya ca latāya ca, 
+Samanukkamantā pādehi sotthiṃ sākhāmigā 1- gatā. 
+
+1074. Taṃ maṃ na tapate baddho vadho me na tapessati, sukhamāharitaṃ tesaṃ yesaṃ
+raṃjamakārayiṃ. 
+
+1075. Esā te upamā rāja atthasandassani katā, 
+Raññā raṭṭhassa yoggassa balassa nigamassa ca. 
+Sabbesaṃ 2- sukhametthabbaṃ khattiyena pajānatā'ti. 
+2. Mahākapijātakaṃ. 
+
+[PTS Page 380] [\q 380/]     
+1076. Ambāhamaddaṃ 3- vanamantarasmiṃ
+Nilobhāsaṃ elinaṃ saṃvirūḷhaṃ, 
+Samaddasaṃ phalahetu vihaggaṃ
+Taṃ disvā bhikkhācariyaṃ carāmi. 
+
+1077. Selaṃ sumaṭṭaṃ naravira 4- niṭṭhitaṃ
+Nāri yugandhārayi appasaddaṃ, 
+Dutiyañca āgamma ahosi paddo
+Taṃ disvā bhikkhācariyaṃ carāmi. 
+
+1078. Dijā 5- dijaṃ kuṇapamāharantaṃ
+Ekaṃ samānaṃ bahukā samecca, 
+Āhārahetu paripātayiṃsu
+Taṃ disvā bhikkhācariyaṃ carāmi. 
+
+1079. Usabhahamaddaṃ yuthassa majjhe
+Calakakkuṃ vaṇṇabaluppannaṃ, 
+Tamaddasaṃ kāmahetu vitunnaṃ
+Taṃ disvā bhikkhācariyaṃ carāmi. 
+
+[PTS Page 381] [\q 381/]     
+1080. Karaṇḍu 6- nāma kaliṅgānaṃ landhārānañca naggaji, 
+Nimirājā videhānaṃ pañcālānañca dummukho. 
+Ete raṭṭhāni hitvāna pabbajiṃsu akiñcanā. 
+
+1. Sābamigā - machasaṃ syā 2. Mato - machasaṃ sabbesaṃ sukha meṭṭhabbaṃ - machasaṃ
+syā 3. Ambābhavanamantarasmiṃ - machasaṃ 4. Naravidduniṭṭhitaṃ - machasaṃ 5. Dijādijā
+- machasaṃ dijādijānaṃ
+6. Karaṇḍakokaliṅgānaṃ - machasaṃ. 
+[BJT Page 286] [\x 286/]     
+1081. Sabbeva me devasamā samāgatā
+Aggi yathā pajjalito tathevime, 
+Ahampi ekova carissāmi bhaggavi
+Hitvāna kāmāni yathodhikāni. 
+
+[PTS Page 382] [\q 382/]     
+1082. Ayameva kālo nahi añño atthi
+Anusāsitā me na bhaveyya pacchā, 
+Ahampi ekova carissāmi bhaggava
+Sakuṇiva muttā purisassa hatthā. 
+
+[PTS Page 383] [\q 383/]     
+1083. Āmaṃ pakkañca jānananti atho loṇaṃ aloṇikaṃ, 
+Tamahaṃ disvā pabbajiṃ careva tvaṃ carāmahanti
+3. Kumbhakārajātakaṃ. 
+
+[PTS Page 386] [\q 386/]     
+1084. Ahañce daḷhadhammāya 1- vahanti nābhirādhayiṃ, 
+Nudanti urasi sallaṃ yuddhe vikkantacārini. 
+
+1085. Naha nūna rājā jānāti 2- mama vikkamaporisaṃ, 
+Saṅgāme sukataṃ tāni dutavippahitāni ca. 
+
+1086. Sānunāhaṃ marissāmi abandhu aparāyini, 3-
+Tadāhi kumbhakārassa dinnā chakaṇahārikā. 
+
+[PTS Page 388] [\q 388/]     
+1087. Yāvatāsiṃsati 4- poso tāvadeva paviṇati, 
+Atthāpāye jahanti naṃ oṭṭhavyādhiṃva khattiyo. 
+
+1088. Yo pubbe katakalyāṇo katattho nāvakhujjhati, 
+Atthā tassa palujjanti ye honti abhipatthitā. 
+
+1. Ahaññaca daḷhadhammassa - machasaṃ 2. Rājānajāyanti - machasaṃ, syā
+3. Aparādhiti - machasaṃ 4. Yāvatā sisati - machasaṃ
+
+[BJT Page 288] [\x 288/]     
+1089. Yo pubbe katakalyāṇo katattho manukhujjhati, 
+Atthā tassa paluvaḍḍhanti ye honti abhipatthitā. 
+
+1090. Taṃ vo vadāmi bhaddaṃ 1- vo yāvanetattha samāgatā, 
+Sabbe kataññuno hotha ciraṃ saggamhi ṭhassathāti. 2-
+4. Daḷhadhammajākataṃ
+
+[PTS Page 389] [\q 389/]     
+1091. Yo maṃ pure vaccudeti araññe daramāyati, 3-
+So na dissatimātaṅgosomadatto kuhiṃ gato. 
+
+1092. Ayaṃ vā so mato seti allapiṅkaṃva chijjito, 
+Bhumyā nipatito seti amarā vata+ kuñajaro. 
+
+[PTS Page 390] [\q 390/]     
+1093. Anagāriyupetassa vippamuttassa cetaso, 
+Samaṇassa na taṃ sādhu yaṃ petamanusocasi. 
+
+1094. Saṃvāsena bhave sakka manussassa migassa vā, 
+Hadaye jāyati pemaṃ taṃ na sakakā asovituṃ. 
+
+1095. Mataṃ marisasaṃ rodanti ye rudanti lapanti ca, 
+Tasmā tvaṃ isi mārodi roditaṃ moghagamāsu hanto. 
+
+1096. Kanditena have brahme mato peto samuṭṭhabhe, 
+Sabbe saṅgamma rodāmi aññamaññassa ñātake. 
+
+1097. Ādintaṃ vata maṃ mantaṃ ghatasittaṃva pāvakaṃ, 
+Vārinā viya osiñcaṃ sabbaṃ nibbāpaye daraṃ. 
+
+1098. Abbahi vata me mallaṃ sokaṃ bhadayanissitaṃ, 
+Yo me sokaparetassa puttasokaṃ apānudi. 
+
+[PTS Page 391] [\q 391/]     
+1099. Sohaṃ abbūḷhasallosmi vitasoko anāvilo, 
+Na socāmi na rodāmi tava sutvāna vāsavā'ti. 
+5. Somadattajātakaṃ. 
+
+1. Bhaddante - machasaṃ 2. Vasathāti - machasaṃ 3. Māyato - machasaṃ
++ Amarāvatātimato vata amaritipi pāṭho aṭṭhakathā. 
+
+[PTS Page 393] [\q 393/]     
+[BJT Page 290] [\x 290/]     
+1100. Kāḷāni kesāni pure abhesuṃ
+Jātāni sisambhi yathāpadese, 
+Tānajja setāni susima disvā
+Dhammaṃ cara brahmacariyassa kālo. 
+
+[PTS Page 394] [\q 394/]     
+
+1101. Mameva deva palitaṃ na tuyhaṃ
+Mameva sisaṃ mama uttamaṅgaṃ, 
+Atthaṃ karissanti musā abhāṇiṃ 1-
+Ekāparādhaṃ khama rājaseṭṭha. 
+
+1102. Daharo tuvaṃ dassaniyosi rāja
+Paṭhamuggato hohi yathā kaḷiro, 
+Rajjañca kārehi mamaṃ ca passa
+Mā kālikaṃ anudhāvi rajinda. 
+
+[PTS Page 395] [\q 395/]     
+1103. Passāmi vohaṃ dahari kumāriṃ
+Sāmaṭṭhapassaṃ sutanuṃ sumajjhaṃ, 
+Kāḷāpavāḷāva 2- pavellamānā
+Palobhayantiva naresu gacchati. 
+
+1104. Tamena passāmi parena nāriṃ
+Asitikaṃ nāvutikaṃva jaccā, 
+Daṇḍaṃ gahetvāna pavedhamānaṃ
+Gopāṇasībhoggasamaṃ carantiṃ. 
+
+[PTS Page 396] [\q 396/]     
+1105. Sohaṃ tamevānuvicintayanto
+Eko sayāmi sayanassa majjhe, 
+Ahampi evaṃ iti pekkhamāno
+Na gehe rame brahmacariyassa kālo. 
+
+1106. Rajjuvālambani cesā yā gehe vasato rati, 
+Etampi chetvāna vajatti dhīrā
+Anapekkhito kāmasukhaṃ pahāyā'ti. 
+6. Susimajātakaṃ. 
+
+1. Abhāsiṃ - machasaṃ 2. Kāḷappavāḷāca - machasaṃ kālappallacāva - syā
+
+[PTS Page 398] [\q 398/]     
+[BJT Page 292] [\x 292/]     
+1107. Ahaṃ dasasataṃ vyāmaṃ uragamādāya māgato, 
+Tañca mañca mahākāyaṃ dhārayaṃ nappavedhasi. 
+
+1108. Atha imaṃ khuddakaṃ pakkhiṃ appamaṃsataraṃ mayā, 
+Dhārayaṃ vyādhase hito kamatthaṃ koṭisimbali. 
+
+1109. Maṃsabhakkho tuvaṃ rāja balahakkho ayaṃ dijo, 
+Ayaṃ nigrodha khijāni pilakkhadumbarāni ca
+Assatthāni ca bhakkhetvā khandhe me odahissati. 
+
+1110. Te rukkhā saṃvirūhanti mama passe nivātajā, 
+Te pariyonanadhissanti arukkhaṃ maṃ karisasare. 
+
+[PTS Page 399] [\q 399/]     
+1111. Santi aññepi rukkhāse mulino khandhino dumā, 
+iminā sakuṇajātena bījamāharitvā hatā. 
+
+1112. Ajjhārūḷhābhivaḍḍhanti 1- buhmantampi vanaspatiṃ, 2-
+Tasmā rāja pavedhāmi sampassaṃ nāgataṃ bhayaṃ. 
+
+1113. Aṅkayye saṅkitabbāni rakkheyyānāgetaṃ bhayaṃ. 
+Anāgatabhayā dhīro ubho loke avekkhatiti. 
+7. Koṭisimbalijātakaṃ. 
+
+[PTS Page 401] [\q 401/]     
+1114. Rājā apucchi 3- vidhuraṃ dhammakāmo yudhiṭṭhilo, 
+Api brāhmaṇa jānāsi ko eko bahu socati. 
+
+1115. Buhmaṇo ajayuthena bahutedho 4- vane vasaṃ, 
+Dhumaṃ akāsi vāseṭṭhā 5- rattindivamatandito. 
+
+1116. Tassa taṃ dhumagandhena sarabhā makasadditā, 6-
+Vassāvāsaṃ upagañchuṃ dhumakārissa santike. 
+
+1. Ajjhārūhāni vaḍḍhanti - syā 2. Vanappati - machasaṃ, syā
+3. Āpucchi - machasaṃ 4. Bahutejo bahuteno - syā
+5. Vāsiṭṭhi - machasaṃ 6. Makasaṭṭitā - machasaṃ
+
+[BJT Page 294] [\x 294/]     
+1117. Sarabhesu manaṃ katvā ajāyo nāvakhujjhatha, 
+Āgacchanti vajanti vā tassa tā vinassuṃ ajā. 
+
+[PTS Page 402  [\q 402/]     1118.] Sarabhā ca sarade kāle pahinamakase vane, 
+Pāvisuṃ giriduggāni nadinaṃ pabhavāni ca. 
+
+1119. Sarabhe ca gate disvā ajā ca vibhavaṃ gatā, 
+Kiso ca vivaṇṇo āsi paṇḍurogi ca brāhmaṇo. 
+
+1120. Evaṃ yo saṃniraṃkatvā āgantuṃ kurute piyaṃ, 
+So eko bahu socati dhumakāriva brāhmaṇoti. 
+8. Dhumakārijātakaṃ. 
+
+[PTS Page 404] [\q 404/]     
+1121. Kodha jāgarataṃ sutto kodho suttesu jāgaro, 
+Ko mametaṃ 1- vijānāti ko taṃ paṭibhaṇāti me. 
+
+1122. Ahaṃ jāgarataṃ sutto ahaṃ suttesu jāgaro, 
+Ahametaṃ vijānāmi ahaṃ paṭibhaṇāmi te. 
+
+1123. Kathaṃ jāgarataṃ sutto kathaṃ suttesu jāgaro, 
+Kathaṃ etaṃ vijānāsi kathaṃ paṭibhaṇāsi me. 
+
+1124. Ye dhammaṃ nappajānanti saṃyamoti damoti ca, 
+Tesu suppamānesu ahaṃ jaggāmi devate. 
+
+1125. Yesaṃ rāgo ca doso ca avijjā ca virājitā, 
+Tesu jāgaramānesu ahaṃ suttosmi devate. 
+
+1126. Evaṃ jāgarataṃ sutto evaṃ suttesu jāgaro, 
+Evametaṃ vijānāsi evaṃ paṭibhaṇāsi te. 
+
+[PTS Page 405] [\q 405/]     
+1127. Sādhu jāgarataṃ sutto sādhu suttesu jāgaro, 
+Sādhu metaṃ vijānāsi sādhu paṭibhaṇāsi meti. 
+9. Jāgarajātakaṃ. 
+1. Kodhametaṃ - machasaṃ kometaṃnu - syā.
+
+[PTS Page 408] [\q 408/]     
+[BJT Page 296] [\x 296/]     
+1128. Na kiratthi anomadassisu
+Pāricariyā buddhesu aṃjikā, 1-
+Sukkhāya aloṇikāya ca
+Passa phalaṃ kummāsapiṇḍiyā. 
+
+1129. Hatthigavāssā ca me 2- bahu
+Dhanadhaññaṃ paṭhavi ca kevalā, 
+Nāriyo cimā accharūpamā
+Passa phalaṃ kummāsapiṇḍiyā. 
+[PTS Page 410] [\q 410/]     
+1130. Abhikkhaṇaṃ rājakuñjara
+Gāthā bhāsasi kosalādhipa, 
+Pucchāmi taṃ raṭṭhavaḍḍhana
+Bāḷhaṃ pitimano pabhāsasi. 
+
+[PTS Page 411] [\q 411/]     
+1131. Imasmiṃ yeva nagare kule aññatare ahuṃ, 
+Parakammakāro āsiṃ bhatako silasaṃvuto. 
+
+1132. Kammāya nikkhamantāhaṃ caturo samaṇe addasaṃ. 
+Ācārasilasampanne sitibhute anāsave. 
+
+1133. Tesu cittaṃ pasasādetvā nisidetvā paṇṇasanthate, 
+Adāsiṃ buddhānaṃ kummāsaṃ pasanno sehi pāṇihi. 
+
+1134. Tassa kammassa kusalassa idaṃ me edisaṃ 3- phalaṃ, 
+Anuhomi idaṃ rajjaṃ phītaṃ dharaṇimuttamaṃ. 
+
+[PTS Page 412] [\q 412/]     
+1135. Dada bhuñja ca mā ca pamādo 4-
+Cakkaṃ vantaya kosalādhipa, 
+Mā rāja adhammiko ahu
+Dhammaṃ pālaya kosalādhipa. 
+
+1136. Sohaṃ tadeva punappunaṃ
+Vaṭumaṃ ācarissāmi sobhane, 
+Ariyācaritaṃ sukosale
+Arahanto me manāpā passituṃ. 
+
+1. Appakā - machasaṃ 2. Cime - machasaṃ 3. Īdisaṃ - machasaṃ
+4. Dadaṃ bhuñja māca pamādo - machasaṃ
+
+[PTS Page 413] [\q 413/]     
+
+[BJT Page 298] [\x 298/]     
+1137. Devi viyaccharūpamā
+Majjhe nārigaṇasa hobhasi, 
+Kiṃ kammamakāsi bhaddakaṃ
+Tenāsi vaṇṇavati sukosale. 
+
+1138. Ambaṭṭhakulassa khattiya
+Dāsyāhaṃ parapessiyā ahuṃ, 
+Saññatā dhammajivini
+Silavati ca apāpadassanā. 
+
+1139. Uddhaṭabhattaṃ ahaṃ tadā caramānassa adāsiṃ bhikkhuno, 
+Vittā sumanā sayaṃ ahaṃ
+Tassa kammassa phalaṃ mamedisa'nti. 
+10. Kummāsapiṇḍajātakaṃ. 
+
+[PTS Page 418] [\q 418/]     
+1140. Āgagamissati me pāpaṃ āgamissati me bhayaṃ, 
+Tadā hi calitā sākhā manussena migena vā. 
+
+[PTS Page 419] [\q 419/]     
+1141. Bhiruyā nūna me kāme avidūre vasantiyā, 
+Karissati kisaṃ paṇḍuṃ sāva sākhā parantapaṃ. 
+1142. Socayissati maṃ kantā gāme vasamaninditā, 
+Karissati kisaṃ paṇḍuṃ sāva sākhā parantapaṃ. 
+
+1143. Tayā maṃ hasitāpaṅgi 1- mihitāni 2- bhaṇitāni ca, 
+Kisaṃ paṇḍuṃ karissanti sāva sākhā parantapaṃ. 
+
+[PTS Page 420] [\q 420/]     
+1144. Āgamā nūna so saddo asaṃsi nūna so tava, 
+Akkhātaṃ nūna taṃ tena yotaṃ sākhamakampiyī. 
+
+1. Asitā paṅga - machasaṃ 2. Mitāni hitāni - machasaṃ. 
+
+[BJT Page 300] [\x 300/]     
+1145. Idaṃ kho tvaṃ samāgamma mama bālassa cintitaṃ, 
+Tadāhi calitā sākhā manussena migena vā. 
+
+1146. Tatheva tvaṃ avedesi avañci pitaraṃ mama, 
+Hanatvā sākhāhi chādento āgamissati me bhaya'nti. 
+11. Parantapajātakaṃ. 
+Gandhāravaggo dutiyo
+Tassuddānaṃ: 
+Varagāma mahākapi bhaggava ca
+Daḷhadhamma sakuñajara kesavaro, 
+Urago vidhuro puna jāgaratā
+Atha kosalādhipa parantapena ca. 
+Sattakanipātaṃ niṭṭhitaṃ. 
+Tatra vagguddānaṃ: 
+Atha santa nipātambhi vaggaṃ me bhaṇato suṇa, 
+Kukku ca puna gandhāro dve va muttā mahesinā. 
+
+[PTS Page 425] [\q 425/]     
+[BJT Page 302] [\x 302/]      
+8. Aṭṭhaka nipāto
+1147. Odātavatthā suci allakesā
+Kaccāni kiṃ kumbhimadhissayitvā, 
+Piṭṭhā tilā dhovasi taṇḍulāni
+Tilodano hohiti 1- kissa hetu. 
+
+1148. Na kho ayaṃ brahmaṇa bhojanatthā
+Tilodano hohiti sādhupaññā, 
+Dhammo mato tassa bahutamajja 2-
+Ahaṃ karissāmi susānamajjhe. 
+
+[PTS Page 426] [\q 426/]     
+1149. Anuvicca kaccāni karohi kiccaṃ
+Dhammo mato konu tavetasaṃsi, 
+Sahassanetto atulānubhāvo
+Na miyati 3- dhammavaro kadāvi. 
+1150. Daḷhappamāṇaṃ 4- ettha brahme
+Dhammo mato natthi mamettha kaṅkhā, 
+Ye yevadāni pāpā bhavanti
+Te tevadāni sukhitā bhavanti. 
+
+1151. Suṇisā hi mayhaṃ viñajhā ahosi
+Sā maṃ vadhitvāna vijāyi puttaṃ, 
+Sādāni sabbassa kulassa issarā
+Ahaṃ panambhi apaviddhā ekikā. 
+
+1152. Jivāmi vohaṃ nāhaṃ matosmi 5-
+Taveva atthāya idhāgatosmi, 
+Yā taṃ vadhitvāna vijāyi puttaṃ
+Sahāva puttena karomi bhasmaṃ. 
+
+[PTS Page 427] [\q 427/]     
+1153. Etañca 6- te ruccati devarāja
+Mameva atthāya idhāgatosi, 
+Ahañca putto suṇisā ca nattā
+Sammodamānā gharamāvaseva. 
+
+1. Hehiti - machasaṃ 2. Bahunamajjā - bahutanamajja - syā bahuttamajja - machasaṃ
+3. Miyyati - machasaṃ 4. Daḷha pamāṇaṃ - machasaṃ 5. Na matohamasmi - machasaṃ
+6. Evañca - machasaṃ, syā 
+[BJT Page 304] [\x 304/]     
+1154. Etañca te ruccati kātiyāni 
+Bhatāpi santā na jahāsi dhammaṃ, 
+Tuñca putto suṇisā ca nattā
+Sammodamānā gharamāvasetha. 
+
+1155. Sā kātiyāni suṇisāya saddhiṃ
+Sammodamānā gharamāvasitvā, 
+Sutto ca nattā ca upaṭṭhahiṃsu
+Devānamindena adhiggahitā'ti. 
+1. Kaccānijātakaṃ. 
+
+[PTS Page 430] [\q 430/]     
+1156. Idaṃ pure ninnamāhu bahumacchaṃ mahodikaṃ, 1-
+Āvaso bakarājassa pettikaṃ bhavanaṃ mama
+Tyajja hekena 2- yāpema okaṃ 3- na vijabhāmase. 
+
+1157. Ko dutiyaṃ asialassa 4- bandhurassakkhi 5- bhejjati, 
+Ko me putte kulāvakaṃ mañca sotthiṃ karissati. 
+
+[PTS Page 431] [\q 431/]     
+1158. Sabbā parikkhatā pheggu yāva tassā gati ahu, 
+Khiṇabhakkho mahārāja sāre na ramati ghuṇo. 
+
+[PTS Page 432] [\q 432/]     
+1159. Sā nutāhaṃ ito gantvā rañño muttā nivesanā, 
+Antānaṃ ramayissāmi dumasākhāniketiti. 
+
+1160. So nunāhaṃ ito gantvā rañño mutto nivasanā, 
+Aggo dakāni pivissāmi 6- yuthassa purato vajaṃ. 
+
+1161. Taṃ maṃ kāmehi sampannaṃ rattaṃ kāmesu mucchitaṃ
+Ānayi harato 7- luddo bāhiko haddamatthu te
+
+[PTS Page 433  [\q 433/]     1162.] Andhakāratimisāyaṃ tuṅge uparipabbate, 
+Sā maṃ saṇhena mudunā mā pādaṃ khaṇiyasmati. 
+
+[PTS Page 434] [\q 434/]     
+1163. Asaṃsayaṃ jātikhayantadassi
+Na gabbhaseyyaṃ punarāvajissaṃ, 
+Ayaṃ hi me antimā gabbhaseyyā
+Khiṇo me saṃsāro punabbhavāyā'ti. 
+2. Aṭṭhasaddajātakaṃ. 
+
+1. Mahodakaṃ - machasaṃ syā 2. Hiṅgena - machasaṃ, syā 3. Okkanataṃ na jahāmase -
+machasaṃ 4. Asilissa - machasaṃ
+5. Kandharassakkhi hindati - machasaṃ 6. Pisasāmi - machasaṃ 7. Vanato - machasaṃ
+
+[PTS Page 437] [\q 437/]     
+[BJT Page 306] [\x 306/]     
+1164. Idaṃ suvaṇṇakāyuraṃ muttā veḷuriyā bahu, sabbaṃ harassu bhaddatte mañca dāsiti
+sāvaya. 
+
+1165. Oropayasu kalyāṇi mā 1- bahuṃ paridevasi, 
+Na cāhaṃ abhijānāmi ahanatvā 2- dhanamāhataṃ. 
+
+1166. Yato sarāmi attānaṃ yato pattosmi viññutaṃ, 
+Na cāhaṃ 3- abhijānāmi aññaṃ piyataraṃ tayā. 
+
+1167. Ehi taṃ upaguhissaṃ 4- karissañca padakkhiṇaṃ, 
+Na hi dāni putā atthi mama tuyhañca saṅgamo. 
+
+[PTS Page 438] [\q 438/]     
+1168. Na hi sabbesu ṭhānesu puriso hoti paṇḍito, 
+Itthipi paṇḍitā hoti tattha tattha vivakkhaṇā. 
+
+1169. Na hi sabbesu ṭhānesu puriso hoti paṇḍito, 
+Itthipi paṇḍitā hoti lahumatthavicintikā. 
+
+1170. Lahuñca vata khippañca nikaṭṭhe samacetayi, 
+Migaṃ puṇṇāya tenevaṃ sulasā sattukaṃ vadhi. 
+
+1171. Yodha uppatiṃ atthaṃ na khippamanukhujjhati, 
+So haññati mandamati corova girigabbhare. 
+
+1172. Yo ca uppatitaṃ atthaṃ khippameva nibodhati, 
+Muccate 5- sattu sambādhā sulasā sattukāmivāti. 
+3. Sulasājātakaṃ. 
+
+[PTS Page 441] [\q 441/]     
+1173. Bhusa kiṃ kuddhoti avekkhiyāna
+Na tāvadaṇḍaṃ paṇayeyya issaro, 
+Aṭṭhānaso appatirūpamattano 7-
+Parassa dukkhāni bhusaṃ udiraye. 
+
+1. Bāḷhaṃ - machasaṃ 2. Ahanatvā - machasaṃ 3. Nevāhaṃ - machasaṃ
+4. Upaguyhissaṃ - machasaṃ 5. Muñcate - machasaṃ 6. Bhusampi - machasaṃ 7. Appaṭi -
+machasaṃ, syā. 
+
+[BJT Page 308] [\x 308/]     
+1174. Yatova jāneyya pasādamattano
+Atthaṃ niyuñjeyya parassa dukkataṃ, 1-
+Tadāyamatthoti sayaṃ avekkhiya
+Athassa daṇḍaṃ sadisaṃ nivesaye. 
+
+1175. Na cāpi jhāpeti paraṃ na attatanaṃ 2-
+Amucchito yo nayate nayānayaṃ, 
+Yo daṇḍadhāro bhavatidha issaro
+Samaṇṇagutto siriyā na dhaṃsati. 
+
+1176. Yo khattiyā se 3- anisammakārino
+Paṇenti daṇḍaṃ sahasā pamucchitā, 4-
+Avaṇṇasaṃyuttā 5- jahanti jīvitaṃ
+Ito vimuttāpi ca yanti duggatiṃ
+
+[PTS Page 442] [\q 442/]     
+
+1177. Dhamme ca ye ariyapavedite 6- ratā
+Anuttarā te vacasā manasā kammanā ca, 7-
+Te santisoraccasamādhisaṇṭhitā
+Vajanti lokaṃ dubhayaṃ tathāvidhā. 
+
+1178. Rājāhamasmi narapamadāna 8- missaro
+Sacepi kujjhāmi ṭhapemi attanaṃ, 9-
+Nisedhayanto janataṃ tathāvidhaṃ
+Paṇemi daṇḍaṃ anukampa yoniso. 
+
+[PTS Page 443] [\q 443/]     
+1179. Siri calakkhi ca 10- tameva khattiya
+Janādhipa mā vijahi kudācanaṃ, 
+Akkodhano niccapasannacitto
+Anigho 11- tuvaṃ vasassatāni pālaya. 
+
+1180. Guṇehi etehi upeta khattiya
+ hitamariyavatti suvaco akodhano, 
+Sukhī anuppiḷa 12- pasāsa mediniṃ
+Ito vimuttopi ca yāhi suggatiṃ. 
+
+1. Dukkaṭaṃ - machasaṃ syā 2. Parampi attānaṃ - machasaṃ 3. Khatatiyā - machasaṃ 4.
+Mucchitā - machasaṃ 5. Avaṇanayutatāca - machasaṃ 6. Ariyapapavedite - machasaṃ, syā
+7. Kammunā - machasaṃ, syā 8. Pamudāṇaṃ - machasaṃ, syā 9. Attānaṃ - machasaṃ 10.
+Siriñcalakkhiñca - machasaṃ 11. Anigeghā - machasaṃ 12. Anuppiḷaṃ sabha - syā machasaṃ 
+
+[BJT Page 310] [\x 310/]     
+1181. Evaṃ sunitena subhāsitena
+Dhammena ñāyena upāyaso nayaṃ, 
+Nibbāpaye saṃkhuhitaṃ mahājanaṃ. 
+Mahāva megho salilena medininti. 
+4. Sumaṅgalajatakaṃ. 
+
+[PTS Page 447] [\q 447/]     
+1182. Aṅgārajātā paṭhavi kukkulānugatā mahī, 
+Atha gāyasi vattāni na taṃ tapati ātapo. 
+
+1183. Uddhaṃ tapati ādicco adho tapati vālukā, 1-
+Utha gāyasi vattāni na taṃ tapati ātapo. 
+1184. Na maṃ tapati ātāpo ātappā 2- tapayanti maṃ. 
+Atthā hi vividhā rāja te tapanti ātapo. 
+
+[PTS Page 450] [\q 450/]     
+
+
+1185. Addasaṃ kāma te mulaṃ saṅkappā kāma jāyasi, 
+Na taṃ saṅkappayissāmi evaṃ kāma na hohisi 3-
+
+1186. Appāpi kāmā na alaṃ bahuhipi na tappati, ahahā bālalapanā 4- paṭivijjhetha jaggato. 
+
+1187. Appassa kammassa phalaṃ mama yidaṃ
+Udayo ajjhagamā 5- mahattapattaṃ, 
+Suladdhalābhā vata māṇavassa
+Yo pabbaji kāmarāgaṃ pahāya. 
+
+[PTS Page 452] [\q 452/]     
+1188. Tapasā pajahanti pāpakammaṃ
+Tapasā nahāpitakumbhakārabhāvaṃ, 
+Tapasā abhibhuyya gaṅgamāla
+Nāmenālapasajja brahmadattaṃ. 
+
+1. Vāḷukā - machasaṃ 2. Ātapā - machasaṃ 3. Hehisi - machasaṃ syā
+4. Ahāhābālalāpanā - machasaṃ ahobālānalapanā - syā asātābālalāpanā - machasaṃ 5.
+Ajjhāgamā - machasaṃ
+
+[PTS Page 453] [\q 453/]     
+[BJT Page 312] [\x 312/]     
+1189. Sandiṭṭhikameva 1- passatha
+Khanti soraccassa ayaṃ vipāko, 
+Yo sabbajanassa vandito
+Taṃ vandāma sarājikā samaccā. 
+
+1190. Mā kiñci avacuttha 2- gaṅgamālaṃ
+Muniṃ 3- monapathesu sikkhamānaṃ, 
+Eso hi atari aṇṇavaṃ
+Yaṃ taritvā vicaranti vitasokā'ti. 
+5. Gaṅgamālajātakaṃ. 
+
+[PTS Page 456] [\q 456/]     
+1191. Dhammo have hato hanti nāhato hanti kiñcanaṃ, 
+Tasmā hi dhammaṃ na hane mā 4- taṃ dhammo hato hati. 
+[PTS Page 457] [\q 457/]     
+1192. Alikaṃ bhāsamānassa apakkamanti devatā, 
+Putikañca mukhaṃ vāti sakaṭṭhānā ca dhaṃsati. 
+Yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. 
+
+1193. Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, 
+Musā ce bhāsase rāja bhumiyaṃ tiṭṭha cetiya. 
+
+[PTS Page 458] [\q 458/]     
+1194. Akāle vassati tassa kāle tassa na vassati, 
+Yo jānaṃ pucchito pañcaṃ aññathā naṃ viyākare. 
+
+1195. Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, 
+Musā ce bhāsase rāja bhumiyaṃ pavisa cetiya. 
+
+1196. Jivhā tassa dvidhā hoti uragasseva disampati, 
+Yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. 
+
+1197. Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, 
+Musā ce bhāsase rāja bhiyyo pavisa cetiya. 
+
+[PTS Page 459] [\q 459/]     
+1198. Jivhā tassa na bhavati macchasseva disampati, 
+Yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. 
+
+1. Amma passatha - machasaṃ 2. Vuttha - machasaṃ 3. Muninaṃ - machasaṃ, syā 4. Tvaṃ -
+machasaṃ
+[BJT Page 314. [\x 314/]     ] 
+1199. Sace hi saccaṃ bhaṇasi hohi rāja yathāpure, 
+Musā ce bhāsase rāja bhiyyo pavisa cetiya. 
+
+1200. Thiyova 1- tassa jāyanti na pumā jāyare kule, 
+Yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. 
+1201. Sace hi saccaṃ bhaṇasi hohi rāja yathāpure, 
+Musā ce bhāsase rāja bhiyyo pavisa cetiya. 
+
+1202. Puttā tassa na bhavanti pakkamanti disodisaṃ, 
+Yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. 
+
+1203. Sacehi saccaṃ bhaṇasi hohi rāja yathāpure, 
+Musā ce bhāsase rāja bhiyyo pavisa cetiya. 
+
+[PTS Page 461] [\q 461/]     
+1204. Sarājā isinā satto 2- antalikkhe 3- caro pure, 
+Pāvekkhi paṭhaviṃ cecco 4- hinatto attapariyāyaṃ. 
+
+1205. Tasmāhi chandāgamanaṃ nappasaṃsanti paṇḍitā, 
+Aduṭṭhacitto bhāseyya giraṃ saccupasaṃhita'nti. 
+6. Cetiyajātakaṃ. 
+
+[PTS Page 464] [\q 464/]     
+1206. Yo indriyānaṃ kāmena vasā nārada gacchati, 
+So pariccajujuho loke jivantova visusasti. 
+
+1207. Sukhassānantaraṃ dukkhaṃ dukkhassānantaraṃ sukhaṃ, 
+Sosi 5- patto sukhā dukkhaṃ pāṭikaṅkha varaṃ sukhaṃ. 
+
+[PTS Page 465] [\q 465/]     
+1208. Kicchakāle kicchisaho yo kicchaṃ nānuvattati. 
+Sa kicchantaṃ sukhaṃ dhīro yogaṃ samadhigacchati. 
+
+[PTS Page 466] [\q 466/]     
+1209. Naheva kāmāna kāmā nātatthāna natthakāraṇā, 
+Na 6- katañca niraṅkatvā dhammā cavitumarahasi. 
+
+1. Thiyo tassa pajāyanti - vi machasaṃ 2. Patto - syā patto - machasaṃ
+3. Antalikkhavaro - machasaṃ 4. Jacco - machasaṃ
+5. Sopi patto sukha dukkhaṃ - syā sopi patto sukhaṃ dukkhaṃ, sopi patto sukhā dukkha -
+machasaṃ 6. Nakañca niraṅkatvā - nārada. 
+
+[BJT Page 316] [\x 316/]     
+1210. Dukkhaṃ gahapati sādhura1 saṃvibhajjañca bhojanaṃ,
+Abhāso atthalābhesu atthabyāpatti abyatho3.
+
+1211. Ettāva tesaṃ4 paṇḍiccaṃ asito devalo bravi,
+Nayito5 kiñci pāpiyo indriyānaṃ vasaṃ vaje. 
+[PTS Page 468] [\q 468/]     
+1212. Amittānaṃva hatthatthaṃ siva pappoti māmiva,
+Kammaṃ vijjañca dakkheyyaṃ vivāhaṃ sīlamaddavaṃ. 
+1213. Ete ca yase hāpetvā nibbatto6 sehi kammehi,
+Sohaṃ sahassa jinova abandhu aparāyaṇo.
+Ariyadhammā atikkanto7 yathā peto tathevahaṃ.
+
+1214. Sukhakāme dukkhāpetvā āpannosmi padaṃ imaṃ,
+So sukhaṃ nādhigacchāmi cito bhānumatāmivā8ti.
+
+7. Indirayajātakaṃ.
+
+[PTS Page 471] [\q 471/]      
+1215. Ādittasmiṃ agārasmiṃ yaṃ nīharati bhājanaṃ, 
+Taṃ tassa hoti atthāya no ca yaṃ tattha ḍayhati.
+
+1216. Evamādipito loko jarāya maraṇena ca,
+Nīharetheva dānena dinnaṃ hoti sunīhataṃ
+
+[PTS Page 472] [\q 472/]     
+1217. Yo dhammaladdhassa dadāti dānaṃ
+Uṭṭhānaviriyādhigatassa jantuno9,
+Atikkamma so vetaraṇiṃ yamassa
+Dibbāni ṭhānāni upeti macco.
+
+1218. Dānañca yuddhañca samānamāhu
+Appāpi santā bahuke jinanti,
+Appampi ce saddahāno dadāti
+Teneva so hoti sukhī parattha.
+-------------
+1. Dakkhaṃ gahapati - sādhu - machasaṃ.
+2. Saṃvibhajañca - machasaṃ.
+3. Avyatho - machasaṃ.
+4. Chatatāva tetaṃ - machasaṃ.
+5. Natthi tā - nassito - machasaṃ.
+6. Nippatto - machasaṃ.
+7. Apakkanto - machasaṃ.
+8.  hīto bhānumatā miva - machasaṃ.
+9. Jantu - machasaṃ.
+
+[BJT Page: 318 [\x  318/]     ]
+1219. Viceyyadānaṃ sugatappasatthaṃ1
+Ye dakkhiṇeyyā idha jīvaloke
+Etesu dinnāni mahappalāni
+Bījāni vuttāni yathā sukhette.
+
+1220. Yo pāṇabhūtāni aheṭhayaṃ caraṃ
+Parūpavādā na karoti pāpaṃ,
+Hīruṃ pasaṃsanti na hi tattha sūraṃ
+Bhayā hi santo na karonti2 pāpaṃ.
+
+1221. Hīnena brahmacariyena khattiyaṃ upapajjati,
+Majjhimena ca devattaṃ uttamena visujjhati
+
+[PTS Page 473] [\q 473/]     
+1222. Addhāhi dānaṃ bahudhā pasatthaṃ3
+Dānā ca kho dhammapadaṃ ca seyyo,
+Pubbevahi pubbatare ca santo
+Nibbānamevajjhagamuṃ sapaññāti. 
+
+8. Ādittajātakaṃ.
+
+[PTS Page 477] [\q 477/]     
+1223. Gaṅgā kumudinī santā saṅkhavaṇṇā ca kokilā,
+Jambu tālaphalaṃ dajjā atha nūna tadā siyā.
+
+1224. Yadā kacchapalomānaṃ pāvāro tividho siyā,
+Hemantikaṃ pāpuraṇaṃ atha nūna tadā siyā.
+
+1225. Yadā makasadāṭhānaṃ aṭṭālo sukato siyā,
+Saggassā rohaṇatthā atha nūna tadā siyā.
+
+1227. Yadā sisseṇimāruyha candaṃ khādeyyuṃ mūsikā,
+Rāhuñca paripāteyyuṃ atha nūna tadā siyā.
+
+---------------
+1. Sugatappasaṭṭhaṃ-machasaṃ.
+2. Na karoti-machasaṃ.
+3. Pasaṭṭhaṃ-machasaṃ.
+
+
+[BJT Page: 320 [\x  320/]     ]
+1228. Yadā surāghaṭaṃ pītvā makkhīkā gaṇacārinī,
+Aṅgāre vāsaṃ kappeyyuṃ atha nūna tadā siyā.
+
+1229. Yadā bīmboṭṭhasampanno gadrabhā sumukho siyā,
+Kusalo naccagītassa atha nūna tadā siyā.
+
+1230. Yadā kākā ulūkā1 ca mantayeyyuṃ rahogatā,
+Aññamaññaṃ pihayeyyuṃ2 atha nūna tadā siyā.
+
+[PTS Page 478] [\q 478/]     
+1231. Yadā pulasa pattānaṃ3 chattaṃ thīrataraṃ siyā,
+Vassassa paṭighātāya atha nūna tadā siyā.
+
+1232. Yadā kuthaṅko4 sakuṇo pabbataṃ gandhamādanaṃ,
+Tuṇḍenādāya gaccheyya atha nūna tadā siyā.
+
+1233. Yadā sāmuddikaṃ nāvaṃ sayantaṃ savaṭākataraṃ5.
+Ceṭo ādāya gaccheyya atha nūna tadā siyāti.
+
+9. Aṭṭhānajātakaṃ.
+
+[PTS Page 480] [\q 480/]      
+1234. Khamanīyaṃ yāpanīyaṃ kacci mātula te sukhaṃ,
+Sukhaṃ te ammā avaca sukhakāmā hi te mayaṃ. 
+
+1235.Naṅguṭṭhaṃ me avakkamma6 heṭhayitvāna7 phaḷike,
+Sājja mātulavādena muñcitabbā nu maññasi.
+
+1236. Puratthā nisinnosi ahaṃ taṃ8 mukhamāgatā,
+Pacchito tuyha naṅguṭṭhaṃ kathaṃ khohaṃ avakkamiṃ9.
+
+[PTS Page 481] [\q 481/]     
+1237. Yāvatā caturo dīpā sasamuddā sapabbatā,
+Tāvatā mayha naṅguṭṭhaṃ kathaṃ kho tvaṃ vivajjayi. 
+
+----------------
+1. Uluṅkā-machasaṃ.
+2. Vihareyyu-machasaṃ.
+3. Palāsamulāla-machasaṃ.Syā.
+4. Kulako-machasaṃ.Kurāro syā.
+5. Sapaṭākāraṃ-machasaṃ.
+6. Apakkamma-machasaṃ.Syā.
+7. Poṭhayitvāna-machasaṃ.
+8. Te-machasaṃ.
+9. Apakkami-machasaṃ avakkami-syā.
+
+
+[BJT Page: 322 [\x  322/]     ]
+1238. Pubbevametaṃ akkhaṃsu1 mātāpitā ca bhātaro,
+Dīghaṃ duṭṭhassa naṅguṭṭhaṃ samhi2 vehāsayāgatā.3
+
+1239. Tañca disvāna āyantiṃ antalikkhasmiṃ phaḷike4,
+Migasaṅgho palāyittha bhakkho me nāsito tayā.
+1240. Icceva vilapantiyā eḷikiyā ruhaṃghaso,
+Galakaṃ anvāvamaddi natthi duṭṭhe subhāsitaṃ.
+
+1241. Neva duṭṭhe nayo atthi na dhammo na subhāsitaṃ,
+Nikkamaṃ duṭṭhe yujjetha5 so ca sabhi na rajjatīti.
+
+10. Dīpijātakaṃ.
+Kaccānivaggā paiṭhamo.
+
+Tassuddānaṃ: 
+Parisuddhāmanāvilāvatthadharā
+Bakarājassa kāyuraṃ daṇṭhāvaro,
+Athaaṅgāracetiyadevilina
+Atha ādittagaṅkādaseḷakināti. 
+
+Aṭṭhakanipātaṃ niṭṭhitaṃ.
+
+-------------------
+1. Makkhīsu-machasaṃ.
+2. Sāmha-machasaṃ.Syā.
+3. Vebhāsayaṃ-machasaṃ.
+4. Eḷakī-machasaṃ.Eḷigī-syā.
+5. Yujetha-machasaṃ.Syā.
+
+[PTS Page 483] [\q 483/]      
+[BJT Page: 324 [\x  324/]     ]
+
+9. Navaka nipāta
+
+[PTS Page 484] [\q 484/]     
+1242. Parisaṅkupatho nāma gijjhapantho sanantano,
+Tatrāsi mātāpitaro gijjho posesi jiṇṇake.
+
+1243. Tesaṃ ajagaraṃ medaṃ accahāsi pahūtaso1,
+Pitā ca puttaṃ avaca jānaṃ uccaṃ2papātinaṃ
+Supattaṃ pakkha3sampannaṃ tejassiṃ4 duragāminaṃ.
+
+1244. Pariplavantaṃ5 paṭhaviṃ yacā tāta vijānahi6,
+Sāgarena parikkhittaṃ cakkaṃva parimaṇḍalaṃ.
+Tato tāta nivattassu māssu phatto paraṃ gamī.
+
+1245. Uddhaṃ pattosa7 vegena balī pakkhī dijuttamo,
+Olokayanto vakkaṅgo pabbatāni vanāni ca.
+
+1246. Addasā8 paṭhaviṃ gijjho yathā sāsi9 pitussutaṃ,10
+Sāgarena parikkhittaṃ cakkaṃva parimaṇḍalaṃ.
+
+1247. Tañca so samatikkamma parameva pavattatha,
+Tañca vātasikhā tikkhā accahāsi baliṃ dījaṃ. 
+
+1248. Nāsakkhātigato poso punareva11 nivattituṃ,
+Dijo vyasanamāpādi verambānaṃ vasaṃ gato.
+
+[PTS Page 485] [\q 485/]     
+1249. Tassa puttā ca dārā ca ye caññe anujīvino,
+Sabbe vyasanamāpāduṃ anovādakare dije.
+
+1250. Evampi idha vaddhānaṃ12 yo vākyaṃ nāvabujjhati,
+Atīsīmacaro ditto gijjhovātītasāsano
+Sa ce13 vyasanaṃ pappoti14 akatvā vuddhasāsananti.
+
+1. Gijjhajātakaṃ.
+
+-------------------
+1. Bahudhāso-machasaṃ.Bahūtaso-syā.Bahuttato-sīmu.
+2. Uccā-sīmu.
+3. Thāma-machasaṃ.
+4. Tejasiṃ-machasaṃ.Syā.
+5. Paripālavitaṃ-machasaṃ.
+6. Vijānāhi-machasaṃ.
+7. Upadattosi-machasaṃ.
+8. Addassa-machasaṃ. Addasa-syā.
+9. Yathāvāsi-machasaṃ.
+10. Pitusakā-machasaṃ.
+11. Punadeva-machasaṃ.
+12. Vuḍḍhānaṃ-machasaṃ.Syā.
+13. Sabbe-machasaṃ.Syā. 
+14. Papponti-machasaṃ.Syā.
+
+[PTS Page 488] [\q 488/]      
+[BJT Page: 326 [\x  326/]     ]
+
+1251. Puthusaddo samajano na bālo koci maññatha,
+Saṅghasmiṃ bhijjamānasmiṃ nāññaṃ bhiyyo amaññaru.
+
+1252. Parimuṭṭhā paṇḍitabhāsā vācā gocarabhāṇino,
+Yāvicchanti mukhāyāmaṃ yena nītā na tā vidū.
+
+1253. Akkocchi maṃ avadhi maṃ ajini maṃ abhāsi me,
+Ye taṃ upanayhanti1 veraṃ tesaṃ na sammati. 
+1254. Akkocchi maṃ avadhi maṃ ajini maṃ abhāsi me,
+Ye taṃ na upanayhanti1 veraṃ tesūpasammati.
+
+1255. Nahi verena verāni sammantīdha kudācanaṃ.
+Averena ca sammanti esadhammo sanantano.
+
+1256. Pare ca na vijānanti mayamettha yamāmase,
+Ye ca tattha vijānanti tato tato sammanti medhagā.
+
+1257. Aṭṭhicchinnā pāṇahārā gavāssa dhanahārino,
+Raṭṭhaṃ vilumpamānānaṃ tesampi hoti saṅgati
+Tasmā tumhāka no siyā.
+
+1258. Sace labhetha nipakaṃ sahāyaṃ saddhi caraṃ sādhu vihāri dhīraṃ,
+Abhibhuyya sabbāni parissayāni
+Careyya tenattamano satīmā.
+1259. No ce labhetha nipakaṃ sahāyaṃ
+Saddhi caraṃ sādhu vihāri dhīraṃ,
+Rājāva raṭṭhaṃ vijitaṃ pahāya
+Eko care mātaṅgaraññeva nāgo.
+
+1260. Ekassa carītaṃ seyyo
+Natthi bāle sahāyatā,
+Eko care nava pāpāni kayirā
+Appossukko mātaṅgaraññeva nāgoti.
+
+2. Kosambajātakaṃ.
+
+-------------
+1. Yeca taṃ nūpanayhanti-machasaṃ.Syā.
+
+[PTS Page 491] [\q 491/]      
+[BJT Page: 328 [\x  328/]     ]
+
+1261. Dumo yadā hoti phalūpapanno
+Bhuñjanti taṃ vihagā1 sampatantā,
+Khīṇanti ñatvāna dumaṃ phalaccaye
+Disodisaṃ yanti tato vihaṅgamā.
+
+[PTS Page 492] [\q 492/]     
+1262. Cara cārikaṃ lohitatuṇḍa māvari
+Kiṃ tvaṃ suva sukkhadumamhi jhāyasi,
+Tadiṅgha maṃ brūhi2 vasantasanniha
+Kasmā suva sukkhadumaṃ na riñcasi.
+
+1263. Ye ce sakhīna sakhāro bhavanti
+Pāṇaccaye3 sukadukkhesu haṃsa,
+Khīṇaṃ akhīṇanti na taṃ jahanti,
+Santo sataṃ dhammamanussarantā.
+
+1264. Sohaṃ sataṃ aññatarosmi haṃsa ñātī ca me hoti sakhā ca rukkho,
+Taṃ nussahe jīvikattho pahātuṃ
+Khīṇanti ñatvāna nahesadhammo.
+
+[PTS Page 493] [\q 493/]     
+1265. Sādhu sakkhikataṃ hoti metti4 saṃsati santhavo,
+Sace taṃ dhammaṃ rocesi pāsaṃsosi vijānataṃ.
+
+1266. So te suva varaṃ dammī pattavāna vihaṅgama,
+Varaṃ varassu vakkaṅga yaṃ kiñci manasicchasi.
+
+1267. Varañca me haṃsa bhavaṃ dadeyya
+Ayaṃ5 hi rukkho punarāyuṃ labhetha,
+So sākhavā elimā saṃvirūḷho
+Madhutthiko tiṭṭhatu sobhamāno.
+
+1268. Taṃ passa samma elimaṃ uḷāraṃ
+Sahāva te hotu udumbarena,
+So sākhavā elimā saṃvirūḷho
+Madhutthiko tiṭṭhatu sobhamāno.
+
+--------------
+1. Vihaṅgamā-machasaṃ.Syā.
+2. Tadiṅghabrūhi-machasaṃ.Syā.
+3. Pāṇaṃ vaje-machasaṃ.
+4. Mitta-machasaṃ.
+5. Ayañca rukkho-machasaṃ.
+
+[PTS Page 494] [\q 494/]      
+[BJT Page: 330 [\x  330/]     ] 
+1269. Evaṃ sakka sukhī hohi saha sabbehi ñātihi,
+Yathāhamajja sukhīto disvāna elitaṃ dumaṃ.
+
+1270. Suvassa ca varaṃ datvā katvāna saphalaṃ dumaṃ,
+Pakkāmi sahabhariyāya devānaṃ nandanaṃ vana'nti.
+
+3. Mahāsukajākataṃ.
+
+[PTS Page 495] [\q 495/]      
+1271. Santi rukkhā haritapattā dumā nekaphalā bahu,
+Kasmā nu sakkhe koḷāpe sukassa nirato mano.
+
+1272. Phalassa upabhuñjimhā nekavassagaṇe bahu,
+Aphalampi viditvāna sāva metti yathāpure.
+
+1273. Sukkhañca rukkhaṃ koḷāpaṃ opattamaphalaṃ dumaṃ,
+Ohāya sakuṇā yanti kiṃ dosaṃ passaye dija1
+
+1274. Ye phalatthā samhajanti aphaloti jahanti naṃ,
+Attaṭṭha2paññā dummedhā te honti pakkhapātino.
+
+1275. Sādhu sakkhi kataṃ hoti metti saṃsati santhavo,
+Sace taṃ dhammaṃ rocesi pāsasosi vijānataṃ.
+
+1276. Sote suva varaṃ dammi pattayāna vihaṅgama,
+Varaṃ varassu vakkaṅga yaṃkiñci manasicchasi.
+
+1277. Api nāma naṃ puna passe3 sapatta saphalaṃ dumaṃ,
+Daḷiddova nidhi laddhā nandeyyāhaṃ punappunaṃ.
+
+1278. Tato amatamādāya abhisiñci mahīruhaṃ,
+Tassa sākhā virūhiṃsu4 sītacchāyā manoramā.
+
+--------------
+1. Dijā-machasaṃ.
+2. Attattha-machasaṃ.
+3. Passemu-a. Passeyyuṃ-machasaṃ.
+4. Viruḷhassa-machasaṃ.
+
+
+[BJT Page: 332 [\x  332/]     ]
+
+1279. Evaṃ sakka sukhī hohi saha sabbehi ñātīhi,
+Yathāhamajja sukhito disvāna saphalaṃ dumaṃ.
+
+1280. Suvassa ca caraṃ datvā katvāna saphalaṃ dumaṃ,
+Pakkāmi saha bhariyāya devānaṃ nandanaṃ vana'nti.
+
+4. Cullasukajātakaṃ.
+
+[PTS Page 498] [\q 498/]     
+1281. Sutaṃ metaṃ mahābrahme kāme bhuñjati bhārito1,
+Kaccetaṃ vacanaṃ tucchaṃ kacci suddho iriyyasi.
+
+[PTS Page 499] [\q 499/]     
+1282. Evametaṃ mahārāja yathā te vacanaṃ sutaṃ, 
+Kummagge2 paṭipannosmi mohaneyyesu mucchito.
+
+1283. Ādu3 paññā kimatthiyā nipuṇā sādhu cintanī4,
+Yāya uppatitaṃ rāgaṃ kiṃ mano na vinodaye.
+
+1284. Cattāro me mahārāja loke atibalā bhusā,
+Rāgo doso mado moho yattha paññā na gādhatī.
+
+[PTS Page 500] [\q 500/]     
+1285. Arahaṃ5 sīlasampanno suddho carati hārito, medhāvī paṇḍito ceva iti no sammato
+bhavaṃ
+
+1286. Medhāvinampi hiṃsanti isiṃ dhammaguṇe rataṃ,
+Vitakkā pāpakā rāja subhā rāgūpasaṃhitā.
+
+1287. Uppannāyaṃ sarīrajo
+Rāgo vaṇṇavidusano tavaṃ,
+Taṃ pajaha6 bhaddamatthu7 te
+Bahunnāsi8 medhāvīsammato.
+
+1288. Te andhakaraṇe kāme bahudukkhe mahāvise,
+Tesaṃ mūlaṃ gavesissaṃ checchaṃ rāgaṃ sabandhanaṃ.
+
+[PTS Page 501] [\q 501/]     
+1289. Idaṃ vatvāna hārito isi saccaparakkamo,
+Kāmarāgaṃ virājetvā brahmalokūpago ahūti.
+
+5. Hāritajātakaṃ.
+
+---------------
+1. Harito-machasaṃ.
+2. Kumaggaṃ-machasaṃ.
+3. Sādhu-machasaṃ.
+4. Cittikiṃ-machasaṃ.Syā.
+5. Garahā-machasā.
+6. Pajahatha-machasaṃ.
+7. Namatthu-syā.
+8. Bahunāpi-syā.Bahunāsi-machasaṃ
+
+[BJT Page: 334 [\x  334/]     ]
+[PTS Page 507] [\q 507/]      
+1290. Bahussutaṃ cittakathiṃ1 gaṅgā vahati pāṭalaṃ2,
+Vuyhamānaka3 bhaddante ekaṃ me dehi4 gāthakaṃ.
+
+[PTS Page 508] [\q 508/]     
+1291. Yena siñcanti dukkhitaṃ yena siñcanti āturaṃ,
+Tassa majjhe marissāmi jātaṃ saraṇato bhayaṃ.
+
+1292. Yattha bījāni rūhanti sattā yattha patiṭṭhitā,
+Sā me sīsaṃ nipīḷeti jātaṃ saraṇato bhayaṃ.
+
+[PTS Page 509] [\q 509/]     
+1293. Yena bhattāni paccanti sītaṃ yena vihaññati,
+So maṃ ḍahati5 gattāni jātaṃ saraṇato bhayaṃ.
+
+1294. Yena bhuttena yāpenti puthu brāhmaṇakhattiyā,
+So maṃ bhutto viyāpādi6 jātaṃ saraṇato bhayaṃ.
+
+[PTS Page 510] [\q 510/]     
+1295. Gimhānaṃ pacchime māse vātamicchanti paṇḍitā,
+So me bhañjati gattāni jātaṃ saraṇato bhayaṃ.
+
+1296. Yaṃ nissitā jahati ruhaṃ vihaṅgamā soyaṃ7 aggiṃ pamuñcati,
+Disā bhajatha vakkaṅgā jātaṃ saraṇato bhayaṃ.
+
+[PTS Page 512] [\q 512/]     
+1297. Yamānayiṃ8 somanassaṃ māliniṃ vandanussadaṃ, 
+Sā maṃ gharā nīharati9 jātaṃ saraṇato bhayaṃ.
+
+[PTS Page 513] [\q 513/]     
+1298. Yena jātena nandissaṃ yassa ca bhavamicchisaṃ,
+So maṃ gharā nicchuhati jātaṃ saraṇato bhayaṃ.
+
+1299. Suṇantu me jānapadā10 negamā ca samāgatā,
+Yatodakaṃ11 tadādittaṃ yato khemaṃ tato bhayaṃ.
+
+1300. Rājā vilumpato raṭṭhaṃ brāhmaṇo ca purohito,
+Attaguttā viharatha jātaṃ saraṇato bhayanti.
+
+6. Padamāṇavakajātakaṃ.
+
+-------------------
+1. Cittakathaṃ-machasaṃ,syā
+2. Pāṭiliṃ-machasaṃ,syā. 3. Vuyhamānataṃ-machasaṃ.
+4. Gāhi-machasaṃ.
+5. Ḍayhati-machasaṃ.
+6. Vyāpādi-machasaṃ.
+7. Svāyaṃ-machasaṃ.
+8. Yamānayi-machasaṃ.
+9. Nicchuhati-machasaṃ.
+10.Janappadā-machasaṃ.
+11.Yathodakaṃ-machasaṃ,yadodakaṃ vi. 
+[BJT Page 336] [\x 336/]     
+[PTS Page 515] [\q 515/]     
+1301. Assa inda samo rāja accantaṃ ajarāmaro, 
+Sace taṃ yaññaṃ yājeyya 1- isiṃ lomasakassapaṃ. 
+
+[PTS Page 516] [\q 516/]     
+1302. Sasamuddapariyāyaṃ mahiṃ sāgarakuṇḍalaṃ, 
+Na icche saha nindāya evaṃ sayha vijānahi. 
+
+1303. Dhiratthu taṃ yasalāṃ dhanalābhaṃ ca brāhmaṇa, 
+Yā vutti vinipātena adhammacaraṇena vā. 
+
+1304. Api ce pattamādāya anāgāro paribbaje, 
+Sā eva jivikā seyyo yā cādhammena phasanā. 
+
+1305. A pi ce pattamādāya anāgāro paribbaje, 
+Aññaṃ abhiṃsayaṃ loke api rajjena taṃ varaṃ
+
+[PTS Page 518] [\q 518/]     
+1306. Balaṃ 2- cando balaṃ suriyo balaṃ samaṇabrāhmaṇo, 
+Balaṃ velā samuddassa balātibalamitthiyo. 
+
+1307. Yathā uggatapaṃ santaṃ isiṃ lomasakassapaṃ, 
+Pitu atthā candavati vājapeyyaṃ ayājayi 3-
+
+[PTS Page 519] [\q 519/]     
+1308. Taṃ lobhā pakataṃ kammaṃ kaṭukaṃ kāmahetukaṃ, 
+Tassa mulaṃ gavesissaṃ checchaṃ rāgaṃ sabandhanaṃ. 
+
+1309. Dhiratthu kāme sukhahupi loke
+Tapova seyyo kāmaguṇehi rāja, 
+Tapo karissāmi pahāya kāme
+Taveva raṭṭhaṃ candavati ca hotuti. 
+7. Lomasakassapajātakaṃ. 
+
+[PTS Page 520] [\q 520/]     
+1310. Kāsāyavatthe sakuṇe vadāmi
+Duve duve nandimane 4- carante, 
+Kaṃ aṇḍajaṃ aṇḍajā 5- mānusesu
+Jātiṃ pasajasanti tadiṅgha brūtha. 
+
+1. Yajeyya - machasaṃ 2. Bālā - machasaṃ 3. Ayājasi - machasaṃ
+4. Nandamane - machasaṃ, syā 5. Aṇḍaja - machasaṃ, syā
+
+[BJT Page 338] [\x 338/]     
+[PTS Page 521] [\q 521/]     
+1311. Ambhe manussesu manussahiṃsa
+Anubbake cakkavāke vadanti, 
+Kalyāṇabhāvambha dijesu sammatā
+Abhitarūpā vicarāma aṇṇave. 
+
+1312. Kiṃ aṇṇave kāni phalāni bhuñeja
+Maṃsaṃ kuto khādatha cakkavākā, 
+Kiṃ bhojanaṃ bhuñjatha vo anomā
+Balañca vaṇṇo ca anapparūpo. 
+
+[PTS Page 522] [\q 522/]     
+1313. Na aṇṇave panti phalāni dhaṅka
+Maṃsaṃ kuto khādituṃ cakkavāke, 
+Sevālabhakkhambha avāka 1- bhojanā
+Na ghāsahetu pakaroma pāpaṃ. +
+
+1314. Na me idaṃ ruccati cakkavāke
+Asmiṃ bhave bhojanasantikāso, 
+Ahosi me pubbe tato me aññathā
+Icceva me vimati ettha jātā. 
+
+1315. Ahampi maṃsāni phalāni bhuñeja
+Antāni ca loṇiyateliyāni, 
+Rasaṃ manussesu labhāmi hottuṃ
+Surova saṅgāma mukhambhi jetvā 2-
+Na ca me tādiso vaṇṇo
+Cakkavāka yathā tava. 
+
+[PTS Page 523] [\q 523/]     
+1316. Asuddhabhakkhosi khaṇānupāti
+Kicchena te labbhati antapānaṃ, 
+Na tussasi rukkhaphalehi dhaṅka
+Maṃsāni vā yāni susānamajjhe. 
+
+1317. Yo sāhasena adhigamma bhoge
+Paribhuñajati dhaṅka khaṇānupāti, 
+Tato upakkosati naṃ sabhāvo
+Upakkuṭṭho vaṇṇabalaṃ jahāti. 
+
+1318. Appampi ce nibbutiṃ bhuñjati yadi
+Asāhasena aparūpaghāti
+Balañca vaṇṇo ca tadasasa hoti
+Na hi sabbo āhāramayena vaṇṇoti. 
+8. Cakkavākajātakaṃ. 
+
++. Naghāsa hetupi kārāma pāpaṃ - syā machasaṃ maramma sihalapotthakesu disasti. 1.
+Apāka - machasaṃ 2. Surova saṅgāma mukhaṃ vijetvā - machasaṃ
+
+[BJT Page 340] [\x 340/]     
+[PTS Page 524] [\q 524/]     
+1319. Sutikikkhaṃ araññambhi pantambhi 1- sayanāsane, 
+Ye ca gāme titakkhanti te uḷāratarā tayā. 
+
+[PTS Page 525] [\q 525/]     
+1320. Araññā gāmamāgamma kiṃ sīlaṃ kiṃ vataṃ ahaṃ, 
+Purisaṃ tāta seveyyaṃ tamme akkhāhi pucchito. 
+
+1321. Yo te 2- visassate 3- tāta vissāsañca khameyya te, 
+Sussusi ca titikkhi ca taṃ bhajehi ito gato. 
+
+1322. Yassa kāyena vācāya manasā nanthi dukkataṃ, 
+Urasiva patiṭṭhāya taṃ bhajehi ito gato
+
+1323. Yo ca dhammena carati carantopi na maññati, 
+Visuddhakāriṃ sappaññaṃ taṃ bhajehi ito gato. 
+
+1324. Haḷiddirāgaṃ 40 kapicittaṃ purisaṃ rāgavirāginaṃ, 
+Tādisaṃ tāta mā sevi nimmanussampi ce siyā. 
+
+1325. Asi5- visaṃva kupitaṃ6- miḷhilittaṃ mahāpathaṃ, 
+Ārakā parivajjeti yāniva visamaṃ pathaṃ. 
+
+[PTS Page 526] [\q 526/]     
+1326. Anatthā tāta vaḍḍhanti bālaṃ accupasevato, 
+Māssu bālena saṅgañchi 7- amitteneva sabbadā. 
+
+1327. Taṃ tāhaṃ tāta yācāmi karassu vacanaṃ mama, 
+Māssu bālena saṅgañchi dukkho bālehi saṅgamoti. 
+9. Haḷiddirāgajātakaṃ. 
+
+1. Takatambhi - machasaṃ, syā 2. Taṃ - syā 3. Vissāsaye - machasaṃ
+4. Haḷidda - syā 5. Āsi - machasaṃ 6. Kuppitaṃ - machasaṃ
+7. Saṃgacchi - machasaṃ, syā. 
+
+[BJT Page 342] [\x 342/]     
+[PTS Page 528] [\q 528/]     
+1328. Kuto nu āgacchata bho tayo janā
+Svāgataṃ ettha 1- nisidathāsane, 
+Kaccittha bhonto kusalaṃ anāmayaṃ
+Cirassamabbhāgamanaṃ hi vo idha
+
+[PTS Page 529] [\q 529/]     
+1329. Ahameva eko idha majjhapatto
+Na cāpi me dutiyo koci vijjati, 
+Kimeva sandhāya te bhāsitaṃ ise
+Kuto nu āgacchatha bho tayo janā. 
+
+1330. Tuvañca eko hariyā ca te piyā
+Samuggapakkhittanikiṇṇamantare, 
+Sārakkhitā kucchigatāva te sadā
+Vāyussa puttena sabhā tahiṃ ratā. 
+
+[PTS Page 530] [\q 530/]     
+1331. Saṃviggarūpo isinā viyākato 2-
+So dānavo tattha samuggamuggili. 
+Addakkhi bhariyaṃ suci māladhāriniṃ 3-
+Vāyussa 4- puttena sabhā tahiṃ rataṃ. 
+
+1332. Sudiṭṭharūpuggatapānuvattinā. 
+Hinā narā ye pamadāvasaṃgatā
+Yathā have pāṇarivettha rakkhitā
+Duṭṭhā mayi aññamabhippamodati. 
+
+1333. Divā ca ratto ca mayā upaṭṭhitā
+Tapassinā jotirivā vane vasaṃ, 
+Sā dhammamokkamma adhammamācari
+Akiriyarūpo 5- pamadāhi 6- santhavo. 
+
+1334. Sarīramajjhambhi ṭhitāni maññihaṃ 7-
+Mayhaṃ ayanti asatiṃ asaññataṃ, 
+Sā dhammamokkamma adhammamācari
+Atiriyarūpo pamadāhi santhāvo. 
+
+1335. Surakkhitaṃ meti kathannu vissase
+Anekacittāsu nahettha rakkhaṇā, 
+Etā hi pātālapapātasantibhā
+Etthappamatto vyasanaṃ nigacchati. 
+
+1. Svāgatā etha - machasaṃ, syā 2. Pabyākato - syā, vyākato - machasaṃ
+3. Bhārinā machasaṃ bhariniṃ - syā 4. Harissa - machasaṃ
+5. Akriya rūpo - machasaṃ syā 6. Pamudāhi - machasaṃ syā 7. Maññāhaṃ - machasaṃ 
+[BJT Page 344] [\x 344/]     
+1336. Tasmā hi te sukhino vitasokā
+Ye mātugāmehi caranti nissaṭā, 
+Etaṃ sivaṃ uttama mābhipatthayaṃ 1-
+Na mātugāmehi kareyya santhavanti. 
+10. Samuggajātakaṃ. 
+
+[PTS Page 534] [\q 534/]     
+1337. Na kho me ruccati āḷi putimaṃssa pekkhaṇā, 
+Etādisā saṅkhārasmā ārakā parivajjaye. 
+
+1338. Ummantikā ayaṃ veṇi vaṇṇeti patino sakhiṃ, 
+Pajjhāti paṭigacchantiṃ āgataṃ meḷamātaraṃ 2-
+
+1339. Tvaṃ khosi samma ummatto dummedho avicakkhaṇo
+Yo tvaṃ matālayaṃ katvā akālena vipekkhasi. 
+
+1340. Na akāle vipekkheyya kāle pekkheyya paṇḍito, 
+Putimaṃsova pajjhāti yo akāle vipekkhati. 
+
+[PTS Page 535] [\q 535/]     
+1341. Piyaṃ kho āḷi me hotu puṇṇapattaṃ dadāhi me, 
+Pati saṃjivito mayhaṃ eyyāsi piyapucchikā. 
+
+1342. Siyaṃ kho āḷi te hotu puṇṇapattaṃ dadāhi te, 
+Mahatā parivārena phassaṃ 3- kayirāhi 4- bhojanaṃ
+
+1343. Kidiso 5- tuyhaṃ parivāro yesaṃ kāhāmi bhojanaṃ, 
+Kiṃnāmakā ca te sabbe taṃ me 6- akkhāhi pucchitā. 
+
+1344. Māliyo caturakkho ca piṅgalo atha jambuko, 
+Ediso mayhaṃ parivāro tesaṃ kayirāhi 7- bhojanaṃ. 
+
+[PTS Page 536] [\q 536/]     
+1345. Nikkhantāya agārasmā bhaṇḍakampi vinassati, 
+Ārogyaṃ āḷino vajjaṃ idheva vasa māgamāti. 
+11. Putimaṃsajātakaṃ. 
+
+[PTS Page 539] [\q 539/]     
+1346. Yo te puttake akhādi 8- dinnabhatto adusake
+Tasmiṃ dāṭhaṃ nipātehi mā te muñcittha 9- jivato 10-
+
+1347. Ākiṇṇaḷuddo puriso dhāticelaṃva makkhito, 
+Padesaṃ taṃ na passāmi yattha dāṭhaṃ 11- nipātaye. 
+
+1. Mabhipatthaya - machasaṃ 2. Meḷhaṃ - machasaṃ 3. Phasaṃ - simu
+4. Kayirāsi - simu 5. Kiṃdiso - machasaṃ 6. Teme - simu
+7. Kayirāsi - simu 8. Akkhādi - syā 9. Muccittha - simu
+10. Jivaka - syā jiviko - machasaṃ 11. Dāṭhā - syā. 
+
+[BJT Page 346] [\x 346/]     
+1348. Akataññassa posassa niccaṃ vivaradassino, 
+Sabbaṃ ce paṭhaviṃ dajjā neva naṃ abhirādhaye. 
+
+[PTS Page 540] [\q 540/]     
+1349. Kinnu subāhu taramānarūpo
+Pacchāgatosi saha māṇavena, 
+Kiṃ kiccamatthaṃ idhamatthi tuyhaṃ
+Akkhāhi me pucchito etamatthaṃ
+
+[PTS Page 541] [\q 541/]     
+1350. Yo te sakhā ddadaro sādhurūpo
+Tassa vadhaṃ parisaṅkāmi ājja, 
+Purisassa kammāyatanāni sutvā
+Nāhaṃ sukhiṃ daddaraṃ ajja maññe
+
+1351. Kānissa kammāyatanāni assu
+Purisassa vuttisamodānatāya
+Kaṃ vā paṭiññaṃ purisassa sutvā
+Parisaṅkasi daddaraṃ māṇavena. 
+
+1352. Ciṇṇā kaliṅgā caritā vaṇijjā 1-
+Ventācaro saṅkupathopi ciṇṇo, 
+Naṭehi ciṇṇaṃ saha vākurehi 2-
+Daṇḍena yuddhampi samajjamajjhe. 
+
+1353. Baddhākulikā mitamāḷhakena
+Akkhā jitā 3- saṃyamo abbhatito, appahitaṃ pupphakaṃ aḍḍharattaṃ
+Hatthā daḍḍhā piṇḍapaṭiggahena. 
+
+[PTS Page 542] [\q 542/]     
+1354. Tānissa kammāyanatāni assuṃ
+Purissasa vuttisamodhānatāya, 
+Yathā ayaṃ dissati lomapiṇḍo
+Gāvo hatā kiṃ pana daddarassāti. 
+12. Tittirajātakaṃ. 
+Gijjhavaggo paṭhamo. 
+Tassuddānaṃ: 
+Nidhisavhaya hārita pāṭaliko, 
+Ajarāmara dhaṃka titikkhakuto
+Atha dvādasa pekkhana daddariti. 
+Navakanipātaṃ niṭṭhitaṃ. 
+
+1. Vāṇijjā - machasaṃ 2. Vākarehi - a 3. Citā - simu
+
+

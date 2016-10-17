@@ -1,0 +1,449 @@
+
+Khuddakapatha:
+I. Saranattayam
+II. Dasasikkhapadam
+III. Dvattimsakaram
+IV. Kumarapanham
+V. Mangalasuttam
+VI. Ratanasuttam
+VII. Tirokuddasuttam
+VIII. Nidhikandasuttam
+IX. Mettasuttam
+
+
+Based on the edition Helmer Smith from a collation by Mabel Hunt,
+London : Pali Text Society 1915 (Reprinted 1959, 1978)
+
+
+Input by the Dhammakaya Foundation, Thailand, 1989-1996
+[GRETIL-Version vom 07.07.2016]
+
+
+NOTICE
+This file is (C) Copyright the Pali Text Society and the Dhammakaya Foundation, 2015.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+These files are provided by courtesy of the Pali Text Society for
+scholarly purposes only.
+In principle they represent a digital edition (without revision or
+correction) of the printed editions of the complete set of Pali
+canonical texts published by the PTS. While they have been subject to a
+process of checking, it should not be assumed that there is no
+divergence from the printed editions and it is strongly recommended that
+they are checked against the printed editions before quoting.
+
+
+ADDITIONAL NOTES
+Italicized catchwords of the printed edition were already reduced
+to plain Roman type in the original Dhammakaya file.
+Corrections in braces were already inserted in the original Dhammakaya file.
+
+
+ANNOTATED VERSION IN PTS LAYOUT
+
+
+
+
+
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!   
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE. 
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration 
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+
+
+Khuddakapāṭha
+
+[page 001]
+                                 1
+           NAMO TASSA BHAGAVATO ARAHATO SAMMĀSAMBUDDHASSA.
+                          Khuddaka-Pāṭha.
+                                 I.
+          Buddhaṃ saraṇaṃ gacchāmi
+          dhammaṃ saraṇaṃ gacchāmi
+          saṃghaṃ saraṇaṃ gacchāmi.
+          Dutiyam pi buddhaṃ saraṇaṃ gacchāmi
+          dutiyam pi dhammaṃ saraṇaṃ gacchāmi
+          dutiyam pi saṃghaṃ saraṇaṃ gacchāmi.
+          Tatiyam pi buddhaṃ saraṇaṃ gacchāmi
+          tatiyam pi dhammaṃ saraṇaṃ gacchāmi
+          tatiyam pi saṃghaṃ saraṇaṃ gacchāmi.
+                            SARAṆATTAYAṂ.
+                                 II.
+     1. Pāṇātipātā veramaṇī-sikkhāpadaṃ samādiyāmi,
+     2. adinnādānā veramaṇī-sikkhāpadaṃ samādiyāmi,
+     3. abrahmacariyā veramaṇī-sikkhāpadaṃ samādiyāmi,
+     4. musāvādā veramaṇī-sikkhāpadaṃ samādiyāmi,
+     5. surāmerayamajjapamādaṭṭhānā veramaṇī-sikkhāpa-
+        daṃ samādiyāmi,
+     6. vikālabhojanā veramaṇī-sikkhāpadaṃ samādiyāmi,
+     7. naccagītavāditavisūkadassanā veramaṇī-sikkhāpadaṃ
+        samādiyāmi,
+     8. mālāgandhavilepanadhāraṇa-maṇḍanavibhūsanaṭṭhā-
+        nā veramaṇī-sikkhāpadaṃ samādiyāmi,
+     9. uccāsayanamahāsayanā veramaṇī-sikkhāpadaṃ sa-
+        mādiyāmi,
+--------------------------------------------------------------------------
+
+
+[page 002]
+2                             Khuddaka-Pāṭha
+     10. jātarūparajatapaṭiggahaṇā veramaṇī-sikkhāpadaṃ
+          samādiyāmi.
+                               DASASIKKHĀPADAṂ.
+                                     III.
+     Atthi imasmiṃ kāye kesā lomā nakhā dantā taco,
+maṃsaṃ nahāru aṭṭhi aṭṭhimiñjā vakkaṃ, hadayaṃ
+yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ, antaṃ anta-
+guṇaṃ udariyaṃ karīsaṃ, pittaṃ semhaṃ pubbo lohitaṃ
+sedo medo, assu vasā kheḷo siṃghāṇikā lasikā muttaṃ,
+matthake matthaluṅgaṃ.
+                               DVATTIṂSĀKĀRAṂ.
+                                     IV.
+     Eka nāma kiṃ.* Sabbe sattā āhāraṭṭhitikā.
+     Dve nāma kiṃ. Dve* nāmañ ca rūpañ ca.
+     Tīni nāma kiṃ. Tīṇi* tisso vedanā.
+     Cattāri nāma kiṃ. Cattāri ariyasaccāni.
+     Pañca nāma kiṃ. Pañc' upādānakkhandhā.
+     Cha nāma kiṃ. Cha ajjhattikāni āyatanāni.
+     Satta nāma kiṃ. Satta bojjhaṅgā.
+     Aṭṭha nāma kiṃ. Ariyo aṭṭhaṅgiko maggo.
+     Nava nāma kiṃ. Nava sattāvāsā.
+     Dasa nāma kiṃ. Dasah' aṅgehi samannāgato arahā ti
+          vuccati.
+                                 KUMĀRAPAÑHAṂ.
+                                      V.
+     Evam me sutaṃ:
+     Ekaṃ samayaṃ Bhagavā Sāvatthiyaṃ viharati Jetavane
+Anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā
+abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ Jeta-
+vanaṃ obhāsetvā yena Bhagavā ten' upasaṃkami, upasaṃ-
+kamitvā Bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi.
+Ekamantaṃ ṭhitā kho sā devatā Bhagavantam gāthāya
+ajjhabhāsi:
+--------------------------------------------------------------------------
+* This means: "consult Commentary." See Preface.
+
+
+[page 003]
+                              Khuddaka-Pāṭha                      3
+     "Bahū devā manussā ca maṅgalāni acintayuṃ
+     ākaṃkhamānā sotthānaṃ, brūhi maṅgalam uttamaṃ."          1.
+     "Asevanā ca bālānaṃ paṇḍitānañ ca sevanā
+     pūjā ca pūjaneyyānaṃ, etam maṅgalam uttamaṃ.             2.
+     Patirūpadesavāso ca pubbe ca katapuññatā
+     attasammāpaṇidhi ca, etam maṅgalam uttamaṃ.              3.
+     Bāhusaccañ ca sippañ ca vinayo ca susikkhito
+     subhāsitā ca yā vācā, etam maṅgalam uttamaṃ.             4.
+     Mātāpitūpaṭṭhānaṃ puttadārassa saṅgaho
+     anākulā ca kammantā, etam maṅgalam uttamaṃ.              5.
+     Dānañ ca dhammacariyā ca ñātakānañ ca saṅgaho
+     anavajjāni kammāni, etam maṅgalam uttamaṃ.               6.
+     {Āratī} viratī pāpā majjapānā ca saññamo
+     appamādo ca dhammesu, etam maṅgalam uttamaṃ.             7.
+     Gāravo ca nivāto ca santuṭṭhī ca kataññutā
+     kālena dhammasavanaṃ, etam maṅgalam uttamaṃ.             8.
+     Khantī ca sovacassatā samaṇānañ ca dassanaṃ
+     kālena dhammasākacchā, etam maṅgalam uttamaṃ.            9.
+     Tapo ca brahmacariyañ ca ariyasaccānā* dassanaṃ
+     nibbānasacchikiriyā ca, etam maṅgalam uttamaṃ.          10.
+     Phuṭṭhassa lokadhammehi cittaṃ yassa na kampati
+     asokaṃ virajaṃ khemaṃ, etam maṅgalam uttamaṃ.           11.
+Etādisāni katvāna sabbattha-m-aparājitā
+sabbattha sotthiṃ* gacchanti, taṃ tesaṃ maṅgalam
+uttamaṃ."                                                    12
+                           MAṄGALASUTTAṂ NIṬṬHITAṂ.
+                                      VI.
+     Yānīdha bhūtāni samāgatāni
+     bhummāni vā yāni va antalikkhe,
+     sabbe va bhūtā sumanā bhavantu
+     atho pi sakkacca suṇantu bhāsitaṃ.                  1.
+     Tasmā hi bhūtā nisāmetha sabbe
+     mettaṃ karotha mānusiyā* pajāya,
+     divā ca ratto ca haranti ye baliṃ,
+     tasmā hi ne rakkhatha appamattā.                    2.
+     Yaṃ kiñci vittam idha vā huraṃ vā
+--------------------------------------------------------------------------
+
+
+[page 004]
+4                                Khuddaka-Pāṭha
+     saggesu vā yaṃ ratanaṃ paṇītaṃ
+     na no samaṃ atthi Tathāgatena, --
+     idam pi Buddhe ratanaṃ paṇītaṃ,
+     etena saccena suvatthi hotu.                        3.
+     Khayaṃ virāgaṃ amataṃ paṇītaṃ
+     yad ajjhagā Sakyamunī samāhito,
+     na tena dhammena sam' atthi kiñci, --
+     idam pi Dhamme ratanaṃ paṇītaṃ,
+     etena saccena suvatthi hotu.                        4.
+     Yam buddhaseṭṭho parivaṇṇayī suciṃ
+     samādhim ānantarikañ ñam āhu,
+     samādhinā tena samo na vijjati, --
+     idam pi Dhamme ratanam paṇītaṃ,
+     etena saccena suvatthi hotu.                        5.
+     Ye puggalā aṭṭha satam* pasatthā,
+     cattāri etāni yugāni honti,
+     te dakkhiṇeyyā Sugatassa sāvakā,
+     etesu dinnāni mahapphalāni, --
+     idam pi Saṃghe ratanaṃ paṇītaṃ,
+     etena saccena suvatthi hotu.                        6.
+     Ye suppayuttā manasā daḷhena
+     nikkāmino Gotamasāsanamhi,
+     te pattipattā amataṃ vigayha
+     laddhā mudhā nibbutiṃ bhuñjamānā, --
+     idam pi Saṃghe ratanaṃ paṇītaṃ,
+     etena saccena suvatthi hotu.                        7.
+     Yath' indakhīlo paṭhaviṃ sito siyā
+     catubbhi vātehi asampakampiyo,
+     tathūpamaṃ sappurisaṃ vadāmi,
+     yo ariyasaccāni avecca passati, --
+     idam pi Saṃghe ratanaṃ paṇītaṃ,
+     etena saccena suvatthi hotu.                        8.
+     Ye ariyasaccāni vibhāvayanti
+     gambhīrapaññena sudesitāni,
+     kiñcāpi te honti bhusappamattā,
+     na te bhavaṃ aṭṭhamaṃ ādiyanti, --
+     idam pi Saṃghe ratanaṃ paṇītaṃ,
+     etena saccena suvatthi hotu.                        9.
+--------------------------------------------------------------------------
+
+
+[page 005]
+                              Khuddaka-Pāṭha                      5
+     Sahā v' assa dassanasampadāya
+     tayas su dhammā jahitā bhavanti:
+     sakkāyadiṭṭhi vicikicchitañ ca
+     sīlabbataṃ vā pi yad atthi kiñci
+     catūh' apāyehi ca vippamutto
+     cha cābhiṭhānāni abhabbo kātuṃ, --
+     idam pi Saṃghe ratanaṃ paṇītaṃ,
+     etena saccena suvatthi hotu.                        10.
+     Kiñcāpi so kammaṃ karoti pāpakaṃ
+     kāyena vācā uda cetasā vā,
+     abhabbo so tassa paṭicchādāya,
+     abhabbatā diṭṭhapadassa vuttā, --
+     idam pi Saṃghe ratanaṃ paṇītaṃ,
+     etena saccena suvatthi hotu.                        11.
+     Vanappagumbe yathā phussitagge
+     gimhāna māse paṭhamasmiṃ gimhe,
+     tathūpamaṃ dhammavaraṃ adesayi
+     nibbānagāmiṃ paramaṃhitāya, --
+     idam pi Buddhe ratanam paṇītaṃ,
+     etena saccena suvatthi hotu.                        12.
+     Varo varaññū varado varāharo
+     anuttaro dhammavaraṃ adesayi, --
+     idam pi Buddhe ratanaṃ paṇītaṃ,
+     etena saccena suvatthi hotu.                        13.
+     'Khīṇaṃ purāṇaṃ, navaṃ n' atthi-sambhavaṃ'
+     virattacittā āyatike bhavasmiṃ
+     te khīṇabījā avirūḷhichandā
+     nibbanti dhīrā yathāyam padīpo, --
+     idam pi Saṃghe ratanaṃ paṇītaṃ,
+     etena saccena suvatthi hotu.                        14.
+     Yānīdha bhūtāni samāgatāni
+     bhummāni vā yāni va antalikkhe,
+     tathāgataṃ devamanussapūjitaṃ
+     Buddhaṃ namassāma, suvatthi hotu.                   15.
+     Yānīdha bhūtāni samāgatāni
+     bhummāni vā yāni va antalikkhe,
+     tathāgataṃ devamanussapūjitaṃ
+--------------------------------------------------------------------------
+
+
+[page 006]
+6                             Khuddaka-Pāṭha
+     Dhammaṃ namassāma, suvatthi hotu.                   16.
+     Yānīdha bhūtāni samāgatāni
+     bhummāni vā yāni va antalikkhe,
+     tathāgataṃ devamanussapūjitaṃ
+     Saṃghaṃ namassāma, suvatthi hotu.                   17.
+                            RATANASUTTAṂ NIṬṬHITAṂ.
+                                     VII.
+     Tiro-kuḍḍesu tiṭṭhanti sandhisiṃghāṭakesu ca
+     dvārabāhāsu tiṭṭhanti āgantvāna sakaṃ gharaṃ,             1.
+     pahūte* annapānamhi khajjabhojje upaṭṭhite
+     na tesaṃ koci sarati sattānaṃ kammapaccayā.               2.
+     Evaṃ dadanti ñātīnaṃ ye honti anukampakā
+     suciṃ paṇītaṃ kālena kappiyaṃ pānabhojanaṃ:               3.
+     'idaṃ vo ñātinaṃ hotu, sukhitā hontu ñātayo.'
+     Te ca tattha samāgantvā ñātipetā samāgatā                 4.
+     pahūte annapānamhi sakkaccaṃ anumodare:
+     'ciraṃ jīvantu no ñātī, yesaṃ hetu labhāmase;             5.
+     amhākañ ca katā pūjā dāyakā ca anipphalā.'
+     Na hi tattha kasī atthi, gorakkh' ettha na vijjati,       6.
+     vaṇijjā tādisī n' atthi hiraññena kayakkayaṃ,
+     ito dinnena yāpenti petā kālagatā* tahiṃ.                 7.
+     Unname udakaṃ vaṭṭaṃ yathā ninnaṃ pavattati,
+     evam eva ito dinnaṃ petānaṃ upakappati.                   8.
+     Yathā vārivahā pūrā paripūrenti sāgaraṃ,
+     evam eva ito dinnaṃ petānaṃ upakappati.                   9.
+     'Adāsi me, akāsi me, ñātimittā sakhā ca me'
+     petānaṃ dakkhiṇaṃ* dajjā pubbe katam anussaraṃ.          10.
+     Na hi ruṇṇaṃ vā soko vā yā c' aññā paridevanā,
+     na taṃ petānaṃ atthāya: evaṃ tiṭṭhanti ñātayo.           11.
+     Ayañ ca kho dakkhiṇā dinnā saṃghamhi suppatiṭṭhitā
+     dīgharattaṃ hitāy' assa ṭhānaso upakappati.              12.
+     So ñātidhammo ca ayaṃ nidassito,
+     petānaṃ pūjā ca katā uḷārā,
+     balañ ca bhikkhūnam anuppadinnaṃ,
+     tumhehi puññaṃ pasutaṃ anappakaṃ.                        13.
+                          TIROKUḌḌASUTTAṂ NIṬṬHITAṂ.
+--------------------------------------------------------------------------
+
+
+[page 007]
+                        Khuddaka-Pāṭha                            7
+                              VIII.
+     Nidhiṃ nidheti puriso gambhīre odakantike:
+     'atthe kicce samuppanne atthāya me bhavissati             1.
+     rājato vā duruttassa corato pīḷitassa vā,
+     iṇassa vā pamokkhāya, dubbhikkhe āpadāsu vā';
+     etadatthāya lokasmiṃ nidhi nāma nidhīyate.                2.
+     Tāva-sunihito santo gambhīre odakantike
+     na sabbo sabbadā eva tassa taṃ upakappati:                3.
+     nidhī vā ṭhānā cavati, saññā vāssa vimuyhati,
+     nāgā vā apanāmenti yakkhā vā pi haranti naṃ               4.
+     appiyā vā pi dāyādā uddharanti apassato;
+     yadā puññakkhayo hoti, sabbam etaṃ vinassati.             5.
+     Yassa dānena sīlena saṃyamena damena ca
+     nidhī sunihito hoti itthiyā purisassa vā                  6.
+     cetiyamhi va saṃghe vā puggale atithīsu vā
+     mātari pitari vā pi atho jeṭṭhamhi bhātari,               7.
+     eso nidhi sunihito ajeyyo* anugāmiko,
+     pahāya gamanīyesu etaṃ ādāya gacchati                     8.
+     asādhāraṇam aññesaṃ*: acorāharaṇo nidhi;
+     kayirātha dhīro puññāni, yo nidhi anugāmiko.              9.
+     Esa devamanussānaṃ sabbakāmadado nidhi,
+     yaṃ yad evābhipatthenti, sabbam etena labbhati:          10.
+     suvaṇṇatā sussaratā susaṇṭhānasurūpatā
+     ādhipaccaparivāro*, sabbam etena labbhati,               11.
+     padesarajjaṃ issariyaṃ cakkavattisukham pi yaṃ*
+     devarajjam pi dibbesu, sabbam etena labbhati,            12.
+     mānusikā ca sampatti devaloke ca yā rati
+     yā ca nibbānasampatti, sabbam etena labbhati,            13.
+     mittasampadam āgamma yoniso ve payuñjato
+     vijjā vimutti vasībhāvo, sabbam etena labbhati,          14.
+     paṭisambhidā vimokkhā ca yā ca sāvakapāramī
+     paccekabodhi buddhabhūmi, sabbam etena labbhati;         15.
+     evaṃ mahatthikā* esā yadidaṃ puññasampadā,
+     tasmā dhīrā pasaṃsanti paṇḍitā katapuññataṃ.             16.
+                          NIDHIKAṆḌASUTTAṂ NIṬṬHITAṂ.
+--------------------------------------------------------------------------
+
+
+[page 008]
+8                          Khuddaka-Pāṭha
+                                      IX.
+     Karaṇīyam atthakusalena
+     yan taṃ santaṃ padaṃ abhisamecca
+     sakko ujū ca sūjū ca
+     suvaco c' assa mudu anatimānī                        1.
+     santussako ca subharo ca
+     appakicco ca sallahukavutti
+     santindriyo ca nipako ca
+     appagabbho kulesu ananugiddho,                       2.
+     na ca khuddaṃ samācare kiñci
+     yena viññū pare upavadeyyuṃ.
+     Sukhino vā khemino hontu
+     sabbe sattā bhavantu sukhitattā:                     3.
+     ye keci pāṇabhūt' atthi
+     tasā vā thāvarā vā anavasesā
+     dīghā vā ye mahantā vā
+     majjhimā rassakā aṇukathūlā,                         4.
+     diṭṭhā vā ye vā addiṭṭhā
+     ye ca dūre vasanti avidūre,
+     bhūtā vā sambhavesī vā;
+     sabbe sattā bhavantu sukhitattā.                     5.
+     Na paro paraṃ nikubbetha*
+     nātimaññetha katthacinaṃ* kañci,
+     vyārosanā paṭighasaññā
+     nāññamaññassa dukkham iccheyya.                      6.
+     Mātā yathā niyaṃ puttaṃ
+     āyusā ekaputtam anurakkhe,
+     evam pi sabbabhūtesu
+     mānasam bhāvaye aparimāṇaṃ.                          7.
+     Mettañ ca sabbalokasmiṃ
+     mānasam bhāvaye aparimāṇaṃ
+     uddhaṃ adho ca tiriyañ ca
+     asambādhaṃ averaṃ asapattaṃ.                         8.
+     Tiṭṭhaṃ caraṃ nisinno vā
+     sayāno vā yāvat' assa vigatamiddho,
+     etaṃ satiṃ adhiṭṭheyya;
+     brahmam etaṃ vihāraṃ idha-m-āhu.                     9.
+--------------------------------------------------------------------------
+
+
+[page 009]
+                          Khuddaka-Pāṭha                          9
+     Diṭṭhiñ ca anupagamma
+     sīlavā dassanena sampanno
+     kāmesu vineyya gedhaṃ
+     na hi jātu gabbhaseyyaṃ punar eti.                  10.
+                            METTASUTTAṂ NIṬṬHITAṂ.
+                      KHUDDAKAPĀṬHAPPAKARAṆAṂ NIṬṬHITAṂ.
+--------------------------------------------------------------------------
+

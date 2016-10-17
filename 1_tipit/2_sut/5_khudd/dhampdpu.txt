@@ -1,0 +1,1961 @@
+
+
+Dhammapada
+Based on the edition by O. v. Hinüber and K.R. Norman, London : Pali Text Society 1995
+
+
+
+Input by the Dhammakaya Foundation, Thailand, 1989-1996
+[GRETIL-Version vom 4.9.2014]
+
+
+
+NOTICE
+These files are provided by courtesy of the Pali Text Society for
+scholarly purposes only.
+In principle they represent a digital edition (without revision or
+correction) of the printed editions of the complete set of Pali
+canonical texts published by the PTS. While they have been subject to a
+process of checking, it should not be assumed that there is no
+divergence from the printed editions and it is strongly recommended that
+they are checked against the printed editions before quoting.
+
+
+
+PLAIN TEXT VERSION
+(In order to fascilitate word search, all annotations have been remove, 
+and the line breaks of the printed edition have been converted into floating text.)
+
+
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+
+
+
+
+[page 001]
+                                 1
+                             Dhammapada
+                          1. Yamakavagga
+manopubbaṅgamā dhammā manoseṭṭhā manomayā,  /
+manasā ce paduṭṭhena bhāsatī vā karoti vā  /
+tato naṃ dukkham anveti cakkaṃ va vahato padaṃ. // Dhp_1 //
+
+manopubbaṅgamā dhammā manoseṭṭhā manomayā,  /
+manasā ce pasannena bhāsatī vā karoti vā  /
+tato naṃ sukham anveti chāyā va anapāyinī. // Dhp_2 //
+
+"akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me",  /
+ye taṃ upanayhanti veraṃ tesaṃ na sammati. // Dhp_3 //
+
+
+
+[page 002]
+2                            Dhammapada
+"akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me",  /
+ye taṃ na upanayhanti veraṃ tes'; ūpasammati. // Dhp_4 //
+
+na hi verena verāni sammant'; idha kudācana      /
+averena ca sammanti, esa dhammo sanantano. // Dhp_5 //
+
+pare ca na vijānanti: "mayam ettha yamāmase",  /
+ye ca tattha vijānanti tato sammanti medhagā. // Dhp_6 //
+
+subhānupassiṃ viharantaṃ indriyesu asaṃvutaṃ  /
+bhojanamhi cāmattaññuṃ kusītaṃ hīnavīriyaṃ  /
+taṃ ve pasahatī Māro vāto rukkhaṃ va dubbalaṃ. // Dhp_7 //
+
+
+
+[page 003]
+                         1. Yamakavagga                 3
+asubhānupassiṃ viharantaṃ indriyesu susaṃvutaṃ  /
+bhojanamhi ca mattaññuṃ saddhaṃ āraddhavīriyaṃ  /
+taṃ ve na-ppasahatī Māro vāto selaṃ va pabbataṃ. // Dhp_8 //
+
+anikkasāvo kāsāvaṃ yo vatthaṃ paridahessati  /
+apeto damasaccena na so kāsāvam arahati. // Dhp_9 //
+
+yo ca vantakasāv'; assa sīlesu susamāhito  /
+upeto damasaccena sa ve kāsāvam arahati. // Dhp_10 //
+
+asāre sāramatino sāre cāsāradassino  /
+te sāraṃ nādhigacchanti micchāsaṃkappagocarā. // Dhp_11 //
+
+sārañ ca sārato ñatvā asārañ ca asārato  /
+te sāraṃ adhigacchanti sammāsaṃkappagocarā. // Dhp_12 //
+
+
+[page 004]
+4                            Dhammapada
+
+yathā agāraṃ ducchannaṃ vuṭṭhi samativijjhati  /
+evaṃ abhāvitaṃ cittaṃ rāgo samativijjhati. // Dhp_13 //
+
+yathā agāraṃ succhannaṃ vuṭṭhi na samativijjhati  /
+evaṃ subhāvitaṃ cittaṃ rāgo na samativijjhati. // Dhp_14 //
+
+idha socati pecca socati pāpakārī ubhayattha socati,  /
+so socati so vihaññati disvā kammakiliṭṭham attano. // Dhp_15 //
+
+idha modati pecca modati katapuñño ubhayattha modati,  /
+so modati so pamodati disvā kammavisuddhim attano. // Dhp_16 //
+
+
+[page 005]
+                         1. Yamakavagga                 5
+
+idha tappati pecca tappati pāpakārī ubhayattha tappati,  /
+"pāpaṃ me katan" ti tappati. bhiyyo tappati duggatiṃ gato. // Dhp_17 //
+
+idha nandati pecca nandati katapuñño ubhayattha nandati,  /
+"puññaṃ me katan" ti nandati. bhiyyo nandati suggatiṃ gato. // Dhp_18 //
+
+bahum pi ce sahitaṃ bhāsamāno na takkaro hoti naro pamatto  /
+gopo va gāvo gaṇayaṃ paresaṃ na bhāgavā sāmaññassa hoti. // Dhp_19 //
+
+
+
+[page 006]
+6                            Dhammapada
+appam pi ce sahitaṃ bhāsamāno dhammassa hoti anudhammacārī  /
+rāgañ ca dosañ ca pahāya mohaṃ sammappajāno suvimuttacitto  /
+anupādiyāno idha vā huraṃ vā sa bhāgavā sāmaññassa hoti. // Dhp_20 //
+
+                        Yamakavaggo paṭhamo
+
+
+[page 007]
+                                 7
+                         2. Appamādavagga
+appamādo amatapadaṃ pamādo maccuno padaṃ,  /
+appamattā na mīyanti ye pamattā yathā matā. // Dhp_21 //
+
+etaṃ visesato ñatvā appamādamhi paṇḍitā  /
+appamāde pamodanti ariyānaṃ gocare ratā. // Dhp_22 //
+
+te jhāyino sātatikā niccaṃ daḷhaparakkamā  /
+phusanti dhīrā nibbānaṃ yogakkhemaṃ anuttaraṃ. // Dhp_23 //
+
+uṭṭhānavato satīmato sucikammassa nisammakārino  /
+saññatassa ca dhammajīvino appamattassa yaso 'bhivaḍḍhati. // Dhp_24 //
+
+
+
+[page 008]
+8                            Dhammapada
+uṭṭhānen'; appamādena saññamena damena ca  /
+dīpaṃ kayirātha medhāvī yaṃ ogho nābhikīrati. // Dhp_25 //
+
+pamādam anuyuñjanti bālā dummedhino janā  /
+appamādañ ca medhāvī dhanaṃ seṭṭhaṃ va rakkhati. // Dhp_26 //
+
+mā pamādam anuyuñjetha mā kāmaratisanthavaṃ,  /
+appamatto hi jhāyanto pappoti vipulaṃ sukhaṃ. // Dhp_27 //
+
+pamādaṃ appamādena yadā nudati paṇḍito  /
+paññāpāsādaṃ āruyha asoko sokiniṃ pajaṃ  /
+pabbataṭṭho va bhummaṭṭhe dhīro bāle avekkhati. // Dhp_28 //
+
+
+
+[page 009]
+                         2. Appamādavagga               9
+appamatto pamattesu suttesu bahujāgaro  /
+abalassaṃ va sīghasso hitvā yāti sumedhaso. // Dhp_29 //
+
+appamādena Maghavā devānaṃ seṭṭhataṃ gato,  /
+appamādaṃ pasaṃsanti pamādo garahito sadā. // Dhp_30 //
+
+appamādarato bhikkhu pamāde bhayadassivā  /
+saññojanaṃ aṇuṃthūlaṃ ḍahaṃ aggī va gacchati. // Dhp_31 //
+
+appamādarato bhikkhu pamāde bhayadassivā  /
+abhabbo parihānāya nibbānass'; eva santike. // Dhp_32 //
+
+                        Appamādavaggo dutiyo
+
+
+[page 010]
+                                 10
+                          3. Cittavagga
+phandanaṃ capalaṃ cittaṃ dūrakkhaṃ dunnivārayaṃ  /
+ujuṃ karoti medhāvī usukāro va tejanaṃ. // Dhp_33 //
+
+vārijo va thale khitto okamokata ubbhato  /
+pariphandat'; idaṃ cittaṃ Māradheyyaṃ pahātave. // Dhp_34 //
+
+dunniggahassa lahuno yatthakāmanipātino  /
+cittassa damatho sādhu, cittaṃ dantaṃ sukhāvahaṃ. // Dhp_35 //
+
+sududdasaṃ sunipuṇaṃ yatthakāmanipātinaṃ  /
+cittaṃ rakkhetha medhāvī, cittaṃ guttaṃ sukhāvahaṃ. // Dhp_36 //
+
+
+
+[page 011]
+                          3. Cittavagga                 11
+dūraṅgamaṃ ekacaraṃ asarīraṃ guhāsayaṃ  /
+ye cittaṃ saññamessanti mokkhanti Mārabandhanā. // Dhp_37 //
+
+anavaṭṭhitacittassa saddhammaṃ avijānato  /
+pariplavapasādassa paññā na paripūrati. // Dhp_38 //
+
+anavassutacittassa ananvāhatacetaso  /
+puññapāpapahīnassa n'; atthi jāgarato bhayaṃ. // Dhp_39 //
+
+kumbhūpamaṃ kāyam imaṃ viditvā nagarūpamaṃ cittam idaṃ ṭhapetvā  /
+yodhetha Māraṃ paññāvudhena jitañ ca rakkhe anivesano siyā. // Dhp_40 //
+
+
+
+[page 012]
+12                           Dhammapada
+aciraṃ vat'; ayaṃ kāyo paṭhaviṃ adhisessati  /
+chuddho apetaviññāṇo niratthaṃ va kaliṅgaraṃ. // Dhp_41 //
+
+diso disaṃ yan taṃ kayirā verī vā pana verinaṃ,  /
+micchāpaṇihitaṃ cittaṃ pāpiyo naṃ tato kare. // Dhp_42 //
+
+na taṃ mātā pitā kayirā aññe vāpi ca ñātakā,  /
+sammāpaṇihitaṃ cittaṃ seyyaso naṃ tato kare. // Dhp_43 //
+
+                        Cittavaggo tatiyo
+
+
+[page 013]
+                                 13
+                           4. Pupphavagga
+ko imaṃ paṭhaviṃ vijessati Yamalokaṃ ca imaṃ sadevakaṃ ?  /
+ko dhammapadaṃ sudesitaṃ kusalo puppham iva-ppacessati ? // Dhp_44 //
+
+sekho paṭhaviṃ vijessati Yamalokaṃ ca imaṃ sadevakaṃ.  /
+sekho dhammapadaṃ sudesitaṃ kusalo puppham iva-ppacessati. // Dhp_45 //
+
+pheṇūpamaṃ kāyam imaṃ viditvā marīcidhammaṃ abhisambudhāno  /
+chetvāna Mārassa papupphakāni adassanaṃ maccurājassa gacche. // Dhp_46 //
+
+
+
+[page 014]
+14                           Dhammapada
+pupphāni h'; eva pacinantaṃ vyāsattamanasaṃ naraṃ  /
+suttaṃ gāmaṃ mahogho va maccu ādāya gacchati. // Dhp_47 //
+
+pupphāni h'; eva pacinantaṃ vyāsattamanasaṃ naraṃ  /
+atittaṃ yeva kāmesu antako kurute vasaṃ. // Dhp_48 //
+
+yathāpi bhamaro pupphaṃ vaṇṇagandhaṃ aheṭhayaṃ  /
+paleti rasam ādāya evaṃ gāme munī care. // Dhp_49 //
+
+na paresaṃ vilomāni, na paresaṃ katākataṃ  /
+attano va avekkheyya katāni akatāni ca. // Dhp_50 //
+
+
+[page 015]
+                           4. Pupphavagga               15
+yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ agandhakaṃ  /
+evaṃ subhāsitā vācā aphalā hoti akubbato. // Dhp_51 //
+
+yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ sagandhakaṃ  /
+evaṃ subhāsitā vācā saphalā hoti sakubbato. // Dhp_52 //
+
+yathāpi puppharāsimhā kayirā mālāguṇe bahū  /
+evaṃ jātena maccena kattabbaṃ kusalaṃ bahuṃ. // Dhp_53 //
+
+na pupphagandho paṭivātam eti na candanaṃ tagaramallikā vā  /
+satañ ca gandho paṭivātam eti sabbā disā sappuriso pavāti. // Dhp_54 //
+
+
+
+[page 016]
+16                            Dhammapada
+candanaṃ tagaraṃ vāpi uppalaṃ atha vassikī   /
+etesaṃ gandhajātānaṃ sīlagandho anuttaro. // Dhp_55 //
+
+appamatto ayaṃ gandho yāyaṃ tagaracandanī  /
+yo ca sīlavataṃ gandho vāti devesu uttamo. // Dhp_56 //
+
+tesaṃ sampannasīlānaṃ appamādavihārinaṃ  /
+sammadaññāvimuttānaṃ Māro maggaṃ na vindati. // Dhp_57 //
+
+yathā saṃkāradhānasmiṃ ujjhitasmiṃ mahāpathe  /
+padumaṃ tattha jāyetha sucigandhaṃ manoramaṃ, // Dhp_58 //
+
+evaṃ saṃkārabhūtesu andhabhūte puthujjane  /
+atirocati paññāya sammāsambuddhasāvako. // Dhp_59 //
+
+                          pupphavaggo catuttho
+
+
+[page 017]
+                                 17
+                            5. Bālavagga
+dīghā jāgarato rattī dīghaṃ santassa yojanaṃ  /
+dīgho bālānaṃ saṃsāro saddhammaṃ avijānataṃ. // Dhp_60 //
+
+carañ ce nādhigaccheyya seyyaṃ sadisam attano  /
+ekacariyaṃ daḷhaṃ kayirā n'; atthi bāle sahāyatā. // Dhp_61 //
+
+"puttā m'; atthi dhanaṃ m'; atthi" iti bālo vihaññati  /
+attā hi attano n'; atthi kuto puttā kuto dhanaṃ. // Dhp_62 //
+
+yo bālo maññatī balyaṃ paṇḍito vāpi tena so,  /
+bālo ca paṇḍitamānī sa ve bālo ti vuccati. // Dhp_63 //
+
+
+[page 018]
+18                            Dhammapada
+
+yāvajīvam pi ce bālo paṇḍitaṃ payirupāsati  /
+na so dhammaṃ vijānāti dabbī sūparasaṃ yathā. // Dhp_64 //
+
+muhuttam api ce viññū paṇḍitaṃ payirupāsati  /
+khippaṃ dhammaṃ vijānāti jivhā sūparasaṃ yathā. // Dhp_65 //
+
+caranti bālā dummedhā amitteneva attanā  /
+karontā pāpakaṃ kammaṃ yaṃ hoti kaṭukapphalaṃ. // Dhp_66 //
+
+na taṃ kammaṃ kataṃ sādhu yaṃ katvā anutappati  /
+yassa assumukho rodaṃ vipākaṃ paṭisevati. // Dhp_67 //
+
+tañ ca kammaṃ kataṃ sādhu yaṃ katvā nānutappati  /
+yassa patīto sumano vipākaṃ paṭisevati. // Dhp_68 //
+
+
+
+[page 019]
+                            5. Bālavagga                19
+madhuvā maññatī bālo yāva pāpaṃ na paccati  /
+yadā ca paccatī pāpaṃ atha bālo dukkhaṃ nigacchati. // Dhp_69 //
+
+māse māse kusaggena bālo bhuñjetha bhojanaṃ  /
+na so saṃkhatadhammānaṃ kalaṃ nāgghati soḷasiṃ. // Dhp_70 //
+
+na hi pāpaṃ kataṃ kammaṃ sajju khīraṃ va mucchati  /
+ḍahantam bālam anveti bhasmācchanno va pāvako. // Dhp_71 //
+
+
+
+[page 020]
+20                            Dhammapada
+yāvad eva anatthāya ñattaṃ bālassa jāyati  /
+hanti bālassa sukkaṃsaṃ muddham assa vipātayaṃ. // Dhp_72 //
+
+asataṃ bhāvanam iccheyya purekkhārañ ca bhikkhusu  /
+āvāsesu ca issariyaṃ pūjā parakulesu ca.   // Dhp_73 //
+
+"mam'; eva kata maññantu gihī pabbajitā ubho,  /
+mam'; evātivasā assu kiccākiccesu kismici",  /
+iti bālassa saṃkappo, icchā māno ca vaḍḍhati. // Dhp_74 //
+
+aññā hi lābhūpanisā aññā nibbānagāminī,  /
+evam etaṃ abhiññāya bhikkhu Buddhassa sāvako  /
+sakkāraṃ nābhinandeyya vivekam anubrūhaye. // Dhp_75 //
+
+
+[page 021]
+                            5. Bālavagga                21
+
+                            Bālavaggo pañcamo
+
+
+[page 022]
+                                   22
+                            6. Paṇḍitavagga
+nidhīnaṃ va pavattāraṃ yaṃ passe vajjadassinaṃ  /
+niggayhavādiṃ medhāviṃ tādisaṃ paṇḍitaṃ bhaje,  /
+tādisaṃ bhajamānassa seyyo hoti na pāpiyo. // Dhp_76 //
+
+ovadeyyānusāseyya asabbhā ca nivāraye,  /
+sataṃ hi so piyo hoti asataṃ hoti appiyo. // Dhp_77 //
+
+na bhaje pāpake mitte na bhaje purisādhame,  /
+bhajetha mitte kalyāṇe bhajetha purisuttame. // Dhp_78 //
+
+dhammapīti sukhaṃ seti vipasannena cetasā,  /
+ariyappavedite dhamme sadā ramati paṇḍito. // Dhp_79 //
+
+udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ  /
+
+
+[page 023]
+                         6. Paṇḍitavagga                23
+dāruṃ namayanti tacchakā attānaṃ damayanti paṇḍitā. // Dhp_80 //
+
+selo yathā ekaghano vātena na samīrati  /
+evaṃ nindāpasaṃsāsu na samiñjanti paṇḍitā. // Dhp_81 //
+
+yathāpi rahado gambhīro vipasanno anāvilo  /
+evaṃ dhammāni sutvāna vippasīdanti paṇḍitā. // Dhp_82 //
+
+sabbattha ve sappurisā vajanti, na kāmakāmā lapayanti santo,  /
+sukhena phuṭṭhā athavā dukhena na uccāvacaṃ paṇḍitā dassayanti. // Dhp_83 //
+
+
+
+[page 024]
+24                            Dhammapada
+na attahetu na parassa hetu na puttam icche na dhanaṃ na raṭṭhaṃ  /
+na iccheyya adhammena samiddhim attano sa sīlavā paññavā dhammiko siyā. // Dhp_84 //
+
+appakā te manussesu ye janā pāragāmino,  /
+athāyaṃ itarā pajā tīram evānudhāvati. // Dhp_85 //
+
+ye ca kho sammadakkhāte dhamme dhammānuvattino  /
+te janā pāram essanti, maccudheyyaṃ suduttaraṃ. // Dhp_86 //
+
+kaṇhaṃ dhammaṃ vippahāya sukkaṃ bhāvetha paṇḍito,  /
+okā anokaṃ āgamma viveke yattha dūramaṃ. // Dhp_87 //
+
+
+
+[page 025]
+                         6. Paṇḍitavagga                25
+tatrābhiratim iccheyya, hitvā kāme akiñcano  /
+pariyodapeyya attānaṃ cittaklesehi paṇḍito. // Dhp_88 //
+
+yesaṃ sambodhi-aṅgesu sammā cittaṃ subhāvitaṃ  /
+ādānapaṭinissagge anupādāya ye ratā  /
+khīṇāsavā jutīmanto te loke parinibbutā.2  // Dhp_89 //
+
+                         Paṇḍitavaggo chaṭṭho
+
+
+
+[page 026]
+                                 26
+                        7. Arahantavagga
+gataddhino visokassa vippamuttassa sabbadhi  /
+sabbaganthappahīnassa pariḷāho na vijjati. // Dhp_90 //
+
+uyyuñjanti satīmanto na nikete ramanti te  /
+haṃsā va pallalam hitvā okamokaṃ jahanti te. // Dhp_91 //
+
+yesaṃ sannicayo n'; atthi ye pariññātabhojanā  /
+suññato animitto ca vimokho yesaṃ gocaro  /
+ākāse va sakuntānaṃ gati tesaṃ durannayā. // Dhp_92 //
+
+yassāsavā parikkhīṇā āhāre ca anissito  /
+suññato animitto ca vimokho yassa gocaro  /
+ākāse va sakuntānaṃ padaṃ tassa durannayaṃ.4  // Dhp_93 //
+
+
+
+[page 027]
+                        7. Arahantavagga                27
+
+yass'; indriyāni samathaṃ gatāni assā yathā sārathinā sudantā  /
+pahīnamānassa anāsavassa     devāpi tassa pihayanti tādino. // Dhp_94 //
+
+paṭhavīsamo no virujjhati indakhīlūpamo tādi subbato  /
+rahado va apetakaddamo saṃsārā na bhavanti tādino. // Dhp_95 //
+
+santaṃ tassa manaṃ hoti santā vācā ca kamma ca  /
+sammadaññāvimuttassa upasantassa tādino. // Dhp_96 //
+
+assaddho akataññū ca sandhicchedo ca yo naro  /
+hatāvakāso vantāso sa ve uttamaporiso. // Dhp_97 //
+
+
+[page 028]
+28                            Dhammapada
+
+gāme vā yadi vāraññe ninne vā yadi vā thale  /
+yatth'; arahanto viharanti taṃ bhūmiṃ rāmaṇeyyakaṃ. // Dhp_98 //
+
+ramaṇīyāni araññāni, yattha na ramatī jano  /
+vītarāgā ramissanti, na te kāmagavesino. // Dhp_99 //
+
+                        Arahantavaggo sattamo
+
+
+[page 029]
+                                29
+                         8. Sahassavagga
+sahassam api ce vācā anatthapadasaṃhitā  /
+ekam atthapadaṃ seyyo yaṃ sutvā upasammati. // Dhp_100 //
+
+sahassam api ce gāthā anatthapadasaṃhitā  /
+ekaṃ gāthāpadaṃ seyyo yaṃ sutvā upasammati. // Dhp_101 //
+
+yo ca gāthāsataṃ bhāse anatthapadasaṃhitā  /
+ekaṃ dhammapadaṃ seyyo yaṃ sutvā upasammati. // Dhp_102 //
+
+yo sahassaṃ sahassena saṅgāme mānuse jine  /
+ekañ ca jeyya-m-attānaṃ sa ve saṅgāmajuttamo. // Dhp_103 //
+
+
+
+[page 030]
+30                            Dhammapada
+attā have jitaṃ seyyo yā cāyaṃ itarā pajā,  /
+attadantassa posassa niccaṃ saññatacārino. // Dhp_104 //
+
+n'; eva devo na gandhabbo na Māro saha Brahmunā  /
+jitaṃ apajitaṃ kayirā tathārūpassa jantuno. // Dhp_105 //
+
+māse māse sahassena yo yajetha sataṃsamaṃ  /
+ekañ ca bhāvitattānaṃ muhuttam api pūjaye,  /
+sā yeva pūjanā seyyo yañ ce vassasataṃ hutaṃ. // Dhp_106 //
+
+yo ca vassasataṃ jantu aggiṃ paricare vane  /
+ekañ ca bhāvitattānaṃ muhuttam api pūjaye,  /
+sā yeva pūjanā seyyo yañ ce vassasataṃ hutaṃ. // Dhp_107 //
+
+
+
+[page 031]
+                         8. Sahassavagga                31
+yaṃ kiñci yiṭṭhañ ca hutañ ca loke saṃvaccharaṃ yajetha puññapekho  /
+sabbam pi taṃ na catubhāgam eti, abhivādanā ujjugatesu seyyo. // Dhp_108 //
+
+abhivādanasīlissa niccaṃ vaddhāpacāyino  /
+cattāro dhammā vaḍḍhanti: āyu vaṇṇo sukhaṃ balaṃ. // Dhp_109 //
+
+yo ca vassasataṃ jīve dussīlo asamāhito   /
+ekāhaṃ jīvitaṃ seyyo sīlavantassa jhāyino. // Dhp_110 //
+
+yo ca vassasataṃ jīve duppañño asamāhito   /
+ekāhaṃ jīvitaṃ seyyo paññāvantassa jhāyino. // Dhp_111 //
+
+
+
+[page 032]
+32                            Dhammapada
+yo ca vassasataṃ jīve kusīto hīnavīriyo   /
+ekāhaṃ jīvitaṃ seyyo viriyam ārabhato daḷhaṃ. // Dhp_112 //
+
+yo ca vassasataṃ jīve apassaṃ udayavyayaṃ   /
+ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ. // Dhp_113 //
+
+yo ca vassasataṃ jīve apassaṃ amataṃ padaṃ   /
+ekāhaṃ jīvitaṃ seyyo passato amataṃ padaṃ. // Dhp_114 //
+
+yo ca vassasataṃ jīve apassaṃ dhammam uttamaṃ   /
+ekāhaṃ jīvitaṃ seyyo passato dhammam uttamam. // Dhp_115 //
+
+                         Sahassavaggo aṭṭhamo
+
+
+
+
+[page 033]
+                                 33
+                            9. Pāpavagga
+abhittharetha kalyāṇe pāpā cittaṃ nivāraye,  /
+dandhaṃ hi karoto puññaṃ pāpasmiṃ ramatī mano. // Dhp_116 //
+
+pāpañ ce puriso kayirā na taṃ kayirā punappunaṃ,  /
+na tamhi chandaṃ kayirātha, dukkho pāpassa uccayo. // Dhp_117 //
+
+puññañ ce puriso kayirā kayirāth'; enaṃ punappunaṃ,  /
+tamhi chandaṃ kayirātha, sukho puññassa uccayo. // Dhp_118 //
+
+pāpo pi passatī bhadraṃ yāva pāpaṃ na paccati,  /
+yadā ca paccatī pāpaṃ atha pāpo pāpāni passati. // Dhp_119 //
+
+
+[page 034]
+34                            Dhammapada
+
+bhadro pi passatī pāpaṃ yāva bhadraṃ na paccati,  /
+yadā ca paccatī bhadraṃ atha bhadro bhadrāni passati. // Dhp_120 //
+
+māppamaññetha pāpassa "na man taṃ āgamissati",  /
+udabindunipātena udakumbho pi pūrati,  /
+bālo pūrati pāpassa thokathokam pi ācinaṃ. // Dhp_121 //
+
+māppamaññetha puññassa "na man taṃ āgamissati",  /
+udabindunipātena udakumbho pi pūrati,  /
+dhīro pūrati puññassa thokathokam pi ācinaṃ. // Dhp_122 //
+
+
+[page 035]
+                            9. Pāpavagga                35
+
+vāṇijo va bhayaṃ maggaṃ appasattho mahaddhano  /
+visaṃ jīvitukāmo va pāpāni parivajjaye. // Dhp_123 //
+
+pāṇimhi ce vaṇo nāssa hareyya pāṇinā visaṃ,  /
+nābbaṇaṃ visam anveti, n'; atthi pāpaṃ akubbato. // Dhp_124 //
+
+yo appaduṭṭhassa narassa dussati suddhassa posassa anaṅgaṇassa  /
+tam eva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃ va khitto. // Dhp_125 //
+
+gabbham eke upapajjanti nirayaṃ pāpakammino,  /
+saggaṃ sugatino yanti parinibbanti anāsavā. // Dhp_126 //
+
+
+[page 036]
+36                            Dhammapada
+
+na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa  /
+na vijjatī so jagatippadeso yatthaṭṭhito muñceyya pāpakammā. // Dhp_127 //
+
+na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa  /
+na vijjatī so jagatippadeso yatthaṭṭhitaṃ na-ppasahetha maccu. // Dhp_128 //
+
+                          Pāpavaggo navamo
+
+
+[page 037]
+                                 37
+                          10. Daṇḍavagga
+sabbe tasanti daṇḍassa sabbe bhāyanti maccuno,  /
+attānaṃ upamaṃ katvā na haneyya na ghātaye. // Dhp_129 //
+
+sabbe tasanti daṇḍassa sabbesaṃ jīvitaṃ piyaṃ,  /
+attānaṃ upamaṃ katvā na haneyya na ghātaye. // Dhp_130 //
+
+sukhakāmāni bhūtāni yo daṇḍena vihiṃsati  /
+attano sukham esāno pecca so na labhate sukhaṃ. // Dhp_131 //
+
+sukhakāmāni bhūtāni yo daṇḍena na hiṃsati  /
+attano sukham esāno pecca so labhate sukhaṃ. // Dhp_132 //
+
+
+
+[page 038]
+38                            Dhammapada
+mā voca pharusaṃ kañci vuttā paṭivadeyyu taṃ,  /
+dukkhā hi sārambhakathā paṭidaṇḍā phuseyyu taṃ. // Dhp_133 //
+
+sace neresi attānaṃ kaṃso upahato yathā  /
+esa patto si nibbānaṃ sārambho te na vijjati. // Dhp_134 //
+
+yathā daṇḍena gopālo gāvo pāceti gocaraṃ  /
+evaṃ jarā ca maccu ca āyuṃ pācenti pāṇinaṃ. // Dhp_135 //
+
+atha pāpāni kammāni karaṃ bālo na bujjhati,  /
+sehi kammehi dummedho aggidaḍḍho va tappati. // Dhp_136 //
+
+yo daṇḍena adaṇḍesu appaduṭṭhesu dussati  /
+dasannam aññataraṃ ṭhānaṃ khippam eva nigacchati. // Dhp_137 //
+
+
+[page 039]
+                          10. Daṇḍavagga                39
+
+vedanaṃ pharusaṃ jāniṃ sarīrassa ca bhedanaṃ  /
+garukaṃ vāpi ābādhaṃ cittakkhepaṃ va pāpuṇe. // Dhp_138 //
+
+rājato va upassaggaṃ abbhakkhānaṃ va dāruṇaṃ  /
+parikkhayaṃ va ñātinaṃ bhogānaṃ va pabhaṅguṇaṃ. // Dhp_139 //
+
+athav'; assa agārāni aggī ḍahati pāvako,  /
+kāyassa bhedā duppañño nirayaṃ sopapajjati. // Dhp_140 //
+
+na naggacariyā na jaṭā na paṃkā nānāsakā thaṇḍilasāyikā vā  /
+
+
+[page 040]
+40                            Dhammapada
+rajo va jallaṃ ukkuṭikappadhānaṃ sodhenti maccaṃ avitiṇṇakaṃkhaṃ. // Dhp_141 //
+
+alaṃkato ce pi samaṃ careyya santo danto niyato brahmacārī  /
+sabbesu bhūtesu nidhāya daṇḍaṃ so brāhmaṇo so samaṇo sa bhikkhu. // Dhp_142 //
+
+hirīnisedho puriso koci lokasmi vijjati  /
+yo nindaṃ appabodhati asso bhadro kasām iva. // Dhp_143a //
+
+asso yathā bhadro kasāniviṭṭho ātāpino saṃvegino bhavātha. // Dhp_143b //
+
+
+[page 041]
+                          10. Daṇḍavagga                41
+
+saddhāya sīlena ca viriyena ca samādhinā dhammavinicchayena ca  /
+sampannavijjācaraṇā patissatā pahassatha dukkham idaṃ anappakaṃ. // Dhp_144 //
+
+udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ  /
+dāruṃ namayanti tacchakā attānaṃ damayanti subbatā. // Dhp_145 //
+
+                         Daṇḍavaggo dasamo
+
+
+[page 042]
+                                42
+                          11. Jarāvagga
+ko nu hāso kim ānando niccaṃ pajjalite sati,  /
+andhakārena onaddhā padīpaṃ na gavessatha. // Dhp_146 //
+
+passa cittakataṃ bimbaṃ arukāyaṃ samussitaṃ  /
+āturaṃ bahusaṃkappaṃ yassa n'; atthi dhuvaṃ ṭhiti. // Dhp_147 //
+
+parijiṇṇaṃ idaṃ rūpaṃ roganiḍḍaṃ pabhaṅguṇaṃ,  /
+bhijjati pūtisandeho maraṇantaṃ hi jīvitaṃ. // Dhp_148 //
+
+yān'; imāni apatthāni alāpūn'; eva sārade  /
+kāpotakāni aṭṭhīni tāni disvāna kā rati. // Dhp_149 //
+
+
+[page 043]
+                          11. Jarāvagga                 43
+
+aṭṭhīnaṃ nagaraṃ kataṃ maṃsalohitalepanaṃ  /
+yattha jarā ca maccu ca māno makkho ca ohito. // Dhp_150 //
+
+jīranti ve rājarathā sucittā atho sarīram pi jaraṃ upeti  /
+satañ ca dhammo na jaraṃ upeti santo have sabbhi pavedayanti. // Dhp_151 //
+
+appassutāyaṃ puriso balivaddo va jīrati,  /
+maṃsāni tassa vaḍḍhanti paññā tassa na vaḍḍhati. // Dhp_152 //
+
+anekajātisaṃsāraṃ sandhāvissaṃ anibbisaṃ  /
+gahakārakaṃ gavesanto, dukkhā jāti punappunaṃ. // Dhp_153 //
+
+
+[page 044]
+44                            Dhammapada
+
+gahakāraka diṭṭḥo si puna gehaṃ na kāhasi,  /
+sabbā ete phāsukā bhaggā gahakūṭaṃ visaṃkhitaṃ,  /
+visaṃkhāragataṃ cittaṃ taṇhānaṃ khayam ajjhagā. // Dhp_154 //
+
+acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ  /
+jiṇṇakoñcā va jhāyanti khīṇamacche va pallale. // Dhp_155 //
+
+acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ  /
+senti cāpātikhīṇā va purāṇāni anutthunaṃ. // Dhp_156 //
+
+                         Jarāvaggo ekādasamo
+
+
+[page 045]
+                                 45
+                             12. Attavagga
+attānañ ce piyaṃ jaññā rakkheyya naṃ surakkhitaṃ,  /
+tiṇṇaṃ aññataraṃ yāmaṃ paṭijaggeyya paṇḍito. // Dhp_157 //
+
+attānam eva paṭhamaṃ patirūpe nivesaye,  /
+ath'; aññam anusāseyya, na kilisseyya paṇḍito. // Dhp_158 //
+
+attānañ ce tathā kayirā yath'; aññam anusāsati  /
+sudanto vata dametha, attā hi kira duddamo. // Dhp_159 //
+
+attā hi attano nātho, ko hi nātho paro siyā;  /
+attanā hi sudantena nāthaṃ labhati dullabhaṃ. // Dhp_160 //
+
+attanā va kataṃ pāpaṃ attajaṃ attasambhavaṃ  /
+
+
+[page 046]
+46                            Dhammapada
+abhimatthati dummedhaṃ vajiraṃ v'; amhamayaṃ maṇiṃ. // Dhp_161 //
+
+yassa accantadussīlyaṃ māluvā sālam iv'; otataṃ  /
+karoti so tath'; attānaṃ yathā naṃ icchatī diso. // Dhp_162 //
+
+sukarāni asādhūni attano ahitāni ca,  /
+yaṃ ve hitañ ca sādhuñ ca taṃ ve paramadukkaraṃ. // Dhp_163 //
+
+yo sāsanaṃ arahataṃ ariyānaṃ dhammajīvinaṃ  /
+paṭikkosati dummedho diṭṭhiṃ nissāya pāpikaṃ  /
+phalāni kaṭṭhakasseva attaghaññāya phallati. // Dhp_164 //
+
+
+
+[page 047]
+                             12. Attavagga              47
+attanā va kataṃ pāpaṃ attanā saṃkilissati,  /
+attanā akataṃ pāpaṃ attanā va visujjhati,   /
+suddhī asuddhī paccattaṃ nāñño aññaṃ visodhaye. // Dhp_165 //
+
+attadatthaṃ paratthena bahunā pi na hāpaye,  /
+attadattham abhiññāya sadatthapasuto siyā. // Dhp_166 //
+
+                         Attavaggo dvādasamo
+
+
+[page 048]
+                                  48
+                           13. Lokavagga
+hīnaṃ dhammaṃ na seveyya pamādena na saṃvase  /
+micchādiṭṭhiṃ na seveyya na siyā lokavaḍḍhano. // Dhp_167 //
+
+uttiṭṭhe na-ppamajjeyya dhammaṃ sucaritaṃ care,  /
+dhammacārī sukhaṃ seti asmiṃ loke paramhi ca. // Dhp_168 //
+
+dhammaṃ care sucaritaṃ na naṃ duccaritaṃ care,  /
+dhammacārī sukhaṃ seti asmiṃ loke paramhi ca. // Dhp_169 //
+
+yathā bubbulakaṃ passe yathā passe marīcikaṃ  /
+evaṃ lokaṃ avekkhantaṃ maccurājā na passati. // Dhp_170 //
+
+
+[page 049]
+                           13. Lokavagga                49
+etha passath'; imaṃ lokaṃ cittaṃ rājarathūpamaṃ  /
+yattha bālā visīdanti, n'; atthi saṅgo vijānataṃ. // Dhp_171 //
+
+yo ca pubbe pamajjitvā pacchā so na-ppamajjati  /
+so 'maṃ lokaṃ pabhāseti abbhā mutto va candimā. // Dhp_172 //
+
+yassa pāpaṃ kataṃ kammaṃ kusalena pithīyati  /
+so 'maṃ lokaṃ pabhāseti abbhā mutto va candimā. // Dhp_173 //
+
+andhabhūto ayaṃ loko tanuk'; ettha vipassati,  /
+sakunto jālamutto va appo saggāya gacchati. // Dhp_174 //
+
+haṃsādiccapathe yanti ākāse yanti iddhiyā  /
+nīyanti dhīrā lokamhā jetvā Māraṃ savāhanaṃ. // Dhp_175 //
+
+
+[page 050]
+50                            Dhammapada
+
+ekaṃ dhammaṃ atītassa musāvādissa jantuno  /
+vitiṇṇaparalokassa n'; atthi pāpaṃ akāriyaṃ. // Dhp_176 //
+
+na ve kadariyā devalokaṃ vajanti bālā have na-ppasaṃsanti dānaṃ,  /
+dhīro ca dānaṃ anumodamāno ten'; eva so hoti sukhī parattha. // Dhp_177 //
+
+pathavyā ekarajjena saggassa gamanena vā  /
+sabbalokādhipaccena sotāpattiphalaṃ varaṃ. // Dhp_178 //
+
+                         Lokavaggo terasamo
+
+
+[page 051]
+                                  51
+                          14. Buddhavagga
+yassa jitaṃ nāvajīyati jitaṃ assa no yāti koci loke,  /
+tam buddham anantagocaraṃ apadaṃ kena padena nessatha. // Dhp_179 //
+
+yassa jālinī visattikā taṇhā n'; atthi kuhiñci netave  /
+tam buddham anantagocaraṃ apadaṃ kena padena nessatha. // Dhp_180 //
+
+ye jhānapasutā dhīrā nekkhammūpasame ratā  /
+devāpi tesaṃ pihayanti sambuddhānaṃ satīmataṃ. // Dhp_181 //
+
+kiccho manussapaṭilābho kicchaṃ maccāna jīvitaṃ,  /
+
+
+[page 052]
+52                            Dhammapada
+kicchaṃ saddhammasavanaṃ kiccho Buddhānam uppādo. // Dhp_182 //
+
+sabbapāpassa akaraṇaṃ kusalassa upasampadā  /
+sacittapariyodapanaṃ etaṃ Buddhāna sāsanaṃ. // Dhp_183 //
+
+khantī paramaṃ tapo titikkhā, nibbānaṃ paramaṃ vadanti Buddhā,  /
+na hi pabbajito parūpaghātī samaṇo hoti paraṃ viheṭhayanto. // Dhp_184 //
+
+anupavādo anupaghāto pātimokkhe ca saṃvaro  /
+mattaññutā ca bhattasmiṃ pantañ ca sayanāsanaṃ  /
+adhicitte ca āyogo etaṃ Buddhāna sāsanaṃ. // Dhp_185 //
+
+
+[page 053]
+                          14. Buddhavagga               53
+
+na kahāpaṇavassena titti kāmesu vijjati,  /
+"appassādā dukhā kāmā" iti viññāya paṇḍito, // Dhp_186 //
+
+api dibbesu kāmesu ratiṃ so nādhigacchati,  /
+taṇhakkhayarato hoti sammāsambuddhasāvako. // Dhp_187 //
+
+bahuṃ ve saraṇaṃ yanti pabbatāni vanāni ca  /
+ārāmarukkhacetyāni manussā bhayatajjitā, // Dhp_188 //
+
+n'; etaṃ kho saraṇaṃ khemaṃ, n'; etaṃ saraṇam uttamaṃ,  /
+n'; etaṃ saraṇaṃ āgamma, sabbadukkhā pamuccati. // Dhp_189 //
+
+
+[page 054]
+54                            Dhammapada
+
+yo ca Buddhañ ca Dhammañ ca Saṃghañ ca saraṇaṃ gato  /
+cattāri ariyasaccāni sammapaññāya passati: // Dhp_190 //
+
+dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ  /
+ariyañ c'; aṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ. // Dhp_191 //
+
+etaṃ kho saraṇaṃ khemaṃ etaṃ saraṇam uttamaṃ  /
+etaṃ saraṇaṃ āgamma sabbadukkhā pamuccati. // Dhp_192 //
+
+
+
+[page 055]
+                          14. Buddhavagga               55
+dullabho purisājañño na so sabbattha jāyati,  /
+yattha so jāyatī dhīro taṃ kulaṃ sukham edhati. // Dhp_193 //
+
+sukho Buddhānaṃ uppādo sukhā saddhammadesanā  /
+sukhā saṃghassa sāmaggī samaggānaṃ tapo sukho. // Dhp_194 //
+
+pūjārahe pūjayato Buddhe yadi va sāvake  /
+papañcasamatikkante tiṇṇasokapariddave,  // Dhp_195 //
+te tādise pūjayato nibbute akutobhaye  /
+na sakkā puññaṃ saṃkhātuṃ im'; ettam api kenaci.3 ḥ4  // Dhp_196 //
+
+                        Buddhavaggo cuddasamo
+
+                         Paṭhamakabhāṇavāraṃ
+
+
+
+[page 056]
+                                  56
+                            15. Sukhavagga
+susukhaṃ vata jīvāma verinesu averino,  /
+verinesu manussesu viharāma averino. // Dhp_197 //
+
+susukhaṃ vata jīvāma āturesu anāturā,  /
+āturesu manussesu viharāma anāturā. // Dhp_198 //
+
+susukhaṃ vata jīvāma ussukesu anussukā,  /
+ussukesu manussesu viharāma anussukā. // Dhp_199 //
+
+susukhaṃ vata jīvāma yesan no n'; atthi kiñcanaṃ,  /
+pītibhakkhā bhavissāma devā ābhassarā yathā. // Dhp_200 //
+
+
+
+[page 057]
+                            15. Sukhavagga              57
+jayaṃ veraṃ pasavati dukkhaṃ seti parājito,  /
+upasanto sukhaṃ seti hitvā jayaparājayaṃ. // Dhp_201 //
+
+n'; atthi rāgasamo aggi, n'; atthi dosasamo kali,  /
+n'; atthi khandhādisā dukkhā, n'; atthi santiparaṃ sukhaṃ. // Dhp_202 //
+
+jighacchāparamā rogā, saṃkhārā paramā dukhā,  /
+etaṃ ñatvā yathābhūtaṃ nibbānaṃ paramaṃ sukhaṃ. // Dhp_203 //
+
+ārogyaparamā lābhā, santuṭṭhiparamaṃ dhanaṃ,  /
+vissāsaparamā ñātī, nibbānaṃ paramaṃ sukhaṃ. // Dhp_204 //
+
+
+
+[page 058]
+58                            Dhammapada
+pavivekarasaṃ pītvā rasaṃ upasamassa ca  /
+niddaro hoti nippāpo dhammapītirasaṃ pivaṃ. // Dhp_205 //
+
+sādhu dassanam ariyānaṃ sannivāso sadā sukho,  /
+adassanena bālānaṃ niccam eva sukhī siyā. // Dhp_206 //
+
+bālasaṅgatacārī hi dīgham addhāna socati,  /
+dukkho bālehi saṃvāso amitteneva sabbadā,  /
+dhīro ca sukhasaṃvāso ñātīnaṃ va samāgamo. // Dhp_207 //
+
+dhīrañ ca paññañ ca bahussutañ ca dhoreyyasīlaṃ vatavantam āriyaṃ  /
+taṃ tādisaṃ sappurisaṃ sumedhaṃ bhajetha nakkhattapathaṃ va candimā. // Dhp_208 //
+
+
+[page 059]
+                            15. Sukhavagga              59
+
+                        Sukhavaggo pannarasamo
+
+
+[page 060]
+                                  60
+                            16. Piyavagga
+ayoge yuñjaṃ attānaṃ yogasmiñ ca ayojayaṃ  /
+atthaṃ hitvā piyaggāhī pihet'; attānuyoginaṃ. // Dhp_209 //
+
+mā piyehi samāgañchi appiyehi kudācanaṃ,  /
+piyānaṃ adassanaṃ dukkhaṃ appiyānañ ca dassanaṃ. // Dhp_210 //
+
+tasmā piyaṃ na kayirātha piyāpāyo hi pāpako,  /
+ganthā tesaṃ na vijjanti yesaṃ n'; atthi piyāppiyam. // Dhp_211 //
+
+piyato jāyatī soko piyato jāyatī bhayaṃ,  /
+piyato vippamuttassa n'; atthi soko kuto bhayaṃ. // Dhp_212 //
+
+
+[page 061]
+                            16. Piyavagga               61
+
+pemato jāyatī soko pemato jāyatī bhayaṃ,  /
+pemato vippamuttassa n'; atthi soko kuto bhayaṃ. // Dhp_213 //
+
+ratiyā jāyatī soko ratiyā jāyatī bhayaṃ,  /
+ratiyā vippamuttassa n'; atthi soko kuto bhayaṃ. // Dhp_214 //
+
+kāmato jāyatī soko kāmato jāyatī bhayaṃ,  /
+kāmato vippamuttassa n'; atthi soko kuto bhayaṃ. // Dhp_215 //
+
+taṇhāya jāyatī soko taṇhāya jāyatī bhayaṃ,  /
+taṇhāya vippamuttassa n'; atthi soko kuto bhayaṃ. // Dhp_216 //
+
+
+
+[page 062]
+62                            Dhammapada
+sīladassanasampannaṃ dhammaṭṭhaṃ saccavādinaṃ  /
+attano kamma kubbānaṃ taṃ jano kurute piyaṃ. // Dhp_217 //
+
+chandajāto anakkhāte manasā ca phuṭo siyā  /
+kāmesu ca appaṭibaddhacitto uddhaṃsoto ti vuccati. // Dhp_218 //
+
+cirappavāsiṃ purisaṃ dūrato sotthim āgataṃ     /
+ñātimittā suhajjā ca abhinandanti āgataṃ. // Dhp_219 //
+
+tath'; eva katapuññam pi asmā lokā paraṃ gataṃ  /
+puññāni paṭigaṇhanti piyaṃ ñātīva āgataṃ.4  // Dhp_220 //
+
+                          Piyavaggo soḷasamo
+
+
+
+[page 063]
+                                  63
+                            17. Kodhavagga
+kodhaṃ jahe vippajaheyya mānaṃ saññojanaṃ sabbam atikkameyya  /
+taṃ nāmarūpasmim asajjamānaṃ akiñcanaṃ nānupatanti dukkhā. // Dhp_221 //
+
+yo ve uppatitaṃ kodhaṃ rathaṃ bhantaṃ va dhāraye  /
+tam ahaṃ sārathiṃ brūmi, rasmiggāho itaro jano. // Dhp_222 //
+
+akkodhena jine kodhaṃ asādhuṃ sādhunā jine,  /
+jine kadariyaṃ dānena saccenālikavādinaṃ. // Dhp_223 //
+
+saccam bhaṇe na kujjheyya dajjā appasmi yācito  /
+etehi tīhi ṭhānehi gacche devāna santike. // Dhp_224 //
+
+
+[page 064]
+64                            Dhammapada
+
+ahiṃsakā ye munayo niccaṃ kāyena saṃvutā  /
+te yanti accutaṃ ṭhānaṃ yattha gantvā na socare. // Dhp_225 //
+
+sadā jāgaramānānaṃ ahorattānusikkhinaṃ  /
+nibbānaṃ adhimuttānaṃ atthaṃ gacchanti āsavā. // Dhp_226 //
+
+porāṇam etaṃ Atula n'; etaṃ ajjatanām iva:  /
+nindanti tuṇhiṃ āsīnaṃ nindanti bahubhāṇinaṃ  /
+mitabhāṇinam pi nindanti, n'; atthi loke anindito. // Dhp_227 //
+
+
+
+[page 065]
+                            17. Kodhavagga              65
+na cāhu na ca bhavissati na c'; etarahi vijjati  /
+ekantaṃ nindito poso ekantaṃ vā pasaṃsito. // Dhp_228 //
+
+yañ ce viññū pasaṃsanti anuvicca suve suve  /
+acchiddavuttiṃ medhāviṃ paññāsīlasamāhitaṃ. // Dhp_229 //
+
+nekkhaṃ jambonadasseva ko taṃ ninditum arahati,  /
+devā pi naṃ pasaṃsanti, Brahmunā pi pasaṃsito. // Dhp_230 //
+
+kāyappakopaṃ rakkheyya kāyena saṃvuto siyā,  /
+kāyaduccaritaṃ hitvā kāyena sucaritaṃ care. // Dhp_231 //
+
+vacīpakopaṃ rakkheyya vācāya saṃvuto siyā,  /
+vacīduccaritaṃ hitvā vācāya sucaritaṃ care. // Dhp_232 //
+
+
+[page 066]
+66                            Dhammapada
+manopakopaṃ rakkheyya manasā saṃvuto siyā,  /
+manoduccaritaṃ hitvā manasā sucaritaṃ care. // Dhp_233 //
+
+kāyena saṃvutā dhīrā atho vācāya saṃvutā  /
+manasā saṃvutā dhīrā te ve suparisaṃvutā. // Dhp_234 //
+
+                        Kodhavaggo sattarasamo
+
+
+[page 067]
+                                  67
+                             18. Malavagga
+paṇḍupalāso va dāni si Yamapurisā pi ca taṃ upaṭṭhitā,  /
+uyyogamukhe ca tiṭṭhasi pātheyyam pi ca te na vijjati. // Dhp_235 //
+
+so karohi dīpam attano khippaṃ vāyama paṇḍito bhava,  /
+niddhantamalo anaṅgaṇo dibbaṃ ariyabhūmim ehisi. // Dhp_236 //
+
+upanītavayo va dāni si sampayāto si Yamassa santike,  /
+vāso pi ca te n'; atthi antarā pātheyyam pi ca te na vijjati. // Dhp_237 //
+
+so karohi dīpam attano khippaṃ vāyama paṇḍito bhava,  /
+
+
+[page 068]
+68                            Dhammapada
+niddhantamalo anaṅgaṇo na punaṃ jātijaraṃ upehisi. // Dhp_238 //
+
+anupubbena medhāvī thokathokaṃ khaṇe khaṇe  /
+kammāro rajatasseva niddhame malam attano. // Dhp_239 //
+
+ayasā va malaṃ samuṭṭhitaṃ taduṭṭhāya tam eva khādati  /
+evaṃ atidhonacārinaṃ sakakammāni nayanti duggatiṃ. // Dhp_240 //
+
+asajjhāyamalā mantā, anuṭṭhānamalā gharā,  /
+malaṃ vaṇṇassa kosajjaṃ, pamādo rakkhato malaṃ. // Dhp_241 //
+
+
+
+[page 069]
+                             18. Malavagga              69
+mal'; itthiyā duccaritaṃ, maccheraṃ dadato malaṃ,  /
+malā ve pāpakā dhammā asmiṃ loke paramhi ca. // Dhp_242 //
+
+tato malā malataraṃ avijjā paramaṃ malaṃ,  /
+etaṃ malaṃ pahatvāna nimmalā hotha bhikkhavo. // Dhp_243 //
+
+sujīvaṃ ahirīkena kākasūrena dhaṃsinā  /
+pakkhandinā pagabbhena saṃkiliṭṭhena jīvitaṃ. // Dhp_244 //
+
+hirīmatā ca dujjīvaṃ niccaṃ sucigavesinā  /
+alīnen'; appagabbhena suddhājīvena passatā. // Dhp_245 //
+
+yo pāṇaṃ atimāpeti musāvādañ ca bhāsati  /
+loke adinnaṃ ādiyati paradārañ ca gacchati, // Dhp_246 //
+
+
+
+[page 070]
+70                            Dhammapada
+surāmerayapānañ ca yo naro anuyuñjati  /
+idh'; eva-m-eso lokasmiṃ mūlaṃ khanati attano. // Dhp_247 //
+
+evaṃ bho purisa jānāhi: pāpadhammā asaññatā,  /
+mā taṃ lobho adhammo ca ciraṃ dukkhāya randhayuṃ. // Dhp_248 //
+
+dadanti ve yathāsaddhaṃ yathāpasādanaṃ jano,  /
+tattha yo maṅku bhavati paresaṃ pānabhojane  /
+na so divā vā rattiṃ vā samādhiṃ adhigacchati. // Dhp_249 //
+
+yassa c'; etaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ  /
+sa ve divā vā rattiṃ vā samādhiṃ adhigacchati. // Dhp_250 //
+
+
+
+[page 071]
+                             18. Malavagga              71
+n'; atthi rāgasamo aggi n'; atthi dosasamo gaho  /
+n'; atthi mohasamaṃ jālaṃ n'; atthi taṇhāsamā nadī. // Dhp_251 //
+
+sudassaṃ vajjam aññesaṃ attano pana duddasaṃ,  /
+paresaṃ hi so vajjāni opunāti yathā bhusaṃ,  /
+attano pana chādeti kaliṃ va kitavā saṭho. // Dhp_252 //
+
+paravajjānupassissa niccaṃ ujjhānasaññino  /
+āsavā tassa vaḍḍhanti ārā so āsavakkhayā. // Dhp_253 //
+
+ākāse ca padaṃ n'; atthi samaṇo n'; atthi bāhiro,  /
+papañcābhiratā pajā nippapañcā tathāgatā. // Dhp_254 //
+
+ākāse ca padaṃ n'; atthi samaṇo n'; atthi bāhiro  /
+
+
+[page 072]
+72                            Dhammapada
+saṃkhārā sassatā n'; atthi n'; atthi buddhānam iñjitaṃ. // Dhp_255 //
+
+                        Malavaggo aṭṭhārasamo
+
+
+[page 073]
+                                  73
+                         19. Dhammaṭṭhavagga
+na tena hoti dhammaṭṭho yen'; atthaṃ sahasā naye,  /
+yo ca atthaṃ anatthañ ca ubho niccheyya paṇḍito. // Dhp_256 //
+
+asāhasena dhammena samena nayatī pare  /
+dhammassa gutto medhāvī dhammaṭṭho ti pavuccati.  // Dhp_257 //
+na tena paṇḍito hoti yāvatā bahu bhāsati,  /
+khemī averī abhayo paṇḍito ti pavuccati. // Dhp_258 //
+
+na tāvatā dhammadharo yāvatā bahu bhāsati,  /
+yo ca appam pi sutvāna dhammaṃ kāyena passati  /
+sa ve dhammadharo hoti yo dhammaṃ na-ppamajjati. // Dhp_259 //
+
+na tena thero hoti yen'; assa phalitaṃ siro,  /
+paripakko vayo tassa moghajiṇṇo ti vuccati. // Dhp_260 //
+
+yamhi saccañ ca dhammo ca ahiṃsā saññamo damo  /
+sa ve vantamalo dhīro thero ti pavuccati. // Dhp_261 //
+
+
+[page 074]
+74                            Dhammapada
+
+na vākkaraṇamattena vaṇṇapokkharatāya vā  /
+sādhurūpo naro hoti issukī maccharī saṭho, // Dhp_262 //
+
+yassa c'; etaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ  /
+sa vantadoso medhāvī sādhurūpo ti vuccati. // Dhp_263 //
+
+na muṇḍakena samaṇo abbato alikaṃ bhaṇaṃ  /
+icchālobhasamāpanno samaṇo kiṃ bhavissati, // Dhp_264 //
+
+yo ca sameti pāpāni aṇuṃthūlāni sabbaso  /
+samitattā hi pāpānaṃ samaṇo ti pavuccati. // Dhp_265 //
+
+
+
+[page 075]
+                         19. Dhammaṭṭhavagga            75
+na tena bhikkhu hoti yāvatā bhikkhate pare,          /
+vissaṃ dhammaṃ samādāya bhikkhu hoti na tāvatā, // Dhp_266 //
+
+yo 'dha puññañ ca pāpañ ca bāhetvā brahmacariyavā  /
+saṃkhāya loke carati sa ve bhikkhū ti vuccati. // Dhp_267 //
+
+na monena munī hoti mūḷharūpo aviddasu,  /
+yo ca tulaṃ va paggayha varam ādāya paṇḍito  // Dhp_268 //
+
+pāpāni parivajjeti sa munī tena so muni,  /
+yo munāti ubho loke munī tena pavuccati. // Dhp_269 //
+
+na tena ariyo hoti yena pāṇāni hiṃsati,  /
+ahiṃsā sabbapāṇānaṃ ariyo ti pavuccati. // Dhp_270 //
+
+
+
+[page 076]
+76                            Dhammapada
+na sīlabbatamattena bāhusaccena vā puna  /
+atha vā samādhilābhena viviccasayanena vā  // Dhp_271 //
+
+phusāmi nekkhammasukhaṃ aputhujjanasevitaṃ;  /
+bhikkhu vissāsa māpādi appatto āsavakkhayaṃ. // Dhp_272 //
+
+                     Dhammaṭṭhavaggo ekūnavīsatimo
+
+
+
+[page 077]
+                                 77
+                            20. Maggavagga
+maggān'; aṭṭhaṅgiko seṭṭho saccānaṃ caturo padā,  /
+virāgo seṭṭho dhammānaṃ dipadānañ ca cakkhumā. // Dhp_273 //
+
+es'; eva maggo n'; atth'; añño dassanassa visuddhiyā,  /
+etaṃ hi tumhe paṭipajjatha, Mārass'; etaṃ pamohanaṃ. // Dhp_274 //
+
+etaṃ hi tumhe paṭipannā dukkhass'; antaṃ karissatha,  /
+akkhāto ve mayā maggo aññāya sallasanthanaṃ. // Dhp_275 //
+
+tumhehi kiccaṃ ātappaṃ, akkhātāro tathāgatā,  /
+paṭipannā pamokkhanti jhāyino Mārabandhanā. // Dhp_276 //
+
+
+[page 078]
+78                            Dhammapada
+
+"sabbe saṃkhārā aniccā" ti yadā paññāya passati  /
+atha nibbindatī dukkhe, esa maggo visuddhiyā. // Dhp_277 //
+
+"sabbe saṃkhārā dukkhā" ti yadā paññāya passati  /
+atha nibbindatī dukkhe, esa maggo visuddhiyā. // Dhp_278 //
+
+"sabbe dhammā anattā" ti yadā paññāya passati  /
+atha nibbindatī dukkhe, esa maggo visuddhiyā. // Dhp_279 //
+
+uṭṭhānakālamhi anuṭṭhahāno yuvā balī ālasiyaṃ upeto  /
+saṃsannasaṃkappamano kusīto paññāya maggaṃ alaso na vindati. // Dhp_280 //
+
+
+[page 079]
+                            20. Maggavagga              79
+
+vācānurakkhī manasā susaṃvuto kāyena ca akusalaṃ na kayirā  /
+ete tayo kammapathe visodhaye, ārādhaye maggam isippaveditaṃ. // Dhp_281 //
+
+yogā ve jāyati bhūrī ayogā bhūrisaṃkhayo  /
+etaṃ dvedhāpathaṃ ñatvā bhavāya vibhavāya ca  /
+tath'; attānaṃ niveseyya yathā bhūrī pavaḍḍhati. // Dhp_282 //
+
+vanaṃ chindatha, mā rukkhaṃ, vanato jāyatī bhayaṃ,  /
+chetvā vanaṃ vanathañ ca nibbanā hotha bhikkhavo. // Dhp_283 //
+
+
+[page 080]
+80                            Dhammapada
+
+yāvaṃ hi vanatho na chijjati aṇumatto pi narassa nārisu  /
+paṭibaddhamano va tāva so vaccho khīrapako va mātari. // Dhp_284 //
+
+ucchinda sineham attano kumudaṃ sāradikaṃ va pāṇinā,  /
+santimaggam eva brūhaya nibbānaṃ sugatena desitaṃ. // Dhp_285 //
+
+idha vassaṃ vasissāmi idha hemantagimhisu  /
+iti bālo vicinteti antarāyaṃ na bujjhati. // Dhp_286 //
+
+
+
+[page 081]
+                            20. Maggavagga              81
+taṃ puttapasusammattaṃ byāsattamanasaṃ naraṃ  /
+suttaṃ gāmaṃ mahogho va maccu ādāya gacchati. // Dhp_287 //
+
+na santi puttā tāṇāya na pitā na pi bandhavā  /
+antakenādhipannassa n'; atthi ñātīsu tāṇatā. // Dhp_288 //
+
+etam atthavasaṃ ñatvā paṇḍito sīlasaṃvuto  /
+nibbānagamanaṃ maggaṃ khippam eva visodhaye. // Dhp_289 //
+
+                         Maggavaggo vīsatimo
+
+
+[page 082]
+                                   82
+                          21. Pakiṇṇakavagga
+mattāsukhapariccāgā passe ce vipulaṃ sukhaṃ  /
+caje mattāsukhaṃ dhīro sampassaṃ vipulaṃ sukhaṃ. // Dhp_290 //
+
+paradukkhūpadhānena yo attano sukham icchati  /
+verasaṃsaggasaṃsaṭṭho verā so na pamuccati. // Dhp_291 //
+
+yaṃ hi kiccaṃ apaviddhaṃ akiccaṃ pana kayirati  /
+unnaḷānaṃ pamattānaṃ tesaṃ vaḍḍhanti āsavā. // Dhp_292 //
+
+yesañ ca susamāraddhā niccaṃ kāyagatā sati  /
+akiccan te na sevanti kicce sātaccakārino,  /
+satānaṃ sampajānānaṃ atthaṃ gacchanti āsavā. // Dhp_293 //
+
+
+[page 083]
+                          21. Pakiṇṇakavagga            83
+
+mātaraṃ pitaraṃ hantvā rājāno dve ca khattiye  /
+raṭṭhaṃ sānucaraṃ hantvā anīgho yāti brāhmaṇo. // Dhp_294 //
+
+mātaraṃ pitaraṃ hantvā rājāno dve ca sotthiye  /
+veyyagghapañcamaṃ hantvā anīgho yāti brāhmaṇo. // Dhp_295 //
+
+suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  /
+yesaṃ divā ca ratto ca niccaṃ Buddhagatā sati. // Dhp_296 //
+
+suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  /
+yesaṃ divā ca ratto ca niccaṃ Dhammagatā sati. // Dhp_297 //
+
+suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  /
+yesaṃ divā ca ratto ca niccaṃ Saṃghagatā sati. // Dhp_298 //
+
+
+[page 084]
+84                            Dhammapada
+
+suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  /
+yesaṃ divā ca ratto ca niccaṃ kāyagatā sati. // Dhp_299 //
+
+suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  /
+yesaṃ divā ca ratto ca ahiṃsāya rato mano. // Dhp_300 //
+
+suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  /
+yesaṃ divā ca ratto ca bhāvanāya rato mano. // Dhp_301 //
+
+duppabbajjaṃ durabhiramaṃ durāvāsā gharā dukhā  /
+dukkho 'samānasaṃvāso, dukkhānupatit'; addhagū  /
+tasmā na c'; addhagū siyā na ca dukkhānupatito siyā. // Dhp_302 //
+
+saddho sīlena sampanno yasobhogasamappito  /
+yaṃ yaṃ padesaṃ bhajati tattha tatth'; eva pūjito. // Dhp_303 //
+
+
+[page 085]
+                          21. Pakiṇṇakavagga            85
+
+dūre santo pakāsenti himavanto va pabbato,  /
+asant'; ettha na dissanti rattikhittā yathā sarā. // Dhp_304 //
+
+ekāsanaṃ ekaseyyaṃ eko caram atandito  /
+eko damayam attānaṃ vanante ramito siyā. // Dhp_305 //
+
+                      Pakiṇṇakavaggo ekavīsatimo
+
+
+[page 086]
+                                  86
+                           22. Nirayavagga
+abhūtavādī nirayaṃ upeti yo vāpi katvā na karomi c'; āha  /
+ubho pi te pecca samā bhavanti nihīnakammā manujā parattha. // Dhp_306 //
+
+kāsāvakaṇṭhā bahavo pāpadhammā asaññatā,  /
+pāpā pāpehi kammehi nirayaṃ te upapajjare. // Dhp_307 //
+
+seyyo ayoguḷo bhutto tatto aggisikhūpamo  /
+yañ ce bhuñjeyya dussīlo raṭṭhapiṇḍaṃ asaññato. // Dhp_308 //
+
+cattāri ṭhānāni naro pamatto āpajjatī paradārūpasevī:  /
+apuññalābhaṃ na nikāmaseyyaṃ nindaṃ tatīyaṃ nirayaṃ catutthaṃ. // Dhp_309 //
+
+
+[page 087]
+                           22. Nirayavagga              87
+
+apuññalābho ca gatī ca pāpikā bhītassa bhītāya ratī ca thokikā  /
+rājā ca daṇḍaṃ garukaṃ paṇeti, tasmā naro paradāraṃ na seve. // Dhp_310 //
+
+kuso yathā duggahīto hatthaṃ evānukantati  /
+sāmaññaṃ dupparāmaṭṭhaṃ nirayāy'; upakaḍḍhati. // Dhp_311 //
+
+yaṃ kiñci saṭhilaṃ kammaṃ saṃkiliṭṭhañ ca yaṃ vataṃ  /
+saṃkassaraṃ brahmacariyaṃ na taṃ hoti mahapphalaṃ. // Dhp_312 //
+
+
+
+[page 088]
+88                            Dhammapada
+kayirañ ce kayirāth'; enaṃ daḷham enaṃ parakkame,  /
+saṭhilo hi paribbājo bhiyyo ākirate rajaṃ. // Dhp_313 //
+
+akataṃ dukkataṃ seyyo pacchā tapati dukkataṃ,  /
+katañ ca sukataṃ seyyo yaṃ katvā nānutappati. // Dhp_314 //
+
+nagaraṃ yathā paccantaṃ guttaṃ santarabāhiraṃ  /
+evaṃ gopetha attānaṃ, khaṇo ve mā upaccagā,  /
+khaṇātītā hi socanti nirayamhi samappitā. // Dhp_315 //
+
+alajjitāye lajjanti lajjitāye na lajjare  /
+micchādiṭṭhisamādānā sattā gacchanti duggatiṃ. // Dhp_316 //
+
+
+
+[page 089]
+                           22. Nirayavagga              89
+abhaye bhayadassino bhaye cābhayadassino  /
+micchādiṭṭhisamādānā sattā gacchanti duggatiṃ. // Dhp_317 //
+
+avajje vajjamatino vajje cāvajjadassino  /
+micchādiṭṭhisamādānā sattā gacchanti duggatiṃ. // Dhp_318 //
+
+vajjañ ca vajjato ñatvā avajjañ ca avajjato  /
+sammādiṭṭhisamādānā sattā gacchanti suggatiṃ.3  // Dhp_319 //
+
+                        Nirayavaggo dvavīsatimo
+
+
+
+[page 090]
+                                 90
+                           23. Nāgavagga
+ahaṃ nāgo va saṃgāme cāpāto patitaṃ saraṃ  /
+ativākyaṃ titikkhissaṃ dussīlo hi bahujjano. // Dhp_320 //
+
+dantaṃ nayanti samitiṃ dantaṃ rājābhirūhati  /
+danto seṭṭho manussesu yo 'tivākyaṃ titikkhati. // Dhp_321 //
+
+varam assatarā dantā ājānīyā ca sindhavā  /
+kuñjarā ca mahānāgā, attadanto tato varaṃ. // Dhp_322 //
+
+na hi etehi yānehi gaccheyya agataṃ disaṃ  /
+yath'; attanā sudantena danto dantena gacchati. // Dhp_323 //
+
+
+
+[page 091]
+                           23. Nāgavagga                91
+dhanapālako nāma kuñjaro kaṭukapabhedano dunnivārayo      /
+baddho kabalaṃ na bhuñjati, sumarati nāgavanassa kuñjaro. // Dhp_324 //
+
+middhī yadā hoti mahagghaso ca niddāyitā samparivattasāyī  /
+mahāvarāho va nivāpapuṭṭho punappunaṃ gabbham upeti mando. // Dhp_325 //
+
+idaṃ pure cittam acāri cārikaṃ yenicchakaṃ yatthakāmaṃ yathāsukhaṃ  /
+tad ajj'; ahaṃ niggahessāmi yoniso hatthippabhinnaṃ viya aṃkusaggaho. // Dhp_326 //
+
+appamādaratā hotha, sacittam anurakkhatha,  /
+duggā uddharath'; attānaṃ paṃke sanno va kuñjaro. // Dhp_327 //
+
+
+[page 092]
+92                            Dhammapada
+
+sace labhetha nipakaṃ sahāyaṃ saddhiṃcaraṃ sādhuvihāridhīraṃ  /
+abhibhuyya sabbāni parissayāni careyya ten'; attamano satīmā. // Dhp_328 //
+
+no ce labhetha nipakaṃ sahāyaṃ saddhiṃcaraṃ sādhuvihāridhīraṃ  /
+rājā va raṭṭhaṃ vijitaṃ pahāya eko care mātaṅg'; araññe va nāgo. // Dhp_329 //
+
+ekassa caritaṃ seyyo, n'; atthi bāle sahāyatā,  /
+eko care na ca pāpāni kayirā appossukko mātaṅg'; araññe va nāgo. // Dhp_330 //
+
+
+
+[page 093]
+                           23. Nāgavagga                93
+atthamhi jātamhi sukhā sahāyā tuṭṭhī sukhā yā itarītarena,  /
+puññaṃ sukhaṃ jīvitasaṃkhayamhi, sabbassa dukkhassa sukhaṃ pahānaṃ. // Dhp_331 //
+
+sukhā matteyyatā loke atho petteyyatā sukhā,       /
+sukhā sāmaññatā loke atho brahmaññatā sukhā. // Dhp_332 //
+
+sukhaṃ yāvajarā sīlaṃ sukhā saddhā patiṭṭhitā  /
+sukho paññāya paṭilābho pāpānaṃ akaraṇaṃ sukhaṃ. // Dhp_333 //
+
+                        Nāgavaggo tevīsatimo
+
+
+[page 094]
+                                 94
+                          24. Taṇhāvagga
+manujassa pamattacārino taṇhā vaḍḍhati māluvā viya,  /
+so palavatī hurāhuraṃ phalam icchaṃ va vanasmi vānaro. // Dhp_334 //
+
+yaṃ esā sahatī jammī taṇhā loke visattikā  /
+sokā tassa pavaḍḍhanti abhivaṭṭhaṃ va bīraṇaṃ. // Dhp_335 //
+
+yo c'; etaṃ sahatī jammiṃ taṇhaṃ loke duraccayaṃ  /
+sokā tamhā papatanti udabindu va pokkharā. // Dhp_336 //
+
+taṃ vo vadāmi bhaddaṃ vo yāvant'; ettha samāgatā  /
+taṇhāya mūlaṃ khanatha usīrattho va bīraṇaṃ  /
+mā vo naḷaṃ va soto va Māro bhañji punappunaṃ. // Dhp_337 //
+
+
+[page 095]
+                          24. Taṇhāvagga                95
+
+yathāpi mūle anupaddave daḷhe chinno pi rukkho punar eva rūhati  /
+evam pi taṇhānusaye anūhate nibbattati dukkham idaṃ punappunaṃ. // Dhp_338 //
+
+yassa chattiṃsatī sotā manāpassavanā bhusā,  /
+vāhā vahanti duddiṭṭhaṃ saṃkappā rāganissitā. // Dhp_339 //
+
+savanti sabbadā sotā, latā ubbhijja tiṭṭhati  /
+tañ ca disvā lataṃ jātaṃ mūlaṃ paññāya chindatha. // Dhp_340 //
+
+saritāni sinehitāni ca somanassāni bhavanti jantuno  /
+
+
+[page 096]
+96                            Dhammapada
+te sātasitā sukhesino te ve jātijarūpagā narā. // Dhp_341 //
+
+tasiṇāya purakkhatā pajā parisappanti saso va bādhito,  /
+saññojanasaṅgasattakā dukkham upenti punappunaṃ cirāya. // Dhp_342 //
+
+tasiṇāya purakkhatā pajā parisappanti saso va bādhito,  /
+tasmā tasiṇaṃ vinodaye bhikkhu ākaṃkha virāgam attano. // Dhp_343 //
+
+yo nibbanatho vanādhimutto vanamutto vanam eva dhāvati  /
+taṃ puggalam eva passatha: mutto bandhanam eva dhāvati. // Dhp_344 //
+
+
+[page 097]
+                          24. Taṇhāvagga                97
+
+na taṃ daḷhaṃ bandhanam āhu dhīrā yad āyasaṃ dārujaṃ pabbajañ ca      /
+sārattarattā maṇikuṇḍalesu puttesu dāresu ca yā apekhā, // Dhp_345 //
+
+etaṃ daḷhaṃ bandhanam āhu dhīrā ohārinaṃ sithilaṃ duppamuñcaṃ  /
+etam pi chetvāna paribbajanti anapekhino kāmasukhaṃ pahāya. // Dhp_346 //
+
+ye rāgarattānupatanti sotaṃ sayaṃkataṃ makkaṭako va jālaṃ  /
+etam pi chetvāna vajanti dhīrā anapekhino sabbadukkhaṃ pahāya. // Dhp_347 //
+
+
+
+[page 098]
+98                            Dhammapada
+muñca pure muñca pacchato majjhe muñca bhavassa pāragū,  /
+sabbattha vimuttamānaso na punañ jātijaraṃ upehisi. // Dhp_348 //
+
+vitakkapamathitassa jantuno tibbarāgassa subhānupassino  /
+bhiyyo taṇhā pavaḍḍhati, esa kho daḷhaṃ karoti bandhanaṃ. // Dhp_349 //
+
+vitakkūpasame ca yo rato asubhaṃ bhāvayatī sadā sato  /
+esa kho vyantikāhiti esa-cchecchati Mārabandhanaṃ. // Dhp_350 //
+
+
+
+[page 099]
+                          24. Taṇhāvagga                99
+niṭṭhaṅgato asantāsī vītataṇho anaṅgaṇo  /
+acchidda bhavasallāni antimo 'yaṃ samussayo. // Dhp_351 //
+
+vītataṇho anādāno niruttipadakovido  /
+akkharānaṃ sannipātaṃ jaññā pubbāparāni ca  /
+sa ve antimasārīro mahāpañño mahāpuriso ti vuccati. // Dhp_352 //
+
+sabbābhibhū sabbavidū 'ham asmi sabbesu dhammesu anūpalitto  /
+sabbañjaho taṇhakkhaye vimutto sayaṃ abhiññāya kam uddiseyyaṃ. // Dhp_353 //
+
+sabbadānaṃ dhammadānaṃ jināti, sabbaṃ rasaṃ dhammaraso jināti,  /
+sabbaṃ ratiṃ dhammaratī jināti, taṇhakkhayo sabbadukkhaṃ jināti. // Dhp_354 //
+
+
+[page 100]
+100                            Dhammapada
+
+hananti bhogā dummedhaṃ no ce pāragavesino,  /
+bhogataṇhāya dummedho hanti aññe va attanaṃ. // Dhp_355 //
+tiṇadosāni khettāni, rāgadosā ayaṃ pajā,  /
+tasmā hi vītarāgesu dinnaṃ hoti mahapphalaṃ. // Dhp_356 //
+
+tiṇadosāni khettāni, dosadosā ayaṃ pajā,  /
+tasmā hi vītadosesu dinnaṃ hoti mahapphalaṃ. // Dhp_357 //
+
+tiṇadosāni khettāni, mohadosā ayaṃ pajā,  /
+tasmā hi vītamohesu dinnaṃ hoti mahapphalaṃ. // Dhp_358 //
+
+tiṇadosāni khettāni, icchādosā ayaṃ pajā,  /
+tasmā hi vigaticchesu dinnaṃ hoti mahapphalaṃ. // Dhp_359 //
+
+
+[page 101]
+                          24. Taṇhāvagga               101
+
+                     Taṇhāvaggo catuvīsatimo
+
+
+[page 102]
+                                 102
+                         25. Bhikkhuvagga
+cakkhunā saṃvaro sādhu, sādhu sotena saṃvaro,  /
+ghāṇena saṃvaro sādhu, sādhu jivhāya saṃvaro. // Dhp_360 //
+
+kāyena saṃvaro sādhu, sādhu vācāya saṃvaro,  /
+manasā saṃvaro sādhu sādhu sabbattha saṃvaro   /
+sabbattha saṃvuto bhikkhu sabbadukkhā pamuccati. // Dhp_361 //
+
+hatthasaññato pādasaññato vācāya saññato saññatuttamo,  /
+ajjhattarato samāhito eko santusito tam āhu bhikkhuṃ. // Dhp_362 //
+
+yo mukhasaññato bhikkhu mantabhāṇī anuddhato  /
+atthaṃ dhammañ ca dīpeti madhuraṃ tassa bhāsitaṃ. // Dhp_363 //
+
+
+[page 103]
+                         25. Bhikkhuvagga               103
+
+dhammārāmo dhammarato dhammaṃ anuvicintayaṃ  /
+dhammaṃ anussaraṃ bhikkhu saddhammā na parihāyati. // Dhp_364 //
+
+salābhaṃ nātimaññeyya nāññesaṃ pihayaṃ care.  /
+aññesaṃ pihayaṃ bhikkhu samādhiṃ nādhigacchati. // Dhp_365 //
+
+appalābho pi ce bhikkhu salābhaṃ nātimaññati  /
+taṃ ve devā pasaṃsanti suddhājīviṃ atanditaṃ. // Dhp_366 //
+
+sabbaso nāmarūpasmiṃ yassa n'; atthi mamāyitaṃ  /
+asatā ca na socati sa ve bhikkhū ti vuccati. // Dhp_367 //
+
+
+
+[page 104]
+104                            Dhammapada
+mettāvihārī yo bhikkhu pasanno buddhasāsane  /
+adhigacche padaṃ santaṃ saṃkhārūpasamaṃ sukhaṃ. // Dhp_368 //
+
+siñca bhikkhu imaṃ nāvaṃ, sittā te lahum essati,  /
+chetvā rāgañ ca dosañ ca tato nibbānam ehisi. // Dhp_369 //
+
+pañca chinde pañca jahe pañca vuttaribhāvaye,  /
+pañcasaṅgātigo bhikkhu oghatiṇṇo ti vuccati. // Dhp_370 //
+
+jhāya bhikkhu mā ca pāmado mā te kāmaguṇe bhamassu cittaṃ,  /
+mā lohaguḷaṃ gilī pamatto, mā kandī ‘dukkham idan'; ti ḍayhamāno.4  // Dhp_371 //
+
+
+
+[page 105]
+                         25. Bhikkhuvagga               105
+
+n'; atthi jhānaṃ apaññassa paññā n'; atthi ajhāyato,  /
+yamhi jhānañ ca paññā ca sa ve nibbānasantike. // Dhp_372 //
+
+suññāgāraṃ paviṭṭhassa santacittassa bhikkhuno  /
+amānusī ratī hoti sammā dhammaṃ vipassato. // Dhp_373 //
+
+yato yato sammasati khandhānaṃ udayavyayaṃ  /
+labhatī pītipāmojjaṃ amataṃ tam vijānataṃ. // Dhp_374 //
+
+tatrāyam ādi bhavati idha paññassa bhikkhuno:  /
+indriyaguttī santuṭṭhī pātimokkhe ca saṃvaro,  /
+mitte bhajassu kalyāṇe suddhājīve atandite. // Dhp_375 //
+
+
+[page 106]
+106                            Dhammapada
+
+paṭisanthāravutt'; assa ācārakusalo siyā,  /
+tato pāmojjabahulo dukkhass'; antaṃ karissati. // Dhp_376 //
+
+vassikā viya pupphāni maddavāni pamuñcati  /
+evaṃ rāgañ ca dosañ ca vippamuñcetha bhikkhavo. // Dhp_377 //
+
+santakāyo santavāco santavā susamāhito  /
+vantalokāmiso bhikkhu upasanto ti vuccati. // Dhp_378 //
+
+attanā coday'; attānaṃ paṭimāse attam attanā,  /
+so attagutto satimā sukhaṃ bhikkhu vihāhisi. // Dhp_379 //
+
+
+[page 107]
+                         25. Bhikkhuvagga               107
+
+attā hi attano nātho attā hi attano gati,  /
+tasmā saññāmay'; attānaṃ assaṃ bhadraṃ va vāṇijo. // Dhp_380 //
+
+pāmojjabahulo bhikkhu pasanno Buddhasāsane  /
+adhigacche padaṃ santaṃ saṃkhārūpasamaṃ sukhaṃ. // Dhp_381 //
+
+yo have daharo bhikkhu yuñjate Buddhasāsane  /
+so 'maṃ lokaṃ pabhāseti abbhā mutto va candimā.4  // Dhp_382 //
+
+                    Bhikkhuvaggo pañcavīsatimo
+
+
+
+[page 108]
+                               108
+                       26. Brāhmaṇavagga
+chinda sotaṃ parakkamma, kāme panuda brāhmaṇa,  /
+saṃkhārānaṃ khayaṃ ñatvā akataññū si brāhmaṇa. // Dhp_383 //
+
+yadā dvayesu dhammesu pāragū hoti brāhmaṇo  /
+ath'; assa sabbe saṃyogā atthaṃ gacchanti jānato. // Dhp_384 //
+
+yassa pāraṃ apāraṃ vā pārāpāraṃ na vijjati  /
+vītaddaraṃ visaññuttaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_385 //
+
+jhāyiṃ virajam āsīnaṃ katakiccaṃ anāsavaṃ  /
+uttamatthaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_386 //
+
+
+[page 109]
+                       26. Brāhmaṇavagga                109
+
+divā tapati ādicco, rattiṃ ābhāti candimā,  /
+sannaddho khattiyo tapati, jhāyī tapati brāhmaṇo,      /
+atha sabbam ahorattiṃ Buddho tapati tejasā. // Dhp_387 //
+
+bāhitapāpo ti brāhmaṇo samacariyā samaṇo ti vuccati.  /
+pabbājayam attano malaṃ tasmā pabbajito ti vuccati. // Dhp_388 //
+
+na brāhmaṇassa pahareyya nāssa muñcetha brāhmaṇo,  /
+dhī brāhmaṇassa hantāraṃ, tato dhī y'; assa muñcati. // Dhp_389 //
+
+
+
+[page 110]
+110                            Dhammapada
+na brāhmaṇass'; etad akiñci seyyo yadā nisedho manaso piyehi,  /
+yato yato hiṃsamano nivattati tato tato sammati-m-eva dukkhaṃ. // Dhp_390 //
+
+yassa kāyena vācāya manasā n'; atthi dukkataṃ  /
+saṃvutaṃ tīhi ṭhānehi tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_391 //
+
+yamhā dhammaṃ vijāneyya sammāsambuddhadesitaṃ  /
+sakkaccaṃ taṃ namasseyya aggihuttaṃ va brāhmaṇo. // Dhp_392 //
+
+na jaṭāhi na gottena na jaccā hoti brāhmaṇo,  /
+yamhi saccañ ca dhammo ca so sukhī so ca brāhmaṇo. // Dhp_393 //
+
+
+[page 111]
+                       26. Brāhmaṇavagga                111
+
+kin te jaṭāhi dummedha, kin te ajinasāṭiyā,  /
+abbhantaran te gahanaṃ, bāhiraṃ parimajjasi. // Dhp_394 //
+
+paṃsukūladharaṃ jantuṃ kisaṃ dhamanisanthataṃ  /
+ekaṃ vanasmiṃ jhāyantaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_395 //
+
+na cāhaṃ brāhmaṇaṃ brūmi yonijaṃ mattisambhavaṃ  /
+bhovādi nāma so hoti sa ve hoti sakiñcano,  /
+akiñcanaṃ anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_396 //
+
+
+
+[page 112]
+112                            Dhammapada
+sabbasaṃyojanaṃ chetvā yo ve na paritassati  /
+saṅgātigaṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇam. // Dhp_397 //
+
+chetvā nandhiṃ varattañ ca sandānaṃ sahanukkamaṃ  /
+ukkhittapaḷighaṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_398 //
+
+akkosaṃ vadhabandhañ ca aduṭṭho yo titikkhati  /
+khantībalaṃ balānīkaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_399 //
+
+akkodhanaṃ vatavantaṃ sīlavantaṃ anussutaṃ  /
+dantaṃ antimasārīraṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_400 //
+
+
+
+[page 113]
+                       26. Brāhmaṇavagga                113
+vāri pokkharapatte va āragge-r-iva sāsapo  /
+yo na lippati kāmesu tam ahaṃ brūmi brāhmaṇaṃ    // Dhp_401 //
+
+yo dukkhassa pajānāti idh'; eva khayam attano  /
+pannabhāraṃ visaññuttaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_402 //
+
+gambhīrapaññaṃ medhāviṃ maggāmaggassa kovidaṃ  /
+uttamatthaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_403 //
+
+asaṃsaṭṭhaṃ gahaṭṭhehi anāgārehi c'; ūbhayaṃ  /
+anokasāriṃ appicchaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_404 //
+
+
+
+[page 114]
+114                            Dhammapada
+nidhāya daṇḍaṃ bhūtesu tasesu thāvaresu ca  /
+yo na hanti na ghāteti tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_405 //
+
+aviruddhaṃ viruddhesu attadaṇḍesu nibbutaṃ  /
+sādānesu anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_406 //
+
+yassa rāgo ca doso ca māno makkho ca pātito  /
+sāsapo-r-iva āraggā tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_407 //
+
+akakkasaṃ viññāpaniṃ giraṃ saccaṃ udīraye  /
+yāya nābhisaje kañci tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_408 //
+
+yo 'dha dīghaṃ va rassaṃ vā aṇuṃthūlaṃ subhāsubhaṃ  /
+loke adinnaṃ nādiyate tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_409 //
+
+
+[page 115]
+                       26. Brāhmaṇavagga                115
+
+āsā yassa na vijjanti asmiṃ loke paramhi ca  /
+nirāsayaṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_410 //
+
+yassālayā na vijjanti aññāya akathaṃkathī  /
+amatogadhaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_411 //
+
+yo 'dha puññañ ca pāpañ ca ubho saṅgaṃ upaccagā  /
+asokaṃ virajaṃ suddhaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_412 //
+
+
+
+[page 116]
+116                            Dhammapada
+candaṃ va vimalaṃ suddhaṃ vippasannam anāvilaṃ  /
+nandībhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_413 //
+
+yo imaṃ palipathaṃ duggaṃ saṃsāraṃ moham accagā  /
+tiṇṇo pāragato jhāyī anejo akathaṃkathī  /
+anupādāya nibbuto tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_414 //
+
+yo 'dha kāme pahatvāna anāgāro paribbaje  /
+kāmābhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_415 //
+
+
+
+[page 117]
+                       26. Brāhmaṇavagga                117
+yo 'dha taṇhaṃ pahatvāna anāgāro paribbaje  /
+taṇhābhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_416 //
+
+hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā  /
+sabbayogavisaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_417 //
+
+hitvā ratiñ ca aratiñ ca sītibhūtaṃ nirūpadhiṃ  /
+sabbalokābhibhuṃ vīraṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_418 //
+
+cutiṃ yo vedi sattānaṃ upapattiñ ca sabbaso  /
+
+
+[page 118]
+118                            Dhammapada
+asattaṃ sugataṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_419 //
+
+yassa gatiṃ na jānanti devā gandhabbamānusā  /
+khīṇāsavaṃ arahantaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_420 //
+
+yassa pure ca pacchā ca majjhe ca n'; atthi kiñcanaṃ  /
+akiñcanaṃ anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_421 //
+
+usabhaṃ pavaraṃ vīraṃ mahesiṃ vijitāvinaṃ  /
+anejaṃ nhātakaṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ. // Dhp_422 //
+
+pubbenivāsaṃ yo vedi saggāpāyañ ca passati  /
+atho jātikkhayaṃ patto abhiññāvosito muni  /
+sabbavositavosānaṃ tam ahaṃ brūmi brāhmaṇaṃ.1  // Dhp_423 //
+
+
+[page 119]
+                       26. Brāhmaṇavagga                119
+
+                   Brāhmaṇavaggo chabbīsatimo
+
+yamakaṃ appamādaṃ cittaṃ pupphaṃ bālena paṇḍitaṃ  /
+arahantaṃ sahassena pāpaṃ daṇḍena, te dasa. // Dhp_*1 //
+
+jarā attā ca loko ca buddhaṃ sukhaṃ piyena ca  /
+kodhaṃ malañ ca dhammaṭṭhaṃ maggavaggena vīsati. // Dhp_*1 //
+
+pakiṇṇaṃ nirayaṃ nāgo taṇhaṃ bhikkhu ca brāhmaṇo,  /
+ete chabbīsatī vaggā desitādiccabandhunā. // Dhp_*3 //
+
+
+[page 120]
+120                            Dhammapada
+
+                         Dhammapadaṃ niṭṭhitaṃ
+
+
+
+

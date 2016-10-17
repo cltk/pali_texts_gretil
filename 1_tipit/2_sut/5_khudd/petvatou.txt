@@ -1,0 +1,4097 @@
+
+
+Petavatthu
+Based on the edition by N. A. Jayawickrama: Vimānavatthu and Petavatthu,
+London : Pali Text Society 1977.
+
+
+
+Input by the Dhammakaya Foundation, Thailand, 1989-1996
+[GRETIL-Version vom 20.2.2015]
+
+
+NOTICE
+These files are provided by courtesy of the Pali Text Society for
+scholarly purposes only.
+In principle they represent a digital edition (without revision or
+correction) of the printed editions of the complete set of Pali
+canonical texts published by the PTS. While they have been subject to a
+process of checking, it should not be assumed that there is no
+divergence from the printed editions and it is strongly recommended that
+they are checked against the printed editions before quoting.
+
+
+
+ANNOTATED VERSION IN PTS LAYOUT
+
+
+
+STRUCTURE OF REFERENCES (added):
+Pv_n,nn[=nn].nn = Petavatthu_Vagga(I-IV),Suttanta[=continuous Suttanta-numbering].Verse
+|| nnn || = continuous verse-numbering
+
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+
+Petavatthu
+
+
+[page 001]
+                                     1
+                Namo tassa bhagavato arahato sammāsambuddhassa.
+                                 1 URAGAVAGGA
+                                I-  URAGAVAGGA
+1 Khettūpamapetavatthu1
+Vv_I,1[=1].1    Khettūpamā arahanto dāyakā kassakūpamā
+     bījūpamaṃ deyyadhammaṃ etto2 nibbattate phalaṃ.  || 1 ||
+Vv_I,1[=1].2    Etaṃ3 bījaṃ kasī4 khettaṃ petānaṃ dāyakassa ca,
+     taṃ petā paribhuñjanti dātā puññena vaḍḍhati.  || 2 ||
+Vv_I,1[=1].3    Idh'; eva kusalaṃ katvā pete ca paṭipūjiya5
+     saggañ ca kamati6 ṭṭhānaṃ7 kammaṃ katvāna
+bhaddakan ti.  || 3 ||
+                        khettūpamapetavatthu paṭhamaṃ8
+
+--------------------------------------------------------------------------
+     1 As in Vv., all the verses are serially numbered to the end
+        in this edition though it is not done so in C, R, T.
+        The title too is given at the head as in B, N.
+     2 R ogho
+     3 R ogha-
+     4 B, N kasi; R, T kasī-
+     5 R -pūjayaṃ; (B1) -pūjaya
+     6 (K), (B2) gamati
+     7 R, T, PvA(B, R) ṭhānaṃ
+     8 paṭhamaṃ, dutiyaṃ etc. are added to the title at the end of
+        the vatthu as in B, N, (P), T to indicate which number of
+        the vagga each piece is. C, R have it indicated at the head.
+
+[page 002]
+2                                   Petavatthu
+2 Sūkarapetavatthu
+Vv_I,2[=2].1    Kāyo te sabbasovaṇṇo1 sabbā obhāsate disā
+     mukhaṃ te sūkarass'; eva kiṃ kammam akarī2 pure ti.  || 4 ||
+Vv_I,2[=2].2    Kāyena saññato āsiṃ vācāyāsim3 asaññato
+     tena me tādiso vaṇṇo yathā passasi Nārada.4 || 5 ||
+Vv_I,2[=2].3    Taṃ tyāhaṃ5 Nārada brūmi sāmaṃ diṭṭham idaṃ tayā
+     mākāsi mukhasā pāpaṃ mā kho sūkaramukho ahū ti.  || 6 ||
+                        Sūkaramukhapetavatthu dutiyaṃ
+&amp;1
+3 Pūtimukhapetavatthu
+Vv_I,3[=3].1 1Dibbaṃ subhaṃ dhāresi vaṇṇadhātuṃ
+         vehāyasaṃ2 tiṭṭhasi antalikkhe3
+         mukhañ ca te kimayo4 pūtigandhaṃ
+         khādanti, kiṃ kammam akāsi pubbe ti.  || 7 ||
+Vv_I,3[=3].2 1Samaṇo ahaṃ pāpo 'tiduṭṭhavāco5
+         tapassirūpo6 mukhasā asaññato
+         laddhā ca me tapasā vaṇṇadhātu7
+         mukhañ ca me pesuṇiyena8 pūti.9 || 8 ||
+Vv_I,3[=3].3        Ta-y-idaṃ tayā Nārada sāmaṃ10 diṭṭhaṃ
+         anukampakā ye kusalā vadeyyuṃ:
+         mā pesuṇaṃ mā ca musā abhāṇi
+         yakkho tuvaṃ hohisi kāmakāmī ti.  || 9 ||
+                         Pūtimukhapetavatthu tatiyaṃ
+&amp;2
+
+--------------------------------------------------------------------------
+&amp;1
+     1 T sabbaso vaṇṇo
+     2 T, (B1), (B2), (K) akarā
+     3 R, T -āsiṃ - differences due to the non-observance of sandhi 
+        in instances such as this will not be noted hereafter.
+     4 R Nāradā ti
+     5 (B1), (K), PvA(C, R) tāhaṃ
+&amp;2
+     1 MSS. C1, D1 consulted by R omit these two stanzas.
+     2 (S1) vehāsayaṃ; keci pana vihāsayaṃ . . ṭi pāṭhaṃ vatvā - PvA
+     3 C antaḷikkhe; l &gt; ḷ in C and other Sinhalese sources will not 
+        be  noted hereafter.
+     4 R, T, PvA(R) kimiyo
+     5 C, (S1) duṭṭhavāco; R, T, PvA(R) dukkhavāco; atidukkhavāco ti 
+        vā pāṭho - PvA
+     6 C, R, (S1), PvA(R) tapassīrūpo
+     7 R, PvA(R) -dhātuṃ
+     8 R, PvA(R) pesuniyena; (P) pesukiyena. Obvious errors in the use 
+        of the graphemes n / ṇ will not be generally noted hereafter.
+     9 R, PvA pūtī ti
+    10 No elision of ṃ is attested
+
+[page 003]
+3                                   Uragavagga
+4 Piṭṭhadhītalikapetavatthu
+Vv_I,4[=4].1    Yaṃ kiñc'; ārammaṇaṃ katvā dajjā dānaṃ amaccharī
+     pubbapete1 ca2 ārabbha atha vā vatthudevatā;  || 10 ||
+Vv_I,4[=4].2 3Cattāro ca2 mahārāje lokapāle yasassino4
+     Kuveraṃ Dhataraṭṭhañ ca Virūpakkhaṃ5 Virūḷhakaṃ-
+     te6 c'; eva6 pūjitā honti dāyakā ca anipphalā.  || 11 ||
+Vv_I,4[=4].3    Na hi ruṇṇaṃ va7 soko vā yā c'; aññā paridevanā
+     na taṃ petassa8 atthāya evaṃ tiṭṭhanti ñātayo.  || 12 ||
+Vv_I,4[=4].4    Ayañ ca kho dakkhiṇā dinnā saṅghamhi suppatiṭṭhitā
+     dīgharattaṃ hitāy'; assa ṭhānaso upakappatī ti.  || 13 ||
+                      Piṭṭhadhītalikapetavatthu catutthaṃ
+&amp;1
+5 Tirokuḍḍapetavatthu
+Vv_I,5[=5].1    Tirokuḍḍesu1 tiṭṭhanti sandhisiṅghāṭakesu ca
+     dvārabāhāsu tiṭṭhanti āgantvāna sakaṃ gharaṃ.  || 14 ||
+Vv_I,5[=5].2   Pahūte annapānamhi khajjabhojje upaṭṭhite
+     na tesaṃ koci sarati sattānaṃ kammapaccayā.  || 15 ||
+
+--------------------------------------------------------------------------
+&amp;1
+     1 R, T, PvA(R) pubbe pete
+     2 T va
+     3 C takes this line as pādas ef of v.1. PvA(C) differs, still further.
+     4 R, B, N, (B), PvA(R, B) yasassine
+     5 R adds ca
+     6 R tam eva
+     7 R, T, (S1), PvA(B) vā; PvA(R) 'va
+     8 (P) petānam; cf. ver.2
+
+[page 004]
+4                                   Petavatthu
+Vv_I,5[=5].3 2Evaṃ dadanti ñātīnaṃ ye honti anukampakā
+     suciṃ paṇītaṃ kālena kappiyaṃ pānabhojanaṃ:
+     idaṃ vo ñātīnaṃ3 hotu sukhitā hontu ñātayo.  || 16 ||
+Vv_I,5[=5].4    Te ca tattha samāgantvā ñātipetā samāgatā
+     pahūte annapānamhi sakkaccaṃ anumodare:  || 17 ||
+Vv_I,5[=5].5    Ciraṃ jīvantu no ñātī yesaṃ hetu labhāmase
+     amhākañ ca katā pūjā dāyakā ca anipphalā.  || 18 ||
+Vv_I,5[=5].6 4Na hi tattha kasī atthi gorakkh'; ettha5 na vijjati
+     vaṇijjā tādisī natthi hiraññena6 kayakkayaṃ,7
+     ito dinnena yāpenti petā kālakatā8 tahiṃ.  || 19 ||
+Vv_I,5[=5].7    Unname udakaṃ9 vuṭṭhaṃ10 yathā ninnaṃ pavattati
+     evam eva ito dinnaṃ petānaṃ upakappati.  || 20 ||
+Vv_I,5[=5].8    Yathā vārivahā pūrā paripūrenti sāgaraṃ
+     evam eva ito dinnaṃ petānaṃ upakappati.  || 21 ||
+Vv_I,5[=5].9    Adāsi me akāsi me ñātimittā sakhā ca me
+     petānaṃ dakkhiṇaṃ11 dajjā pubbe katam anussaraṃ.  || 22 ||
+Vv_I,5[=5].10   Na hi ruṇṇaṃ va12 soko vā yā c'; aññā paridevanā
+     na taṃ petānam13 atthāya evaṃ tiṭṭhanti ñātayo.  || 23 ||
+Vv_I,5[=5].11   Ayañ ca kho14 dakkhiṇā dinnā saṅghamhi15
+suppatiṭṭhitā
+     dīgharattaṃ hitāy'; assa ṭhānaso upakappati.  || 24 ||
+Vv_I,5[=5].12       So ñātidhammo ca ayaṃ nidassito
+         petānaṃ pūjā ca katā uḷārā
+         balañ ca bhikkhūnam anuppadinnaṃ
+         tumhehi puññaṃ pasutaṃ anappakan ti.  || 25 ||
+                         Tirokuḍḍapetavatthu pañcamaṃ
+
+--------------------------------------------------------------------------
+     1 B, N, PvA(B) -kuṭṭesu; R, PvA(R) tiro kuḍḍesu
+     2 The arrangement of verses in R is followed here. Kh. differs: 
+        (agrees with C).
+     3 Kh. ñātinaṃ suits the metre.
+     4 The arrangement of verses in B, N and Kh. is followed from here 
+        onwards.
+    5 R, (P), PvA(R, B) etta; (B2) etthe
+     6 (P) hiraṇyāna
+     7 B, N, T, (P), PvA(B) kayākayaṃ; C, (K), PvA(C) kayākkayaṃ
+     8 B, N, (K) kālaṅkatā; PvA(B) kālagatā
+     9 PvA(R) v'; udakaṃ
+    10 C, PvA(C) vaṭṭhaṃ; Kh. vaṭṭaṃ
+    11 R dakkhiṇā; dakkhiṇā dajjā ti vā pāṭho - PvA
+    12 As with C; R, T, B, N, PvA(B) vā
+    13 T petassa
+    14 (P) omits
+    15 (P) saṅgha-
+
+[page 005]
+5                                   Uragavagga
+6 Pañcaputtakhādakapetavatthu
+Vv_I,6[=6].1    Naggā dubbaṇṇarūpāsi duggandhā pūti vāyasi
+     makkhikāparikiṇṇā1 va1 kā nu tvaṃ idha tiṭṭhasī ti.  || 26 ||
+Vv_I,6[=6].2    Ahaṃ bhadante2 petī 'mhi duggatā Yamalokikā
+     pāpakammaṃ karitvāna petalokaṃ3 ito gatā.  || 27 ||
+Vv_I,6[=6].3    Kālena pañca puttāni sāyaṃ pañca punāpare
+     vijāyitvāna khādāmi te pi nā4 honti me alaṃ.  || 28 ||
+Vv_I,6[=6].4    Pariḍayhati dhūmāyati khudāya5 hadayaṃ mama
+     pānīyaṃ na labhe pātum passa mam vyasanam gatan ti.  || 29 ||
+Vv_I,6[=6].5    Kin nu kāyena vācāya manasā dukkaṭaṃ6 kataṃ7
+     kissa kammavipākena puttamaṃsāni khādasī ti.  || 30 ||
+Vv_I,6[=6].6    Sapattī8 me gabbhinī āsi tassā pāpaṃ acetayiṃ
+     sāhaṃ paduṭṭhamanasā akariṃ gabbhapātanaṃ.  || 31 ||
+Vv_I,6[=6].7    Tassā dvemāsiko gabbho lohitañ ñeva paggharī9
+     tad'; assā mātā kupitā mayhaṃ ñātī samānayi,
+10sapathañ ca maṃ kāresi paribhāsāpayī11 ca maṃ.  || 32 ||
+Vv_I,6[=6].8    Sāhaṃ ghorañ ca sapathaṃ musāvādaṃ abhāsisaṃ:12
+     puttamaṃsāni khādāmi sace13 taṃ pakataṃ13 mayā.  || 33 ||
+Vv_I,6[=6].9    Tassa kammavipākena14 musāvādassa cūbhayaṃ
+     puttamaṃsāni khādāmi pubbalohitamakkhitā15 ti.  || 34 ||
+                    Pañcaputtakhādakapetavatthu16 chattaṃ
+
+--------------------------------------------------------------------------
+     1 B, N, (P), (B1) makkhikāhi parikiṇṇā; (S2) -kiṇṇā ca, v. 35
+     2 R bhaddante; (B2) bhaḍḍante
+     3 R -lokā
+     4 R, T na
+     5 (K), (B1) khuddāya; (B2) khuḍḍāya
+     6 C dukkataṃ
+     7 R kaṭaṃ
+     8 R, T, (B1) sapatī
+     9 T, B, N pagghari
+    10 The arrangement of verses from here onwards follows B, N
+    11 R, T -payi
+    12 R, PvA(R) abhāsissaṃ; T abhāsiyaṃ
+   13 R sapathañ ca kataṃ; (B2) c'; etaṃ me kataṃ
+    14 B, N, C, PvA(B, C) kammassa vipākena
+    15 R -makkhikā
+    16 B, N consistently refer to the stories of petīs as Petivatthu.
+
+[page 006]
+6                                   Petavatthu
+7 Sattaputtakhādakapetavatthu
+Vv_I,7[=7].1    Naggā dubbaṇṇarūpāsi duggandhā pūti vāyasi
+     makkhikāhi1 parikiṇṇā1 kā nu tvaṃ idha tiṭṭhasī ti.  || 35 ||
+Vv_I,7[=7].2    Ahaṃ bhadante2 petī 'mhi duggatā Yamalokikā
+     pāpakammaṃ karitvāna  petalokaṃ ito gatā.  || 36 ||
+Vv_I,7[=7].3    Kālena satta puttāni sāyaṃ satta punāpare
+     vijāyitvāna khādāmi te pi nā3 honti me alaṃ.  || 37 ||
+Vv_I,7[=7].4    Pariḍayhati dhūmāyati khudāya4 hadayaṃ mama
+     nibbutiṃ nādhigacchāmi aggidaḍḍheva5 ātape ti.  || 38 ||
+Vv_I,7[=7].5    Kin nu kāyena vācāya manasā dukkaṭaṃ6 kataṃ
+     Kissa kammavipākena puttamaṃsāni khādasī ti.  || 39 ||
+Vv_I,7[=7].6    Ahū mayhaṃ duve puttā ubho sampattayobbanā7
+     sāhaṃ puttabalūpetā8 sāmikaṃ atimaññisaṃ.9 || 40 ||
+Vv_I,7[=7].7    Tato me sāmiko kuddho sapattiṃ10 aññam ānayi11
+     sā ca gabbhaṃ alabhittha, tassā pāpaṃ acetayiṃ.  || 41 ||
+Vv_I,7[=7].8    Sāhaṃ paduṭṭhamanasā akariṃ gabbhapātanaṃ
+     tassā temāsiko gabbho pūtilohitako12 pati.  || 42 ||
+Vv_I,7[=7].9    Tad'; assā mātā kupitā mayhaṃ ñātī samānayi
+     sapathañ ca maṃ kāresi paribhāsāpayī13 ca maṃ.  || 43 ||
+Vv_I,7[=7].10 14Sāham ghorañ ca sapathaṃ musāvādaṃ abhāsisaṃ:15
+     puttamaṃsāni khādāmi sace taṃ pakataṃ mayā.  || 44 ||
+Vv_I,7[=7].11   Tassa kammavipākena16 musāvādassa cūbhayaṃ
+     puttamaṃsāni khādāmi pubbalohitamakkhitā17 ti.  || 45 ||
+                     Sattaputtakhādakapetavatthu sattamaṃ
+
+--------------------------------------------------------------------------
+     1 C makkhikā parikiṇṇā va (as in 26)
+     2 R bhante; (P) bhaddante
+     3 R, T na
+     4 (B1) khuddāya
+     5 B, N, PvA-daḍḍhā va; (B1) -daḍḍho va; R -daḍḍh'; eva
+     6 C dukkataṃ
+     7 C sampatta-
+     8 R -balupetā
+     9 R atimaññasiṃ; T atimaññissaṃ
+    10 R, T sapatiṃ
+    11 B, N, (B1), PvA(B) mayham ānayi; (P) mayham mādayi. E. Hardy, 
+        JPTS 1904,148 explains (P) mādayi as causative of ĀêÜm0rd 
+        (and not as-m ādayi) but rejects the reading in his PvA(R).
+    12 B, N, (K), (P) pubbalohitako
+    13 R -bhāsapesi; T -payi
+    14 The arrangement of verses differs from R from here onwards.
+   15 R abhāsissaṃ; T ca abhāsissaṃ
+    16 B, N, C kammassa vipākena
+    17 R -makkhikā
+
+[page 007]
+7                                   Uragavagga
+8 Goṇapetavatthu
+Vv_I,8[=8].1    Kin nu ummattarūpo va lāyitvā haritaṃ tiṇaṃ,
+     khāda khādā ti lapasi gatasattaṃ jaraggavaṃ.  || 46 ||
+Vv_I,8[=8].2    Na hi annena pānena mato goṇo samuṭṭhahe
+     tvaṃ si1 bālo ca dummedho yathā t'; añño va2
+dummatī ti.  || 47 ||
+Vv_I,8[=8].3    Ime pādā idaṃ3 sīsaṃ ayaṃ kāyo savāladhi
+     nettā tath'; eva tiṭṭhanti ayaṃ goṇo samuṭṭhahe.  || 48 ||
+Vv_I,8[=8].4    Nāyyakassa4 hatthapādā kāyo sīsañ ca dissati
+     rudaṃ mattikathūpasmiṃ nanu tvañ ñeva5 dummatī5 ti.  || 49 ||
+Vv_I,8[=8].5    Ādittaṃ vata maṃ santaṃ ghatasittaṃ va6 pāvakaṃ
+     vārinā viya osiñcaṃ7 sabbaṃ nibbāpaye daraṃ.  || 50 ||
+Vv_I,8[=8].6    Abbūḷhaṃ8 vata me sallaṃ sokaṃ hadayanissitaṃ
+     yo me sokaparetassa pitusokaṃ apānudi.  || 51 ||
+Vv_I,8[=8].7    Svāhaṃ abbūḷhasallo 'smi9 sītibhūto 'smi nibbuto
+     na socāmi na rodāmi tava10 sutvāna māṇava.  || 52 ||
+Vv_I,8[=8].8    Evaṃ karonti sappaññā ye honti anukampakā
+     vinivattayanti11 sokamhā Sujāto pitaraṃ yathā ti.  || 53 ||
+                           Goṇapetavatthu aṭṭhamaṃ
+
+--------------------------------------------------------------------------
+     1 T pi; J iii,156 line differs
+     2 R, PvA(R) t'; aññ'; eva; T, (B1) añño ca; (P) yathā aññā va; 
+        yathātan ti nipātamattaṃ - PvA
+     3 R, C imaṃ
+     4 R, T, PvA(R) n'; ayyakassa
+     5 (P) tvam eva dummedho ti
+     6 (B2) vā
+     7 R, (B1) osiñci
+     8 B, N, PvA(B) abbahī; PvA(R) abbahi as with J iii,156 etc.
+     9 R, T, PvA(R) -smiṃ
+    10 R tañ ca
+    11 T nivattayanti; (B1) vinivattayi; (B2), PvA(R) vinivattanti
+
+[page 008]
+8                                   Petavatthu
+9 Mahāpesakārapetavatthu
+Vv_I,9[=9].1 1Gūthañ ca muttaṃ ruhirañ2 ca pubbaṃ
+         paribhuñjati kissa ayaṃ vipāko
+         ayan nu3 kim kammam akāsi nārī
+         yā4 sabbadā lohitapubbabhakkhā.  || 54 ||
+Vv_I,9[=9].2        Navāni vatthāni subhāni c'; eva
+         mudūni suddhāni ca lomasāni
+         dinnān'; imissā kiṭakā5 bhavanti
+         ayaṃ nu kiṃ kammam akāsi nārī ti.  || 55 ||
+Vv_I,9[=9].3        Bhariyā mam'; esā ahū6 bhadante7
+         adāyikā maccharinī kadariyā
+         sā maṃ dadantaṃ samaṇabrāhmaṇānaṃ
+         akkosati8 paribhāsatī9 ca:  || 56 ||
+Vv_I,9[=9].4        Gūthañ ca muttaṃ ruhirañ2 ca pubbaṃ
+         paribhuñja tvaṃ asuciṃ sabbakālaṃ
+         etaṃ10 te paralokasmiṃ hotu
+         vatthā11 ca te kiṭakasamā12 bhavantu13
+         etādisaṃ duccaritaṃ caritvā
+         idhāgatā cirarattāya14 khādatī ti.  || 57 ||
+                        Mahāpesakārapetavatthu navamaṃ
+
+--------------------------------------------------------------------------
+     1 MSS. C1, D1 consulted by R omit stanzas 1-2
+     2 T rudhirañ
+     3 R adds kho
+     4 R adds ca
+     5 R adds va; C, PvA(B, C) kitakā (cf. kita in kaṇṇakita)
+        but PvA differs
+     6 R, T, PvA(R, B) ahu; (P) ahu precedes mam'; esā
+     7 R, PvA(R) bhaddante
+     8 B, N, (P), PvA(B) add ca
+     9 R, T, B, N, PvA(R, B) -bhāsati
+    10 C adds ca
+    11 PvA(R) vatthāni
+    12 R, T kiṭakā; C, PvA kitakasamā (vide n. 5 above)
+    13 R bhavanti. Pāda d differs in PvA(C)
+    14 R ciraṃrattāya; (B2) cira-atthāya
+
+[page 009]
+9                                   Uragavagga
+10 Khallāṭiyapetavatthu
+Vv_I,10[=10].1    Kā nu antovimānasmiṃ tiṭṭhantī n'; upanikkhami1
+     upanikkhamassu bhadde tvaṃ2 passāma taṃ
+mahiddhikan3 ti.  || 58 ||
+Vv_I,10[=10].2    Aṭṭiyāmi harāyāmi naggā nikkhamituṃ bahi
+     keseh'; amhi paṭicchannā puññaṃ me appakaṃ katan ti.  || 59 ||
+Vv_I,10[=10].3    Hand'; uttarīyaṃ4 dadāmi5 te imaṃ6 dussaṃ nivāsaya7
+     imaṃ6 dussaṃ nivasetvā bahi8 nikkhama sobhane,
+     upanikkhamassu bhadde tvaṃ2 passāma tam
+bahiṭṭhitan9 ti.  || 60 ||
+Vv_I,10[=10].4    Hatthena hatthe10 te dinnaṃ na mayhaṃ upakappati
+     es'; etth'; upāsako saddho sammāsambuddhasāvako,  || 61 ||
+Vv_I,10[=10].5    Etaṃ acchādayitvāna mama dakkhiṇam ādisa11
+     tathāhaṃ12 sukhitā hessaṃ sabbakāmasamiddhinī ti.  || 62 ||
+Vv_I,10[=10].6    Tañ ca te nhāpayitvāna13 vilimpetvāna14 vāṇijā
+     vattheh'; acchādayitvāna tassā dakkhiṇam ādisuṃ.  || 63 ||
+Vv_I,10[=10].7   Samanantarānuddiṭṭhe15 vipāko upapajjatha16
+     bhojanacchādanapānīyaṃ,17 dakkhiṇāya idaṃ phalaṃ.  || 64 ||
+Vv_I,10[=10].8    Tato suddhā sucivasanā kāsikuttamadhārinī
+     hasantī vimānā nikkhami dakkhiṇāya idaṃ phalan ti.  || 65 ||
+Vv_I,10[=10].9    Sucittarūpaṃ ruciraṃ vimānaṃ te pabhāsati18
+     devate pucchitācikkha kissa kammass'; idaṃ
+phalan ti.  || 66 ||
+Vv_I,10[=10].10   Bhikkhuno caramānassa doṇinimmajjanaṃ19 ahaṃ
+     adāsiṃ ujubhūtassa vippasannena cetasā.  || 67 ||
+Vv_I,10[=10].11   Tassa kammassa kusalassa vipākaṃ dīgham antaraṃ
+     anubhomi vimānasmiṃ tañ ca20 dāni20 parittakaṃ.  || 68 ||
+
+--------------------------------------------------------------------------
+
+[page 010]
+10                                  Petavatthu
+Vv_I,10[=10].12   Uddhaṃ catūhi21 māsehi kālakiriyā22 bhavissati
+     ekantaṃ23 kaṭukaṃ ghoraṃ nirayaṃ24 papatiss'
+ahaṃ.24 || 69 ||
+Vv_I,10[=10].13   Catukkaṇṇaṃ25 catudvāraṃ vibhattaṃ bhāgaso mitaṃ
+     ayopākārapariyantaṃ ayasā paṭikujjitaṃ.  || 70 ||
+Vv_I,10[=10].14   Tassa ayomayā bhūmi jalitā tejasā yutā
+     samantā yojanasataṃ pharitvā tiṭṭhati sabbadā.  || 71 ||
+Vv_I,10[=10].15   Tatthāhaṃ dīgham addhānam dukkham vedissa26 vedanaṃ
+27phalañ ca pāpakammassa tasmā socām'; ahaṃ28
+bhusan28 ti.  || 72 ||
+                        Khallāṭiyapetavatthu29 dasamaṃ
+
+--------------------------------------------------------------------------
+     1 R na upa-
+     2 B, N, T, (P), (B1) omit
+     3 B, N, (B1) bahiṭṭhitaṃ
+     4 N hand'; ūtta-; (P) handvatarīyaṃ
+     5 R, T, PvA(R) dāmi
+     6 B, N, (P) idaṃ
+     7 (P) nivāsiya
+     8 B, N, (P), (B1) ehi
+     9 R, T, PvA(R) mahiddhikaṃ
+    10 (P) hatt(h)aṃ
+    11 (P) ādisaṃ
+    12 R, T, PvA(R) tadāhaṃ; C, (S1), (S2), PvA(C) athāhaṃ
+    13 R, T, PvA(R, C) nahāpa-
+    14 R, T, (C), PvA(R) vilimpitvāna
+    15 (K) samanantarā anud-; (P) -tarāvakhanud-
+    16 B, N, (P) udapajjatha; (S2) upapajjati
+    17 (K), (P) -chādanaṃ pānīyaṃ
+    18 R, T, PvA(R) ca bhāsati
+    19 R, PvA(R) -nimmiñjanaṃ; T, (B2) -mujjanī; B, N, PvA(B) -majjaniṃ
+    20 (B1) -dāniṃ; C, PvA(C) tañ cedāni
+    21 C, PvA(C) catuhi
+   22 B, N kālaṅkiriyā
+    23 B, N, PvA(B) ekanta-
+    24 R, T nirayūpapatiss'; ahaṃ, but see 239
+    25 R catukaṇṇaṃ
+    26 R, T, PvA(R) vedissaṃ, but see 242
+    27 v. 242 c: phalaṃ pāpassa kammassa
+    28 T socāmidaṃ bhūtaṃ; R, PvA(R) socāmidaṃbhūtaṃ
+    29 R khalātya-; T khalātaya-; PvA(R) khalātiya-; but cf. the nidāna
+
+[page 011]
+11                                  Uragavagga
+11 Nāgapetavatthu
+Vv_I,11[=11].1        Purato va1 setena paleti hatthinā
+         majjhe pana assatarīrathena
+         pacchā ca2 kaññā sivikāya3 niyyati3
+         obhāsayantī dasa sabbaso4 disā.  || 73 ||
+Vv_I,11[=11].2        Tumhe pana5 muggarahatthapāṇino
+         rudammukhā bhinnapabhinnagattā6
+         manussabhūtā kim akattha pāpaṃ
+         yen'; aññamaññassa pivātha lohitan ti.  || 74 ||
+Vv_I,11[=11].3        Purato va yo gacchati kuñjarena
+         setena nāgena catukkamena
+         amhāka7 putto ahu jeṭṭhako8 so8
+         dānāni datvāna sukhī9 pamodati.  || 75 ||
+Vv_I,11[=11].4        Yo so majjhe assatarīrathena
+         catubbhi yuttena suvaggitena
+         amhāka7 putto ahu majjhimo so
+         amaccharī dānapatī10 virocati.  || 76 ||
+Vv_I,11[=11].5        Yā sā ca11 pacchā sivikāya niyyati12
+         nārī13 sapaññā migamandalocanā
+         amhāka7 dhītā ahu sā kaniṭṭhā14
+         bhāgaḍḍhabhāgena sukhī pamodati.  || 77 ||
+Vv_I,11[=11].6        Ete ca dānāni adaṃsu pubbe
+         pasannacittā samaṇabrāhmaṇānaṃ
+         mayaṃ pana maccharino ahumhā15
+         paribhāsakā samaṇabrāhmaṇānaṃ
+         ete padatvā16 paricārayanti
+         mayañ ca sussāma naḷo va chinno17 ti.  || 78 ||
+Vv_I,11[=11].7        Kiṃ tumhākaṃ bhojanaṃ kiṃ18 sayānaṃ18
+         kathaṃ su19 yāpetha supāpadhammino
+         pahūtabhogesu anappakesu
+         sukhaṃ virādhāya20 dukh'; ajja21 pattā ti.  || 79 ||
+Vv_I,11[=11].8    Aññamaññaṃ vadhitvāna pivāma pubbalohitaṃ
+     bahum pītvā22 na dhātā23 homa na cchādimhase24
+mayaṃ.  || 80 ||
+Vv_I,11[=11].9        Icc eva maccā25 paridevayanti
+         adāyakā26 pecca27 Yamassa ṭhāyino
+         ye te viditvā28 adhigamma bhoge
+         na bhuñjare nā pi karonti puññaṃ.  || 81 ||
+
+--------------------------------------------------------------------------
+
+[page 012]
+12                                  Petavatthu
+Vv_I,11[=11].10       Te khuppipāsūpagatā29 parattha
+         petā30 ciraṃ jhāyare31 ḍayhamānā
+         kammāni katvāna dukhudrayāni32
+         anubhonti dukkhaṃ kaṭukapphalāni.33 || 82 ||
+Vv_I,11[=11].11   Ittaraṃ34 hi dhanaṃ35 dhaññaṃ ittaraṃ34 idha jīvitaṃ
+     ittaraṃ34 ittarato36 ñatvā dīpaṃ kayirātha37 paṇḍito.  || 83 ||
+Vv_I,11[=11].12   Ye te evaṃ pajānanti narā dhammassa kovidā
+     te dāne na ppamajjanti sutvā arahataṃ vaco ti.  || 84 ||
+                           Nāgapetavatthu ekādasamaṃ
+
+--------------------------------------------------------------------------
+     1 T ca
+     2 R, PvA(R) va
+     3 R, T sivikāyaṃ niyyāti; PvA(R) sivikāyaṃ nīyati
+     4 R, T, B, N, (B1), PvA(R) sabbato
+     5 R omits
+     6 B, N, (B1) chinna-
+     7 R, T, PvA(R, C) amhākaṃ
+     8 T so pajeṭṭhako; B, N jeṭṭhaposo; (B1) so ca jeṭṭho;
+        PvA(R) so jeṭṭhako
+     9 R, T, PvA(R) sukhiṃ
+    10 R, PvA(R) dānapati; B,N dānavatī
+    11 R, T, PvA(R) omit
+    12 R, T niyyāti; B, N, PvA(R, B) nīyati
+    13 R, PvA(R) dārī
+    14 B, N kaniṭṭhikā; (P) kaniṭṭhatā
+    15 B, N ahumha
+    16 B, N, T, (B2) ca datvā
+    17 C, (S2), PvA(C) khitto; R, T ditto; (P) bhinno; other v. ll. 
+        (in R): dhinno, dinno; chinno ātape pakkhitto naḷo viya - PvA
+    18 R, T kiṃ sayanaṃ; PvA(R) kissayanaṃ; kissayānā ti keci 
+        paṭhanti -  PvA(R, C)
+    19 B, N, (B1) ca
+    20 R, T, (K), PvA(R) virāgāya; sukhassa virādhenā ti keci - PvA
+    21 R, T, B, N, PvAdukkh'; ajja
+    22 (P) pivitvā; B, N, PvA(R, B) pitvā
+    23 R, T dātā
+    24 (P), (B1), (K), PvA(R) na ruccādimhase; MSS. (in R) add ca
+    25 (B2) paccā
+    26 R, T adāyikā; vḷ. (in R) adāsikā
+    27 (B2), (K) maccharino
+    28 R, T viviccā; B, N, (B1) vidicca; PvA(R) vivicca
+    29 R, T -supagatā
+    30 B, N, (B2) pacchā
+   31 T, (B2) jhāyire; R, PvA(R) ghāyire
+    32 T dukkh'udrayāni; B, N, PvA(B) dukh'udrāni;
+        R, PvA(R) dukhandriyāni;  P dukkh'indriyāni
+    33 R katukapphaḷāni
+    34 (B2) itaraṃ
+    35 R, T, PvA(R) dhana-
+    36 cf. n.34
+    37 (B2) kariyātha
+
+[page 013]
+13                                  Uragavagga
+12 Uragapetavatthu
+Vv_I,12[=12].1    Urago va tacaṃ jiṇṇaṃ hitvā gacchati saṃ tanuṃ
+     evaṃ sarīre nibbhoge pete kālakate1 sati,  || 85 ||
+Vv_I,12[=12].2    Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ
+     tasmā etaṃ2 na rodāmi3 gato4 so tassa yā gatī ti.  || 86 ||
+Vv_I,12[=12].3    Anabbhito5 tato āgā6 nānuññāto7 ito gato
+     yathāgato tathā gato tattha kā8 paridevanā.  || 87 ||
+Vv_I,12[=12].4    Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ
+     tasmā etaṃ2 na rodāmi3 gato4 so tassa yā gatī ti.  || 88 ||
+Vv_I,12[=12].5    Sace rode kisā assaṃ tattha me kiṃ phalaṃ siyā
+     ñātimittasuhajjānaṃ bhiyyo no aratī9 siyā.  || 89 ||
+Vv_I,12[=12].6    Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ10
+     tasmā etaṃ na rodāmi gato so tassa yā gatī ti.  || 90 ||
+Vv_I,12[=12].7    Yathā pi dārako candaṃ gacchantam anurodati
+     evaṃ sampadam ev'; etaṃ yo petam anusocati.  || 91 ||
+Vv_I,12[=12].8    Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ
+     tasmā etaṃ na rodāmi gato so tassa yā gatī ti.  || 92 ||
+Vv_I,12[=12].9    Yathā pi brahme udakumbho bhinno appaṭisandhiyo
+     evaṃ sampadam ev'; etaṃ yo petam anusocati.  || 93 ||
+Vv_I,12[=12].10   Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ
+     tasmā etaṃ na rodāmi gato so tassa yā gatī ti.  || 94 ||
+                          Uragapetavatthu dvādasamaṃ
+     Tass'; uddānaṃ11:
+12Khettañ ca sūkaraṃ pūti piṭṭhañ cā pi tirokuḍḍaṃ13
+
+--------------------------------------------------------------------------
+
+[page 014]
+14                                  Petavatthu
+     pañcā pi sattaputtañ ca goṇaṃ pesakārakañ ca
+     tathā khallāṭiyaṃ nāgaṃ dvādasaṃ uragañ c'; evā ti.
+                              URAGAVAGGO PAṬHAMO
+
+--------------------------------------------------------------------------
+     1 B, N kālaṅkate
+     2 R evaṃ
+     3 R, T, PvA(R) socāmi
+     4 vḷ. (in R) tato
+     5 So all edd. except C anavhito but J. iii,165 anavhāto;
+       (B1) anajjhiṭṭho
+     6 R agā
+     7 J. ib ananuññāto
+     8 (P) kā va
+     9 R, PvA(R) arati
+    10 (B2) paridevanaṃ
+    11 not in R; T uddānaṃ
+    12 not in R; T has:
+        Khettūpamā vaṇṇā duve dhītalikaṃ tirokuḍḍaṃ
+        puttakhādikā goṇagūthaṃ nāgoraga-dvādasā
+        te vatthūni vagge paṭhame uddānaṃ.
+    13 B, N tirokuṭṭaṃ
+
+[page 015]
+                                      15
+                                II UBBARIVAGGA
+13 Saṃsāramocakapetavatthu
+Vv_II,1[=13].1    Naggā dubbaṇṇarūpāsi kisā1 dhamanisanthatā2
+     upphāsulike3 kisike4 kā nu tvaṃ idha tiṭṭhasī ti.  || 95 ||
+Vv_II,1[=13].2    Ahaṃ bhadante5 petī 'mhi duggatā Yamalokikā
+     pāpakammaṃ karitvāna petalokam ito gatā.  || 96 ||
+Vv_II,1[=13].3    Kin nu kāyena vācāya manasā dukkaṭaṃ kataṃ
+     kissa kammavipākena petalokam ito gatā ti.  || 97 ||
+Vv_II,1[=13].4 6Anukampakā7 mayhaṃ nāhesuṃ bhante
+         pitā ca8 mātā athavā pi ñātakā9
+         ye maṃ niyojeyyuṃ:10 dadāhi dānaṃ
+         pasannacittā samaṇabrāhmaṇānaṃ.  || 98 ||
+Vv_II,1[=13].5        Ito ahaṃ vassasatāni pañca
+         yaṃ evarūpā vicarāmi naggā
+         khudāya11 taṇhāya ca12 khajjamānā
+         pāpassa kammassa phalaṃ mamedaṃ.13 || 99 ||
+Vv_II,1[=13].6        Vandāmi taṃ ayya pasannacittā
+         anukampa maṃ dhīra14 mahānubhāva15
+         datvā ca me ādissa16 yaṃ17 hi kiñci
+         mocehi maṃ duggatiyā bhadante18 ti.19 || 100 ||
+Vv_II,1[=13].7    Sādhū ti so20 paṭissutvā21 Sāriputto 'nukampako22
+     bhikkhūnaṃ23 ālopaṃ datvā23 pāṇimattañ ca colakaṃ24
+25thālakassa ca pānīyaṃ tassā dakkhiṇam ādisi.  || 101 ||
+Vv_II,1[=13].8    Samanantarānuddiṭṭhe26 vipāko upapajjatha27
+     bhojanacchādanapānīyaṃ,28 dakkhiṇāya idaṃ phalaṃ.  || 102 ||
+
+--------------------------------------------------------------------------
+
+[page 016]
+16                                  Petavatthu
+Vv_II,1[=13].9    Tato suddhā sucivasanā kāsikuttamadhārinī
+     vicittavatthābharaṇā Sāriputtam upasaṅkamī ti.  || 103 ||
+Vv_II,1[=13].10   Abhikkantena vaṇṇena yā tvaṃ tiṭṭhasi devate
+     obhāsentī disā sabbā osadhī viya tārakā,  || 104 ||
+Vv_II,1[=13].11  Kena t'; etādiso vaṇṇo kena te idha-m-ijjhati
+     uppajjanti ca te bhogā ye keci manaso piyā.  || 105 ||
+Vv_II,1[=13].12       Pucchāmi taṃ devi mahānubhāve
+         manussabhūtā kim akāsi puññaṃ
+         kenāsi evaṃ jalitānubhāvā
+         vaṇṇo ca te sabbadisā pabhāsatī ti.  || 106 ||
+Vv_II,1[=13].13   Uppaṇḍukiṃ29 kisaṃ chātaṃ naggaṃ30 āpatitacchaviṃ31
+     muni kāruṇiko loke taṃ maṃ32 addakkhi32 duggataṃ.  || 107 ||
+Vv_II,1[=13].14   Bhikkhūnaṃ ālopaṃ datvā pāṇimattañ ca colakaṃ24
+     thālakassa ca pānīyaṃ mama dakkhiṇam ādisi.  || 108 ||
+Vv_II,1[=13].15   Ālopassa phalaṃ passa bhattaṃ vassasataṃ dasa
+     bhuñjāmi kāmakāminī anekarasavyañjanaṃ.  || 109 ||
+Vv_II,1[=13].16   Pāṇimattassa colassa24 vipākaṃ passa yādisaṃ
+     yāvatā Nandarājassa vijitasmiṃ paṭicchadā,  || 110 ||
+Vv_II,1[=13].17   Tato bahutarā bhante vatthān'; acchādanāni33 me
+     koseyyakambalīyāni34 khomakappāsikāni ca.  || 111 ||
+Vv_II,1[=13].18   Vipulā ca mahagghā ca te p'; ākāse35 'valambare
+     sāhaṃ36 taṃ paridahāmi36 yaṃ yaṃ hi manaso piyaṃ.  || 112 ||
+Vv_II,1[=13].19   Thālakassa ca pānīyaṃ vipākaṃ passa yādisaṃ
+     gambhīrā37 caturassā ca pokkharañño38 sunimmitā.  || 113 ||
+Vv_II,1[=13].20   Setodakā supatitthā39 sītā appaṭigandhiyā
+     padumuppalasañchannā vārikiñjakkhapūritā.  || 114 ||
+Vv_II,1[=13].21   Sāhaṃ ramāmi kīḷāmi modāmi akutobhayā40
+     muniṃ kāruṇikaṃ loke41 bhante vanditum āgatā ti.  || 115 ||
+                       Saṃsāramocakapetavatthu paṭhamaṃ
+
+--------------------------------------------------------------------------
+     1 T kīsā
+     2 R, T, PvA(R) -saṇṭhita; (B2) -santatā
+     3 (B2), (K) uppāsuḷhike
+     4 T kīsike
+     5 R bhante; (B2), PvA(R) bhaddante
+     6 R notes that several MSS. omit this stanza.
+     7 T anukkampakā
+     8 R, T, PvA(R) have ca after  mātā
+     9 PvA(R) ñātikā, cf. R fn.
+    10 (B2) niyyo-
+    11 (B2) khuddāya
+    12 R va
+    13 R, PvA(R) mama-y-idaṃ
+    14 T, B, N, (B1,2), PvA(B) vīra
+    15 (B2) -bhāvaṃ
+    16 B, N, PvA(B) ādisa
+    17 R, T, PvA(B) yā-
+    18 R, PvA(R) bhaddante
+    19 R hi
+    20 R adds tassā; PvA(R) treats so with tassā in R and
+        PvA(C) as an interpolation.
+    21 R, T, PvA paṭisuṇitvā
+   22 R anu-
+    23 vacanavipallāsena h'; etaṃ (i. e. pl.) vuttaṃ, ālopaṃ
+         bhikkhuno datvā ti keci paṭhanti - PvA
+    24 B, PvA(R, B) coḷa-
+    25 The arrangement of verses 7-9 differs in R.
+    26 (P) samanantaraṃ; R, T anud-
+    27 B, (B1,2), PvA(B) uda-
+    28 T, (P) -chādanaṃ pānīyaṃ
+    29 R, PvA(R) upakaṇḍakiṃ; upakaṇḍukiṃ (kaṇḍu,'itch') not attested
+    30 T, (B2) nagga-
+    31 R, PvA(R) appaṭicchavim; B, (B1), PvA(B) sampatita-;
+         T, (B2) samuṭita-
+    32 T, (B2) maṃ adakkhi; R, PvA(R) maṃ dakkhasi
+    33 R, T, PvA(R) vatthāni 'cchādanāni; (B2) vattāna-
+    34 (B2) koseyyāni ka-
+    35 (B2), (K) c'; ākāse
+    36 (B1), (P) sāhaṃ paridahāmi ca
+    37 R gambhirā
+    38 R, T, PvA(R) -raññā
+    39 B, (P), PvA(B) suppatitthā; R, PvA(R) add ca; PvA
+        supports reading setodaka here, but v.432.
+    40 (P) -bhayaṃ
+    41 R, (B1), PvA(R, C) lokaṃ; (P) lokā
+
+[page 017]
+17                                  Ubbarivagga
+14 Sāriputtattherassa Mātupetavatthu
+Vv_II,2[=14].1    Naggā dubbaṇṇarūpāsi kisā1 dhamanisanthatā2
+         upphāsulike kisike3 kā nu tvaṃ idha tiṭṭhasī ti.  || 116 ||
+
+--------------------------------------------------------------------------
+
+[page 018]
+18                                  Petavatthu
+Vv_II,2[=14].2    Ahaṃ te sakiyā mātā pubbe aññāsu4 jātisu5
+     upapannā6 pettivisayaṃ7 khuppipāsasamappitā.8 || 117 ||
+Vv_II,2[=14].3    Chaḍḍitaṃ khipitaṃ kheḷaṃ9 siṅghāṇikaṃ silesumaṃ
+     vasañ ca ḍayhamānānaṃ vijātānañ ca lohitaṃ,  || 118 ||
+Vv_II,2[=14].4    Vaṇitānañ ca10 yaṃ ghānasīsacchinnāna11 lohitaṃ
+     khudāparetā bhuñjāmi12 itthipurisanissitaṃ.  || 119 ||
+Vv_II,2[=14].5    Pubbalohitaṃ13 bhakkhāmi13 pasūnaṃ mānusāna14 ca
+     alenā15 anagārā ca nīlamañcaparāyanā.16 || 120 ||
+Vv_II,2[=14].6    Dehi puttaka me dānaṃ datvāna17 uddisāhi17 me
+     app eva nāma muñceyyaṃ18 pubbalohitabhojanā.  || 121 ||
+Vv_II,2[=14].7    Mātuyā vacanaṃ sutvā Upatisso 'nukampako
+     āmantayī19 Moggallānaṃ20 Anuruddhañ ca Kappinaṃ.  || 122 ||
+Vv_II,2[=14].8    Catasso kuṭiyo katvā saṅghe cātuddise21 adā
+     kuṭiyo annapānañ ca mātu dakkhiṇam ādisi.22 || 123 ||
+Vv_II,2[=14].9    Samanantarānuddiṭṭhe23 vipāko upapajjatha24
+     bhojanaṃ pānīyaṃ25 vatthaṃ dakkhiṇāya idaṃ phalaṃ.  || 124 ||
+Vv_II,2[=14].10   Tato suddhā sucivasanā kāsikuttamadhārinī
+     vicittavatthābharaṇā Kolitaṃ26 upasaṅkamī ti.  || 125 ||
+Vv_II,2[=14].11   Abhikkantena vaṇṇena yā tvaṃ tiṭṭhasi devate
+     obhāsentī disā sabbā osadhī viya tārakā,  || 126 ||
+Vv_II,2[=14].12   Kena t'; etādiso vaṇṇo kena te idha-m-ijjhati
+     uppajjanti ca te bhogā ye keci manaso piyā.  || 127 ||
+Vv_II,2[=14].13       Pucchāmi taṃ devi mahānubhāve
+         manussabhūtā kim akāsi puññaṃ
+         kenāsi evaṃ jalitānubhāvā
+         vaṇṇo ca te sabbadisā pabhāsatī ti.  || 128 ||
+Vv_II,2[=14].14 27Sāriputtass'; ahaṃ28 mātā pubbe aññāsu29 jātisu5
+     upapannā6 pettivisayaṃ7 khuppipāsasamappitā.8 || 129 ||
+Vv_II,2[=14].15   Chaḍḍitaṃ khipitaṃ kheḷaṃ siṅghānikaṃ silesumaṃ
+     vasañ ca ḍayhamānānaṃ vijātānañ ca lohitaṃ,  || 130 ||
+Vv_II,2[=14].16   Vaṇitānañ ca10 yaṃ ghānasīsacchinnāna11 lohitaṃ
+     khudāparetā bhuñjāmi12 itthipurisanissitaṃ.  || 131 ||
+Vv_II,2[=14].17   Pubbalohitaṃ13 bhakkhāmi13 pasūnaṃ mānusāna14 ca
+     alenā15 anagārā ca nīlamañcaparāyanā.16 || 132 ||
+
+--------------------------------------------------------------------------
+
+[page 019]
+19                                  Ubbarivagga
+Vv_II,2[=14].18   Sāriputtassa dānena modāmi akutobhayā
+     muniṃ kāruṇikaṃ loke bhante30 vanditum āgatā ti.  || 133 ||
+           Sāriputtatherassa mātupetavatthu31 dutiyaṃ
+&amp;1
+15 Mattāpetavatthu
+Vv_II,3[=15].1    Naggā dubbaṇṇarūpāsi kisā1 dhamanisanthatā2
+     upphāsulike kisike3 kā nu tvaṃ idha tiṭṭhasī ti.  || 134 ||
+Vv_II,3[=15].2    Ahaṃ4 Mattā tuvaṃ Tissā sapattī5 te pure ahuṃ
+     pāpakammaṃ karitvāna petalokam ito gatā ti.  || 135 ||
+Vv_II,3[=15].3    Kin nu kāyena vācāya manasā dukkaṭaṃ kataṃ
+     kissa kammavipākena petalokam ito gatā ti.  || 136 ||
+
+--------------------------------------------------------------------------
+&amp;1
+     1-3 See No.13 nn.1,2,4
+     4 R aññesu
+     5 T, B, N, PvA(B) jātīsu
+     6 R, T, C, PvA(R, C) uppannā
+     7 T, (B2) pitti-
+     8 R, T, PvA(R, C) khuppipāsā-
+     9 R, C, PvA(C) khelaṃ
+    10 B, N, (B2), VvA(B) vaṇikānañ ca
+    11 R, PvA(R) -chinnañ ca; T ghānaṃ sīsacchinnañ ca;
+        (P) ghānaṃ sīsa-
+    12 (B2) bhuñjissaṃ
+    13 C, (S1,2), PvA(C) pubbalohitabhakkhāsmi
+   14 R, PvA(R) mānusānañ; T manussānañ
+    15 T adds Ca
+    16 (B1) nīlā-; T, (B2) nilla-
+    17 R, T datvā ud-; B, N, (B1,2), PvA(R, B) datvā anvādisāhi
+    18 B, N PvA(B) mucceyyaṃ
+    19 B, N, PvA(B) -yi
+    20 (B1) Moggalānaṃ (metrically correct)
+    21 R, T catuddise
+    22 B, N, PvA(B) ādisī
+    23 R anuddiṭṭhe
+    24 See No.13 n.27
+    25 pāniyaṃ not attested
+    26 R Kolikaṃ (as in most MSS. mentioned in PvA(R) fn.
+    27 Omitted by R but PvA refers to this verse and those
+        that follow. See also JPTS 1904,149.
+    28 B, N -āhaṃ
+    29 See nn.4-16 above
+    30 R (fn.) taṃ bhaddante
+    31 R, T -petī-, see No.6, n.16
+
+[page 020]
+20                                  Petavatthu
+Vv_II,3[=15].4    Caṇḍī ca pharusā c'; āsiṃ issukī6 maccharī saṭhī7
+     tāhaṃ durattuṃ vatvāna petalokam ito gatā ti.  || 137 ||
+Vv_II,3[=15].5    Sabbaṃ8 aham pi jānāmi yathā tvaṃ caṇḍikā ahu
+     aññañ ca kho taṃ9 pucchāmi kenāsi paṃsukuṇṭhitā.10 || 138 ||
+Vv_II,3[=15].6    Sīsaṃ11 nahātā11 tvaṃ12 āsi sucivatthā alaṅkatā
+     ahañ ca kho taṃ13 adhimattaṃ14 samalaṅkatatarā
+tayā.  || 139 ||
+Vv_II,3[=15].7    Tassā me pekkhamānāya sāmikena samantayi15
+     tato me issā vipulā kodho me samajāyatha.  || 140 ||
+Vv_II,3[=15].8    Tato paṃsuṃ16 gahetvāna paṃsunā taṃ hi17 okiriṃ17
+     tassa kammavipākena ten'; amhi paṃsukuṇṭhitā.10 || 141 ||
+Vv_II,3[=15].9    Sabbaṃ8 aham pi jānāmi paṃsunā maṃ tvam okiri
+     aññañ ca kho taṃ pucchāmi kena khajjasi18 kacchuyā.  || 142 ||
+Vv_II,3[=15].10   Bhesajjahārī ubhayo vanantaṃ agamimhase
+     tvañ ca bhesajjam āhari19 aham pi kapikacchuno.  || 143 ||
+Vv_II,3[=15].11   Tassā tyājānamānaya20 seyyaṃ tyāhaṃ21 samokiriṃ22
+     tassa kammavipākena tena khajjāmi kacchuyā.  || 144 ||
+Vv_II,3[=15].12   Sabbaṃ8 aham pi jānāmi seyyaṃ me tvaṃ samokiri
+     aññañ ca kho taṃ pucchāmi kenāsi naggiyā tuvaṃ.  || 145 ||
+Vv_II,3[=15].13   Sahāyānaṃ samayo āsi {ñātīnaṃ} samitī23 ahu
+     tvañ ca āmantitā āsi sasāminī24 no ca kho ahaṃ.  || 146 ||
+Vv_II,3[=15].14   Tassā tyājānamānāya20 dussaṃ tyāhaṃ apānudiṃ
+     tassa kammavipākena ten'; amhi naggiyā ahaṃ.  || 147 ||
+Vv_II,3[=15].15   Sabbaṃ8 aham pi jānāmi dussaṃ me tvaṃ apānudi
+     aññañ ca kho taṃ pucchāmi kenāsi gūthagandhinī.25 || 148 ||
+Vv_II,3[=15].16   Tava gandhañ ca mālañ ca paccagghañ ca vilepanaṃ
+     gūthakūpe atāresiṃ26 taṃ pāpaṃ pakataṃ mayā.
+27tassa kammavipākena ten'; amhi gūthagandhinī.  || 149 ||
+Vv_II,3[=15].17   Sabbaṃ8 aham pi jānāmi taṃ pāpaṃ pakataṃ tayā
+     aññañ ca kho taṃ pucchāmi kenāsi duggatā tuvaṃ.  || 150 ||
+Vv_II,3[=15].18   Ubhinnaṃ samakaṃ āsi yaṃ gehe vijjate dhanaṃ
+     santesu deyyadhammesu dīpaṃ nākasim attano,
+     tassa kammavipākena ten'; amhi duggatā ahaṃ.  || 151 ||
+
+--------------------------------------------------------------------------
+
+[page 021]
+21                                  Ubbarivagga
+Vv_II,3[=15].19   Tad eva maṃ tvaṃ avaca pāpakammaṃ20 nisevasi
+     na hi pāpehi kammehi sulabhāhosi29 suggati.30 || 152 ||
+Vv_II,3[=15].20   Vāmato maṃ tvaṃ paccesi atho pi maṃ usuyyasi31
+     passa pāpānaṃ kammānaṃ vipāko hoti yādiso.  || 153 ||
+Vv_II,3[=15].21   Te32 gharadāsiyo āsuṃ32 tān'; evābharaṇān'; ime33
+     te c'; aññe34 paricārenti35 na bhogā honti sassatā.  || 154 ||
+Vv_II,3[=15].22   Idāni Bhūtassa36 pitā āpaṇā geham ehiti
+     app eva te dade kiñci mā su tāva ito agā.  || 155 ||
+Vv_II,3[=15].23   Naggā dubbaṇṇarūpāmhi kisā1 dhamanisanthatā2
+     kopīnam etaṃ itthīnaṃ mā maṃ Bhūtapitāddasa.  || 156 ||
+Vv_II,3[=15].24   Handa Kiṃ37 tāhaṃ37 dammi kiṃ vā ca38 te38
+karom'; ahaṃ39
+     yena tvaṃ sukhitā assa sabbakāmasamiddhinī.  || 157 ||
+Vv_II,3[=15].25   Cattāro bhikkhū saṅghato cattāro puna40 puggalā41
+     aṭṭha bhikkhū bhojayitvā mama dakkhiṇam ādisa42
+     tadāhaṃ sukhitā hessaṃ sabbakāmasamiddhinī.  || 158 ||
+Vv_II,3[=15].26   Sādhū ti sā paṭissutvā43 bhojayitvāṭṭha44
+bhikkhavo
+     vattheh'; acchādayitvāna45 tassā dakkhiṇam ādisi.  || 159 ||
+Vv_II,3[=15].27   Samanantarānuddiṭṭhe46 vipāko upapajjatha47
+     bhojanacchādanapāṇīyaṃ,48 dakkhiṇāya idaṃ phalaṃ.  || 160 ||
+Vv_II,3[=15].28   Tato suddhā49 sucivasanā kāsikuttamadhārinī
+     vicittavatthābharaṇā sapattiṃ50 upasaṅkami.  || 161 ||
+Vv_II,3[=15].29   Abhikkantena vaṇṇena yā tvaṃ tiṭṭhasi devate
+     obhāsentī disā sabbā osadhī viya tārakā,  || 162 ||
+Vv_II,3[=15].30   Kena t'; etādiso vaṇṇo kena te idha-m-ijjhati
+     uppajjanti ca te bhogā ye keci manaso piyā.  || 163 ||
+Vv_II,3[=15].31       Pucchāmi taṃ devi mahānubhāve
+         manussabhūtā kim akāsi puññaṃ
+         kenāsi evaṃ jalitānubhāvā
+         vaṇṇo ca te sabbadisā pabhāsatī ti.  || 164 ||
+Vv_II,3[=15].32   Ahaṃ Mattā tuvaṃ Tissā sapattī5 te pure ahuṃ
+     pāpakammaṃ karitvāna petalokam ito gatā.  || 165 ||
+Vv_II,3[=15].33   Tava dānena51 dinnena51 modāmi akutobhayā
+     ciraṃ jīvāhi bhaginī saha sabbehi ñātibhi52
+     asokaṃ virajaṃ ṭhānaṃ āvāsaṃ vasavattinaṃ.53 || 166 ||
+
+--------------------------------------------------------------------------
+
+[page 022]
+22                                  Petavatthu
+Vv_II,3[=15].34   Idha dhammaṃ caritvāna dānaṃ datvāna sobhane
+         vineyya maccheramalaṃ sumūlaṃ
+         aninditā saggam upehi53 ṭhānan ti.  || 167 ||
+                            Mattāpetavatthu tatiyaṃ
+
+--------------------------------------------------------------------------
+     1-3 See No.13 nn.1,2,4
+     4 T sahaṃ
+     5 R, PvA(R) sapatī
+     6 R fn. (B2) etc. ussukī
+     7 B, N, (B1,2), PvA(R) saṭhā
+     8 B, N, (B1,2), K saccaṃ, cf. (P)
+     9 R fn. (B2) etc. tvaṃ
+    10 R, T, PvA(R) -kuṭṭhitā, but later PvA(R) p.302 corrects it 
+        to -guṇṭhitā; B, N, PvA(B) -kunthitā. B, N add ti at the end
+        of each verse in the dialogue.
+    11 B, N, PvA(B) sīsaṃnhātā
+    12 R, T, B, N, PvA(R, B) tuvaṃ
+    13 B, N, PvA(B) omit
+    14 adhimattā ti vā pāṭho - PvA
+    15 (B1,2), (K), PvA(R) āmantayi
+    16 R, PvA(R) paṃsu
+    17 R, PvA(R) pi okiri; T, (K), (B2) vikīri 'haṃ
+    18 R, T, PvA(R, B) khajjāsi
+    19 R āhāsi; T āhāsi; (B2) āhāri; (K) (bhesajja-)harī
+    20 R, PvA(C) te ajāna-
+    21 T tayāhaṃ
+    22 R, T, PvA(R) samokiri
+    23 R, T, PvA(R) samitiṃ
+    24 R, T sasāmī
+    25 R, T -gandhini
+    26 R, PvA(R) athāresiṃ; T, B, N, (B2), (K) adhāresiṃ
+    27 The arrangement of verses differs in R here onwards,
+    28 pāpakammānī ti pāḷi - PvA
+    29 B, N, PvA(B), (B2) hoti
+    30 R, T, PvA(R) suggatiṃ
+    31 T, (B2) ussuyyasi; B, N, PvA(B) usūyasi
+    32 B, N, PvA(B) te gharā tā ca dāsiyo, emended after 397;
+        (K) te ghare dāsiyo c'; eva, cf. (P)
+    33 ime ti hi liṅgavipallāsena vuttaṃ - PvA
+    34 B, N, R, T, PvA(R, B) aññe
+    35 R, T, PvA(R) parivārenti
+    36 PvA takes it as NPr.; v. comment on 156; lit. ‘of my off-spring'
+    37 To read as kiṃ t'āhaṃ for te+ahaṃ? (K) kiṃ vā ca te;
+        B, N, (B2), PvA(B) kiṃ vā tyāhaṃ
+    38 B, N, PvA(B) te'; dha
+    39 R karomi 'haṃ; C, PvA(C) karomyahaṃ; (B1) takes line as:
+       handa kiṃ vatāhaṃ dammi kim p'; idha te . . .
+    40 All except C, PvA(C) pana
+    41 (P), PvA(B) puggale
+    42 R, T, PvA(R) ādisi
+    43 R, T paṭisutvā
+    44 R, T -tvā aṭṭha
+    45 R, T, PvA(R) vatthehi 'cchā-
+    46-48 cf. No.13,26-28
+    49 R sudhā
+    50 R, PvA(R) sapatiṃ
+    51 B, N, PvA(B) dinnena dānena as at 184
+    52 R, PvA(R) ñatīhi
+    53 T -vattīnaṃ
+    54 R, T upesi
+
+[page 023]
+23                                  Ubbarivagga
+16 Nandāpetavatthu
+Vv_II,4[=16].1    Kāḷī1 dubbaṇṇarūpāsi pharusā bhīrudassanā2
+     piṅgalāsi kaḷārāsi3 na taṃ maññāmi mānusin ti.  || 168 ||
+Vv_II,4[=16].2    Ahaṃ Nandā Nandasena4 bhariyā te pure ahuṃ
+     pāpakammaṃ karitvāna petalokam ito gatā ti.  || 169 ||.
+Vv_II,4[=16].3    Kin nu kāyena vācāya manasā dukkaṭaṃ kataṃ
+     kissa kammavipākena petalokam ito gatā ti.  || 170 ||
+Vv_II,4[=16].4    Caṇḍī5 pharusavācā ca tayi c'; āsiṃ agāravā5
+     tāhaṃ duruttaṃ vatvāna petalokam ito gatā ti.  || 171 ||
+Vv_II,4[=16].5    Hand'; uttarīyaṃ dadāmi te idaṃ6 dussaṃ nivāsaya
+     imaṃ dussaṃ nivāsetvā ehi nessāmi7 taṃ gharaṃ.  || 172 ||
+Vv_II,4[=16].6    Vatthañ ca annapānañ ca lacchasi tvaṃ gharaṃ gatā
+     putte ca te passissasi suṇisāyo8 ca dakkhasi.  || 173 ||
+Vv_II,4[=16].7    Hatthena hatthe te dinnaṃ na mayhaṃ upakappati
+     bhikkhū ca sīlasampanne vītarāge bahussute,  || 174 ||
+Vv_II,4[=16].8    Tappehi annapānena mama9 dakkhiṇam ādisa10
+     tadāhaṃ sukhitā hessaṃ sabbakāmasamiddhinī.  || 175 ||
+Vv_II,4[=16].9    Sādhū ti11 so paṭissutvā11 dānaṃ vipulam ākiri12
+     annaṃ13 pānaṃ khādanīyaṃ vatthā14-senāsanāni ca,
+15chattaṃ gandhañ ca mālañ ca vividhā16 ca16
+upāhanā.  || 176 ||
+Vv_II,4[=16].10   Bhikkhū ca sīlasampanne vītarāge bahussute
+     tappetvā annapānena tassā dakkhiṇam ādisi.  || 177 ||
+
+--------------------------------------------------------------------------
+
+[page 024]
+24                                  Petavatthu
+Vv_II,4[=16].11   Samanantarānuddiṭṭhe vipāko upapajjatha17
+     bhojanacchādanapānīyaṃ18 dakkhiṇāya idaṃ phalaṃ.  || 178 ||
+Vv_II,4[=16].12   Tato suddhā sucivasanā kāsikuttamadhārinī
+     vicittavatthābharaṇā sāmikaṃ upasaṅkami.  || 179 ||
+Vv_II,4[=16].13  Abhikkantena vaṇṇena yā tvaṃ tiṭṭhasi devate
+     obhāsentī disā sabbā osadhī viya tārakā,  || 180 ||
+Vv_II,4[=16].14   Kena t'; etādiso vaṇṇo kena te idha-m-ijjhati
+     uppajjanti ca te bhogā ye keci manaso piyā.  || 181 ||
+Vv_II,4[=16].15       Pucchāmi taṃ devi mahānubhāve
+         manussabhūtā kim akāsi puññaṃ
+         kenāsi evaṃ jalitānubhāvā
+         vaṇṇo ca te sabbadisā pabhāsatī ti.  || 182 ||
+Vv_II,4[=16].16   Ahaṃ Nandā Nandasena4 bhariyā te pure ahuṃ
+     pāpakammaṃ karitvāna petalokam ito gatā.  || 183 ||
+Vv_II,4[=16].17   Tava dinnena dānena modāmi akutobhayā
+     ciraṃ jīva gahapati saha sabbehi ñātibhi,19
+     asokaṃ virajaṃ ṭhānaṃ20 āvāsaṃ vasavattinaṃ.21 || 184 ||
+Vv_II,4[=16].18   Idha dhammaṃ caritvāna dānaṃ datvāna gahapati
+     vineyya maccheramalaṃ samūlaṃ
+     anindito saggam upehi22 ṭhānan ti.  || 185 ||
+                            Nandāpetavatthu tatiyaṃ
+
+--------------------------------------------------------------------------
+     1 R, T kālī
+     2 (B1) bhīrukadassanā
+     3 R, T Kalārāsi
+     4 B, N, (P). (B1), PvA(B) Nandisena
+     5 R caṇḍapharusavācā tayidhāsiṃ agāravā; T caṇḍi ca pharusā vācā ...;
+        B, N, (B1), PvA(B) caṇḍī ca pharusā c'; āsiṃ tayi cāpi agāravā;
+        (B2), PvA(R) caṇḍī ca pharusā c'; āsi tayi cāpi agāravā
+     6 All but C, PvA(C) imaṃ
+     7 (B1) niyyāmi; (P) neyyāmi
+     8 R, PvA(R) sūtisāye; T suṇisāye; (P) sukisāro
+     9 R, T mamaṃ
+    10 R, T ādisi
+    11 R, T tato sādhū ti paṭisuṇitvā; PvA(R) tato sādhū ti paṭissutvā
+    12 (P) akari
+    13 T anna-
+    14 R, T, PvA(R) vatthaṃ
+    15 The arrangement of verses follows B, N
+    16 R vividhāni
+    17-18 See No.13 nn.27-28
+    19 R, PvA(R) ñātihi
+    20 B, N, (P), PvA(B) khemaṃ
+    21 T -vattīnaṃ
+    22 T upesi
+
+[page 025]
+25                                  Ubbarivagga
+17 Maṭṭakuṇḍalīpetavatthu
+Vv_II,5[=17].1-21 See Vimānavatthu No. 83.  || 186-206 ||
+                    Maṭṭakuṇḍalīpetavatthu pañcamaṃ
+18 Kaṇhapetavatthu
+Vv_II,6[=18].1   Uṭṭhehi Kaṇha1 kiṃ2 sesi ko attho supanena3 te
+     yo ca tuyhaṃ sako bhātā hadayaṃ cakkhuṃ4 va4
+dakkhiṇaṃ,
+     tassa vātā balīyanti Ghato5 jappati Kesavā ti.  || 207 ||
+Vv_II,6[=18].2    Tassa taṃ vacanaṃ sutvā Rohiṇeyyassa Kesavo
+     taramānarūpo vuṭṭhāsi6 bhātusokena aṭṭito.7 || 208 ||
+Vv_II,6[=18].3    Kin nu ummattarūpo va kevalaṃ Dvārakaṃ imaṃ
+     saso saso ti lapasi kīdisaṃ8 sasam icchasi.8 || 209 ||
+Vv_II,6[=18].4    Sovaṇṇamayaṃ maṇimayaṃ lohamayaṃ atha rūpiyāmayaṃ9
+     saṅkhasilāpavāḷamayaṃ kārayissāmi te sasaṃ.  || 210 ||
+Vv_II,6[=18].5    Santi aññe pi sasakā araññe10 vanagocarā
+     te pi te ānayissāmi kīdisaṃ sasam icchasī ti.  || 211 ||
+Vv_II,6[=18].6    Nāham11 ete sase icche11 ye sasā paṭhavissitā12
+     candato sasam icchāmi taṃ me ohara Kesavā ti.  || 212 ||
+Vv_II,6[=18].7    So nūna13 madhuraṃ ñāti jīvitaṃ vijahissasi14
+     apatthiyaṃ15 patthayasi candato sasam icchasī16 ti.  || 213 ||
+Vv_II,6[=18].8    Evañ ce17 Kaṇha jānāsi yath'; aññam anusāsasi
+     kasmā pure mataṃ puttaṃ ajjāpi18-m-anusocasī ti.  || 214 ||
+Vv_II,6[=18].9    Ye19 na19 labbhā manussena amanussena vā pana:20
+     jāto me mā marī21 putto kuto labbhā alabbhiyaṃ.  || 215 ||
+Vv_II,6[=18].10   Na mantā mūlabhesajjā osadhehi22 dhanena vā
+     sakkā ānayituṃ Kaṇha yaṃ petam anusocasi.  || 216 ||
+
+--------------------------------------------------------------------------
+
+[page 026]
+26                        Petavatthu
+Vv_II,6[=18].11 23Mahaddhanā mahābhogā raṭṭhavanto pi khattiyā
+     pahūtadhanadhaññāse24 te pi no ajarāmarā.  || 217 ||
+Vv_II,6[=18].12   Khattiyā brāhmaṇā vessā suddā caṇḍālapukkusā
+     ete c'; aññe25 ca jātiyā te pi no ajarāmarā.  || 218 ||
+Vv_II,6[=18].13   Ye mantaṃ parivattenti26 chaḷaṅgaṃ brahmacintitaṃ
+     ete c'; aññe25 ca vijjāya te pi no ajarāmarā.  || 219 ||
+Vv_II,6[=18].14   Isayo vā pi ye santā saññatattā tapassino
+     sarīram te pi kālena vijahanti tapassino.  || 220 ||
+Vv_II,6[=18].15   Bhāvitattā arahanto27 katakiccā anāsavā
+     nikkhipanti imaṃ dehaṃ puññapāpaparikkhayā ti.  || 221 ||
+Vv_II,6[=18].16   Ādittaṃ vata maṃ santaṃ ghatasittaṃ va pāvakaṃ
+     vārinā viya osiñcaṃ28 sabbaṃ nibbāpaye daraṃ.  || 222 ||
+Vv_II,6[=18].17   Abbūḷhaṃ29 vata me sallaṃ sokaṃ badayanissitaṃ30
+     yo me sokaparetassa puttasokaṃ apānudi.  || 223 ||
+Vv_II,6[=18].18   So 'haṃ31 abhuḷhasallo 'smi sītibhūto 'smi nibbuto
+     na socāmi na rodāmi tava sutvāna bhāsitaṃ.32 || 224 ||
+Vv_II,6[=18].19   Evaṃ karonti sappaññā ye honti anukampakā
+     vinivattayanti33 sokamhā Ghato5 jeṭṭhaṃ va
+bhātaraṃ.  || 225 ||
+Vv_II,6[=18].20   Yassa etādisā honti amaccā34 paricārakā35
+     subhāsitena anvesi36 Ghato5 jeṭṭhaṃ va
+bhātaran ti.  || 226 ||
+                          Kaṇhapetavatthu chaṭṭhaṃ
+
+--------------------------------------------------------------------------
+     1 R Kaṇhe
+     2 R kī
+     3 R, PvA(R), J. iv,84 supinena
+     4 R, T, C, PvA(R, C) cakkhuñ ca; B, N, PvA(B) cakkhu ca;
+        (P) cakkhu va; cf. J.iv,84
+     5 B, N, (K) Ghaṭo; C, PvA(B, C) sasaṃ
+     6 R, PvA(R) vuṭṭhāyi; C, PvA(C) uṭṭhāsi
+     7 R, T, PvA(R) addhito
+     8 J. iv,85 ko nu te sasam āhari
+     9 T, B, N, (P), (B), PvA(R, B) rūpiyamayaṃ; R rūpimayaṃ
+    10 R, T, B, N, (B1), PvA(R, B) arañña-
+    11 J. iv,85 na vāham etaṃ icchāmi
+    12 R, T, (S), PvA(R, C) paṭhavīnissitā; (P) puthuvissitā
+    13 R, PvA(R) nanda
+    14 (P) vijahissati
+    15 R, T, C, PvA(R, C) apatthayaṃ; J. iv,86 adds yo
+    16 (P) icchāmi
+    17 (B2) ca
+    18 R ajāpi
+    19 B, N, PvA(R, B) na yaṃ; J. iv,86 yaṃ na; T, (B2) na taṃ
+    20 J. iv,86 puna
+    21 B, N, PvA(B) mari
+    22 T osathehi
+    23 Stanzas 11-15 are replaced by a different stanza in J.
+    24 R -dhaññāso; C, PvA(C) -dhaññā ye
+    25 R maññe
+    26 T -vattani
+    27 R, PvA(R, C) viharantā
+    28 R, PvA(R), J. iv,61 osiñci
+    29 J. iv,87 abbahi
+    30 (P) hadayaṃ nissitaṃ
+    31 B, N, C, (P), PvA(B) svāhaṃ; pāda b differs in J
+    32 B, N, C, PvA(B) bhātikā; J. iv, 87 māṇava
+    33 R -vattayati; PvA(R, C) -vattayi
+    34 R amatta-; PvA(R) amacca-
+    35 R, T, PvA(R) paricārikā
+    36 B, N, C, (B2), PvA(B) anventi
+
+[page 027]
+27                                  Ubbarivagga
+19 Dhanapālapetavatthu
+Vv_II,7[=19].1    Naggo dubbaṇṇarūpo 'si kiso dhamanisanthato1
+     upphāsuliko kisiko ko nu tvaṃ asi mārisā ti.  || 227 ||
+Vv_II,7[=19].2    Ahaṃ bhadante2 peto 'mhi duggato Yamalokiko
+     pāpakammaṃ karitvāna petalokam ito gato ti.  || 228 ||
+Vv_II,7[=19].3    Kin nu kāyena vācāya manasā dukkaṭaṃ kataṃ
+     kissa kammavipākena petalokam ito gato ti.  || 229 ||
+Vv_II,7[=19].4    Nagaraṃ atthi Dasaṇṇānam3 Erakacchan ti vissutaṃ
+     tattha seṭṭhi pure āsiṃ Dhanapālo ti maṃ vidū.4 || 230 ||
+Vv_II,7[=19].5    Asīti sakaṭavāhānaṃ5 hiraññassa ahosi me
+     pahūtaṃ me jātarūpaṃ muttā vaḷuriyā bahū.  || 231 ||
+Vv_II,7[=19].6    Tāva mahaddhanassāpi6 na me dātuṃ piyaṃ ahu
+     pidahitvā dvāraṃ bhuñjāmi:7 mā maṃ
+yācanakāddasuṃ.8 || 232 ||
+Vv_II,7[=19].7    Assaddho maccharī c'; āsiṃ9 kadariyo paribhāsako
+  dadantānaṃ karontānaṃ vārayissaṃ10 bahujjanaṃ:11 || 233 ||
+
+--------------------------------------------------------------------------
+
+[page 028]
+28                                  Petavatthu
+Vv_II,7[=19].8    Vipāko natthi dānassa saññamassa kuto phalaṃ
+     pokkharaññodapānāni ārāmāni ca ropite
+     papāyo ca vināsesiṃ dugge saṅkamanāni ca.  || 234 ||
+Vv_II,7[=19].9    Svāhaṃ akatakalyāṇo katapāpo tato cuto
+     upapanno12 pettivisayaṃ13 khuppipāsasamapito.14 || 235 ||
+Vv_II,7[=19].10 15Pañcapaṇṇāsavassāni yato16 kālakato17 ahaṃ
+     nābhijānāmi bhuttaṃ vā pītaṃ vā pana pāniyaṃ.18 || 236 ||
+Vv_II,7[=19].11   Yo saṃyamo so vināso yo vināso so saṃyamo
+     petā hi kira jānanti yo19 saṃyamo so vināso.  || 237 ||
+Vv_II,7[=19].12 20Ahaṃ pure saṃyamissaṃ nādāsiṃ bahuke dhane
+     santesu deyyadhammesu dīpaṃ nakāsim attano.  || 238 ||
+Vv_II,7[=19].13   Svāhaṃ21 pacchānutappāmi attakammaphalūpago22
+     uddhaṃ catūhi23 māsehi kālakiriyā24 bhavissati,
+     ekantaṃ25 kaṭukaṃ ghoraṃ nirayaṃ papatiss'; ahaṃ.  || 239 ||
+Vv_II,7[=19].14   Catukkaṇṇaṃ26 catudvāraṃ vibhattaṃ bhāgaso mitaṃ
+     ayopākārapariyantaṃ ayasā paṭikujjitaṃ.  || 240 ||
+Vv_II,7[=19].15   Tassa ayomayā bhūmi jalitā tejasā yutā27
+     samantā yojanasataṃ pharitvā tiṭṭhati sabbadā.  || 241 ||
+Vv_II,7[=19].16   Tatthāhaṃ dīgham addhānaṃ dukkhaṃ vedissa vedanaṃ
+     phalaṃ pāpassa kammassa tasmā socām'; ahaṃ28
+bhusaṃ.28 || 242 ||
+Vv_II,7[=19].17   Taṃ vo vadāmi bhaddaṃ vo29 yāvant'; ettha samāgatā
+     mākattha pāpakaṃ kammaṃ āvī30 vā yadi vā raho.  || 243 ||
+Vv_II,7[=19].18   Sace taṃ pāpakaṃ kammaṃ karissatha karotha vā
+     na vo29 dukkhā pamutt'; atthi31 uppaccāpi32
+palāyataṃ.33 || 244 ||
+Vv_II,7[=19].19   Matteyyā hotha petteyyā kule jeṭṭhāpacāyikā34
+     sāmaññā hotha brahmaññā evaṃ saggaṃ gamissathā
+ti.35 || 245 ||
+                         Dhanapālapetavatthu sattamaṃ
+
+--------------------------------------------------------------------------
+     1 R, T, PvA(R) -saṇṭhito; (P) -sandhato
+     2 (B1) bhaddante
+     3 T, C, PvA(C) Dasaṇṇānaṃ; B, N, (B1), PvA(B) Paṇṇānaṃ;   
+       (P) Dhaṇṇānaṃ
+     4 R, PvA(R) vidu; C, PvA(C) viduṃ
+     5 T -vāhanaṃ
+     6 R, PvA(R) -ssāmi
+     7 B, N, PvA(B) bhuñjiṃ
+     8 (P) yācakā-
+     9 R, T vāsiṃ; (B2) cāpi
+    10 (B2) vāyarissaṃ
+    11 R, PvA(R) bahujanaṃ; B, N, PvA(B) bahū jane
+    12 R, T, PvA(R) uppanno
+    13 R peta-; T, (B2) pitti-
+    14 C, PvA(C) -pipāsā-
+    15 The arrangement of verses follows B, N.
+    16 R, T tato
+    17 R, T, PvA(R) kālaṅkato
+    18 R, PvA(R) pānīyaṃ
+    19 R so
+    20 The arrangement of verses again follows R.
+    21 C, PvA(C) so 'haṃ
+    22 R, PvA(R) -phalūpeto
+    23 C, PvA(C) catuhi
+    24 B, N kālaṅkiriyā
+    25 B, N, PvA(B) ekanta-
+    26 R catukaṇṇaṃ
+    27 T yuttā
+    28 R ahabbhusaṃ
+    29 (B1,2) te
+    30 R, T āviṃ
+    31 B, N, PvA(B) pamutty atthi
+    32 R, T, PvA(R) upacchāpi; (K) upeccāpi; upeccā ti pi pāḷi - PvA
+    33 R, T, PvA(R) palāyitaṃ
+    34 C, PvA(C) -cāyakā
+    35 R adds here Dh.127 (which is quoted in PvA)
+
+[page 029]
+29                                  Ubbarivagga
+20 Cūḷaseṭṭhipetavatthu1
+Vv_II,8[=20].1        Naggo kiso pabbajito 'si bhante
+         rattiṃ kuhiṃ gacchasi kissa hetu
+         ācikkha me taṃ api sakkuṇemu
+         sabbena vittaṃ paṭipādaye tuvan ti.  || 246 ||
+Vv_II,8[=20].2        Bārāṇasī2 nagaraṃ dūraghuṭṭhaṃ
+         tatthāhaṃ gahapati aḍḍhako dīno3
+         adātā gedhitamano4 āmisasmiṃ
+         dussīlyena5 Yamavisayamhi patto.  || 247 ||
+Vv_II,8[=20].3        So sūcikāya kilamito6 tehi
+         ten'; eva ñātisu7 yāmi āmisakiñcihetu8
+         adānasīlā na ca saddahanti:
+         dānaphalaṃ9 hoti paramhi loke.  || 248 ||
+
+--------------------------------------------------------------------------
+
+[page 030]
+30                                  Petavatthu
+Vv_II,8[=20].4        Dhītā10 ca mayhaṃ lapate11 abhikkhaṇaṃ;
+         dassāmi dānaṃ pitunnaṃ12 pitāmahānaṃ
+         upakkhaṭaṃ13 parivisayanti14 brāhmaṇe15
+         yāmy'; ahaṃ16 Andhakavindaṃ17 bhottuṃ.18 || 249 ||
+Vv_II,8[=20].5        Tam avoca rājā: anubhaviyāna19 tam pi20
+         eyyāsi khippaṃ aham pi karissaṃ21 pūjaṃ
+         ācikkha me taṃ yadi atthi hetu
+         saddhāyitaṃ hetuvaco22 suṇomi.23 || 250 ||
+Vv_II,8[=20].6        Tathā ti vatvā agamāsi tattha
+         bhuñjiṃsu bhattaṃ na24 ca pana24 dakkhiṇārahā25
+         paccāgami26 Rājagahaṃ punāparaṃ
+         pātur ahosi purato janādhipassa.  || 251 ||
+Vv_II,8[=20].7        Disvāna petaṃ. punar eva27 āgataṃ
+         rājā avoca: aham api28 kiṃ dadāmi
+         ācikkha me taṃ yadi atthi hetu
+         yena tuvaṃ29 cirataraṃ pīṇito siyā.  || 252 ||
+Vv_II,8[=20].8        Buddhañ ca saṅghaṃ parivisiyāna rāja
+         annena pānena pi30 cīvarena
+         taṃ dakkhiṇaṃ ādisā me hitāya
+         evaṃ ahaṃ cirataraṃ pīṇito siyā.  || 253 ||
+Vv_II,8[=20].9        Tato ca rājā nipatitva31 tāvade32
+         dānaṃ sahatthā atulaṃ daditvā33
+         saṅghe34 ārocayī35 pakatiṃ36 tathāgatassa
+         tassa37 ca37 petassa dakkhiṇaṃ38 ādisittha.  || 254 ||
+Vv_II,8[=20].10       So pūjito ativiya sobhamāno
+         pātur ahosi purato janādhipassa:
+         yakkho 'ham asmi39 paramiddhipatto
+         na mayham iddhi40 samasadisā41 mānusā.42 || 255 ||
+Vv_II,8[=20].11       Passānubhāvaṃ aparimitaṃ mamedaṃ
+         tayānuddiṭṭhaṃ43 atulaṃ daditvā44 saṅghe
+         santappito satataṃ sadā bahūhi
+         yāmi45 ahaṃ45 sukhito manussadevā ti.  || 256 ||
+                        Cūḷaseṭṭhipetavatthu1 aṭṭhamaṃ
+                              BHĀṆAVĀRAṂ PAṬHAMAṂ
+
+--------------------------------------------------------------------------
+     1 C, (P), PvA(C) Culla-
+     2 R, T, PvA(R) -ṇasi-
+     3 T, (P) ahu dinno; B, N, PvA(B) add ahu before dīno
+     4 R, T gathita-
+     5 R, PvA(R) -sīlena
+     6 kilamatho ti icc eva vā pāṭho - PvA
+     7 R, T, B, N, PvA(B) ñātīsu
+     8 B, N, PvA(B) -kiñcikkha-; (P) sakiñcakkha-; B deletes āmisa, 
+       T omits ten'; eva, but all the words of the pāda are attested 
+        in PvA.
+     9 T dānaṃ phalaṃ
+    10 (B1) pitā
+    11 (B1) labbhate; (B2) labhate
+    12 B, N, PvA(B) pitūnaṃ; C, PvA(C) pitunaṃ
+    13 R -khataṃ; T upaṭṭhitaṃ; B, N, (B2), PvA(B) tam upak-
+    14 (P) -visiya-
+    15 R, T, B, N, PvA(R, B) brāhmaṇā; parivisayantī ti bhojayanti - PvA
+    16 R, T, PvA(R) yami 'haṃ; B, N, PvA(B) yāmi ahaṃ
+    17 R, T Andhakā-
+    18 T bhuttuṃ
+    19 R, T tavamanubha-
+    20 R taṃ hi
+    21 R, T karissa; B, N, PvA(B) kassaṃ
+    22 R, PvA(R) hetuvahe
+    23 R, T, PvA(R) suṇoma; B, N, PvA(B) suṇomā ti
+    24 R na pana; T na; B, N, PvA(B) na ca; PvA attests na ca pana
+    25 T padakkhi-
+    26 R, T, PvA(R) pacchā gami
+    27 B, N, (B2), PvA(B) puna-d-eva
+    28 R, T, C, PvA(R, C) aham pi
+    29 R, T tvaṃ
+    30 B, N, PvA(B) ca
+    31 All but C, PvA(C) -tvā
+    32 R, T, PvA(R) tāvad eva; (K) tad eva
+    33 T, (K) ca datvā
+    34 T saṅghe ca
+    35 B, N, PvA(B) ārocesi; R, T, PvA(R) ārocayi
+    36 B, N, PvA(B) pakati
+    37 R, T omit
+    38 R, T padakkhiṇaṃ
+    39 R, T asmiṃ
+    40 B, N, (B1), PvA(B) atthi; (P) atti-; R iddhisama
+    41 B, N, (B1), (P), PvA(B) samā sadisā
+    42 R, T, C, PvA(R, C) manussā
+    43 R, PvA(R) tayānusiṭṭham; tayā anuddiṭṭhaṃ anunītaṃ -
+         PvA(C), anudiṭṭhaṃ - PvA(B) to agree with B, N, PvA(B)
+         tayānuddiṭṭhaṃ
+    44 B, N, (B1), PvA(B) datvā
+    45 C, PvA(C) yāmy ahaṃ
+
+[page 031]
+31                                  Ubbarivagga
+[FOOTNOTES (moved to the bottom of the respective page)]
+
+--------------------------------------------------------------------------
+
+[page 032]
+32                                 Petavatthu
+21 Aṅkurapetavatthu
+Vv_II,9[=21].1    Yassa atthāya gacchāma Kambojaṃ dhanahārakā
+     ayaṃ kāmadado yakkho imaṃ yakkhaṃ nīyāmase.1 || 257 ||
+Vv_II,9[=21].2    Imaṃ yakkhaṃ gahetvāna sādhukena pasayha vā
+     yānaṃ āropayitvāna khippaṃ gacchāma Dvāraka ti.  || 258 ||
+Vv_II,9[=21].3    Yassa rukkhassa chāyaya nisīdeyya sayeyya vā
+     na tassa sākhaṃ bhindeyya2 mittadubbho hi
+pāpako ti.  || 259 ||
+Vv_II,9[=21].4    Yassa rukkhassa chāyāya nisīdeyya sayeyya vā
+     khandham3 pi tassa chindeyya attho ce tādiso
+siyā ti.  || 260 ||
+Vv_II,9[=21].5    Yassa rukkhassa chāyāya nisīdeyya sayeyya vā
+     na tassa pattaṃ bhindeyya4 mittadubbho hi
+pāpako ti.  || 261 ||
+Vv_II,9[=21].6    Yassa rukkhassa chāyāya nisīdeyya sayeyya vā
+     samūlam5 pi taṃ abhuyha6 attho ce7 tādiso7 siyā ti.  || 262 ||
+Vv_II,9[=21].7        Yass'; ekarattim pi8 ghare vaseyya
+         Yatth'9 annapānaṃ puriso labhetha
+         na tassa pāpaṃ manasā pi cetaye10
+         kataññutā sappurisehi vaṇṇitā.  || 263 ||
+Vv_II,9[=21].8        Yass'; ekarattim pi ghare vaseyya
+         annena11 pānena upaṭṭhito siyā
+         na tassa pāpaṃ manasā pi cetaye10
+         adubbhapāṇī12 dahate mittadubbhiṃ.13 || 264 ||
+Vv_II,9[=21].9    Yo pubbe katakalyāṇo pacchā pāpena hiṃsati
+     allapāṇihato14 poso na so bhadrāni passatī ti.15 || 265 ||
+Vv_II,9[=21].10       Nāhaṃ devena vā16 manussena vā
+         issariyena vāhaṃ suppasayho17
+         yakkho 'ham asmi paramiddhipatto
+         dūraṅgamo vaṇṇabalūpapanno ti.  || 266 ||
+Vv_II,9[=21].11   Pāṇi te sabbasovaṇṇo pañcadhāro madhussavo
+     nānā rasā paggharanti maññe 'haṃ taṃ purindadaṃ.  || 267 ||
+Vv_II,9[=21].12   N'; amhi18 devo na gandhabbo nāpi Sakko purindado
+     petaṃ maṃ19 Aṅkura jānāhi Bheruvamhā20
+idhāgatan ti.  || 268 ||
+
+--------------------------------------------------------------------------
+     1 C, B, N, (P), PvA(B) nayāmase; PvA(C) niyyā-; R, T niya-
+     2 (P) bhiñjeyya
+     3 R khandam-
+     4 (B2), (K), PvA(R) hiṃseyya
+     5 R samūluṃ; (B2) samūlakaṃ
+     6 C, PvA(C) abbūheyya; B, N, (B1) abbhue; (P) abbhūyya;
+        MS. B in PvA(R) abbūyhā
+     7 R, T p'; etādiso; (P) tādiso
+     8 R hi
+     9 (B1,2) yassa
+    10 C, B, N, (B2), PvA(B) cintaye
+   11 (B2) tatthanna-
+    12 (B2) adubbhi
+    13 PvA(C) -dubhiṃ
+    14 (B1) adubbha-; (B2), (K) adubbhi-
+    15 T, R insert here Dh.125
+    16 (P) omits
+    17 C, PvA(C) na supa-; (B1,2) appa-
+    18 B, N, PvA(B) nāmhi
+    19 R, T, PvA(R) omit
+    20 B, N, (B1,2), PvA(B) Roruva-
+
+[page 033]
+33                                  Ubbarivagga
+Vv_II,9[=21].13   Kiṃsīlo kiṃsamācāro Bheruvasmiṃ20 pure tuvaṃ
+     kena te brahmacariyena puññaṃ pāṇimhi ijjhati.  || 269 ||
+Vv_II,9[=21].14   Tunnavāyo21 pure āsiṃ Bheruvasmiṃ20 tadā ahaṃ
+     sukicchavutti kapaṇo na me vijjati dātave.  || 270 ||
+Vv_II,9[=21].15   Āvesanañ22 ca me āsi Asayhassa upantike
+     saddhassa dānapatino katapuññassa lajjino.  || 271 ||
+Vv_II,9[=21].16   Tattha yācanakā yanti {nānāgottā} vanibbakā
+     te ca maṃ tattha pucchanti Asayhassa nivesanaṃ:  || 272 ||
+Vv_II,9[=21].17   Kattha23 gacchāma23 bhaddaṃ vo kattha dānaṃ
+padīyati.24
+     Tesāhaṃ25 puṭṭho vakkhāmi Asayhassa nivesanaṃ,  || 273 ||
+Vv_II,9[=21].18   Paggayha dakkhiṇaṃ bāhuṃ: ettha gacchatha
+bhaddaṃ vo
+     ettha dānaṃ padīyati24 Asayhassa nivesane.26 || 274 ||
+Vv_II,9[=21].19   Tena pāṇi kāmadado tena pāṇi madhussavo
+     tena me brahmacariyena puññaṃ pāṇimhi ijjhatī ti.  || 275 ||
+Vv_II,9[=21].20   Na kira tvaṃ adā dānaṃ sakapāṇīhi kassaci
+     parassa dānaṃ anumodamāno pāṇiṃ paggayha pāvadi.  || 276 ||
+Vv_II,9[=21].21   Tena pāni kāmadado tena pāṇi madhussavo
+     tena te27 brahmacariyena puññaṃ pāṇimhi ijjhati.  || 277 ||
+Vv_II,9[=21].22   Yo so dānam adā bhante pasanno sakapāṇihi28
+     so hitvā mānusaṃ dehaṃ kin nu so disetaṃ gato.  || 278 ||
+Vv_II,9[=21].23       Nāhaṃ pajānāmi29 asayhasāhino30
+         aṅgīrasassa gatim āgatiṃ vā
+         sutañ ca me Vessavaṇassa santike
+         sakkassa sahavyataṃ gato Asayho.  || 279 ||
+Vv_II,9[=21].24   Alam eva kātuṃ kalyāṇaṃ dānaṃ dātuṃ yathārahaṃ
+     pāṇiṃ31 kāmadadaṃ disvā ko puññaṃ na karissati.  || 280 ||
+Vv_II,9[=21].25   So hi nūna ito gantvā anuppatvāna Dvārakaṃ
+     dānaṃ32 paṭṭhāpayissāmi33 yaṃ mam'; assa
+sukhāvahaṃ.  || 281 ||
+Vv_II,9[=21].26   Dassām'; annañ ca pānañ ca34 vatthasenāsanāni ca
+     papañ ca udapānañ ca dugge saṅkamanāni cā ti.  || 282 ||
+Vv_II,9[=21].27   Kena te aṅgulī kuṇṭhā35 mukhañ ca kuṇḍalīkataṃ36
+     akkhīni ca paggharanti kiṃ pāpaṃ pakataṃ tayā ti.  || 283 ||
+
+--------------------------------------------------------------------------
+   21 R, T tanta-
+    22 T, B, N, (P), PvA(B) nivesanañ
+    23 R tattha gacchāmi
+    24 C padīyate; (P) padiyyati
+    25 tenāham
+    26 R, T omit pāda and confuse the arrangement of vv.18-19
+        (of this ed.)
+    27 R, T me
+    28 R, T, C, PvA(C) pāṇīhi
+    29 R, T, PvA(R) jānāmi
+    30 (B2) Asayhassa seṭṭhino
+    31 R, T, PvA(C) pāṇi
+    32 R, T add taṃ
+    33 B, N, PvA paṭṭhapa-
+    34 R, T, PvA(R) reads pāda: dassāmi annapānañ ca;
+         PvA(C) dassāmi annaṃ pānañ ca
+    35 R, T kuṇḍā; B, N, PvA(B, R) kuṇā
+    36 B, PvA(B, R) kuṇalīkataṃ
+
+[page 034]
+34                                  Petavatthu
+Vv_II,9[=21].28   Aṅgīrarasassa gahapatino saddhassa gharam esino
+     tassāhaṃ dānavissagge dāne37 adhikato ahuṃ.38 || 284 ||
+Vv_II,9[=21].29   Tattha yācanake disvā āgate bhojanatthike
+     ekam antaṃ apakkamma akāsiṃ kuṇḍalīmukhaṃ.39 || 285 ||
+Vv_II,9[=21].30   Tena me aṅgulī kuṇṭhā35 mukhañ ca kuṇḍalīkataṃ36
+     akkhīni ca40 paggharanti taṃ pāpaṃ pakataṃmayā ti.  || 286 ||
+Vv_II,9[=21].31   Dhammena te kāpurisa mukhañ ca kuṇḍalīkataṃ36
+akkhīni ca paggharanti41
+     yaṃ tvaṃ42 parassa dānassa akāsi kuṇḍalīmukhan39 ti.  || 287 ||
+Vv_II,9[=21].32   Kathaṃ hi dānaṃ dadamāno kareyya parapattiyaṃ
+     annapānaṃ43 khādanīyaṃ vatthasenāsanāni ca ti.  || 288 ||
+Vv_II,9[=21].33   So hi nūna ito gantvā anuppatvāna Dvārakaṃ
+     dānaṃ paṭṭhāpayissāmi33 yaṃ mam'; assa sukhāvahaṃ.  || 289 ||
+Vv_II,9[=21].34   Dassām'; annañ ca pānañ ca vatthasenāsanāni ca
+     papañ ca udapānañ ca dugge44 saṅkamanāni ca.  || 290 ||
+Vv_II,9[=21].35   Tato hi so nivattitvā anuppatvāna Dvārakaṃ
+     dānaṃ paṭṭhayi45 Aṅkuro yaṃ tumassa46 sukhāvahaṃ.  || 291 ||
+Vv_II,9[=21].36   Adā annañ ca pānañ ca vatthasenāsanāni ca
+     papañ ca udapānañ ca vippasannena cetasā:  || 292 ||
+Vv_II,9[=21].37   Ko chāto ko ca tasito ko vatthaṃ parivassati47
+     kassa santāni yoggāni ito yojentu vāhanaṃ.  || 293 ||
+Vv_II,9[=21].38   Ko chatt'; icchati gandhañ ca ko mālaṃ ko upāhanaṃ
+     iti ssu48 tattha ghosenti kappakā sūda49-māgadhā50
+     sadā sayañ ca pāto ca Aṅkurassa nivesane ti.  || 294 ||
+Vv_II,9[=21].39   Sukhaṃ supati Aṅkuro iti jānāti maṃ jano
+     dukkhaṃ supāmi Sindhaka51 yaṃ na passāmi yācake.  || 295 ||
+Vv_II,9[=21].40   Sukhaṃ supati Aṅkuro iti jānāti maṃ jano
+     dukkhaṃ supāmi52 Sindhaka51 appake su vanibbake ti.  || 296 ||
+Vv_II,9[=21].41   Sakko ce te varaṃ dajjā Tāvatiṃsānam issaro
+     Kissa sabbassa lokassa varamāno varaṃ vare ti.  || 297 ||
+Vv_II,9[=21].42   Sakko ce me varaṃ dajjā Tāvatiṃsānam issaro
+     kāluṭṭhitassa me sato suriyass'; uggamanaṃ53 pati
+54dibbā bhakkhā pātubhaveyyuṃ sīlavanto ca yācakā.  || 298 ||
+
+--------------------------------------------------------------------------
+    37 (B1,2) dānaṃ
+    38 R, T ahu
+    39 B, N, PvA(B) kuṇaliṃ mu-; N kuṇḍaliṃ mu-; PvA(R) kuṇaḷī-
+    40 PvA(C) pi; B, N, PvA(B) me
+    41 PvA(R) calls this pāda an interpolation
+    42 B, N, (P), PvA(B) taṃ
+    43 B, N, C, PvA(B) annaṃ pā-
+    44 R adds ca
+    45 T, C paṭṭhāpayi; B,N,PvA(B,C) paṭṭhapayi; PvA(C) paṭṭhayī; 
+        (B2) paṭṭhapayi 'ṅkuro
+    46 R, T, (K) tam assa
+    47 T, B, N, (B2), PvA(B) paridahissati; (B1) paridhassati
+    48 R, T iti su
+    49 (B2), PvA sūdā
+    50 (K), (P), (B1,2) pāṭavā
+    51 T, (K) Sindhuka; also (K) Sanduka, cf. (P)
+    52 R, T, B, N, PvA(R, B) supati follows the next word
+    53 B, PvA(R, B) suriyugg-; cf. (P)
+    54 The arrangement of verses here follows B, N.
+
+[page 035]
+35                             Ubbarivagga
+Vv_II,9[=21].43.  Dadato me na khīyetha datvā nānutappeyy'; ahaṃ55
+     dadaṃ cittaṃ pasādeyyaṃ56 evaṃ57 Sakkaṃ58 varaṃ
+vare ti.  || 299 ||
+Vv_II,9[=21].44       Na sabbavittāni pare pavecche
+         dadeyya dānañ ca dhanañ ca rakkhe
+         tasmā hi dānā dhanam eva seyyo
+         atippadānena kulā na honti.  || 300 ||
+Vv_II,9[=21].45       Adānaṃ atidānañ ca nappasaṃsanti59 paṇḍitā
+         tasmā hi dānā dhanam eva seyyo
+         samena vatteyya sa dhīradhammo ti.  || 301 ||
+Vv_II,9[=21].46       Aho vatā60 re aham eva dajjaṃ
+         santo hi61 maṃ sappurisā bhajeyyuṃ62
+         megho va ninnān'; abhipūrayanto63
+         santappaye sabbavanibbakānaṃ.  || 302 ||
+Vv_II,9[=21].47   Yassa yācanake disvā mukhavaṇṇo pasīdati
+     datvā attamano hoti taṃ gharaṃ vasato sukhaṃ.  || 303 ||
+Vv_II,9[=21].48   Yassa yācanake disvā mukhavaṇṇo pasīdati
+     datvā attamano hoti esā puññassa64 sampadā.  || 304 ||
+Vv_II,9[=21].49   Pubbe va dānā sumano dadaṃ cittaṃ pasādaye65
+     datvā attamano hoti eso puññassa64 sampadā ti.  || 305 ||
+Vv_II,9[=21].50   Saṭṭhivāhasahassāni Aṅkurassa nivesane
+     bhojanaṃ dīyate niccaṃ puññapekkhassa jantuno.  || 306 ||
+Vv_II,9[=21].51   Tisahassāni66 sūdā hi66 āmuttamaṇikuṇḍalā
+     Aṅkuraṃ upajūvanti dāne yaññassa vyāvaṭā.67 || 307 ||
+Vv_II,9[=21].52   Saṭṭhipurisasahassāni68 āmuttamaṇikuṇḍalā
+     Aṅkurassa mahādāne kaṭṭhaṃ phālenti māṇavā.  || 308 ||
+Vv_II,9[=21].53   Soḷasitthisahassāni sabbālaṅkārabhūsitā
+     Aṅkurassa mahādāne vidhā piṇḍenti nāriyo.  || 309 ||
+Vv_II,9[=21].54   Soḷasitthisahassāni sabbālaṅkārabhūsitā
+     Aṅkurassa mahādāne dabbigāhā upaṭṭhitā.69 || 310 ||
+Vv_II,9[=21].55   Bahuṃ bahunnaṃ70 pādāsi ciraṃ pādāsi khattiyo71
+     sakkaccañ ca sahatthā ca72 cittīkatvā73 punappunaṃ.  || 311 ||
+Vv_II,9[=21].56   Bahū74 māse ca75 pakkhe ca utu-saṃvaccharāni ca
+     mahādānaṃ pavattesi Aṅkuro dīgham antaraṃ.  || 312 ||
+
+--------------------------------------------------------------------------
+    55 R, T, PvA(R) -tappeyyāhaṃ
+    56 R, T -deyya
+    57 B, N, (P), PvA(B) etaṃ
+    58 R, T, PvA(R) Sakka-
+    59 R, T na pa-
+    60 B, N, PvA(R, B) vata
+    61 B, N, PvA(B) ca
+    62 R, T bhajeyyaṃ
+    63 R, T ninnāni hi pūr-; B, N, PvA(B) ninnāni paripūr-;
+        (P), PvA(R) ninnaṃ paripūr-
+    64 B, N, (P), (B1,2), PvA(B) yaññassa
+    65 R pasādeyya
+    66 R, PvA(R) jānā tisahassā sūdā; T, B, N, PvA(B) tisahassāni sūdāni hi;
+        (K) -sūdāni; tisahassāni sūdānan ti ca paṭhanti - BvA
+    67 R, T pāvaṭā; B, N, PvA(B) vāvaṭā
+    68 R -parisa-
+    69 T dabbiggāhā-
+    70 All but (C) and BvA (C) bāhūnaṃ
+    71 R, T khattiye
+    72 R omits
+    73 R, T vittiṃ k-; PvA(R) cittiṃ k-
+    74 R, T, PvA(R) bahu
+    75 R, T omit; (P) va
+
+[page 036]
+36                                  Petavatthu
+Vv_II,9[=21].57   Evaṃ datvā yajitvā ca Aṅkuro dīgham antaraṃ
+     so76 hitvā mānusaṃ deham Tāvatiṃsūpago ahū ti.  || 313 ||
+Vv_II,9[=21].58   Kaṭacchubhikkhaṃ datvāna Anuruddhassa Indako
+     so hitvā mānusaṃ dehaṃ Tāvatiṃsūpago ahū.  || 314 ||
+Vv_II,9[=21].59   Dasahi ṭhānehi Aṅkuraṃ Indako atirocati
+     rūpe sadde rase gandhe phoṭṭhabbe77 ca manorame,  || 315 ||
+Vv_II,9[=21].60  Āyunā yasasā c'; eva vaṇṇena ca sukhena ca
+     ādhipaccena Aṅkuraṃ Indako atirocatī ti.78 || 316 ||
+Vv_II,9[=21].61   Tāvatiṃse yadā buddho sīlāyaṃ paṇḍukambale
+     pāricchattakamūlamhi79 vihāsi purisuttamo,  || 317 ||
+Vv_II,9[=21].62   Dasasu lokadhātūsu sannipatitvāna devatā
+     payirupāsanti sambuddhaṃ vasantaṃ nagamuddhani.  || 318 ||
+Vv_II,9[=21].63   Na koci devo vaṇṇena sambuddhaṃ atirocati
+     sabbe deve adhigayha80 sambuddho va virocati.  || 319 ||
+Vv_II,9[=21].64   Yojanāni dasa dve81 ca81 Aṅkuro 'yaṃ tadā ahu
+     avidūre sambuddhassa82 Indako atirocati.  || 320 ||
+Vv_II,9[=21].65   Oloketvāna sambuddho Aṅkurañ cāpi Indakaṃ
+     dakkhiṇeyyaṃ pabhāvento83 idaṃ vacanam abravi:84 || 321 ||
+Vv_II,9[=21].66   Mahādānaṃ tayā dinnaṃ Aṅkura dīgham antaraṃ
+     atidūre85 nisinno 'si āgaccha mama santike.86 || 322 ||
+Vv_II,9[=21].67   Codito bhāvitattena Aṅkuro idam abravi:84
+     kiṃ mayhaṃ tena dānena dakkhiṇeyyena suññataṃ.  || 323 ||
+Vv_II,9[=21].68   Ayaṃ so Indako yakkho dajjā dānaṃ parittakaṃ
+     atirocati amhe hi cando tāragaṇe yathā.  || 324 ||
+Vv_II,9[=21].69   Ujjaṅgale87 yathā khette bījaṃ bahukam pi88 ropitaṃ
+     na vipulaṃ89 phalaṃ90 hoti na pi toseti kassakaṃ.  || 325 ||
+Vv_II,9[=21].70   Tath'; eva dānaṃ bahukaṃ dussīlesu patiṭṭhitaṃ
+     na vipulaṃ89 phalaṃ90 hoti na pi toseti dāyakaṃ.91 || 326 ||
+Vv_II,9[=21].71   Yathā pi bhaddake khette bījaṃ appam pi92 ropitaṃ92
+     sammādhāraṃ pavecchante phalaṃ toseti kassakaṃ,93 || 327 ||
+Vv_II,9[=21].72   Tath'; eva sīlavantesu guṇavantesu tādisu
+     appakam pi kataṃ kāraṃ puññaṃ hoti mahaphalan ti.  || 328 ||
+
+--------------------------------------------------------------------------
+
+[page 037]
+37                                  Ubbarivagga
+Vv_II,9[=21].73   Viceyya dānam dātabbaṃ yattha dinnaṃ mahapphalaṃ
+     viceyya dānaṃ datvāna saggaṃ gacchanti dāyakā.  || 329 ||
+Vv_II,9[=21].74       Viceyya dānaṃ sugatappasatthaṃ94
+         ye dakkhiṇeyyā idha jīvaloke
+         etesu dinnāni mahapphalāni
+         bījāni vuttāni yathā sukhette ti.  || 330 ||
+                           Aṅkurapetavatthu navamaṃ
+
+--------------------------------------------------------------------------
+    76 R omits
+    77 R poṭṭh-
+    78 R, T, C add here in the text stanza No.66 (below). From here 
+        onwards the numbering differs from R.
+    79 T pārich-
+    80 B, N, (B2), PvA(B) atikkamma; (K), (B1) atiggayha
+    81 R, T c'; eva
+    82 R, PvA(C) ca buddhassa; T, B, N, PvA(B, C) va buddhassa
+    83 T, B, N, (B1,2), PvA(B) sambhāvento
+    84 R, C, PvA(R) abruvi; T abrūvi
+   85 (K) suvidūre
+    86 R, T santikaṃ
+    87 R, PvA(R) ujjha-
+    88 T, B, N, (B1), PvA(B) bahum pi
+    89 B, N, PvA(R) vipula-; T phalaṃ; R vipulaṃ na
+    90 T vipulaṃ
+    91 R dāyake
+    92 R, PvA(R) viropitaṃ
+    93 R kassake
+    94 R, PvA(R) -paseṭṭhaṃ; T, (P), PvA(B) -pasaṭṭhaṃ
+
+[page 038]
+38                                  Petavatthu
+[FOOTNOTES (moved to the bottom of the respective page)]
+
+[page 039]
+39                                  Ubbarivagga
+
+22 Uttaramātupetavatthu
+Vv_II,10[=22].1    Divāvihāragataṃ1 bhikkhuṃ Gaṅgātīre nisinnakaṃ
+     taṃ petī upasaṅkamma dubbaṇṇā bhīrudassanā,  || 331 ||
+Vv_II,10[=22].2    Kesā c'; assā atidīghā2 yāva bhūmāvalambare3
+     Kesehi sā paṭicchannā samaṇaṃ etad abravī:4 || 332 ||
+Vv_II,10[=22].3    Pañcapaṇṇāsavassāni yato kālakatā5 ahaṃ
+     nābhijānāmi bhuttaṃ vā pītaṃ vā pana pāniyaṃ6
+     dehi tvaṃ7 pāniyaṃ8 bhante tasitā pāniyāya9 me ti.  || 333 ||
+Vv_II,10[=22].4    Ayaṃ sītodikā10 Gaṅgā Himavantato11 sandati
+     Piva etto gahetvāna kiṃ maṃ yācasi pāniyaṃ.12 || 334 ||
+Vv_II,10[=22].5    Sacāhaṃ bhante Gaṅgāya13 sayaṃ gaṇhāmi pāniyaṃ6
+     lohitaṃ me parivattati tasmā yācāmi pāniyaṃ.12 || 335 ||
+Vv_II,10[=22].6    Kin nu kāyena vācāya manasā dukkaṭaṃ kataṃ
+     kissa kammavipākena14 Gaṅgā te hoti lohitaṃ.15 || 336 ||
+Vv_II,10[=22].7    Putto16 me Uttaro nāma16 saddho āsi upāsako
+     so ca mayhaṃ akāmāya samaṇānaṃ pavecchati
+     cīvaraṃ piṇḍapātañ ca paccayaṃ sayanāsanaṃ.17 || 337 ||
+Vv_II,10[=22].8    Tam ahaṃ paribbhāsāmi maccherena upaddutā:
+     yaṃ tvaṃ18 mayhaṃ akāmāya samaṇānaṃ pavecchasi19
+     cīvaraṃ piṇḍapātañ ca paccayaṃ sayanāsanaṃ,  || 338 ||
+Vv_II,10[=22].9    Etaṃ te paralokasmiṃ lohitaṃ hotu Uttara
+     tassa kammavipākena20 Gaṅgā me hoti lohitan ti.  || 339 ||
+                         Uttaramātupetavatthu dasamaṃ
+
+--------------------------------------------------------------------------
+
+[page 040]
+40                                  Petavatthu
+23 Suttapetavatthu
+Vv_II,11[=23].1        Ahaṃ pure pabbajitassa bhikkhuno
+         suttaṃ adāsiṃ1 upagamma2 yācitā3
+         tassa vipāko vipula4-phalūpalabbhati
+         bahū5 ca me uppajjare6 {vatthakotiyo.}  || 340 ||
+Vv_II,11[=23].2        Pupphābhikiṇṇaṃ ramitaṃ7 vimānaṃ
+         anekacittaṃ naranārisevitaṃ8
+         sāhaṃ bhuñjāmi ca pārupāmi ca
+         pahūtavittā9 na ca tāva khīyati.  || 341 ||
+Vv_II,11[=23].3        Tass'; eva kammassa vipākam anvayā
+         sukhañ ca sātañ ca idhūpalabbhati
+         sāhaṃ gantvā punad eva10 mānusaṃ
+         kāhāmi puññāni nay'11 ayyaputta man ti.12 || 342 ||
+Vv_II,11[=23].4        Satta tuvaṃ vassasatā idhāgatā
+         jiṇṇā ca vuddhā13 ca tahiṃ bhavissasi
+         sabbe va14 te kālakatā15 ca16 ñātakā
+         Kiṃ17 tattha gantvāna ito karissasī ti.12 || 343 ||
+Vv_II,11[=23].5        Satt'; eva vassāni idhāgatāya me
+         dibbañ ca sukhañ ca samappitāya
+         sāhaṃ gantvā18 punar19 eva mānusaṃ
+         kāhāmi puññāni nay'11 ayyaputta man ti.12 || 344 ||
+
+--------------------------------------------------------------------------
+
+[page 041]
+41                                  Ubbarivagga
+Vv_II,11[=23].6        So taṃ gahetvāna pasayha bāhāyaṃ
+         paccānayitvāna20 theriṃ sudubbalaṃ
+         vajjesi21 aññam pi janaṃ idhāgataṃ:
+         karotha puññāni sukhūpalabbhatī ti.12 || 345 ||
+Vv_II,11[=23].7        Diṭṭhā mayā akatena sādhunā
+         petā vihaññanti tath'; eva mānusā22
+         kammañ ca katvā sukhavedanīyaṃ
+         devā manussā ca sukhe ṭhitā pajā ti.  || 346 ||
+&amp;1
+                          Suttapetavatthu ekādasamaṃ
+24 Kaṇṇamuṇḍapetavatthu
+Vv_II,12[=24].1    Soṇṇasopānaphalakā1 soṇṇavālukasanthatā2
+     tattha sogandhiyā3 vaggu sucigandhā manoramā.  || 347 ||
+Vv_II,12[=24].2    Nānārukkhehi sañchannā nānāgandhasameritā4
+     nānāpadumasañchannā puṇḍarīkasamotatā.5 || 348 ||
+Vv_II,12[=24].3    Surabhī6 sampavāyanti manuññā māluteritā
+     haṃsakoñcābhirudā7 cakkavākābhikūjitā.8 || 349 ||
+
+--------------------------------------------------------------------------
+&amp;1
+     1 R, T, PvA(R) adāsi
+     2 B, N, PvA(B), (P) upasaṅkamma
+     3 (B2), (P) yācito
+     4 R, T vipulaṃ
+     5 B, N, PvA(B), (B2) bahukā
+     6 C, PvA(C) upapajjare
+     7 (B1,2), (K) ramman idaṃ.
+     8 R, PvA(R) -nārī-
+     9 C fn.-vatthā; (P) vittāni and omits na
+    10 C, PvA(C) punar eva; R, PvA(R) punam eva
+   11 (P) naye
+    12 C omits ti
+    13 R, T, B, N, PvA(R, B) vuḍḍhā
+    14 R, PvA(R) ca
+    15 R kālaṅkatā
+    16 R, PvA(R) va
+    17 R, T tvaṃ
+    18 B, N, (B1) gantvāna
+    19 B, N, PvA(B) punad
+    20 R, T add punar eva
+    21 C, PvA(C) vadesi
+    22 B, N, PvA(B), (B1) manussā
+
+[page 042]
+42                                  Petavatthu
+Vv_II,12[=24].4    Nānādijagaṇākiṇṇā9 nānāsaragaṇāyutā10
+     nānāphaladharā11 rukkhā nānāpupphadharā12 vanā.  || 350 ||
+Vv_II,12[=24].5    Na manussesu īdisaṃ nagaraṃ yādisaṃ idaṃ
+     pāsādā13 bahukā tuyhaṃ sovaṇṇarūpiyāmayā,14
+     daddallamānā ābhenti15 samantā caturo disā.16 || 351 ||
+Vv_II,12[=24].6    Pañca dāsisatā17 tuyhaṃ yā te 'mā paricārikā
+     tā18 kambukāyūradharā19 kañcanāveḷabhūsitā.20 || 352 ||
+Vv_II,12[=24].7    Pallaṅkā bahukā tuyhaṃ sovannarūpiyāmāyā21
+     kadalimigasañchannā22 sajjā234 goṇakasanthatā,24 || 353 ||
+Vv_II,12[=24].8    Yattha tvaṃ25 vāsūpagatā sabbakāmasamiddhinī.26
+     sampattāy'; aḍḍharattāya27 tato uṭṭhāya gacchasi.  || 354 ||
+Vv_II,12[=24].9    Uyyānabhūmiṃ gantvāna pokkharaññā samantato,
+     tassā tīre tuvaṃ ṭhāsi28 harite saddale subhe.  || 355 ||
+Vv_II,12[=24].10   Tato te kaṇṇamuṇḍo29 sunakho aṅga-m-aṅgāni khādati;
+     yadā ca khāyitā30 āsi aṭṭhisaṅkhalikā katā
+     ogāhasi pokkharaṇiṃ hoti kāyo yathā pure.  || 356 ||
+Vv_II,12[=24].11   Tato tuvaṃ aṅgapaccaṅgā31 sucārū32 piyadassanā
+     vatthena pārupitvāna āyāsi mama santikaṃ.  || 357 ||
+Vv_II,12[=24].12   Kin nu kāyena vācāya manasā dukkaṭaṃ kataṃ
+     kissa kammavipākena kaṇṇamuṇḍo ca33 sunakho33
+         aṅga-m-aṅgāni khādatī ti.  || 358 ||
+Vv_II,12[=24].13   Kimbilāyaṃ34 gahapati saddho āsi upāsako
+     tassāhaṃ bhariyā āsiṃ35 dussīlā aticārinī.  || 359 ||
+Vv_II,12[=24].14   Evaṃ36 aticaramānāya sāmiko etad abravi:37
+     n'; etaṃ channaṃ, na ppaṭirūpaṃ38 yaṃ tvaṃ
+aticarāsi maṃ.  || 360 ||
+Vv_II,12[=24].15   Sāhaṃ ghorañ ca sapathaṃ musāvādaṃ abhāsisaṃ:39
+     nāhaṃ taṃ aticarāmi kāyena uda cetasā.  || 361 ||
+Vv_II,12[=24].16   Sacāhaṃ taṃ aticarāmi kāyena uda cetasā
+     kaṇṇamuṇḍo40 'yaṃ40 sunakho aṅga-m-aṅgāni khādatu.  || 362 ||
+Vv_II,12[=24].17   Tassa kammassa vipākaṃ musāvādassa cūbhayaṃ
+     satt'; eva41 vassasatāni41 anubhūtaṃ yato pi42 me
+     kaṇṇamuṇḍo ca43 sunakho aṅga-m-aṅgāni khādati.44 || 363 ||
+Vv_II,12[=24].18  Tvañ ca deva bahukāro45 atthāya me idhāgato
+     sumuttāhaṃ kaṇṇamuṇḍassa asokā akutobhayā.  || 364 ||
+
+--------------------------------------------------------------------------
+
+[page 043]
+43                                  Ubbarivagga
+Vv_II,12[=24].19   Tāhaṃ46 deva namassāmi yācāmi pañjalīkatā
+     bhuñja amānuse kāme rama deva mayā sahā ti.47 || 365 ||
+Vv_II,12[=24].20   Bhuttā48 amānusā kāmā ramito 'mhi tayā saha
+     tāhaṃ subhage yācāmi khippaṃ paṭinayāhi man ti.  || 366 ||
+                        Kaṇṇamuṇḍapetavatthu dvādasamaṃ
+
+--------------------------------------------------------------------------
+     1 R, T, PvA(R, C) sovaṇṇ-
+     2 R, T, PvA(R, C) sovaṇṇa-; R, PvA(R, C) -saṇṭhitā; (P) -sandhatā
+     3 R, T, PvA(C) -yo
+     4 R, PvA(R, C) -mīritā
+     5 R, PvA(R) -samāgatā; T, (K) -samohatā; PvA(C) -samogatā
+     6 C, PvA(R) surabhi; B, N, PvA(B) surabhiṃ
+     7 T, B, N, PvA(B) add ca (m.c.?); C, PvA(C) haṃsa koñcā-
+     8 B, N, PvA(B) cakkavakkā-
+     9 R -gaṇakiṇṇā; (P) dijokiṇṇā
+    10 R -ganayutā
+    11 PvA(R) -phaladadā
+    12 R nānāphaladharā; PvA(R) -pupphadadā; T -māladharā
+    13 R, T, PvA(R) add ca
+    14 R, T, PvA(R) -rūpiya-
+    15 (P), (K) ābhanti
+    16 The arrangement of verses here follows B, N, PvA(B).
+    17 R, T, PvA(R) dāsī-
+    18 PvA(C), (K) kā-
+    19 C, PvA(C) -keyūra-
+    20 R, T, PvA(R) kañcanācela- but PvA(C, B) explain:
+        suvaṇṇavaṭaṃsakasamalaṅkatā
+    21 T -rūpiyamayā; R, PvA(R) -ruciyāmayā
+    22 R, T kadalī-; C, PvA(C) kādali-; (P) kadaliya-
+    23 R sañjāto
+    24 R, PvA(R) -saṇṭhitā
+    25 R, (B1), PvA(R) tuvaṃ
+    26 The arrangement of verses follows B, N.
+    27 R, T, PvA(R) -pattāya aḍḍha-; (P) te sampattā aḍḍha-;
+        (K) -rattiyā
+    28 R, T thāsi; PvA(R) 'ṭhāsi
+    29 R, T, PvA(R) add ca
+    30 P khāditā
+    31 T, C, PvA(B) -paccaṅgi; R uggacchantī
+    32 B, N, PvA(B) sucāru
+    33 B, N, (B1), PvA(B) sunakho tava
+    34 B, N, (B2), PvA(B) Kimilāya
+   35 R, T, PvA(R) āsi
+    36 B, N, C, PvA(B) so maṃ
+    37 R, T, PvA(C) abruvi
+    38 R, T, PvA(R) paṭirūpaṃ; (K) n'; etaṃ pa- but PvA(B, C):
+        n'; etaṃ channan ti etaṃ na yuttaṃ, na ppaṭirūpan ti
+        tass'; eva vevacanaṃ- not with PvA(R)
+    39 R, T, PvA(R) abhāsissaṃ; B, N, PvA(B) c'; abhāsisaṃ
+    40 R, T, PvA(R, C) ayaṃ kaṇṇa-; (B1), (P) ayaṃ me kaṇṇa-
+    41 R, T, PvA(R, C) sattavassasatāni ca
+    42 B, N, C, PvA(B) hi
+    43 (B1), (P) 'yaṃ
+    44 PvA(R, C) add ti
+    45 R, T bahūpakāro
+    46 R, T nāhaṃ
+    47 C omits ti
+    48 R, PvA(R) bhutvā; PvA(C) ‘corrects'; pāda as: bhutvā amānuse kāme
+
+[page 044]
+44                                  Petavatthu
+25 Ubbaripetavatthu
+Vv_II,13[=25].1    Ahu rājā Brahmadatto Pañcālānaṃ rathesabho
+     ahorattānam accayā rājā kālaṅkarī1 tadā.1 || 367 ||
+Vv_II,13[=25].2    Tassa āḷāhanaṃ gantvā bhariyā kandati Ubbarī
+     Brahmadattaṃ apassantī Brahmadattā ti kandati.  || 368 ||
+Vv_II,13[=25].3    Isi ca tattha āgacchi2 sampannacaraṇo3 muni
+     so4 ca tattha apucchittha ye tattha su samāgatā:  || 369 ||
+Vv_II,13[=25].4    Kassa c'5 idaṃ āḷāhanaṃ nānāgandhasameritaṃ
+     kassāyaṃ kandati bhariyā ito dūragataṃ patiṃ,
+     Brahmadattaṃ apassantī Brahmadattā ti kandati.  || 370 ||
+Vv_II,13[=25].5    Te ca tattha viyākaṃsu ye tattha su samāgatā:
+     Brahmadattassa bhaddan te,6 Brahmadattassa mārisa.  || 371 ||
+Vv_II,13[=25].6    Tassa idaṃ āḷāhanaṃ nānāgandhasameritaṃ
+     tassāyaṃ kandati bhariyā ito dūragataṃ patiṃ,
+     Brahmadattaṃ apassantī Brahmadattā ti kandatī ti.7 || 372 ||
+Vv_II,13[=25].7    Chaḷāsīti sahassāni Brahmadatta ssanāmakā8
+     imasmiṃ āḷāhane daḍḍhā tesaṃ kam anusocasī ti.  || 373 ||
+Vv_II,13[=25].8    Yo rājā Cūḷanīputto9 Pañcālānaṃ rathesabho
+     taṃ bhante anusocāmi bhattāraṃ sabbakāmadaṃ.  || 374 ||
+Vv_II,13[=25].9    Sabbe v'; ahesuṃ10 rājāno Brahmadatta ssanāmakā
+     sabbe va Cūḷanīputtā9 Pañcālānaṃ rathesabhā.  || 375 ||
+
+--------------------------------------------------------------------------
+
+[page 045]
+45                                  Ubbarivagga
+Vv_II,13[=25].10   Sabbesaṃ anupubbena mahesittam akārayi
+     kasmā purimake hitvā pacchimaṃ anusocasī ti.  || 376 ||
+Vv_II,13[=25].11   Ātume11 itthibhūtāya dīgharattāya mārisa
+     yassā me itthibhūtāya saṃsāre bahu bhāsasī ti.  || 377 ||
+Vv_II,13[=25].12  Ahu itthi12 ahu puriso pasuyonim pi13 āgamā
+     evam etaṃ atītānaṃ14 pariyanto na dissatī ti.  || 378 ||
+Vv_II,13[=25].13   Ādittaṃ vata maṃ santaṃ ghatasittaṃ va pāvakaṃ
+     vārinā viya osiñcaṃ15 sabbaṃ nibbāpaye daraṃ.  || 379 ||
+Vv_II,13[=25].14   Abbūḷhaṃ16 vata me sallaṃ sokaṃ17 hadayanissitaṃ
+     yo me sokaparetāya patisokaṃ apānudi.  || 380 ||
+Vv_II,13[=25].15   Sāhaṃ abbūḷhasallāsmi sītibhūtāsmi nibbutā
+     na socāmi na rodāmi tava sutvā mahāmunī ti.  || 381 ||
+Vv_II,13[=25].16   Tassa taṃ vacanaṃ sutvā samaṇassa subhāsitaṃ
+     pattacīvaram ādāya pabbaji anagāriyaṃ.  || 382 ||
+Vv_II,13[=25].17   Sā ca pabbajitā18 santā agārasmā19 anagāriyaṃ
+     mettaṃ cittaṃ20 abhāvesi21 brahmalokūpapattiyā.22 || 383 ||
+Vv_II,13[=25].18   Gāmā gāmaṃ vicarantī nigame rājadhāniyo23
+     Uruvelā24 nāma so gāmo yattha kālam akubbatha.25 || 384 ||
+Vv_II,13[=25].19   Mettacittam26 ābhāvetvā27 brahmalokūpapattiyā22
+     itthicittaṃ virājetvā brahmalokūpagā ahū ti.  || 385 ||
+                  Ubbaripetavatthu terasamaṃ
+     Tass'; uddānaṃ:
+     Paṇḍu28 mātā patiyā29 ca Nandā kuṇḍalinā30 Ghato
+     dve seṭṭhī tunnavāyo ca vihāra31-sutta-sopāna-32
+Ubbarī ti.
+                              UBBARIVAGGA DUTIYO
+
+--------------------------------------------------------------------------
+     1 T, B, N, (B2), PvA(B) kālaṃ akrubbatha; (B1) -akubbatha;
+        R, PvA(R) -kari tadā; (P) omits tadā
+     2 C, PvA(C) āgañchi
+     3 R, T -carana-
+     4 (P), PvA(R) te
+     5 B, N, PvA(B) omits
+     6 T, B, N bhadante
+     7 B, N omit ti
+     8 ss- as in all edd.; PvA: Brahmadatto ti evan-nāmako
+     9 R Cūlanī-
+    10 B, N, PvA(B) vāhesuṃ
+    11 (B2) āhu me
+    12 R, T, B, N itthī
+    13 R pasuṃ yonim pi
+    14 (B1) atītāni
+    15 R, PvA(R) osiñci
+    16 B, N, PvA(B) abbahī
+    17 R, PvA(R) etaṃ
+    18 R pabbajja-upagatā
+    19 PvA(R) gārasmā
+    20 B, N mettācittaṃ; PvA mettacittaṃ
+    21 (P) ābhavesi; PvA(R) abhāvetvā
+    22 R, T -lokupa-
+    23 B rājā-
+    24 R, T -velaṃ; B -veḷā
+   25 T, B, N, PvA(B) -akrubbatha; PvA(C) kālaṃ kubbatha
+    26 B, N mettācittaṃ
+    27 R, C, PvA(R) abhāvetvā; PvA: abhāvetvā ti keci paṭhanti
+    28 B, N, mocakaṃ (P) paṇha
+    29 C ca pitā; (K) pitā; B, N Mattā; (P) Tisā
+    30 C kuṇḍline; B, N -līnā; (P) -lino
+    31 B, N Uttara
+    32 B, N Kaṇṇa; T sovāna (cf. supāna, suvānā)
+
+[page 046]
+46                                  Petavatthu
+[FOOTNOTES (moved to the bottom of the respective page)]
+
+--------------------------------------------------------------------------
+
+[page 047]
+                                       47
+                                 III CŪḶAVAGGA
+26 Abhijjamānapetavatthu
+Vv_III,1[=26].1    Abhijjamāne vārimhi Gaṅgaya idha gacchasi
+     naggo pubbaddhapeto1 va mālādhārī2 alaṅkato,
+     kuhiṃ gamissasi3 peta4 kattha vāso bhavissatī ti.  || 386 ||
+Vv_III,1[=26].2    Cundatthikaṃ5 gamissāmi peto so iti bhāsati6
+     antare7 Vāsabhagāmaṃ Bārāṇasiyā8 ca9 santike.  || 387 ||
+Vv_III,1[=26].3    Tañ ca disvā mahāmatto Koliyo iti vissuto
+     sattubhattañ10 ca petassa pītakañ ca yugaṃ adā.  || 388 ||
+Vv_III,1[=26].4    Nāvāya tiṭṭhamānāya kappakassa adapāyi
+     kappakassa padinnamhi11 ṭhāne petass'; udissatha.12 || 389 ||
+Vv_III,1[=26].5    Tato suvatthavasano mālādhārī2 alaṅkato
+     ṭhāne ṭhit'; assa petassa dakkhiṇā upakappatha;
+     tasmā dajjetha petānaṃ anukampāya punappunan ti.  || 390 ||
+Vv_III,1[=26].6    Sāhunnavasanā13 eke aññe kesanivāsanā14
+     petā bhattāya gacchanti pakkamanti disodisaṃ.  || 391 ||
+Vv_III,1[=26].7    Dūre eke15 padhāvitvā aladdhā ca16 nivattare
+     chātā pamucchitā bhantā17 bhūmiyaṃ paṭisumbhitā.18 || 392 ||
+Vv_III,1[=26].8    Keci19 tattha papatitā20 bhūmiyaṃ paṭisumbhitā18
+     pubbe akatakalyāṇā aggidaḍḍhā va ātape.  || 393 ||
+Vv_III,1[=26].9    Mayaṃ21 pubbe pāpadhammā gharaṇī22 kulamātaro
+     santesu deyyadhammesu dīpaṃ nākamha attano.  || 394 ||
+
+--------------------------------------------------------------------------
+
+[page 048]
+48                                  Petavatthu
+Vv_III,1[=26].10   Pahūtaṃ annapānam pi23 api ssu24 avakirīyati
+     sammaggate25 pabbajite na ca kiñ ci adamhase.  || 395 ||
+Vv_III,1[=26].11   Akammakāmā alasā sādukāmā mahagghasā
+     ālopapiṇḍadātāro pāṭiggahe paribhāsimhase.26 || 396 ||
+Vv_III,1[=26].12   Te gharā tā ca27 dāsiyo tān'; evābharaṇāni no
+     te aññe28 paricārenti29 mayaṃ dukkhassa bhāgino.  || 397 ||
+Vv_III,1[=26].13  Veṇī30 vā avaññā31 honti rathakārī ca dubbhikā
+     caṇḍālī kapaṇā honti nhāminī32 ca punappunaṃ.  || 398 ||
+Vv_III,1[=26].14   Yāni yāni nihīnāni kulāni kapaṇāni ca
+     tesu tesv eva jāyanti esā maccharino gati.  || 399 ||
+Vv_III,1[=26].15   Pubbe ca33 katakalyāṇā dāyakā vītamaccharā
+     saggaṃ te paripūrenti obhāsenti ca Nandanaṃ.  || 400 ||
+Vv_III,1[=26].16   Vejayante ca pāsāde ramitvā kāmakāmino
+     uccākulesu jāyanti sabhogesu tato cutā.  || 401 ||
+Vv_III,1[=26].17   Kūṭāgāre ca pāsāde pallaṅke goṇakatthate34
+     vījitaṅgā35 morahatthehi kule jātā yasassino.  || 402 ||
+Vv_III,1[=26].18   Aṅkato36 aṅkaṃ36 gacchanti mālādhārī2 alaṅkatā
+     dhātiyo37 upatiṭṭhanti sāyaṃ pātaṃ sukhesino.  || 403 ||
+Vv_III,1[=26].19   Na-y-idaṃ akatapuññānaṃ katapuññānam ev'; idaṃ
+     asokaṃ Nandanaṃ rammaṃ Tidasānaṃ mahāvanaṃ.  || 404 ||
+Vv_III,1[=26].20   Sukhaṃ akatapuññānaṃ idha natthi parattha ca
+     sukhañ ca katapuññānaṃ idha c'; eva parattha ca.  || 405 ||
+Vv_III,1[=26].21   Tesaṃ sahavyakāmānaṃ kattabbaṃ kusalaṃ bahuṃ
+     Katapuññā hi modanti sagge bhogasamaṅgino ti.  || 406 ||
+                        Abhijjamānapetavatthu paṭhamaṃ
+
+--------------------------------------------------------------------------
+     1 R, T pubbaḍḍha-
+     2 B, N mālā-; (B1) mālabhāri; (P) -bhāri
+     3 (B2) gamissati
+     4 R petaṃ; T peto
+     5 R -tthiyaṃ; T, B, N, (B2), PvA(R, B) -ṭṭhilaṃ; (B1) -ṭṭhiyaṃ
+     6 R bhāsasi
+     7 PvA equates antare to antarā (in const.); hence emendation
+        in B, N Bārāṇasiṃ
+     8 B, N, PvA(B) see n.7
+     9 R omits
+    10 B, N, PvA(B, C) sattuṃ bhattañ ca
+    11 (B2) ca dinnamhi
+    12 R, T, B, N, PvA(R, B) petassa dissatha
+    13 B, N, C, PvA(B, C) sātunna-; (k), PvA(R) sāhundavāsino;
+        R, T, (PvA(K)) -vāsino
+    14 R, T, (K), PvA(R) nivāsino; B, N, PvA(B) nivāsanā
+    15 T p'eke; (P), (B1), (K) petā
+    16 B, N, (P), PvA(B) va
+    17 T gantvā
+    18 T patisambhitā; (P) paṭisusamitā
+    19 B, N, (P) te ca
+    20 C, (B), PvA(C) papatitvā; R, T ca patitā; PvA(R) ca patitvā
+    21 R adds pi
+    22 R, PvA(C) gharaṇiyo; T gharaṇi-
+    23 R, T, PvA(R) hi
+    24 R, PvA(R) su
+    25 R samāgate; T, PvA(R) samaggate
+    26 T, (K), (P) paribhāsitā
+   27 R, T va
+    28 R, T añño
+    29 R, PvA(R, C) parihārenti
+    30 R, PvA(R) veṇiṃ
+    31 vambhanā ti vā pāṭho - PvA
+    32 C, PvA(C, p. 126) nhāpikā; T, B, N, (P), PvA(B, C) kappakā
+    33 C, (P), PvA(C) va
+    34 R, PvA(R) -saṇṭhite; (S) -santhate
+    35 R, PvA(R) vijita-
+    36 T aṅgato aṇgaṃ
+    37 R, T, PvA(R) jātiyo; (B1) bhatiyo
+
+[page 049]
+49                                  Cūḷavagga
+27 Sānuvāsipetavatthu
+Vv_III,2[=27].1    Kuṇḍināgariyo1 thero Sānuvāsinivāsiko2
+     Poṭṭhapādo ti nāmena samaṇo bhāvitindriyo.  || 407 ||
+Vv_III,2[=27].2    Tassa mātā pitā bhātā duggatā Yamalokikā
+     pāpakammaṃ karitvāna petalokaṃ ito gatā.  || 408 ||
+Vv_III,2[=27].3    Te duggatā sūcikaṭṭā3 kilantā naggino kisā
+     uttasantā4 mahātāsā5 na dassenti6 kurūrino.7 || 409 ||
+Vv_III,2[=27].4    Tassa bhātā vitaritvā8 naggo ekapath'; ekako
+     catukuṇḍiko bhavitvāna therassa dassayī9 tumaṃ.  || 410 ||
+Vv_III,2[=27].5    Thero cāmanasī10-katvā tuṇhībhūto apakkami11
+     so ca viññāpayī12 theraṃ:13 bhātā petagato14 ahaṃ.  || 411 ||
+
+--------------------------------------------------------------------------
+     1 R, T, PvA(R, C) -nagariyo; Kuṇḍitanagaro (Kuṇḍikanāgaro, R)
+        thero ti vā pāṭho - PvA
+     2 R, PvA(R) -nivāsino; T, (B2) sāna-; B, N, (B1), PvA(B) sāṇa-
+     3 R, T, PvA(R) -ṭṭhā; (P) sucikaṇḍā; sūcigattā,
+        (C) sūcigatā, (R), ((B) omits) ti vā pāṭho . . .
+        sūcikaṇṭhā ti keci paṭhanti - PvA
+     4 T ottappantā; (B2) ottapantā; (P) ottasantā
+     5 T, B, N, (P), (B2), PvA(B) mahattāsā
+     6 T, (P) dessanti
+     7 (K) kuruddino; (B2) kuruddhino
+     8 vituritvā (R, w. r.) ti vā pāṭho - PvA
+     9 R, T, N, PvA(R) -yi
+    10 R, T sāmanasi-; B, N, PvA(R, B) -si; (P) taṃ manasi-;
+        (B2) omits ca
+    11 B, N, (B1,B2), (S), PvA(B) atikkami
+    12 R, T, PvA(R) -yi
+    13 R, T thera
+    14 R, PvA(R) petā-; T petaṅgato
+
+[page 050]
+50                                  Petavatthu
+Vv_III,2[=27].6    Mātā pitā ca te bhante duggatā Yamalokikā
+     pāpakammaṃ karitvāna petalokaṃ ito gatā.  || 412 ||
+Vv_III,2[=27].7    Te duggatā sūcikaṭṭā3 kilantā naggino kisā
+     uttasantā4 mahātāsā5 na dassenti6 kurūrino.7 || 413 ||
+Vv_III,2[=27].8    Anukampassu kāruṇiko15 datvā anvādisāhi16 no
+     teva dinnena dānena yāpessanti kurūrino.7 || 414 ||
+Vv_III,2[=27].9    Thero caritvā piṇḍāya bhikkhū aññe ca dvādasa
+     ekajjhaṃ sannipatiṃsu bhattavissaggakāraṇā.17 || 415 ||
+Vv_III,2[=27].10   Thero sabbe va18 te āha: yathāladdhaṃ dadātha me
+     saṅghabhattaṃ karissāmi anukampāya ñātinaṃ.19 || 416 ||
+Vv_III,2[=27].11   Niyyātayiṃsu20 therassa thero saṅghaṃ nimantayi
+     datvā anvādisī21 thero mātu22 pitu22 ca bhātuno:23
+     idaṃ me ñātīnaṃ hotu sukhitā honti ñātayo.  || 417 ||
+Vv_III,2[=27].12   Samanantarānuddiṭṭhe24 bhojanaṃ upapajjatha25
+     suciṃ paṇītaṃ sampannaṃ anekarasavyañjanaṃ.  || 418 ||
+Vv_III,2[=27].13   Tato uddissati26 bhātā vaṇṇavā balavā sukhī:
+     pahūtaṃ bhojanaṃ bhante passa naggāmhase27 mayaṃ,
+     tathā bhante parakkama28 yathā vatthaṃ labhāmase.29 || 419 ||
+Vv_III,2[=27].14   Thero saṅkārakūṭamhā30 uccinitvāna nantake31
+     pilotikaṃ paṭaṃ katvā saṅghe cātuddise adā.  || 420 ||
+Vv_III,2[=27].15   Datvā anvādisī32 thero mātu22 pitu22 ca bhātuno:
+     idaṃ me ñātīnaṃ hotu sukhitā hontu ñātayo.  || 421 ||
+Vv_III,2[=27].16   Samanantarānuddiṭṭhe24 vatthāni upapajjisuṃ33
+     tato suvatthavasano34 therassa dassayī35 tumaṃ.36 || 422 ||
+Vv_III,2[=27].17 37Yāvatā Nandarājassa vijitasmiṃ paṭicchadā38
+     tato bahutarā39 bhante vatthān'; acchādanāni40 no.  || 423 ||
+Vv_III,2[=27].18   Koseyyakambalīyāni khomakappāsikāni41 ca
+     vipulā ca mahagghā ca te p'; ākāse42 'valambare.  || 424 ||
+Vv_III,2[=27].19   Te mayaṃ paridahāma yaṃ yaṃ hi manaso piyaṃ
+     tathā bhante parakkama43 yathā gehaṃ44 labhāmase.  || 425 ||
+Vv_III,2[=27].20   Thero paṇṇakuṭim katvā saṅghe catuddise adā
+     datvā anvādisī45 thero mātu22 pitu22 ca bhātuno:
+     idaṃ me ñātīnaṃ hotu sukhitā hontu ñātayo.  || 426 ||
+
+--------------------------------------------------------------------------
+    15 (B1) kāruṇino
+    16 (B2) anudi-
+    17 R, T, PvA(R) -vissatta-; (B2) -vossagga-; (S) -vissattha-
+    18 R, T, PvA(R, C) pi
+    19 R, T ñātīnaṃ
+    20 B, N, (B2), PvA(B) niyyāda-
+    21 R, T, B, N, PvA(R,B) -si
+    22 R, T pitu mātu
+    23 The arrangement of verses to the end of the vatthu follows B, N.
+    24 R, T, PvA(R) -nudiṭṭhe, (P) -tarā anudi-
+    25 B, N, PvA(B) uda-
+    26 B, N, PvA(B) uddassayi; C, (K), PvA(C) uddisayī
+    27 T nagg'; amhase
+    28 R, PvA(R) parakkāma
+    29 R, T, PvA(R) labhāmhase
+   30 R, T, PvA(R) -kūṭato
+    31 R, T tantake
+    32 R, T, PvA(R) -disi
+    33 R, T, PvA(R) -jjiṃsu
+    34 (B1) -vasanā
+    35 R, PvA(R) -yi; (B2) uddissayi tattha; (P) uddissayīya
+    36 (P) thunnaṃ; (B2) maṃ
+    37 R, T introduce an additional pāda (v.13b) which upsets
+        the arrangement of verses to the end of v.19.
+    38 R, T -chādā
+    39 T bahuttarā
+    40 R vatthāni'; cchā-
+    41 R, PvA(R) -siyāni
+    42 R, T, PvA(R) c'; ākāse vā-; v112
+    43 R parikkāma; T, PvA(R) -kāma
+    44 (P) gehe
+    45 R, PvA(R) -disi; T ca uddisi
+
+[page 051]
+51                                  Cūḷavagga
+Vv_III,2[=27].21   Samanantarānuddiṭṭhe24 gharāni upapajjisuṃ46
+     kūṭāgāranivesanā47 vibhattā bhāgaso mitā.  || 427 ||
+Vv_III,2[=27].22   Na manussesu īdisā yādisā no gharā idha
+     api dibbesu yādisā tādisā no gharā idha.  || 428 ||
+Vv_III,2[=27].23   Daddallamānā48 ābhenti49 samantā caturo disā
+     tathā bhante parakkama28 yathā pānaṃ50 labhāmase.51 || 429 ||
+Vv_III,2[=27].24   Thero karakaṃ52 pūretvā saṅghe cātuddise adā
+     datvā anvādisī53 thero mātu22 pitu22 ca bhātuno:
+     idaṃ me ñātīnaṃ hotu sukhitā hontu ñātayo.  || 430 ||
+Vv_III,2[=27].25   Samanantarānuddiṭṭhe24 pānīyaṃ upapajjatha54
+     gambhīrā caturassā ca pokkharañño55 sunimmitā.56 || 431 ||
+Vv_III,2[=27].26   Sītodikā57 supatitthā58 sītā appaṭigandhiyā
+     padumuppalasañchannā vārikiñjakkhapūritā.  || 432 ||
+Vv_III,2[=27].27   Tattha nahātvā59 pivitvā ca60 therassa
+paṭidassayuṃ
+     pahūtaṃ panīyaṃ bhante pādā61 dukkhā62 phalanti no.  || 433 ||
+Vv_III,2[=27].28   Āhiṇḍamānā khañjāma sakkhare kusakaṇṭake
+     tathā bhante parakkama28 yathā yānaṃ labhāmāse.  || 434 ||
+Vv_III,2[=27].29   Thero sipāṭikaṃ laddhā saṅghe cātuddise adā
+     datvā anvādisī53 thero mātu22 pitu22 ca bhātuno:
+     idaṃ me ñātīnaṃ hotu sukhitā hontu ñātayo.  || 435 ||
+Vv_III,2[=27].30   Samanantarānuddiṭṭhe24 petā rathena-m-āgamuṃ
+     anukampit'; amha bhaddan te63 bhatten'
+acchādanena64 ca.  || 436 ||
+Vv_III,2[=27].31   Gharena pānadānena65 yānadānena cūbhayaṃ
+     muniṃ kāruṇikaṃ loke bhante66 vanditum āgatā ti.  || 437 ||
+                         Sānuvāsipetavatthu67 dutiyaṃ
+
+--------------------------------------------------------------------------
+   46 C upapajjatha; (P) udapajjatha; also v. n.33
+    47 R, T, PvA(R) -gārā ni-; (B2) -gārā nivesā ca; (B1) -sano; 
+        (P) -sāna ca
+    48 PvA(R) daddaḷha-
+    49 C ābhanti
+    50 B, N, (B1), PvA(B) pānīyaṃ
+    51 R, T, (P), PvA(R) labhāmhase
+    52 B, N, (B2), PvA(B) karaṇaṃ
+    53 R, T, PvA(R) -disi
+    54 B, N, (P), (B1) uda-; R upapajji su
+    55 R, T, (P), PvA(R) -raññā
+    56 (B1,2), (P) sumāpitā
+    57 R, T sītūdakā; PvA(R) setodakā emended after 114? ;
+        (P) setūdakā; PvA is silent here.
+    58 B, N, PvA(B) suppa-; R, T add ca
+    59 R, PvA(R) nahatvā; B, N, (P), PvA(B) nhatvā
+    60 R, T, PvA(R) omit
+    61 T pāpā
+    62 R, T dukkha-
+    63 B, N, PvA(B) bhadante
+    64 R, T, PvA(R) bhattena chā-
+    65 B, N, (B2) PvA(C, B) pānīyadānena
+    66 R, T, PvA(R) taṃ bhante
+    67 B, N, PvA(B) Sāṇavāsi(t) thera-
+
+[page 052]
+52                                  Petavatthu
+[FOOTNOTES (moved to the bottom of the respective page)]
+
+--------------------------------------------------------------------------
+
+[page 053]
+53                                  Cūḷavagga
+28 Rathakārapetavatthu
+Vv_III,3[=28].1        Veḷuriyatthambhaṃ ruciraṃ pabhassaraṃ
+         vimānam āruyha anekacittaṃ
+         tatth'; acchasi devi mahānubhāve
+         pathaddhani1 paṇṇarase va cando.2 || 438 ||
+Vv_III,3[=28].2        Vaṇṇo ca3 te kanakassa4 sannibho4
+         uttattarūpo5 bhusa dassanīyo
+         pallaṅkaseṭṭhe atule nisinnā
+         ekā tuvaṃ natthi ca6 tuyha6 sāmiko.  || 439 ||
+Vv_III,3[=28].3        Imā ca te pokkharañño7 samantā8
+         pahūtamalyā9 bahupuṇḍarīkā
+         suvaṇṇacuṇṇehi10 samantam11 otthatā11
+         na tattha paṅko paṇako12 ca vijjati.  || 440 ||
+Vv_III,3[=28].4        Haṃsā c'; ime13 dassanīyā manoramā
+         udakasmiṃ anupariyanti sabbadā
+         samayya vaggūpanadanti14 sabbe
+         bindussarā15 dundubhīnaṃ va ghoso.  || 441 ||
+Vv_III,3[=28].5        Daddallamānā16 yasasā yasassinī
+         nāvāya ca17 tvaṃ avalamba tiṭṭhasi
+         āḷārapamhe18 hasite piyaṃvade
+         sabbaṅgakalyāṇi bhusaṃ virocasi.  || 442 ||
+
+--------------------------------------------------------------------------
+
+[page 054]
+54                                  Petavatthu
+Vv_III,3[=28].6        Idaṃ vimānaṃ virajaṃ same ṭhitaṃ
+         uyyānavantaṃ19 ratinandivaḍḍhanaṃ20
+         icchām'; ahaṃ21 nāri anomadassane
+         tayā saha Nandane idha moditun ti.  || 443 ||
+Vv_III,3[=28].7        Karohi kammaṃ idha vedanīyaṃ
+         cittañ ca te idha nihitaṃ22 bhavatu22
+         katvāna kammaṃ idha vedanīyaṃ23
+         evaṃ mamaṃ lacchasi kāmakāminiṃ.  || 444 ||
+Vv_III,3[=28].8        Sādhū ti so tassā paṭissuṇitvā24
+         akāsi kammaṃ sahavedanīyaṃ25
+         katvāna kammaṃ tahiṃ vedanīyaṃ
+         uppajji26 māṇavo tassā sahavyatan ti.  || 445 ||
+                         Rathakārapetavatthu27 tatiyaṃ
+                              BHĀṆAVĀRAṂ DUTIYAṂ
+
+--------------------------------------------------------------------------
+     1 (B1,2), K samantato
+     2 C, PvA(C) candimā
+     3 C pi
+     4 (P) kanakasan-
+     5 R uggata-; T uttama-
+     6 R, T tuyhaṃ
+     7 R, T -raññā; B, N, PvA(B) -raṇī
+     8 T, (K), (B2) samantato; R samaṅgato
+     9 T, C, PvA(C) -mālā; PvA(R) -mālyā; R -māsā
+    10 T sovaṇṇa-
+    11 (B2) samantam otatā, R samaṅgamotakā
+    12 R palāko; T, (B2), PvA(R) paṇṇako
+    13 R pi; T, PvA(R, C) p'; ime
+    14 R vaggu pa-; T, (P), (B1) vaggu upa-
+    15 R vindu-
+    16 PvA(R) daddaḷha-
+    17 R omits
+    18 R, T ālaracamhe; (B2) āḷārasame
+    19 T, B, N, (B2) uyyānavanāṃ
+    20 R -nanda-
+    21 R, T icchāmi te
+    22 B, N, (B1) natañ ca hotu; (P) . . . hotuṃ; T, (B2) nitañ
+        ca hotu; PvA(R) nataṃ bhavatu; read nihitaṃ bhavātu
+        (m.c.)? idha ninnan ti vā pāṭho - PvA
+   23 R, T modanī-
+    24 R, T, PvA(R) paṭisu-
+    25 C, B, N, PvA(B, C), (B2) tahiṃ veda-; (P) sahiveda-
+    26 B, N, PvA(B) upapajji so
+    27 R -kāri-; T -kārī-
+
+[page 055]
+55                                  Cūḷavagga
+29 Bhusapetavatthu
+Vv_III,4[=29].1        Bhusāni eko1 sāliṃ punāparo1
+         ayañ2 ca2 nārī sakamaṃsalohitaṃ
+         tuvañ ca gūthaṃ asuciṃ3 akantikaṃ3
+         paribhuñjasi kissa ayaṃ vipāko ti.  || 446 ||
+Vv_III,4[=29].2    Ayaṃ pure mātaraṃ hiṃsati ayaṃ pana kūṭavāṇijo
+     ayaṃ maṃsāni khāditvā musāvadena vañceti.4 || 447 ||
+Vv_III,4[=29].3        Ahaṃ manussesu manussabhūtā
+         agārinī sabbakulassa5 issarā
+     santesu pariguyhāmi:6 mā ca kiñ ci ito adaṃ.  || 448 ||
+Vv_III,4[=29].4    Musāvādena chādemi: natthi etaṃ mama7 gehe7
+     sace santaṃ8 niguyhāmi9 gūtho me hotu bhojanaṃ.  || 449 ||
+Vv_III,4[=29].5    Tassa kammassa10 vipākena musāvādassa cūbhayaṃ
+     sugandhasālino11 bhattaṃ gūthaṃ me parivattati.  || 450 ||
+Vv_III,4[=29].6    Avañjhāni12 ca kammāni na hi kammaṃ vinassati
+     duggandhaṃ kimijaṃ13 mīḷhaṃ bhuñjāmi ca pivāmi
+cā ti.  || 451 ||
+                           Bhusapetavatthu catutthaṃ
+&amp;1
+30 Kumārapetavatthu
+Vv_III,5[=30].1        Accherarūpam sugatassa ñāṇaṃ
+         satthā yathā puggalaṃ vyākāsi
+         ussannapuññā pi bhavanti h'; eke1
+         parittapuññā pi bhavanti h'; eke.1 || 452 ||
+
+--------------------------------------------------------------------------
+&amp;1
+     1 R eke sālī punāpare; T . . . sālī . . .; (P) . . . sāli . . .
+     2 R aññā
+     3 R asuci-; T, B, N, PvA(B) . . . akantaṃ
+     4 (B1), (P) vañcesi
+     5 R kulassa
+     6 R -gūyhemi; B, N, PvA(B) -guhemi; (P), PvA(R) -gūhāmi
+     7 (B1) mamaṃ iti
+     8 (P) santiṃ
+     9 R nigūyhāmi; B, N, PvA(B) niguhāmi; T pariguyhāmi; PvA(R) nigūhāmi
+    10 (P) kamma-
+    11 B, N, PvA(B) sugandhaṃ sā-
+    12 R, T avajjāni; (P) avañjāni; (B2) avañcāni
+    13 R, T, PvA(R) kimīnaṃ; B, N, PvA(B) kiminaṃ
+
+[page 056]
+56                                  petavatthu
+Vv_III,5[=30].2        Ayaṃ2 kumāro sīvathikāya chaḍḍito
+         aṅguṭṭhasnehena yāpeti3 rattiṃ4
+         na yakkhabhūtā na siriṃsapā5 vā
+         viheṭhayeyyuṃ6 katapuññakumāraṃ.7 || 453 ||
+Vv_III,5[=30].3        Sunakhā p'; imassa8 palihiṃsu9 pāde
+         dhaṅkā sigālā10 parivattayanti
+         gabbhāsayaṃ pakkhigaṇā haranti
+         kākā pana akkhimalaṃ haranti.  || 454 ||
+Vv_III,5[=30].4        Na-y-imassa11 rakkhaṃ vidahiṃsu keci
+         na osadhaṃ12 sāsapadhūpanaṃ vā
+         nakkhattayogam pi na aggahesuṃ13
+         na sabbadhaññāni pi ākiriṃsu.  || 455 ||
+Vv_III,5[=30].5        Etādisaṃ uttamakicchapattaṃ14
+         rattābhataṃ sīvathikāya chaḍḍitaṃ
+         nonītapiṇḍaṃ15 va16 pavedhamānaṃ16
+         sasaṃsayaṃ jīvitasāvasesaṃ.  || 456 ||
+Vv_III,5[=30].6        Tam addasā17 devamanussapūjito
+         disvā va18 taṃ vyākari bhūripañño:
+         ayaṃ kumāro nagarass'; imassa
+         aggakuliko bhavissati bhogato19 ca.  || 457 ||
+Vv_III,5[=30].7        Ki 'ssa vataṃ kiṃ pana brahmacariyaṃ
+         kissa suciṇṇassa ayaṃ vipāko
+         etādisaṃ vyasanaṃ pāpuṇitvā
+         taṃ tādisaṃ paccanubhossat'; iddhiṃ.  || 458 ||
+Vv_III,5[=30].8        Buddhapamukhassa20 bhikkhusaṅghassa21
+         pūjaṃ akāsi janatā uḷāraṃ
+         tatr'; assa22 cittass'; ahu23 aññathattaṃ
+         vācaṃ abhāsi pharusaṃ asabbhaṃ.24 || 459 ||
+Vv_III,5[=30].9        So taṃ vitakkaṃ pavinodayitvā25
+         pītiṃ26 pasādaṃ26 paṭiladdhā27 pacchā
+         tathāgataṃ Jetavane vasantaṃ
+         yāguyā upaṭṭhāsi28 sattarattaṃ.  || 460 ||
+Vv_III,5[=30].10       Tassa vataṃ taṃ pana brahmacariyaṃ
+         tassa suciṇṇassa ayaṃ vipāko
+         etādisaṃ vyasanaṃ pāpuṇitvā
+         taṃ tādisaṃ paccanubhossat'; iddhiṃ.  || 461 ||
+Vv_III,5[=30].11       Ṭhatvāna so vassasataṃ idh'; eva
+         sabbehi kāmehi samaṅgibhūto
+         kāyassa bhedā abhisamparāyaṃ
+         sahavyataṃ gacchati Vāsavassā ti.  || 462 ||
+                          Kumārapetavatthu pañcamaṃ
+
+--------------------------------------------------------------------------
+     1 (P), (B2) loke
+     2 The arrangement of verses differs in R, PvA(R)
+     3 R, T, (B2), PvA(R) -si
+     4 R, T ratti
+    5 B, N, (B1,2), PvA(B) sarī-
+     6 (P), (B2) na podhayeyyuṃ
+     7 B, N, C, (P), PvA(B, C) -puññaṃ kumāraṃ
+     8 R, T, PvA(R) pi imassa
+     9 R, T palahisu
+    10 R, T, B, N, PvA(B, R) siṅgālā
+    11 R, T, PvA(R) na imassa; (P) na h'; imassa
+    12 R, T osathaṃ
+    13 R, T, PvA(R) uggahesuṃ
+    14 (B2) parama-
+    15 T, (B2) navanīta-
+    16 R, T, PvA(C) viya vedha-; (P), PvA(R) viya pavedhā-
+    17 R, T, PvA(R) addasa
+    18 B, N, (P), PvA(B) ca
+    19 T, (K), (B2) bhogavā
+    20 R, T, PvA(R) -pp-
+    21 (P), (B1) omit bhikkhu
+    22 N tatth'; assa
+    23 R, T, PvA(R) cittassa ahu; (B1) cittaṃ ahu
+    24 R, T asabbhi; PvA(R) -bbhiṃ
+    25 R, T, PvA(R) paṭivino-; (P), (B1) vino-
+    26 R, T, PvA(R) pītipasādaṃ
+    27 P-laddhaṃ; to read-ladha (m.c.)?
+    28 R, T, PvA(R, C) add so
+
+[page 057]
+57                                  Cūḷavagga
+31 Seriṇīpetavatthu
+Vv_III,6[=31].1    Naggā dubbaṇṇarūpāsi kisā1 dhamanisanthatā
+     upphāsulike kisike2 kā nu tvaṃ idha tiṭṭhasī ti.  || 463 ||
+Vv_III,6[=31].2    Ahaṃ bhadante petī 'mhi duggatā Yamalokikā
+     pāpakammaṃ karitvāna petalokam ito gatā.  || 464 ||
+Vv_III,6[=31].3    Kin nu kāyena vācāya manasā dukkaṭaṃ kataṃ
+     kissa kammavipākena petalokam ito gatā ti.  || 465 ||
+Vv_III,6[=31].4    Anāvaṭesu3 titthesu viciniṃ4 addhamāsakaṃ5
+     santesu deyyadhammesu dīpaṃ nākāsim attano.  || 466 ||
+Vv_III,6[=31].5    Nadiṃ upemi tasitā rittakā parivattati
+     chāyaṃ upemi uṇhesu ātapo parivattati.  || 467 ||
+Vv_III,6[=31].6    Aggivaṇṇo ca me vāto dahanto6 upavāyati
+     etañ ca bhante arahāmi aññañ ca pāpakaṃ tato.  || 468 ||
+
+--------------------------------------------------------------------------
+
+[page 058]
+58                                  Petavatthu
+Vv_III,6[=31].7    Gantvāna Hatthinipuraṃ7 vajjesi mayha mātaraṃ
+     dhītā ca te mayā diṭṭhā duggatā Yamalokikā,
+     pāpakammaṃ karitvāna petalokaṃ ito gatā.  || 469 ||
+Vv_III,6[=31].8    Atthi ca8 me ettha nikkhittaṃ anakkhātañ ca
+       taṃ mayā
+     cattāri satasahassāni pallaṅkassa ca heṭṭhato.  || 470 ||
+Vv_III,6[=31].9    Tato me dānaṃ dadatu9 tassā ca hotu jīvikā
+     dānaṃ datvā10 ca10 me mātā dakkhiṇaṃ anvādissatu,11
+     tadāhaṃ sukhitā hessaṃ sabbakāmasamiddhinī ti.  || 471 ||
+Vv_III,6[=31].10   Sādhū ti so12 paṭissutvā13 gantvāna Hatthiniṃ14
+puraṃ14
+                            -- avoca15 tassā15 mātaraṃ:
+     dhītā ca te mayā diṭṭhā duggatā Yamalokikā
+     pāpakammaṃ paritvāna petalokaṃ ito gatā.  || 472 ||
+Vv_III,6[=31].11   Sā maṃ tattha samādapesi gantvāna16 Hatthiniṃ17
+puraṃ
+                            -- vajjesi mayha mātaraṃ:
+     dhītā ca te mayā diṭṭhā duggatā Yamalokikā
+     pāpakammaṃ karitvāna petalokaṃ ito gatā.  || 473 ||
+Vv_III,6[=31].12   Atthi ca18 me ettha19 nikkhittaṃ anakkhātañ ca
+taṃ mayā20
+     cattārī satasahassāni pallaṅkassa ca heṭṭhato.  || 474 ||
+Vv_III,6[=31].13   Tato me dānaṃ dadatu tassā ca hotu jīvikā
+     dānaṃ datvā ca me mātā dakkhiṇaṃ anvādissatu,21
+     tadāhaṃ sukhitā hessaṃ sabbakāmasamiddhinī ti.  || 475 ||
+Vv_III,6[=31].14   Tato hi sā dānam adā22 tassā23 ca23 dakkhiṇam
+ādisi
+     petī ca sukhitā āsi sarīraṃ24 cārudassanan24 ti.  || 476 ||
+                           Seriṇīpetavatthu chaṭṭhaṃ
+
+--------------------------------------------------------------------------
+     1 T kīsā
+     2 T kīsike
+     3 R, T anavajjesu
+     4 R, T, PvA(R) vicini
+     5 R, T, B, N, PvA(B) aḍḍha-
+     6 R, T, B, N, PvA(B) ḍahanto
+     7 R Hastinīpuraṃ; T Hatthinīpuraṃ; B, N, PvA(B) -niṃ puraṃ; 
+        (P) -nipūraṃ (!)
+     8 B, N, (P), PvA(B) omit
+     9 R, T dadātu; (P) uddissatu
+    10 PvA(C) datvāna
+    11 C anuddisatu, B, N, PvA(B) anudicchatu, PvA(C) ādissatu;
+        PvA(R) ādisatu; R, T add me
+    12 R, T add tassā
+    13 R, T paṭisuṇitvā; PvA(R) paṭisutvā
+    14 R Hastinīpuraṃ; T Hatthinīpuraṃ
+    15 R, T invert
+    16 C, B, N, PvA omit phrase
+    17 T Hatthinīpuraṃ
+    18 See nn.8-10
+    19 (P) tāya
+    20 (P) tava
+   21 B gives in fn. an additional line here in (K):
+        tato tuvaṃ dānaṃ dehi tassā dakkhinaṃ ādisī.
+    22 R, T, PvA(R, C) adāsi
+    23 R, T, PvA(C) datvā ca tassā; PvA(R) omits ca
+    24 B, N, (B1), PvA(B) tassā c'; āsi sujīvikā; PvA(R) -dassanī
+
+[page 059]
+59                                  Cūḷavagga
+32 Migaluddapetavatthu
+Vv_III,7[=32].1    Naranāripurakkhato1 yuvā rajanīyehi2 kāmaguṇehi2
+sobhasi
+     divasaṃ anubhosi kāraṇaṃ kim akāsi purimāya
+jātiyā ti.  || 477 ||
+Vv_III,7[=32].2    Ahaṃ Rājagahe ramme ramaṇīye Giribbaje
+     migaluddo pure āsiṃ lohitapāṇi3 dāruṇo.  || 478 ||
+Vv_III,7[=32].3    Avirodhakaresu pāṇisu4 puthusattesu5 paduṭṭhamānaso
+     vicariṃ6 atidāruṇo sadā7 parahiṃsāya rato asaññato.8 || 479 ||
+Vv_III,7[=32].4    Tassa me sahāyo suhadayo9 saddho āsi upāsako
+     so ca10 maṃ anukampanto nivāresi punappunaṃ:  || 480 ||
+Vv_III,7[=32].5    Mākāsi pāpakaṃ kammaṃ mā tāta11 duggatiṃ agā
+     sace icchasi pecca sukhaṃ virama12 pāṇavadhā13
+asaṃyamā.13 || 481 ||
+Vv_III,7[=32].6        Tassāhaṃ vacanaṃ sutvā
+         sukhakāmassa hitānukampino
+         nākāsiṃ sakalānusāsaniṃ
+         cirapāpābhirato14 abuddhimā.  || 482 ||
+Vv_III,7[=32].7        So maṃ puna bhūrisumedhaso
+         anukampāya saṃyame nivesayi:
+         sace divā hanasi pāṇino
+         atha te rattiṃ bhavatu15 saññamo.16 || 483 ||
+
+--------------------------------------------------------------------------
+
+[page 060]
+60                                  Petavatthu
+Vv_III,7[=32].8        Svāhaṃ divā hanitva17 pānino
+         virato18 rattim ahosi19 saññato20
+     rattāhaṃ paricāremi21 divā khajjāmi duggato.  || 484 ||
+Vv_III,7[=32].9    Tassa kammassa kusalassa anubhomi rattiṃ amānusiṃ
+     divā paṭihatā va22 kukkurā upadhāvanti samantā
+khādituṃ.  || 485 ||
+Vv_III,7[=32].10       Ye ca te satatānuyogino23
+         dhuvaṃ payuttā sugatassa sāsane
+         maññāmi te amatam eva kevalaṃ
+         adhigacchanti padaṃ asaṅkhatan ti.  || 486 ||
+                         Migaluddapetavatthu sattamaṃ
+&amp;1
+33 Dutiyamigaluddapetavatthu
+Vv_III,8[=33].1    Kūṭāgāre ca pāsāde pallaṅke goṇakatthate1
+     pañcaṅgikena turiyena ramasi suppavādite.  || 487 ||
+Vv_III,8[=33].2    Tato ratyā vyavasāne2 suriyuggamanaṃ3 pati
+     apaviddho4 susānasmiṃ bahudukkhaṃ nigacchasi.  || 488 ||
+
+--------------------------------------------------------------------------
+&amp;1
+     1 R, T -nārī
+     2 R, T, PvA(R) -nīye -guṇehi; B, N, (K) -nīyehi kāmehi
+     3 R, T -pāṇī
+     4 R, T pāṇīsu
+     5 R -santesu
+     6 R, T, PvA(R) vicari
+     7 C, PvA(C) tadā
+     8 R asaṃyato
+     9 C suhado
+    10 T hi; B, N, (B2), PvA(B) pi
+    11 (B1) tāva
+    12 (P) viramā
+    13 R, T, (B1), PvA(R) -aṃ -aṃ
+    14 (P) ciraṃ pāpā-
+    15 (B1) hotu
+    16 R, T, B, N, PvA(B, R) saṃyamo
+    17 R, T, PvA(R) -tvāna, B, N, (P), PvA(B) -tvā
+    18 (B2) viratā
+    19 C, PvA(C) ahosiṃ
+    20 R, T saṃyato
+    21 R, T -hāremi; see vv.7d, 8b
+    22 (K) ca
+    23 R, T sattānu-
+
+[page 061]
+61                                  Cūḷavagga
+Vv_III,8[=33].3    Kin nu kāyena vācāya manasā dukkaṭaṃ kataṃ
+     kissa kammavipākena idaṃ dukkhaṃ nigacchasī ti.  || 489 ||
+Vv_III,8[=33].4    Ahaṃ Rājagahe ramme ramaṇīye Giribbaje
+     migaluddo pure āsiṃ luddo5 c'; āsiṃ6 asaññato.7 || 490 ||
+Vv_III,8[=33].5    Tassa me sahāyo suhadayo8 saddho āsi upāsako
+     tassa kulūpago9 bhikkhu āsi Gotamasāvako,
+     so pi10 maṃ anukampanto nivāresi punappunaṃ:  || 491 ||
+Vv_III,8[=33].6    Mākāsi pāpakaṃ kammaṃ mā tāta duggatiṃ agā
+     sace icchasi pecca sukhaṃ virama pāṇavadhā11
+asaṃyamā.11 || 492 ||
+Vv_III,8[=33].7        Tassāhaṃ vacanaṃ sutvā
+            sukhakāmassa hitānukampino
+         nākāsiṃ sakalānusāsaniṃ
+            cirapāpābhirato abuddhimā.  || 493 ||
+Vv_III,8[=33].8        So maṃ puna bhūrisumedhaso
+            anukampāya saṃyame nivesayi
+         sace divā hanasi pāṇino
+           atha te rattiṃ bhavatu saṃyamo.12 || 494 ||
+Vv_III,8[=33].9        Svāhaṃ divā hanitva13 pāṇino
+            virato rattim ahosi14 saññato15
+     rattāhaṃ paricāremi16 divā khajjāmi duggato.  || 495 ||
+Vv_III,8[=33].10   Tassa kammassa kusalassa anubhomi rattiṃ amānusiṃ
+     divā paṭihatā va kukkurā upadhāvanti samantā
+khādituṃ.  || 496 ||
+Vv_III,8[=33].11       Ye ca te satatānuyogino17
+            dhuvaṃ18 payuttā18 sugatassa sāsane
+         maññāmi te amatam eva kevalaṃ
+            adhigacchanti padaṃ asaṅkhatan ti.  || 497 ||
+                     Dutiyamigaluddakapetavatthu aṭṭhamaṃ
+
+--------------------------------------------------------------------------
+     1 R, T, (K), PvA(R) -saṇṭhite; B, N, PvA(B) gona-
+     2 B, N, PvA(B, R) vivasāne; R vivāsanena; vyavasane not attested.
+     3 R, C, PvA(C) suriyass'; ug-; B, PvA(B) sūriyug-
+     4 R -viṭṭhe; T, PvA(R) -viṭṭho
+     5 C, PvA(C) ḷuddo
+     6 R, PvA(R) āsiṃ
+     7 R asaṃyato
+     8 C suhado
+     9 R, T, B, N, PvA(B, R) kulūpako
+    10 T hi
+    11 T -aṃ -aṃ
+    12 PvA(C) saṃyato
+    13 B, N, T, PvA(B) -tvā
+    14 C, PvA(C) ahosiṃ
+    15 T, C saṃyato; PvA(C) saṃyamo
+    16 T -hāremi
+    17 T sattānu-
+    18 C, PvA(C) dhuvayuttā
+
+[page 062]
+62                                  Petavatthu
+34 Kūṭavinicchayikapetavatthu
+Vv_III,9[=34].1    Mālī kirīṭī1 kāyūrī2 gattā te candanussadā
+     pasannamukhavaṇṇo 'si suriyavaṇṇo3 va sobhasi.  || 498 ||
+Vv_III,9[=34].2    Amānusā pārisajjā4 ye te 'me paricārakā5
+     dasa kaññāsahassāni yā te 'mā paricārikā,
+     tā6 kambukāyūradharā7 kañcanāveḷabhūsitā.8 || 499 ||
+Vv_III,9[=34].3    Mahānubhāvo 'si tuvaṃ lomahaṃsanarūpavā,
+     piṭṭhimaṃsāni attano sāmaṃ ukkacca9 khādasi.  || 500 ||
+Vv_III,9[=34].4    Kin nu kāyena vācāya manasā dukkaṭaṃ kataṃ
+kissa kammavipākena
+     piṭṭhimaṃsāni attano sāmaṃ ukkacca9 khādasi.  || 501 ||
+Vv_III,9[=34].5    Attano 'haṃ anatthāya jīvaloke acārisaṃ10
+     pesuññamusāvādena nikativañcanāya ca.  || 502 ||
+Vv_III,9[=34].6    Tatthāhaṃ parisaṃ gantvā saccakāle upaṭṭhite
+     atthaṃ dhammaṃ niraṃkatvā11 adhammaṃ anuvattisaṃ.12 || 503 ||
+Vv_III,9[=34].7    Evaṃ so khādat'; attānaṃ13 yo hoti piṭṭhimaṃsiko14
+     yathāhaṃ ajja khādāmi piṭṭhimaṃsāni attano.  || 504 ||
+Vv_III,9[=34].8        Ta-y-idaṃ tayā Nārada sāmaṃ15 diṭṭhaṃ
+         anukampakā ye kusalā vadeyyuṃ
+         mā pesuṇaṃ mā ca musā abhāṇi16
+         mā kho 'si piṭṭhimaṃsiko tuvan ti.17 || 505 ||
+                     Kūṭavinicchayika18-petavatthu navamaṃ
+
+--------------------------------------------------------------------------
+     1 B, N, PvA(B) kiriṭī; (B2) mālāhāriti
+     2 C, PvA(C) keyūrī
+     3 R -vaṇṇī; araṇasadisavaṇṇavā ti vā pāḷi - PvA
+     4 T pari-
+     5 R, T parivārikā
+     6 (K), PvA(C) kā-
+     7 C, PvA(C) -keyūra-; (P) kākambu-
+     8 R, T, PvA(C) kañcanacela-; C -nāvela-
+     9 R, PvA(R) ukkantvā; C, PvA(C) ukkaḍḍha
+    10 R acarisaṃ; T acarissaṃ
+    11 R tiraṃkatvā (misprint for nir-? ); B, N, PvA(B, C) nirākatvā
+    12 T -vattissaṃ; R -vattiyaṃ
+    13 (P), (B2) khādati attānaṃ
+    14 R, PvA(R) -maṃsako
+    15 sāma (m.c.) not attested
+    16 R, T bhaṇi
+    17 The pādas cd are inverted in R
+    18 R, T -vinicchayaka-
+
+[page 063]
+63                                  Cūḷavagga
+35 Dhātuvivaṇṇakapetavatthu
+Vv_III,10[=35].1    Antalikkhasmiṃ1 tiṭṭhanto duggandho pūti vāyasi2
+         mukhañ ca te kimayo3 pūtigandhaṃ
+         khādanti, kiṃ kammam akāsi pubbe.  || 506 ||
+Vv_III,10[=35].2    Tato4 satthaṃ4 gahetvāna okkantanti5 punappunaṃ
+     khārena paripphositvā okkantanti6 punappunaṃ.  || 507 ||
+Vv_III,10[=35].3    Kin nu kāyena vācāya manasā dukkaṭaṃ kataṃ
+     kissa kammavipākena idaṃ dukkhaṃ nigacchasi.  || 508 ||
+Vv_III,10[=35].4    Ahaṃ Rājagahe ramme ramaṇīye Giribbaje
+     issaro dhanadhaññassa supahūtassa mārisa.  || 509 ||
+Vv_III,10[=35].5    Tassāyaṃ me bhariyā ca7 dhītā ca suṇisā ca me
+     tā8 mālam8 uppalañ cāpi paccagghañ ca vilepanaṃ
+     thūpaṃ harantiyo vāresiṃ taṃ pāpaṃ pakataṃ mayā.  || 510 ||
+Vv_III,10[=35].6    Chaḷāsītisahassāni mayaṃ paccattavedanā
+     thūpapūjaṃ vivaṇṇetvā paccāma9 niraye bhusaṃ.  || 511 ||
+Vv_III,10[=35].7    Ye ca kho thūpapūjāya vattante arahato mahe
+     ādīnavaṃ pakāsenti, vivecayetha10 ne11 tato.  || 512 ||
+Vv_III,10[=35].8    Imā ca passa āyantiyo māladhārī12 alaṅkatā
+     mālāvipākaṃ anubhontiyo13 samiddhā tā yasassiniyo.  || 513 ||
+Vv_III,10[=35].9    Tañ ca disvāna accheraṃ abbhutaṃ lomahaṃsanaṃ
+     namo karonti sappañña vandanti taṃ mahāmuniṃ.  || 514 ||
+
+--------------------------------------------------------------------------
+
+[page 064]
+64                                  Petavatthu
+Vv_III,10[=35].10   So hi14 nūna14 ito gantvā yoniṃ laddhāna mānusiṃ
+     thūpapūjaṃ karissāmi appamatto punappunan ti.  || 515 ||
+                       Dhātuvivaṇṇakapetavatthu dasamaṃ
+     Tass'; uddānaṃ:15
+     Abhijjamāno Kuṇḍiyo16 rathakārī bhusena ca
+     kumāro gaṇikā17 c'; eva dve luddā18 piṭṭh'; apūjayo;19
+        vaggo tena pavaccatī20 ti.
+                               CŪḶAVAGGO TATIYO.
+
+--------------------------------------------------------------------------
+     1 C, PvA(C) -ḷi-
+     2 (B2) vāyati
+     3 R, T, PvA(R) kimiyo
+     4 (B2) tath'; osattaṃ
+     5 PvA(R) okanta-; R urena kantanti
+     6 R, PvA(R) okanta-
+     7 R omits
+     8 R, T, PvA(R) tamālaṃ
+     9 PvA(R) paccāmi; R, T pacāma; (P) pacchāpi
+    10 C, PvA(C) -yatha
+    11 R, T no
+    12 C, PvA(C) mālā-; P mālābhārī
+    13 C, PvA(C) anubhonti; PvA(R) 'nubhonti
+    14 T, B, N, (B1), PvA(R, B) 'haṃ nūna
+    15 R omits
+    16 T, C, (P) Koṇḍañño
+    17 T bhaṇikā; (P) gaṇako
+    18 C ḷuddā
+    19 T piṭṭhipūjayo; B, N piṭṭhipūjanā
+    20 T vuccati
+
+[page 065]
+                                     65
+                                 IV MAHĀVAGGA
+36 Ambasakkharapetavatthu
+Vv_IV,1[=36].1        Vesāli1 nāma nagar'; atthi Vajjinaṃ2
+         tattha ahu Licchavi Ambasakkharo3
+         disvāna petaṃ nagarassa bāhiraṃ
+         tatth'; eva pucchittha taṃ kāraṇatthiko.  || 516 ||
+Vv_IV,1[=36].2        Seyyā4 nisajjā na-y-imassa atthi
+         abhikkamo natthi paṭikkamo vā5
+         asitapītakhāyitavatthabhogā6
+         paricāraṇā7 sā pi imassa8 natthi.  || 517 ||
+Vv_IV,1[=36].3        Ye ñātakā diṭṭhasutā suhajjā
+         anukampakā yassa ahesuṃ pubbe
+         daṭṭhum pi te9 dāni na taṃ10 labhanti10
+         virādhitatto11 hi janena tena.  || 518 ||
+Vv_IV,1[=36].4        Na oggatattassa12 bhavanti mittā
+         jahanti mittā vikalaṃ viditvā
+         atthañ ca disvā parivārayanti13
+         bahū ca14 mittā uggatattassa15 honti.  || 519 ||
+Vv_IV,1[=36].5        Nihīnatto16 sabbabhogehi kiccho17
+         sammakkhito18 samparibhinnagatto
+         ussāvabindū va19 palimpamāno
+         ajja suve jīvitassūparodho.21 || 520 ||
+Vv_IV,1[=36].6        Etādisaṃ uttamakicchapattaṃ22
+         uttāsitaṃ pucimandassa23 sūle
+         atha tvaṃ kena vaṇṇena vadesi yakkha
+         jīva bho jīvitam eva seyyo ti.  || 521 ||
+
+--------------------------------------------------------------------------
+     1 C, B, N, PvA(B) Vesālī
+     2 R, T, B, N, PvA(B) Vajjīnaṃ
+     3 B, N, PvA(B) -sakkaro
+     4 R seyyo
+     5 B, N, PvA(B) ca
+     6 R, T -pītaṃ khā-; (P) -vattubhogo
+     7 R, T, (K), PvA(C) -cārikā - PvA: indriyānaṃ paricāraṇā
+     8 C, PvA(R) tam assa
+     9 R, T, PvA(R) omit
+    10 R te labh-; T, PvA(R) labhanti tam pi
+    11 R, T, B, N, (B1), PvA(B) virājita-
+    12 R, T duggatassa; (B2), (S) okkantattassa
+    13 (B2) paricāra-
+    14 B, N, (B2), PvA(R, B) omit
+    15 R, T uggatassa; (B2) uggatatthassa te
+    16 R, T, PvA(R) -nattho
+    17 R omits; (B2), PvA(R) kicco
+    18 R samak-
+    19 R -vindu va; T -bindu va
+    20 C -lippa-
+    21 R jīvitassa 'parodho
+    22 B, N, PvA(P) -ppattaṃ
+    23 R, T, PvA(R) picumanda-
+
+[page 066]
+66                                  Petavatthu
+Vv_IV,1[=36].7        Sālohito esa24 ahosi mayhaṃ
+         ahaṃ sarāmi purimāya jātiyā
+         disvā ca25 me kāruññam ahosi rāja26
+         mā pāpadhammo nirayaṃ patāyaṃ.  || 522 ||
+Vv_IV,1[=36].8       Ito cuto Licchavi esa24 poso
+         sattussadaṃ nirayaṃ27 ghorarūpaṃ
+         uppajjati dukkaṭakammakārī28
+         mahābhitāpaṃ kaṭukaṃ bhayānakaṃ.  || 523 ||
+Vv_IV,1[=36].9        Anekabhāgena guṇena seyyo
+         ayam eva sūlo nirayena tena
+         mā29 ekantadukkhaṃ kaṭukaṃ bhayānakaṃ
+         ekantatippaṃ30 nirayaṃ patāyaṃ.31 || 524 ||
+Vv_IV,1[=36].10       Idañ ca sutvā vacanaṃ mam'; eso
+         dukkhūpanīto vijaheyya pāṇaṃ
+         tasmā ahaṃ santike na bhaṇāmi
+         mā m'; ekato32 jīvitassūparodho33 ti.  || 525 ||
+Vv_IV,1[=36].11       Aññāto34 eso34 purisassa attho
+         aññam35 pi icchāmase pucchituṃ tuvaṃ
+         okāsakammaṃ36 sace no karosi36
+         pucchāmi37 taṃ38 na39 ca no39 kujjhitabbaṃ.  || 526 ||
+Vv_IV,1[=36].12       Addhā paṭiñña40 me tadā ahu40
+         nācikkhanā41 appasannassa hoti
+         akāmā saddheyyavaco ti katvā
+         pucchassu maṃ kāmaṃ yathā visayhan42 ti.  || 527 ||
+Vv_IV,1[=36].13       Yaṃ kiñcāhaṃ cakkhunā passissāmi43
+         sabbam pi tāhaṃ abhisaddaheyyaṃ
+         disvāna44 taṃ no pi ce saddaheyyaṃ45
+         kareyyāsi me yakkha niyassakamman46 ti.  || 528 ||
+Vv_IV,1[=36].14       Saccappaṭiññā47 tava m'; esā hotu
+         sutvāna dhammaṃ labhassu48 pasādaṃ48
+         aññatthiko no ca paduṭṭhacitto
+         yan te sutaṃ asutaṃ cāpi49 dhammaṃ
+         sabbaṃ akkhissaṃ50 yathā pajānaṃ:  || 529 ||
+Vv_IV,1[=36].15       Setena assena alaṅkatena
+         upayāsi sūlāvutakassa santike
+         yānam idaṃ abbhutaṃ dassaneyyaṃ
+         kiss'; etaṃ kammassa ayaṃ vipāko.  || 530 ||
+
+--------------------------------------------------------------------------
+    24 R, T, PvA(R, C) eso
+    25 R omits
+    26 (P) omits
+    27 T nīra-
+    28 C, PvA(C) dukkata-
+    29 B, N, C, PvA(B) omit; PvA(C) m'; see n.31
+    30 B, N, (P), PvA(B) tibbaṃ
+    31 PvA(B) justifies omission by explaining pat'āyaṃ as 
+        pate+ayaṃ in fn.
+    32 R me ekato
+    33 R, T, (P), PvA(R) -tass'; uparodho
+    34 (B1), (K) ajjhito esa, (P) añcito
+    35 R aññā
+    36 R, T, okāsakaṃ mama no sace karosi
+   37 B, N, (P), PvA(R, B) pucchāma
+    38 R, T 'haṃ
+    39 B, N, PvA(B) no na ca
+    40 R, PvA(R) patiñña me . . .; B, N, (P), (B1), PvA(B)
+        patiññātam etaṃ tadāhu
+    41 R, T acikkhanā, (P) ācikkhanā
+    42 (K) visayaṃ
+    43 (P), (K) passāmi
+    44 R, T, PvA(R) disvā pi; B, N, (P), PvA(B) disvāva
+    45 R, T, PvA(R) -eyya
+    46 R, T, tiyassa ka-
+    47 R saccapa-
+    48 B, N, PvA(B) labha supasā-; C, PvA(C) -ssuppasādaṃ
+    49 R, T vā pi
+    50 C, PvA(C) ācikkhissaṃ; B, N, (P), PvA(B) pi akkh-
+
+[page 067]
+67                                  Mahāvagga
+Vv_IV,1[=36].16       Vesāliyā tassa51 nagarassa majjhe
+         cikkhallamagge52 narakaṃ53 ahosi
+         gosīsaṃ54 ekāhaṃ pasannacitto
+         setaṃ55 gahetvāna narakasmiṃ nikkhipiṃ.56 || 531 ||
+Vv_IV,1[=36].17       Etasmiṃ pādāni patiṭṭhapetvā
+         mayañ ca aññe57 ca atikkamimha58
+         yānam idaṃ abbhutaṃ dassaneyyaṃ
+         tass'; eva kammassa ayaṃ vipāko ti.  || 532 ||
+Vv_IV,1[=36].18       Vaṇṇo ca te sabbadisā pabhāsati
+         gandho ca te sabbadisā pavāyati
+         yakkhiddhipatto 'si mahānubhāvo
+         naggo cāsi59 kissa ayaṃ vipāko.  || 533 ||
+Vv_IV,1[=36].19       Akkodhano niccapasannacitto60
+         saṇhāhi vācāhi janaṃ lapemi61
+         tass'; eva kammassa ayaṃ vipāko
+         dibbo ca me vaṇṇo satataṃ pabhāsati.  || 534 ||
+Vv_IV,1[=36].20       Yasañ ca kittiñ ca dhamme ṭhitānaṃ
+         disvāna mantemi pasannacitto
+         tass'; eva kammassa ayaṃ vipāko
+         dibbo me gandho satataṃ pavāyati.  || 535 ||
+Vv_IV,1[=36].21       Sahāyānaṃ titthasmiṃ62 nahāyantānaṃ63
+         thale gahetvā nidahissa dussaṃ
+         khiḍḍatthiko64 no ca paduṭṭhacitto
+         ten'; amhi naggo kasirā ca65 vutti.65 || 536 ||
+Vv_IV,1[=36].22       Yo kīḷamāno pakaroti66 pāpaṃ
+         tass'; īdisaṃ67 kammavipākam āhu
+         akīḷamāno pana yo karoti
+         kiṃ tassa kammassa vipākam āhu.  || 537 ||
+Vv_IV,1[=36].23       Ye duṭṭhasaṅkappamanā manussā
+         kāyena vācāya ca saṅkiliṭṭhā
+         kāyassa bhedā abhisamparāyaṃ
+         asaṃsayaṃ te nirayaṃ upenti.  || 538 ||
+Vv_IV,1[=36].24       Apare pana sugatiṃ āsamānā68
+         dāne ratā saṅgahitattabhāvā69
+         kāyassa bhedā abhisamparāyaṃ
+         asaṃsayaṃ te sugatiṃ upenti.  || 539 ||
+Vv_IV,1[=36].25       Taṃ kin ti jāneyyam ahaṃ avecca
+         kalyāṇapāpassa ayaṃ vipāko
+         kiṃ vāhaṃ disvā abhisaddaheyyaṃ
+         ko vā pi maṃ saddahāpeyya etaṃ.  || 540 ||
+
+--------------------------------------------------------------------------
+    51 B, N, PvA(B) omit
+    52 T cikkhalamagge; R -pabbe
+    53 T nagaraṃ
+    54 PvA(R,215) ‘ox's skull', but prob. gosīsa-candana
+    55 R, T, (K), PvA(R) setuṃ; see n.54
+    56 R, T,-khipi
+    57 R añño
+    58 R -meyya; PvA(R) -mamha; B, N, PvA(B) -mimhā
+    59 R, PvA(R) c'; asi
+    60 (P) niccaṃ pa-
+    61 B, N, PvA(R, B) upemi; R, T upesi; B1 upesiṃ
+    62 T tiṭṭha-
+    63 B, N, (B1,2), PvA(R, B) nhā-; R nahāyatānaṃ (w. r. but
+        suits metre)
+    64 R, T kiñcatthiko
+    65 R, T kasirāpayutti
+    66 R, T ca karoti
+    67 B, N, (B1), PvA(C) -edisaṃ
+    68 T, (B2) āsisamānā, āsasānā not attested
+    69 R -gahīta-
+
+[page 068]
+68                                  Petavatthu
+Vv_IV,1[=36].26       Disvā ca sutvā abhisaddahassu
+         kalyāṇapāpassa ayaṃ vipāko
+         kalyāṇapāpe ubhaye asante
+         siyā nu sattā sugatā duggatā vā.  || 541 ||
+Vv_IV,1[=36].27       No c'; ettha kammāni kareyyuṃ70 maccā
+         kalyāṇapāpāni manussaloke
+         tasmā hi sattā sugatā duggatā vā
+         hīnā71 paṇītā71 ca manussaloke.  || 542 ||
+Vv_IV,1[=36].28       Yasmā ca kammāni karonti maccā
+         kalyāṇapāpāni manussaloke
+         tasmā hi72 sattā sugatā duggatā vā
+         hīnā71 paṇītā71 ca manussaloke.  || 543 ||
+Vv_IV,1[=36].29       Dvay'; ajja73 kammānaṃ vipākam āhu
+         sukhassa dukkhassa ca vedanīyaṃ
+         tā74 devatāyo74 paricārayanti75
+         paccanti76 bālā dvyataṃ apassino.  || 544 ||
+Vv_IV,1[=36].30       Na m'; atthi kammāni sayaṃ katāni
+         datvā pi me natthi so77 ādiseyya78
+         acchādanaṃ sayanam ath'; annapānaṃ
+         ten'; amhi naggo kasirā ca65 vutti.65 || 545 ||
+Vv_IV,1[=36].31       Siyā nu kho kāraṇaṃ kiñci yakkha
+         acchādanaṃ yena tuvaṃ labhetha
+         ācikkha me taṃ79 yad atthi hetu
+         saddhāyitaṃ80 hetuvaco suṇoma.81 || 546 ||
+Vv_IV,1[=36].32       Kappitako82 nāma idh'; atthi bhikkhu
+         jhāyī susīlo arahā83 vimutto
+         guttindriyo saṃvutapātimokkho
+         sītibhūto uttamadiṭṭhipatto.  || 547 ||
+Vv_IV,1[=36].33       Sakhilo vadaññū suvaco sumukho84
+         svāgamo suppaṭimuttako ca85
+         puññassa khettaṃ araṇavihārī
+         devamanussānañ ca dakkhiṇeyyo.  || 548 ||
+Vv_IV,1[=36].34       Santo vidhūmo anīgho nirāso
+         mutto visallo amamo avaṅko
+         nirūpadhī86 sabbapapañcakhīṇo
+         tisso vijjā anuppatto jutīmā.87 || 549 ||
+Vv_IV,1[=36].35       Appaññāto88 disvā pi na89 sujāno
+         munī ti90 naṃ Vajjisu91 voharanti
+         jānanti taṃ yakkhabhūtā92 anejaṃ
+         kalyāṇadhammaṃ vicarantaṃ93 loke.  || 550 ||
+
+--------------------------------------------------------------------------
+    70 R, T kareyya
+    71 C, PvA(C) hīnappaṇītā
+    72 R, T, PvA(R) omit
+    73 T, (B2) dvayañ ca
+    74 R, T tā 'va devatā
+    75 R, T, PvA(R) -vāra-
+    76 PvA(C) paccenti
+    77 B, N, PvA(B) yo
+    78 (P) ādiseyo
+    79 R, T, B, N, PvA(R, B) tvaṃ
+    80 B, N, PvA(B) -yikaṃ
+    81 R suṇo ti; T suṇoti; (P) suṇomi
+    82 C, PvA(C) -nako
+    83 (B1) ahosi
+    84 read sumūkho (m.c.)?
+    85 R, T cāpi
+    86 R, PvA(R) nirupadhi; T nirūpadhi
+    87 R, T, B, N, PvA(R, B) jutimā
+    88 R, T apaññāto
+    89 B, N, (B2), PvA(B) add ca
+    90 R omits
+   91 R, T, PvA(R) Vajjīsu
+    92 R, T -bhūtaṃ
+    93 R vicaranti
+
+[page 069]
+69                                  Mahāvagga
+Vv_IV,1[=36].36       Tassa tuvaṃ ekaṃ94 yugaṃ94 duve vā
+         mam'; uddisitvāna sace dadetha
+         paṭiggahītāni95 ca tāni assu96
+         mamañ ca passetha sannaddhadussaṃ.  || 551 ||
+Vv_IV,1[=36].37       Kasmiṃ padese samaṇaṃ vasantaṃ
+         gantvāna passemu mayaṃ idāni
+         sa-m-ajja97 kaṅkhaṃ vicikicchitañ ca
+         diṭṭhivisūkāni vinodaye98 me.98 || 552 ||
+Vv_IV,1[=36].38       Eso nisinno Kapinaccanāyaṃ99
+         parivārito devatāhi bahūhi
+         dhammiṃ100 kathaṃ bhāsati saccanāmo
+         sakasmim ācerake101 appamatto.  || 553 ||
+Vv_IV,1[=36].39       Tathāhaṃ102 kassāmi gantvā idāni
+         acchādayissaṃ samaṇaṃ yugena
+         paṭiggahītāni ca tāni assu103
+         tuvañ ca passemu sannaddhadussaṃ.  || 554 ||
+Vv_IV,1[=36].40       Mā akkhaṇe pabbajitaṃ upāgami
+         sādhu vo Licchavi n'; esa dhammo
+         tato ca kāle upasaṅkamitvā
+         tatth'; eva passāhi104 raho nisinnaṃ.  || 555 ||
+Vv_IV,1[=36].41       Tathā ti105 vatvā agamāsi tattha
+         parivārito dāsagaṇena Licchavi
+         so taṃ nagaraṃ upasaṅkamitvā
+         vāsūpagacchittha106 sake nivesane.  || 556 ||
+Vv_IV,1[=36].42       Tato ca kāle gihikiccāni katvā
+         nahātvā107 pivitvā ca khaṇaṃ labhitvā
+         viceyya peḷāto108 ca yugāni aṭṭha
+         gāhāpayī109 dāsagaṇena Licchavi.  || 557 ||
+Vv_IV,1[=36].43       So taṃ padesaṃ upasaṅkamitvā
+         tam addasā110 samaṇaṃ santacittaṃ
+         paṭikkantaṃ111 gocarato nivattaṃ
+         sītibhūtaṃ rukkhamūle nisinnaṃ.  || 558 ||
+Vv_IV,1[=36].44       Tam enaṃ avoca upasaṅkamitvā
+         appābādhaṃ phāsuvihārañ ca pucchi
+         Vesāliyaṃ Licchavi 'haṃ112 bhadante113
+         jānanti maṃ Licchavi Ambasakkharo.  || 559 ||
+Vv_IV,1[=36].45       Imāni me aṭṭha yugā114 subhāni114
+         paṭigaṇha115 bhante padadāmi116 tuyhaṃ
+         ten'; eva atthena idhāgato 'smi117
+         yathā ahaṃ attamano bhaveyyaṃ.  || 560 ||
+
+--------------------------------------------------------------------------
+    94 B, N, C, PvA(B, C) ekayugaṃ
+   95 R pati-; (P) pari-
+    96 R passa
+    97 B, N, (B1), PvA(R) yo m'; ajja; (B2) yo p'; ajja
+    98 R, T ko vinodaye ce; C, PvA(C) ca ko vinodaye;
+        B, N, PvA(B) vinodayeyya; (P), (B1,2) vinodayeyya me
+    99 (B2) kasiṇajhānāyaṃ
+   100 R, (P), PvA(R) dhamma-; T dhammi-
+   101 R, T accherake; (B2), PvA(R) averake
+   102 (B1) yathāhaṃ; (B2) yassāhaṃ
+   103 R, T passa; PvA(R) c'; assu; (B2) cassaṃ
+   104 R, T passāmi
+   105 R, T hi
+   106 R, T upagañchittha
+   107 B, N, PvA(B) nhatvā; (P) nhatvā ca; PvA(R) nhātvā
+   108 R, T, PvA(R) peḷato
+   109 R, T, PvA(R) gāhāpayi
+   110 R, T, B, N, PvA(R, B) addasa
+   111 C paṭikkamantaṃ
+   112 R ahaṃ
+   113 R, PvA(R) bhaddan te
+   114 R, PvA(R) yugāni subhāni; T, (K), (P) yugāni bhante
+   115 C, PvA(C) pati-; R, T, PvA(R) -gg-
+   116 T, (B2), PvA(R) dadāmi
+   117 T 'smim
+
+[page 070]
+70                                  Petavatthu
+Vv_IV,1[=36].46       Dūrato va samaṇā118 brāhmaṇā ca118
+         nivesanaṃ te parivajjayanti
+         pattāni bhijjanti ca119 te119 nivesane
+         saṅghāṭiyo cāpi120 vidālayanti.121 || 561 ||
+Vv_IV,1[=36].47       Athāpare122 pādakuṭhārikāhi123
+         avaṃsirā samaṇā pātayanti124
+         etādisaṃ pabbajitā125-vihesaṃ
+         tayā kataṃ samaṇā pāpuṇanti  || 562 ||
+Vv_IV,1[=36].48       Tiṇena telam126 pi na tvaṃ adāsi
+         mūḷhassa maggam pi na pāvadāsi
+         andhassa daṇḍaṃ sayam ādiyāsi
+         etādiso kadariyo asaṃvuto,127
+         atha128 tvaṃ kena vaṇṇena kim eva disvā
+         amhehi saha saṃvibhāgaṃ karosi.  || 563 ||
+Vv_IV,1[=36].49       Paccemi bhante yaṃ tvaṃ vadesi
+         vihesayiṃ129 samaṇabrāhmaṇe130 ca130
+         khiḍḍatthiko no ca paduṭṭhacitto
+         etam pi me dukkaṭam eva bhante.  || 564 ||
+Vv_IV,1[=36].50       Khiḍḍāya yakkho131 pasavitva132 pāpaṃ
+         vedeti dukkhaṃ asamattabhogī133
+         daharo yuvā nagganiyassa134 bhāgī
+         kiṃ su tato dukkhatar'; assa hoti.  || 565 ||
+Vv_IV,1[=36].51       Taṃ disvā saṃvegam135 alatthaṃ135 bhante
+         tappaccayā tāhaṃ136 dadāmi dānaṃ
+         paṭigaṇha bhante vatthayugāni aṭṭha
+         yakkhass'; imā137 gacchantu137 dakkhiṇāyo.  || 566 ||
+Vv_IV,1[=36].52       Addhā138 hi138 dānaṃ bahudhā pasatthaṃ139
+         dadato ca te akkhayadhammam atthu
+         paṭigaṇhāmi140 te vatthayugāni aṭṭha
+         yakkhass'; imā137 gacchantu137 dakkhiṇāyo.  || 567 ||
+Vv_IV,1[=36].53       Tato hi141 so ācamayitva142 Licchavi
+         therassa datvāna yugāni aṭṭha
+         paṭiggahītāni143 ca144 tāni c'; assu144
+         yakkhañ ca passetha sannaddhadussaṃ.  || 568 ||
+Vv_IV,1[=36].54       Tam addasā145 candanasāralittaṃ
+         ājaññam ārūḷham146 uḷāravaṇṇaṃ
+         alaṅkataṃ sādhunivatthadussaṃ
+         parivāritaṃ yakkhamahiddhipattaṃ.  || 569 ||
+
+--------------------------------------------------------------------------
+   118 R, T, B, N, PvA(B) samaṇa-; R omits ca
+   119 R, T, (K), PvA(R) tava
+   120 R pāpi
+   121 C vipāṭayanti; (K), PvA(R) vipāta-; PvA(C) vināsayanti; 
+        pass. not attested
+   122 R athā pure
+   123 R, T, PvA(R) -kudārikāhi
+   124 R, T pātiyanti; (P) phāliyanti
+   125 R, T -jitaṃ; (P) -jita-
+   126 R tesaṃ
+   127 B, N, (P), (B1), PvA(B) add tuvaṃ
+   128 The arrangement of verses follows B here.
+   129 R, T, (B1), PvA(R) vimosayi; PvA(R) vihesayi
+   130 R samaṇabrāhmaṇe 'tha; T samaṇabrāhmaṇe ca
+   131 R, T, PvA(R) kho
+   132 R -vitu; T -vitvāna; (S1) -vittha; B, N, PvA(R, B) -vitvā
+   133 R asamattha-; T appamatta-
+   134 R, T nagganīyassa
+   135 R, T saṃvegamalamatthaṃ
+   136 R, PvA(R) cāhaṃ
+   137 R, PvA(R) im'; āgacchanti
+   138 R adāhi
+   139 R, T, PvA(R) -ṭṭh-
+   140 R, T, PvA(R) paṭigga-
+   141 C, PvA(C) ca
+   142 R, T, B, N, PvA(R, B) -tvā
+   143 B, N, PvA(B) -hitāni
+   144 R pattāni vāsu; T vā'ssu; B, N, PvA(B) assu
+   145 R, T, PvA(R) addasa
+   146 R, T āruyha
+
+[page 071]
+71                                  Mahāvagga
+Vv_IV,1[=36].55       So taṃ disvā attamano udaggo
+         pahaṭṭhacitto ca147 subhaggarūpo
+         kammañ ca disvāna mahāvipākaṃ
+         sandiṭṭhikaṃ cakkhunā sacchikatvā.  || 570 ||
+Vv_IV,1[=36].56       Tam enaṃ avoca upasaṅkamitvā:
+         dassāmi dānaṃ samaṇabrāhmaṇānaṃ
+         na cāpi me kiñ ci adeyyam atthi
+         tuvañ ca me yakkha bahūpakāro.  || 571 ||
+Vv_IV,1[=36].57       Tuvañ ca me Licchavi ekadesaṃ
+         adāsi dānāni amogham etaṃ
+         svāhaṃ karissāmi tayā va148 sakkhiṃ
+         amānuso mānusakena saddhiṃ.  || 572 ||
+Vv_IV,1[=36].58       Gatī149 ca bandhū150 ca151 parāyaṇañ152 ca
+         mitto mamāsi153 atha devatā si154
+         yācām'; ahaṃ155 pañjaliko bhavitvā
+         icchāmi taṃ yakkha punāpi daṭṭhuṃ.  || 573 ||
+Vv_IV,1[=36].59       Sace tuvaṃ assaddho bhavissasi
+         kadariyarūpo vippaṭipannacitto
+         ten'; eva156 maṃ na157 lacchasi158 dassanāya
+         disvā ca taṃ nāpi159 ca ālapissaṃ.  || 574 ||
+Vv_IV,1[=36].60       Sace160 tvaṃ bhavissasi dhammagāravo
+         dāne rato saṅgahitattabhāvo161
+         opānabhūto samaṇabrāhmaṇānaṃ
+         evaṃ mamaṃ lacchasi158 dassanāya.  || 575 ||
+Vv_IV,1[=36].61       Disvā ca taṃ ālapissaṃ bhadante162
+         imañ ca sūlato lahuṃ163 pamuñca
+         yatonidānaṃ akariṃha sakkhiṃ
+         maññāmi164 sūlāvutakassa kāraṇā.  || 576 ||
+Vv_IV,1[=36].62       Te165 {aññamaññaṃ} akarimha sakkhiṃ
+         ayañ ca sūlāvuto166 lahuṃ pamutto
+         sakkacca dhammāni samācaranto
+         mucceyya167 so nirayā ca168 tamhā.  || 577 ||
+Vv_IV,1[=36].63       Kammaṃ siyā aññatra vedanīyaṃ169
+         Kappitakañ ca170 upasaṅkamitvā
+         ten'; eva171 saha samvibhajitva172 kāle
+         sayam mukhen'; upanisajja173 puccha.  || 578 ||
+Vv_IV,1[=36].64       So te akkhissati etam atthaṃ
+         tam eva bhikkhuṃ upasaṅkamitvā
+         pucchassu aññatthiko174 no175 ca175 paduṭṭhacitto;
+         so te176 sutaṃ176 asutañ cāpi177 dhammaṃ178
+
+--------------------------------------------------------------------------
+   147 R, T va
+   148 (P), (B1) ca
+   149 R, T, PvA(R) gati; (B1) balī
+   150 R, T, PvA(R) bandhu
+   151 (P), (B2) va
+  152 R, T, (K), PvA(R) -yan-
+   153 R vā māsi
+   154 B, N, PvA(B, R) me
+   155 R yathā mahaṃ; B, N, T, PvA(B, R) yācāmi taṃ
+   156 B, N, PvA(B) tvaṃ n'; eva
+   157 R, T, B, N, (K), PvA(B, R) omit
+   158 R, T Licchavi
+   159 C no pi
+   160 B, N, (B1,2), PvA(B) add pana
+   161 R -gahīta-
+   162 R, PvA(C, R) bhaddante
+   163 R lahu
+   164 R maññāmu; C, PvA(C) -āma
+   165 The arrangement of verses follows C, PvA(C) here.
+   166 B, N, PvA(B, R) sūlato
+   167 R, T muñceyya
+   168 R, T, PvA(R) va
+   169 R, T saveda-
+   170 see n.82
+   171 R, T, (K), PvA(R) tena
+   172 R, B, N, PvA(B, R) -tvā
+   173 R, T, PvA(R) -ena upa-; B, N, PvA(B) -enūpa-
+   174 R, T, PvA(R) puñña-; (B1) pañña-
+   175 R n'; eva
+   176 R, PvA(R) tesu taṃ
+   177 R vā pi
+   178 PvA(R) sabbaṃ dhammam pi
+
+[page 072]
+72                                  Petavatthu
+         sabbam pi178 akkhissati yathā pajānaṃ:
+         suto ca dhammaṃ sugatiṃ akkhissa.179 || 579 ||
+Vv_IV,1[=36].65       So tattha rahassaṃ samullapitvā
+         sakkhiṃ karitvāna180 amānusena
+         pakkāmi so Licchavīnaṃ sakāsaṃ
+         ath'; abravī181 parisaṃ sannisinnaṃ:  || 580 ||
+Vv_IV,1[=36].66       Suṇantu bhonto mama ekavākyaṃ
+         varaṃ varissaṃ labhissāmi atthaṃ
+         sūlāvuto puriso luddakammo
+         paṇītadaṇḍo182 anusattarūpo.183 || 581 ||
+Vv_IV,1[=36].67       Ettāvatā vīsatirattimattā
+         yato āvuto184 n'; eva jīvati na mato
+         tāhaṃ mocayissāmi dāni
+         yathāmati185 anujānātu saṅgho.  || 582 ||
+Vv_IV,1[=36].68       Etañ ca aññañ ca lahuṃ pamuñca
+         ko taṃ vadetha186 tathā karontaṃ
+         yathā pajānāsi tathā karohi
+         yathāmati185 anujānāti saṅgho.  || 583 ||
+Vv_IV,1[=36].69      So taṃ padesaṃ upasaṅkamitvā
+         sūlāvutaṃ mocayi khippam eva,
+         mā bhāyi sammā ti187 ca187 taṃ avoca
+         tikicchakānañ ca upaṭṭhapesi.  || 584 ||
+Vv_IV,1[=36].70       Kappitakañ170 ca upasaṅkamitvā
+         ten'; eva188 saha saṃvibhajitva188 kāle
+         sayam mukhen'; upanisajja173 Licchavi
+         tath'; eva189 pucchittha naṃ189 kāraṇatthiko.  || 585 ||
+Vv_IV,1[=36].71       Sūlāvuto puriso luddakammo
+         paṇītadaṇḍo182 anusattarūpo183
+         ettāvatā vīsatirattimattā
+         yato āvuto184 n'; eva jīvati na mato,  || 586 ||
+Vv_IV,1[=36].72       So mocito190 gantvā mayā idāni
+         etassa yakkhassa vaco hi bhante
+         siyā nu kho kāraṇaṃ kiñcid eva
+         yena so nirayaṃ no vajeyya.  || 587 ||
+Vv_IV,1[=36].73       Ācikkha bhante yadi atthi hetu
+         saddhāyitaṃ80 hetuvaco191 suṇoma
+         na tesaṃ kammānaṃ vināsam atthi
+         avedayitvā idha vyantibhāvo.  || 588 ||
+
+--------------------------------------------------------------------------
+   179 B, N, (P), (B1), PvA(B) treat this pāda as an interpolation.
+   180 R akaritvāna
+   181 T, B, N, PvA(B, R) 'bravi; C, PvA(C) 'bruvī
+   182 C, PvA(C) panihita-
+   183 (B1,2), (K) anumatta-
+   184 (B1) āvuso
+   185 All but C, PvA(C) yathā matiṃ
+   186 B, N, PvA vadethā ti; T adds ca
+   187 R omits
+   188 B, N, PvA(B) ten'; eva saha-tvā; C, PvA(C) tena samaṃ -tvā; 
+        see nn.171 f.
+   189 R kath'; eva pucchi taṃ kālaṃ; T tatth'; eva . . .
+   190 R, PvA(R) add ca
+   191 R, PvA(R) hetu vo; see v.31d
+
+[page 073]
+73                                  Mahāvagga
+Vv_IV,1[=36].74       Sace sa192 dhammāni193 samācareyya
+         sakkacca194 rattindivam appamatto
+         mucceyya195 so nirayā ca196 tamhā
+         kammaṃ siyā aññatra vedanīyaṃ.  || 589 ||
+Vv_IV,1[=36].75       Aññāto197 eso purisassa attho
+         mamaṃ pi198 dāni198 anukampa bhante
+         anusāsa maṃ ovada bhūripañña
+         yathā ahaṃ no199 nirayaṃ vajeyyaṃ.  || 590 ||
+Vv_IV,1[=36].76       Ajj'; eva buddhaṃ saraṇaṃ upehi
+         dhammañ ca saṅghañ ca pasannacitto
+         tath'; eva sikkhāya200 padāni200 pañca
+         akhaṇḍaphullāni samādiyassu.201 || 591 ||
+Vv_IV,1[=36].77       Pāṇātipātā viramassu khippaṃ
+         loke adinnaṃ parivajjayassu
+         amajjapo mā ca musā abhāṇi202
+         sakena dārena ca hohi203 tuṭṭho;
+         imañ ca ariyaṃ204 aṭṭhaṅgavaren'; upetaṃ204
+         samādiyāhi kusalaṃ sukhudrayaṃ.205 || 592 ||
+Vv_IV,1[=36].78   Cīvaraṃ piṇḍapātañ ca paccayaṃ sayanāsanaṃ
+     annaṃ206 pānaṃ khādanīyaṃ vatthasenāsanāni207 ca
+     dadāhi208 ujubhūtesu vippasannena209 cetasā.209 || 593 ||
+Vv_IV,1[=36].79   Bhikkhū ca210 sīlasampanne vītarāge bahussute
+     tappehi211 annapānena sadā puññaṃ pavaḍḍhati.  || 594 ||
+Vv_IV,1[=36].80       Evañ ca dhammāni193 samācaranto
+         sakkacca194 rattindivam appamatto
+         mucceyya212 so tvaṃ213 nirayā ca214 tamhā
+         kammaṃ siyā aññatra vedanīyaṃ.  || 595 ||
+Vv_IV,1[=36].81       Ajj'; eva buddhaṃ saraṇaṃ upemi
+         dhammañ ca saṅghañ ca pasannacitto
+         tath'; eva sikkhāya200 padāni200 pañca
+         akhaṇḍaphullāni samādiyāmi.215 || 596 ||
+Vv_IV,1[=36].82       Pāṇātipātā viramāmi khippaṃ
+         loke adinnaṃ parivajjayāmi
+         amajjapo no ca musā bhaṇāmi
+         sakena dārena ca homi tuṭṭho
+         imañ ca ariyaṃ204 aṭṭhaṅgavaren'; upetaṃ204
+         samādiyāmi kusalaṃ sukhudrayaṃ.205 || 597 ||
+Vv_IV,1[=36].83   Cīvaraṃ piṇḍapātañ ca paccayaṃ sayanāsanaṃ
+     annaṃ206 pānaṃ khādanīyaṃ vatthasenāsanāni207 ca,  || 598 ||
+
+--------------------------------------------------------------------------
+   192 R, T, PvA(R, C) so
+   193 R, PvA(C) kammāni
+   194 T, (P) sakkaccaṃ
+   195 R, T, PvA(R) muñceyya
+   196 R, PvA(R) va
+   197 (B1) ñāto 'mhi
+   198 R, PvA(R) pīdāni
+   199 R n'; eva
+   200 R, T, PvA(R) sikkhāpadāni
+   201 R samādī-
+   202 R, T, PvA(R) abhāsi
+   203 (P) hoti
+   204 R, T, PvA(R) aṭṭhaṅgavaraṃ upetaṃ; the arrangement of verses 
+        follows B, N, C here.
+   205 R, T, PvA(R) sukhindriyaṃ
+   206 R, T, PvA(R) anna-
+   207 R, T, PvA(R) vatthaṃ se-
+   208 The verses are arranged as in B, N, PvA(B) here.
+  209 T, (P), (K) sadā puññaṃ pavaḍḍhati
+   210 B, N, PvA(B) pi
+   211 R, tappesi
+   212 R, muñca; T muñceyya so; PvA(R) muñceyya
+   213 T omits
+   214 R, PvA(R) va; (P) omits
+   215 see n.201
+
+[page 074]
+74                                  Petavatthu
+Vv_IV,1[=36].84   Bhikkhū ca sīlasampanne vītarāge bahussute
+     dadāmi na vikappāmi216 buddhānaṃ sāsane rato.  || 599 ||
+Vv_IV,1[=36].85       Etādiso Licchavi Ambasakkharo3
+         Vesāliyaṃ aññataro upāsako
+         saddho mudū217 kārakaro ca bhikkhu-
+         saṅghañ ca sakkacca tadā upaṭṭhahi.  || 600 ||
+Vv_IV,1[=36].86       Sūlāvuto ca arogo hutvā
+         serī218 sukhī218 pabbajjaṃ upāgami
+         bhikkhuñ ca219 āgamma Kappitakuttamaṃ170
+         ubho pi sāmaññaphalāni ajjhaguṃ.  || 601 ||
+Vv_IV,1[=36].87       Etādisā sappurisāna220 sevanā
+         mahapphalā221 hoti sataṃ vijānataṃ
+         sūlāvuto aggaphalaṃ aphassayi222
+         phalaṃ kaniṭṭhaṃ pana Ambasakkharo3 ti.  || 602 ||
+                        Ambasakkharapetavatthu paṭhamaṃ
+
+--------------------------------------------------------------------------
+   216 B, N, (B1), PvA(B, R) vikamp-; R, T vikka-
+   217 R, T, PvA(R) mudu
+   218 R, T, serisukhaṃ
+   219 R, T omit
+   220 R, T, PvA(R) -sānaṃ
+   221 R, T mahāphalā
+   222 R phussasi; T phussati; PvA(R) aphussayi
+
+[page 075]
+75                                  Mahāvagga
+[FOOTNOTES (moved to the bottom of the respective page)]
+
+--------------------------------------------------------------------------
+
+[page 076]
+76                                  Petavatthu
+[FOOTNOTES (moved to the bottom of the respective page)]
+
+--------------------------------------------------------------------------
+
+[page 077]
+77                                  Mahāvagga
+[FOOTNOTES (moved to the bottom of the respective page)]
+
+--------------------------------------------------------------------------
+
+[page 078]
+78                                  Petavatthu
+[FOOTNOTES (moved to the bottom of the respective page)]
+
+--------------------------------------------------------------------------
+
+[page 079]
+79                                  Mahāvagga
+37 Serissakapetavatthu
+Vv_IV,2[=37].1-54 See Vimānavatthu No. 84.  || 603-656 ||
+                     Serissakapetavatthu dutiyaṃ
+                         BHĀṆAVĀRAṂ TATIYAṂ
+38 Nandakapetavetthu
+Vv_IV,3[=38].1    Rājā Piṅgalako nāma Suraṭṭhānaṃ adhipati ahu
+     Moriyānaṃ upaṭṭhānaṃ gantvā Suraṭṭhaṃ punarāgamā.  || 657 ||
+Vv_IV,3[=38].2    Uṇhe majjhantike1 kāle rājā vaṅkaṃ2 upāgami
+     addasa maggaṃ ramaṇīyaṃ petānaṃ vaṇṇanāpathaṃ.3 || 658 ||
+Vv_IV,3[=38].3    Sārathiṃ āmantayī4 rājā:
+     ayaṃ maggo ramaṇīyo khemo sovatthiko sivo
+     iminā5 sārathi yāhi6 Suraṭṭhānaṃ santike ito.  || 659 ||
+Vv_IV,3[=38].4    Tena7 pāyāsi Soraṭṭho senāya caturaṅginiyā
+     ubbiggarūpo puriso Soraṭṭhaṃ8 etad abravi:9 || 660 ||
+Vv_IV,3[=38].5    Kummaggaṃ10 paṭipann'; amhā bhiṃsanaṃ lomahaṃsanaṃ
+     purato dissati11 maggo pacchato co na dissati.  || 661 ||
+Vv_IV,3[=38].6    Kummaggaṃ10 paṭipann'; amhā Yamapurisāna12 santike
+     amānuso vāyati gandho ghoso sūyati13 dāruṇo.  || 662 ||
+Vv_IV,3[=38].7    Saṃviggo rājā Soraṭṭho14 sārathiṃ etad abravi:9
+     kummaggaṃ10 paṭipann'; amhā bhiṃsanaṃ lomahaṃsanaṃ
+     purato15 dissati maggo pacchato ca na dissati.  || 663 ||
+Vv_IV,3[=38].8    Kummaggaṃ10 paṭipann'; amhā Yamapurisāna12 santike
+     amānuso vāyati gandho ghoso sūyati13 dāruṇo.  || 664 ||
+Vv_IV,3[=38].9    Hatthikkhandhañ ca16 āruyha16 olokento catuddisaṃ17
+     addasa nigrodhaṃ18 ramaṇīyaṃ18 pādapaṃ
+chāyāsampannaṃ.19
+     nīlabbhavaṇṇasadisaṃ meghavaṇṇasirīnibhaṃ.20 || 665 ||
+
+--------------------------------------------------------------------------
+     1 B, N, PvA(B) majjhanhike
+     2 R, T, PvA(R) paṅkaṃ; PvA(C) pathaṃ; PvA: mudubhūmi
+     3 B, N, PvA(B) taṃ vaṇṇupathaṃ; (B1,2) taṃ vaṇṇa-
+     4 R, T, PvA(R) -yi; (B2) -tasi
+     5 R, T add va
+     6 B, N, (B1,2), PvA(B, C) yāma
+     7 The arrangement of verses in edd. vary, that in R is unacceptable.
+     8 R, T Suraṭṭhaṃ
+     9 R, T, C, PvA(C) abruvi
+    10 R, T, PvA(R) kumaggaṃ
+    11 R, T padissati
+    12 R, T, PvA(R) -purisānaṃ
+    13 B, N, (P), PvA(B) suyyati
+   14 Vide n.8
+    15 R, T add va
+    16 B, N, PvA(B) samāruyha
+    17 R, B, N, PvA(R, B) -disā
+    18 T, (K), (P), (B1,2), PvA(R) rukkhaṃ nigrodhaṃ
+    19 T chāyasam-
+    20 (P) -sirinnibhaṃ; R, T, PvA(R) -sirannibhaṃ
+
+[page 080]
+80                                  Petavatthu
+Vv_IV,3[=38].10   Sārathiṃ āmantayī21 rājā, kiṃ eso dissati brahā
+     nīlabbhavaṇṇasadiso meghavaṇṇasirīnibho.20 || 666 ||
+Vv_IV,3[=38].11   Nigrodho22 so22 mahārāja pādapo chāyāsampanno19
+     nīlabbhavaṇṇasadiso meghavaṇṇasirīnibho.20 || 667 ||
+Vv_IV,3[=38].12   Tena pāyāsi Soraṭṭho14 yena so dissati23 brahā
+     nīlabbhavaṇṇasadiso meghavaṇṇasirīnibho.20 || 668 ||
+Vv_IV,3[=38].13   Hatthikkhandhato oruyha rājā rukkhaṃ upāgami
+     nisīdi rukkhamūlasmiṃ sāmacco saparijjano,24
+     pūraṃ pānīyakarakaṃ25 pūve citte26 ca ca addasa.  || 669 ||
+Vv_IV,3[=38].14   Puriso ca27 devavaṇṇī27 sabbābharaṇabhūsito
+     upasaṅkamitvā rājānaṃ Soraṭṭhaṃ8 etad abravī:9 || 670 ||
+Vv_IV,3[=38].15   Svāgataṃ te mahārāja atho te adurāgataṃ
+     pivatu devo pānīyaṃ pūve khāda arindama.  || 671 ||
+Vv_IV,3[=38].16   Pivitvā rājā pānīyaṃ sāmacco saparijjano24
+     pūve khāditvā pītvā28 ca Soraṭṭho14 etad abravī:9 || 672 ||
+Vv_IV,3[=38].17   Devatā nu 'si gandhabbo ādu Sakko purindado
+     ajānantā29 taṃ pucchāma kathaṃ jānemu taṃ mayaṃ.  || 673 ||
+Vv_IV,3[=38].18   N'; amhi30 devo na gandhabbo nāpi31 Sakko purindado
+     peto ahaṃ mahārāja Suraṭṭhā32 idha-m-āgato.  || 674 ||
+Vv_IV,3[=38].19   Kiṃsīlo kiṃsamācāro Suraṭṭhasmiṃ pure tuvaṃ
+     kena te brahmacariyena ānubhāvo ayaṃ tava.  || 675 ||
+Vv_IV,3[=38].20   Taṃ suṇohi mahārāja33 arindama raṭṭhavaḍḍhana34
+     amaccā pārisajjā ca brāhmaṇo ca purohito.  || 676 ||
+Vv_IV,3[=38].21   Suraṭṭhasmā35 ahaṃ deva puriso pāpacetaso
+     micchādiṭṭhi ca dussīlo kadariyo paribhāsako.  || 677 ||
+Vv_IV,3[=38].22   Dadantānaṃ karontānaṃ vārayissaṃ bahujjanaṃ36
+     aññesaṃ dadamānānaṃ antarāyakaro37 ahaṃ:37 || 678 ||
+Vv_IV,3[=38].23   Vipāko natthi dānassa saṃyamassa kuto phalaṃ
+     natthi ācariyo nāma adantaṃ ko damessati.38 || 679 ||
+Vv_IV,3[=38].24   Samatulyāni bhūtāni kuto39 jeṭṭhāpacāyiko
+     natthi balaṃ viriyaṃ40 vā kuto uṭṭhānaporisaṃ.  || 680 ||
+Vv_IV,3[=38].25   Natthi dānaphalaṃ nāma na visodheti verinaṃ
+     laddheyyaṃ labhate macco niyatipariṇāmajā.41 || 681 ||
+--------------------------------------------------------------------------
+    21 Vide n.4
+    22 R inverts
+    23 B, N, PvA(B) dissate
+    24 R, T, PvA(R) -parijano
+   25 B, PvA(B) -sarakaṃ
+    26 B, N, PvA(B) vitte
+    27 R, T devavaṇṇī ti
+    28 R, T, PvA(R) pivitvā; B, N, PvA(B) pitvā
+    29 R, T ajānanto
+    30 B, N, PvA(B) nāmhi
+    31 C, PvA(C) na pi
+    32 R, T Suraṭṭha
+    33 N -rājā
+    34 R -naṃ
+    35 T, B, PvA(B) -smiṃ; PvA(R) -mhā
+    36 R, T, PvA(R) bahujanaṃ
+    37 T, (P) antarāyaṃ karom'; ahaṃ; R -yaṃkaro ahaṃ
+    38 T damissati
+    39 R, T, (K) kule
+    40 B, PvA(B) vīriyaṃ
+    41 R, T, PvA(R) nīyati pariṇāmajaṃ; niyatipariṇāmajavasena
+        (instr.) labhati - PvA
+
+[page 081]
+81                                  Mahāvagga
+Vv_IV,3[=38].26   Natthi mātā pitā bhātā loko natthi ito paraṃ
+     natthi dinnaṃ natthi hutaṃ sunihitam pi42 na
+vijjati.  || 682 ||
+Vv_IV,3[=38].27   Yo pi haneyya43 purisaṃ parassa44 chindate45 siraṃ
+     na koci kiñci46 hanati sattannaṃ vivaram antare.  || 683 ||
+Vv_IV,3[=38].28   Acchejjabhejjo47 jīvo aṭṭhaṃso guḷaparimaṇḍalo48
+     yojanānaṃ49 sataṃ50 pañca ko jīvaṃ chettum51
+arahati.  || 684 ||
+Vv_IV,3[=38].29   Yathā suttaguḷe52 khitte nibbeṭhentaṃ53 palāyati
+     evam evam pi54 so jīvo nibbeṭhento53 palāyati.  || 685 ||
+Vv_IV,3[=38].30   Yathā gāmato nikkhamma aññaṃ gāmaṃ pavisati55
+     evam evam pi56 so jīvo aññaṃ kāyaṃ57 pavisati.55 || 686 ||
+Vv_IV,3[=38].31   Yathā gehato nikkhamma aññaṃ gehaṃ pavisati55
+     evam evam pi so jīvo aññaṃ bondiṃ pavisati.55 || 687 ||
+Vv_IV,3[=38].32   Cūḷāsīti58 mahākappuno59 satasahassāni pi60 hi61
+     ye62 bālā ye ca paṇḍitā saṃsāraṃ khepayitvāna
+dukkhass'; antaṃ karissare.  || 688 ||
+Vv_IV,3[=38].33   Mitāni sukhadukkhāni doṇehi piṭakehi ca
+     jino sabbaṃ pajānāti sammūḷhā63 itarā pajā.  || 689 ||
+Vv_IV,3[=38].34   Evaṃdiṭṭhi pure āsiṃ sammūḷho63 mohapāruto
+     micchādiṭṭhi ca dussīlo kadariyo paribhāsako.  || 690 ||
+Vv_IV,3[=38].35   Oraṃ me chahi māsehi kālakiriyā64 bhavissati,
+     ekantaṃ65 kaṭukaṃ ghoraṃ nirayaṃ papatiss'; ahaṃ.66 || 691 ||
+Vv_IV,3[=38].36   Catukkaṇṇaṃ catudvāraṃ vibhattaṃ bhāgaso mitaṃ
+     ayopākārapariyantaṃ ayasā paṭikujjitaṃ.  || 692 ||
+Vv_IV,3[=38].37   Tassa ayomayā bhūmi jalitā tejasā yutā,
+     samantā yojanasataṃ pharitvā tiṭṭhati sabbadā.  || 693 ||
+Vv_IV,3[=38].38  Vassāni67 satasahassāni ghoso sūyati13 tāvade,
+     lakkho eso mahārāja satabhāgavassakoṭiyo68
+     koṭisatasahassāni niraye paccare janā --  || 694 ||
+Vv_IV,3[=38].39   Micchādiṭṭhī ca69 dussīlā ye ca ariyūpavādino
+     tatthāhaṃ dīgham addhānaṃ dukkhaṃ vedissa70
+vedanaṃ,
+     phalaṃ pāpassa kammassa tasmā socām'; ahaṃ bhusaṃ.  || 695 ||
+
+--------------------------------------------------------------------------
+    42 B, N, PvA(B) omit pi
+    43 T na hāneti
+    44 T, (K) purisassa
+    45 R, T chindite; (K) chinde
+    46 B, N, PvA(B) kañ ci; paramatthato na koci kiñ ci hanti - PvA
+    47 T acchejjo abhejjo; B, N, PvA(B) acchejjābhejjo hi;
+        (K) -bhejjo si
+    48 R, T -gūḷa-
+    49 R, T, PvA(R) yojanāni
+    50 R, T, PvA(R) satā
+    51 R, T, PvA(R) chetuṃ
+    52 R, T -gūḷe
+    53 T, (P), (B2) nibbedhent-
+    54 R evam eva pi; B, N, PvA(R, B) evam eva ca
+    55 B pavīsati (m.c.)
+    56 PvA(R) evam eva pi; B, N, (P), PvA(B) evam eva ca
+    57 B, N, PvA(R, B) bondiṃ
+    58 B, N, PvA(B) cullāsīti-
+    59 R, T, B, N, PvA(R, B) -kappino
+    60 R, T, PvA(B) omit
+    61 R, T, PvA(R) omit
+    62 R adds ca
+    63 R, T, PvA(R) samūḷh-
+    64 B, N, (B2), PvA(B) kālaṅkiriyā
+    65 B, N, PvA(B) ekanta-
+    66 R, T, PvA(R) āhaṃ
+    67 R, T, PvA(R) vassa-
+    68 R, T satabhāgā va-
+    69 R omits
+    70 R, T, PvA(R) vedissaṃ
+
+[page 082]
+82                                  Petavatthu
+Vv_IV,3[=38].40   Taṃ suṇohi mahārāja arindama raṭṭhavaḍḍhana34
+     dhītā mayhaṃ mahārāja Uttarā bhaddam atthu te.  || 696 ||
+Vv_IV,3[=38].41   Karoti bhaddakaṃ kammaṃ sīles '; uposathe71 ratā
+     saññatā72 saṃvibhāgī ca vadaññū73 vītamaccharā;74 || 697 ||
+Vv_IV,3[=38].42   Akhaṇḍakārī sikkhāya75 suṇhā parakulesu ca
+     upāsikā Sakyamunino sambuddhassa sirīmato.  || 698 ||
+Vv_IV,3[=38].43   Bhikkhu ca sīlasampanno gāmaṃ piṇḍāya pāvisi
+     okkhittacakkhu76 satimā guttadvāro susaṃvuto.  || 699 ||
+Vv_IV,3[=38].44   Sapadānaṃ caramāno agamā taṃ nivesanaṃ
+     tam addasa mahārāja Uttarā bhaddam atthu te.  || 700 ||
+Vv_IV,3[=38].45   Pūraṃ pānīyassa77 karakaṃ pūve citte ca sā adā:
+     pitā me kālakato78 bhante tass'; etaṃ79
+        upakappatu.79 || 701 ||
+Vv_IV,3[=38].46   Samanantarānuddiṭṭhe80 vipāko upapajjatha81
+     bhuñjāmi kāmakāmī 'haṃ82 rājā Vessavaṇo yathā.  || 702 ||
+Vv_IV,3[=38].47   Taṃ suṇohi mahārāja arindama raṭṭhavaḍḍhana34
+     sadevakassa lokassa buddho aggo pavuccati,
+     taṃ buddhaṃ saraṇaṃ gaccha saputtadāro83 arindama.  || 703 ||
+Vv_IV,3[=38].48   Aṭṭhaṅgikena maggena phusanti amataṃ padaṃ
+     taṃ dhammaṃ saraṇaṃ gaccha saputtadāro83 arindama.  || 704 ||
+Vv_IV,3[=38].49   Cattāro maggapaṭipannā84 cattāro ca phale ṭhitā
+     esa saṅgho ujubhūto paññāsīlasamāhito,
+     taṃ saṅghaṃ saraṇaṃ gaccha saputtadāro arindama.  || 705 ||
+Vv_IV,3[=38].50       Pāṇātipātā viramassu khippaṃ
+         loke adinnaṃ parivajjayassu
+         amajjapo85 mā86 ca musā abhāṇi87
+         sakena dārena ca hohi tuṭṭho.  || 706 ||
+Vv_IV,3[=38].51   Atthakāmo 'si me yakkha hitakāmo 'si devate
+     karomi tuyhaṃ vacanaṃ tvaṃ si88 ācariyo mama.  || 707 ||
+Vv_IV,3[=38].52   Upemi saraṇaṃ buddhaṃ dhammañ cāpi anuttaraṃ
+     saṅghañ ca naradevassa gacchāmi saraṇaṃ ahaṃ.  || 708 ||
+Vv_IV,3[=38].53       Pāṇātipātā viramāmi khippaṃ
+         loke adinnaṃ parivajjayāmi
+         amajjapo no ca musā bhaṇāmi
+         sakena dārena ca89 homi tuṭṭho  || 709 ||
+
+--------------------------------------------------------------------------
+
+[page 083]
+83                                  Mahāvagga
+Vv_IV,3[=38].54   Opuṇāmi90 mahāvāte4 nadiyā vā91 sīghagāmiyā92
+     vamāmi93 pāpakaṃ diṭṭhiṃ buddhānaṃ sāsane rato.  || 710 ||
+Vv_IV,3[=38].55   Idaṃ vatvāna Soraṭṭho14 viramitvā pāpadassanā94
+     namo bhagavato katvā pāmokkho ratham āruhī95 ti.  || 711 ||
+                        Nandakapetavatthu96 tatiyaṃ
+
+--------------------------------------------------------------------------
+    71 (P), (B1) sīle upo-
+    72 T dānaratā; (P) puññatā
+    73 R vadaññā
+    74 R vigatamaccharā; PvA(R) vigamaccharā
+    75 R, T -āyaṃ
+    76 R uk-
+    77 B, N, PvA(R, B) pānīyak-
+    78 B, N, (P), PvA(B) kālaṅkato
+    79 R tassa taṃ okappatu; PvA(R) tassa taṃ . . .
+    80 R -nudiṭṭho; (P) -tarā anu-
+    81 B, N, (P), PvA(B) uda-
+    82 R, T, PvA(R) omit 'haṃ
+    83 R -dāre
+    84 T, B, N, (B1,2), PvA(B) ca paṭi-
+    85 R amajjapā
+    86 T, (B2) no
+    87 R, PvA(R) abhaṇi; N abhāṇī
+    88 R, T tvam asi, cf.794
+    89 R, T, omit
+    90 R, PvA(R) odhunāmi; B, N, PvA(B) ophuṇāmi; T ophunāmi; 
+        B suggest in fn. opunāmi
+    91 B, N, PvA(R) omit
+    92 R, PvA(R) sīghaṃ-
+    93 (P) viramāmi
+    94 R, T, (K), PvA(R) -dassanaṃ
+    95 T āruyhī
+    96 R, T Nandikā-
+
+[page 084]
+84                                  Petavatthu
+[FOOTNOTES (moved to the bottom of the respective page)]
+
+[page 085]
+85                                  Mahāvagga
+39 Revatīpetavatthu
+Vv_IV,4[=39].1-25 See Vimānavatthu No. 52.  || 712-736 ||
+                          Revatīpetavatthu catutthaṃ
+40 Ucchupetavatthu
+Vv_IV,5[=40].1        Idaṃ mama1 ucchuvanaṃ mahantaṃ
+         nibbattati puññaphalaṃ anappakaṃ
+         taṃ2 dāni me paribhogaṃ na upeti2
+         ācikkha bhante kissa ayaṃ vipāko.  || 737 ||
+Vv_IV,5[=40].2        Haññāmi3 khajjāmi ca vāyamāmi4
+         parisakkāmi paribhuñjituṃ kiñci
+         svāhaṃ chinnathāmo5 kapaṇo lālapāmi6
+         kissa7 kammassa ayaṃ vipāko.  || 738 ||
+Vv_IV,5[=40].3        Vighāto cāhaṃ paripatāmi chamāyaṃ
+         parivattāmi vāricaro va ghamme
+         rudato8 ca me assukā niggalanti8
+         ācikkha bhante kissa ayaṃ vipāko.  || 739 ||
+Vv_IV,5[=40].4        Chāto kilanto ca pipāsito ca
+         santasito9 sātasukhaṃ na vinde
+         pucchāmi taṃ etam atthaṃ bhadante10
+         kathan nu ucchuparibhogaṃ labheyyaṃ.  || 740 ||
+Vv_IV,5[=40].5        Pure tuvaṃ kammam akāsi attanā
+         manussabhūto purimāya jātiyā
+         ahañ ca taṃ etam atthaṃ vadāmi
+         sutvāna tvaṃ etam atthaṃ vijāna.11 || 741 ||
+
+--------------------------------------------------------------------------
+
+[page 086]
+86                                  Petavatthu
+Vv_IV,5[=40].6        Ucchuṃ12 tvaṃ13 khādamāno payāto
+         puriso ca14 te piṭṭhito anvagacchi15
+         so ca taṃ paccāsanto kathesi
+         tassa tuvaṃ na kiñ ci ālapittha.  || 742 ||
+Vv_IV,5[=40].7        So ca taṃ abhaṇantaṃ16 ayāci17
+         deh'; ayya18 ucchun ti ca taṃ avoca
+         tassa tuvaṃ piṭṭhito ucchuṃ adāsi
+         tass'; etaṃ kammassa ayaṃ vipāko.  || 743 ||
+Vv_IV,5[=40].8        Iṅgha tuvaṃ19 piṭṭhito19 gaṇha20 ucchuṃ20
+         gahetvāna21 khādassu yāvad atthaṃ
+         ten'; eva tvaṃ attamano bhavissasi
+         haṭṭho udaggo22 ca pamodito ca.  || 744 ||
+Vv_IV,5[=40].9        Gantvāna so piṭṭhito aggahesi
+         gahetvāna taṃ khādi yāvad atthaṃ
+         ten'; eva so attamano ahosi
+         haṭṭho udaggo22 ca pamodito cā23 ti.  || 745 ||
+                           Ucchupetavatthu pañcamaṃ
+
+--------------------------------------------------------------------------
+     1 C mamaṃ (m. c.)
+     2 B, N, PvA(B) taṃ dāni me na paribhogam eti; T, (B2) taṃ
+        dāni me na paribhogam upeti; C, (K) na dāni me taṃ
+        paribhogam eti
+     3 R, T, (K), PvA(R) vihaññāmi; vihaññāmī ti vā - PvA
+     4 R, T add ca
+     5 R, T, PvA(R) chinnātumo; (P), (B2) chinditukāmo
+     6 R, T sālapāmi
+     7 C kissa'ssa (m. c.)
+     8 T, (K), PvA(R) dūrato ca me assukāni galanti
+     9 R, T -tāsito; B, N, PvA(B) -tassito
+    10 (B2), PvA(R) bhaddante; C bhadanta
+    11 R, T vijānaṃ
+    12 R, T ucchū
+    13 (P) pari-
+    14 R, PvA(R) omit ca
+    15 R, T anuganchi; (B1) anvāgacchi
+    16 R, (B1) abhiṇhaṃ
+    17 T āyapī
+    18 R dehi; T deheyya
+    19 B, N, (B1,2), PvA(B) tvaṃ gantvāna
+    20 B, N, (B1,2), PvA(B) gaṇheyyāsi
+    21 B, N, PvA(B) add taṃ; R, PvA(R) gahetvā
+    22 B, N, PvA(B) c'; udaggo
+    23 R omits pāda d; T omits ca
+
+[page 087]
+87                                  Mahāvagga
+41 Kumārapetavatthu
+Vv_IV,6[=41].1    Sāvatthi1 nāma nagaraṃ Himavantassa passato
+     tattha2 āsuṃ2 dve kumārā3 rājaputtā ti me sutaṃ.  || 746 ||
+Vv_IV,6[=41].2    Sammattā4 rajanīyesu5 kāmassādābhinandino
+     paccuppanne6 sukhe6 giddhā na te passiṃsu 'nāgataṃ.  || 747 ||
+Vv_IV,6[=41].3    Te cutā7 ca manussattā paralokaṃ ito gatā
+     te 'dha8 {ghosenty'; adissantā8} pubbe dukkaṭam attano:  || 748 ||
+Vv_IV,6[=41].4    Bahūsu9 vata9 santesu deyyadhamme upaṭṭhite
+     nāsakkhimhā ca attānaṃ parittaṃ10 kātuṃ
+sukhāvahaṃ,  || 749 ||
+Vv_IV,6[=41].5    Kiṃ tato pāpakaṃ assa yaṃ11 no11 rājakulā cutā
+     upapannā12 pettivisayaṃ13 khuppipāsasamappitā.14 || 750 ||
+Vv_IV,6[=41].6    Sāmino idha hutvāna honti assāmino15 tahiṃ
+     caranti16 khuppipāsāya manussā unnatonatā.17 || 751 ||
+Vv_IV,6[=41].7    Etam18 ādīnavaṃ ñatvā issaramadasambhavaṃ
+     pahāya issaramadaṃ19 bhave saggagato naro
+     kāyassa bhedā sappañño saggaṃ so upapajjatī ti.  || 752 ||
+                           Kumārapetavatthu chaṭṭhaṃ
+
+--------------------------------------------------------------------------
+     1 R, T Sāvatthī
+     2 R tattha su; T, (B2) tatthāsuṃ
+     3 R adds ca
+     4 R, T, PvA(R, C) pamattā
+     5 R, T rājanīyesu
+     6 B, N, PvA-pannasukhe
+     7 T puttā
+     8 R, PvA(R) te 'dha (T ca) ghosenti na dissanto
+     9 C, (K) bahussutesu
+    10 R, T, PvA(R) parittasothiṃ; PvA comments point to
+        reading kātuṃ parittasukhāvahaṃ for pāda d
+    11 R, T santo
+    12 PvA(R, C) uppannā
+    13 R, T petavisayaṃ
+    14 R, T, C, PvA(R, C) -pāsāsamappitā
+    15 B, N, PvA(B) asāmino
+    16 T maranti; B, N, PvA(B) bhamanti
+    17 R onnatonatā
+    18 R, T, PvA(R) evaṃ
+    19 R, T issaramāna-
+
+[page 088]
+88                                  Petavatthu
+42 Rājaputtapetavatthu
+Vv_IV,7[=42].1    Pubbe katānaṃ kammānaṃ vipāko mathaye manaṃ;
+     rūpe sadde rase gandhe phoṭṭhabbe1 ca manorame,  || 753 ||
+Vv_IV,7[=42].2    Naccaṃ gītaṃ ratiṃ khiḍḍaṃ anubhutvā anappakaṃ
+     uyyāne paricaritvā2 pavisanto Giribbajaṃ,  || 754 ||
+Vv_IV,7[=42].3    Isiṃ Sunettam addakkhi attadantaṃ samāhitaṃ
+     appicchaṃ hirisampannaṃ3 uñche pattagate4 rataṃ.  || 755 ||
+Vv_IV,7[=42].4    Hatthikkhandhato oruyha laddhā bhante ti c'; abravi;5
+     tassa pattaṃ gahetvāna uccaṃ paggayha khattiyo,  || 756 ||
+Vv_IV,7[=42].5    Thaṇḍile6 pattaṃ bhinditvā hasamāno apakkami,
+     rañño Kitavass'; ahaṃ7 putto kiṃ maṃ bhikkhu
+karissasi.  || 757 ||
+Vv_IV,7[=42].6    Tassa kammassa pharusassa vipāko kaṭuko ahu
+     yaṃ rājaputto vedesi nirayamhi samappito.  || 758 ||
+Vv_IV,7[=42].7    {Chaḷ'; eva} caturāsīti vassāni nahutāni8 ca
+     bhusaṃ dukkhaṃ nigacchittho9 niraye katakibbiso.  || 759 ||
+Vv_IV,7[=42].8    Uttāno pi ca paccittha nikujjo vāmadakkhiṇo
+     uddhaṃpādo ṭhito c'; eva ciraṃ bālo apaccatha.10 || 760 ||
+Vv_IV,7[=42].9    Bahūni vassasahassāni pūgāni nahutāni ca
+     bhusaṃ dukkhaṃ nigacchittho9 niraye katakibbiso.  || 761 ||
+Vv_IV,7[=42].10   Etādisaṃ kho kaṭukaṃ appaduṭṭhapadosinaṃ
+     paccanti pāpakammantā isim āsajja subbataṃ.  || 762 ||
+Vv_IV,7[=42].11   So tattha bahudukkhāni vedayitvā bahuṃ11 dukhaṃ11
+     khuppipāsāhato12 nāma peto āsi tato cuto.  || 763 ||
+Vv_IV,7[=42].12   Etaṃ13 ādīnavaṃ disvā14 issaramadasambhavaṃ
+     pahāya issaramadaṃ nivātam anuvattaye.  || 764 ||
+Vv_IV,7[=42].13   Diṭṭhe va dhamme pāsaṃso yo15 buddhesu sagāravo
+     kāyassa bhedā sappañño saggaṃ so upapajjatī ti.  || 765 ||
+                         Rājaputtapetavatthu sattamaṃ
+
+--------------------------------------------------------------------------
+     1 R, PvA(R) poṭṭh-
+     2 R caritvāna; C, PvA(C) -tvāna; T, (B2) -cāritvā
+     3 R, T hirī-
+     4 R pattāgate
+     5 R, T, C, PvA(C) ca bruvi
+     6 R thandile; (B1) tuṇḍile; (B2) gaṇḍile
+     7 All but C -ssāhaṃ
+     8 B, N, PvA(B) navutāni
+     9 R, T, PvA(R) -iṭṭho; (S), (P) -ittha
+    10 R, T apaccitha; PvA(R) apaccittha
+    11 R, T, PvA(R) bahudukkhaṃ
+    12 R, T, B, N, PvA(R, B), (B2) -sahato
+    13 R, T evam
+    14 B, N, PvA(R, B), (B2) ñatvā as at 752
+    15 R yesu
+
+[page 089]
+89                                  Mahāvagga
+43 Gūthakhādakapetavatthu
+Vv_IV,8[=43].1    Gūthakūpato uggantvā ko nu dīno1 patiṭṭhasi1
+     nissaṃsayaṃ pāpakammanto kin nu saddahase2 tuvaṃ.  || 766 ||
+Vv_IV,8[=43].2    Ahaṃ bhadente3 peto 'mhi duggato Yamalokiko
+     pāpakammaṃ karitvāna petalokam ito gato.  || 767 ||
+Vv_IV,8[=43].3    Kin nu kāyena vācāya manasā dukkaṭaṃ kaṭaṃ
+     kissa kammavipākena idaṃ dukkhaṃ nigacchasi.  || 768 ||
+Vv_IV,8[=43].4    Ahu āvāsiko mayhaṃ issukī kulamaccharī
+     ajjhosito4 mayhaṃ ghare kadariyo paribhāsako.  || 769 ||
+Vv_IV,8[=43].5    Tassāhaṃ vacanaṃ sutvā bhikkhavo paribhāsisaṃ5
+     tassa kammavipākena petalokam ito gato.  || 770 ||
+Vv_IV,8[=43].6    Amitto mittavaṇṇena yo te āsi kulūpako6
+     kāyassa bhedā duppañño kin nu pecca gatiṃ gato.  || 771 ||
+Vv_IV,8[=43].7    Tass'; evāhaṃ pāpakammassa sīse tiṭṭhāmi matthake
+     so ca paravisayaṃ patto mam'; eva paricārako.7 || 772 ||
+Vv_IV,8[=43].8    Yaṃ bhadante8 hadant'; aññe9 etaṃ me hoti bhojanaṃ
+     ahañ ca kho yaṃ hadāmi10 etaṃ so upajīvati.  || 773 ||
+                        Gūthakhādakapetavatthu aṭṭhamaṃ
+
+--------------------------------------------------------------------------
+     1 R dīno si tiṭṭhasi; T diṭṭho va tiṭṭhasi; 
+        C, PvA(C) dīno hi tiṭṭhasi
+     2 R, T saddayase, PvA is silent but v 806 and PvA on it.
+     3 R bhante; PvA(R) bhaddan te; C bhadanta
+     4 R, PvA(C) ajjhāsito
+     5 R, T, PvA(R) -issaṃ
+     6 So all
+     7 R, T parivārako; (P) -cāriko
+     8 R, PvA(R) bhaddan te
+     9 R, T, PvA(R) hanant'; aññe
+    10 R, T, PvA(R) hanāmi
+
+[page 090]
+90                                  Petavatthu
+44 Gūthakhādakapetavatthu1
+Vv_IV,9[=44].1    Gūthakūpato uggantvā kā nu dīnā2 patiṭṭhasi2
+     nissaṃsayaṃ pāpakammantā kin nu saddahase tuvaṃ.  || 774 ||
+Vv_IV,9[=44].2    Ahaṃ bhadante petī 'mhi duggatā Yamalokikā
+     pāpakammaṃ karitvāna petalokam ito gatā.  || 775 ||
+Vv_IV,9[=44].3    Kin nu kāyena vācāya manasā dukkaṭaṃ kaṭaṃ
+     kissa kammavipākena idaṃ dukkhaṃ nigacchasi.  || 776 ||
+Vv_IV,9[=44].4    Ahu āvāsiko mayhaṃ issukī kulamaccharī
+     ajjhosito mayhaṃ ghare kadariyo paribhāsako.  || 777 ||
+Vv_IV,9[=44].5    Tassāhaṃ vacanaṃ sutvā bhikkhavo paribhāsisaṃ
+     tassa kammavipākena petalokam ito gatā.  || 778 ||
+Vv_IV,9[=44].6    Amitto mittavaṇṇena yo te āsi kulūpako
+     kāyassa bhedā duppañño kin nu pecca gatiṃ gato.  || 779 ||
+Vv_IV,9[=44].7    Tass'; evāhaṃ pāpakammassa sīse tiṭṭhāmi matthake
+     so ca paravisayaṃ patto mam'; eva paricārako.  || 780 ||
+Vv_IV,9[=44].8    Yaṃ bhadante hadant'; aññe etaṃ me hoti bhojanaṃ
+     ahañ ca kho yaṃ hadāmi etaṃ so upajīvati.  || 781 ||
+                        Gūthakhādakapetavatthu1 navamaṃ
+&amp;1
+45 Gaṇapetavatthu
+Vv_IV,10[=45].1    Naggā dubbaṇṇarūpāttha1 kisā2 dhamanisanthatā3
+     upphāsulikā kisikā4 ke nu tumhe 'ttha5 mārisā.  || 782 ||
+Vv_IV,10[=45].2    Mayaṃ bhadante6 pet'; amhā7 duggatā Yamalokikā
+     pāpakammaṃ karitvāna petalokam ito gatā.  || 783 ||
+
+--------------------------------------------------------------------------
+&amp;1
+     1 B, N, C -petivatthu
+     2 R, PvA(R) do not reproduce this vatthu. See nn.1-10
+        of No.43 for variants in other places.
+
+[page 091]
+91                                  Mahāvagga
+Vv_IV,10[=45].3    Kin nu kāyena vācāya manasā dukkaṭaṃ kataṃ
+     kissa kammavipākena idaṃ dukkhaṃ nigacchasi.  || 784 ||
+Vv_IV,10[=45].4    Anāvaṭesu8 titthesu vicinimh'; addhamāsakaṃ9
+     santesu deyyadhammesu dīpaṃ nākamha attano.10 || 785 ||
+Vv_IV,10[=45].5    Nadiṃ upema tasitā rittakā parivattati
+     chāyaṃ upema uṇhesu ātapo parivattati.  || 786 ||
+Vv_IV,10[=45].6    Aggivaṇṇo ca11 no vāto dahanto12 upavāyati
+     etañ ca bhante arahāma aññañ ca pāpakaṃ tato.  || 787 ||
+Vv_IV,10[=45].7    Api13 yojanāni gacchāma chātā āhāragedhino14
+     aladdhā va15 nivattāma16 aho no appapuññatā.  || 788 ||
+Vv_IV,10[=45].8    Chātā pamucchitā bhantā17 bhūmiyaṃ paṭisumbhitā
+     uttānā patikirāma18 avakujjā patāmase.  || 789 ||
+Vv_IV,10[=45].9    Te ca tatth'; eva patitā bhūmiyaṃ paṭisumbhitā
+     uraṃ sīsañ ca ghaṭṭema aho no appapuññatā.  || 790 ||
+Vv_IV,10[=45].10   Etañ ca bhante arahāma aññañ ca pāpakaṃ tato
+     santesu deyyadhammesu dīpaṃ nākamha attano.10 || 791 ||
+Vv_IV,10[=45].11   Te hi nūna ito gantvā yoniṃ laddhāna mānusiṃ
+     vadaññū sīlasampannā kāhāma kusalaṃ bahun ti.  || 792 ||
+                            Gaṇapetavatthu dasamaṃ
+
+--------------------------------------------------------------------------
+     1 R, T, PvA(R) 'tha
+     2 T kīsā
+     3 R, T, PvA(R) -saṇṭhitā; (P) -sandhatā
+     4 T kīsakā; (P) kisikā
+     5 R, PvA(R) 'tha; T tumha'tha
+     6 R, PvA(R) bhaddan te; C bhaddanta
+     7 B, N petāmhā
+     8 R, T anavajjesu
+     9 R, T 'ḍḍha-
+    10 R, T, PvA(R) -m-attano
+    11 R, T va
+    12 R, T, B, N, PvA(B) ḍahanto
+    13 C, (K), PvA(C) adhi-
+    14 R, T, PvA(R) -giddhino
+    15 R, T, PvA(R) yeva
+    16 C nivattema
+    17 R, T bhante
+   18 B, N, PvA(B) paṭi-
+
+[page 092]
+92                                  Petavatthu
+46 Pāṭaliputtapetavatthu
+Vv_IV,11[=46].1        Diṭṭhā tayā nirayā tiracchānayonī1
+         petā asurā athavā pi manussā2 devā
+         sayam addasa kammavipākam attano
+         nessāmi taṃ Pāṭaliputtam akkhataṃ.  || 793 ||
+Vv_IV,11[=46].2    Atthakāmo 'si me yakkha hitakāmo 'si devate
+     karomi tuyhaṃ vacanaṃ tvam asi ācariyo mama3 || 794 ||
+Vv_IV,11[=46].3        Diṭṭhā mayā nirayā tiracchānayonī1
+         petā asurā athavā pi manussā2 devā
+         sayam addasaṃ4 kammavipākam attano
+         kāhāmi puññāni anappakānī ti.  || 795 ||
+                       Pāṭaliputtapetavatthu ekādasamaṃ
+&amp;1
+47 Ambapetavatthu
+Vv_IV,12[=47].1        Ayañ ca te pokkharaṇī surammā
+         samā suppatitthā1 ca mahodakā2 ca
+         supupphitā bhamaragaṇānukiṇṇā
+         kathaṃ tayā laddhā ayaṃ manuññā.  || 796 ||
+Vv_IV,12[=47].2        Idañ ca te ambavanaṃ surammaṃ
+         sabbotukaṃ dhārayate3 phalāni
+         supupphitaṃ bhamaragaṇānukiṇṇaṃ
+         kathaṃ tayā laddham idaṃ vimānaṃ.  || 797 ||
+Vv_IV,12[=47].3    Ambapakkodakaṃ4 yāgu5 sītacchāyā manoramā
+     dhītāya dinnadānena tena me idha labbhati.  || 798 ||
+Vv_IV,12[=47].4       Sandiṭṭhikaṃ6 kammaṃ7 evaṃ8 passatha
+            dānassa damassa saṃyamassa vipākaṃ
+         dāsī ahaṃ ayyakulesu hutvā
+            suṇisā homi agārassa ca9 issarā ti.10 || 799 ||
+                          Ambapetavatthu11 dvādasamaṃ
+&amp;2
+
+--------------------------------------------------------------------------
+&amp;1
+     1 B, N, C, PvA(B) -yoni
+     2 T manussa-; B, N, PvA(B) mānusā
+     3 R, T me
+     4 T, PvA(R) addasa
+&amp;2
+     1 So most but earlier as in PvA(C) supatitthā;
+        B, N, PvA(B) sutitthā
+     2 C mahodika
+     3 R, T, (K), PvA(R) dhārayati
+     4 B, N, PvA(B) -pakkaṃ dakaṃ; (K) pakkūdakaṃ
+     5 R, T, PvA(R) yāguṃ
+     6 R sandiṭṭhakaṃ
+    7 R, T, PvA(R) omit
+     8 R, T, PvA(R) eva
+     9 All but C, PvA(C) omit
+    10 R adds here the verse found in PvA:
+        Asātaṃ sātarūpena piyarūpena appiyaṃ
+        dukkhaṃ sukhassa rūpena pamattaṃ ativattati.
+    11 B, N, PvA(B) Ambavanapetavatthu
+
+[page 093]
+93                                  Mahāvagga
+48 Akkharukkhapetavatthu
+1Yaṃ dadāti na taṃ hoti
+            deth'; eva dānaṃ datvā1 ubhayaṃ tarati
+         ubhayaṃ tena dānena2 gacchati
+            jāgaratha mā pamajjathā ti.  || 800 ||
+                       Akkharukkhapetavatthu3 terasamaṃ
+&amp;1
+49 Bhogasaṃharapetavatthu
+Vv_IV,14[=49].1    Mayaṃ bhoge saṃharimha1 samena visamena ca
+     te aññe paribhuñjanti mayaṃ dukkhassa bhāginī ti.  || 801 ||
+                       Bhogasaṃharapetavatthu cuddasamaṃ
+&amp;2
+50 Seṭṭhiputtapetavatthu
+Vv_IV,15[=50].1    Saṭṭhivassasahassāni paripuṇṇāni sabbaso
+     niraye paccamānānaṃ kadā anto bhavissati.  || 802 ||
+Vv_IV,15[=50].2    Natthi anto kuto anto na anto patidissati1
+     tathā hi pakataṃ pāpaṃ mama2 tuyhañ ca mārisa.2 || 803 ||
+
+--------------------------------------------------------------------------
+&amp;1
+     1 R, T datvāna
+     2 B, N, PvA(R, B) omit; (P) omits but inserts dānaṃ before ubhayaṃ
+     3 C Ambarukkha-
+&amp;2
+     1 C, PvA(C) saṃhariṃhā
+
+[page 094]
+94                                  Petavatthu
+Vv_IV,15[=50].3    Dujjīvitam ajīvamha3 ye4 sante na dadamhase4
+     santesu deyyadhammesu dīpaṃ nākamha attano.  || 804 ||
+Vv_IV,15[=50].4    So hi5 nūna ito gantvā yoniṃ laddhāna mānusiṃ
+     vadaññū sīlasampanno kāhāmi kusalaṃ bahun ti.  || 805 ||
+                      Seṭṭhiputtapetavatthu pannarasamaṃ
+&amp;1
+51 Saṭṭhikūṭasahassapetavatthu
+Vv_IV,16[=51].1    Kin nu ummattarūpo va1 migo bhanto va dhāvasi
+     nissaṃsayaṃ pāpakammanto2 kin nu saddāyase3 tuvaṃ.  || 806 ||
+Vv_IV,16[=51].2    Ahaṃ bhadante4 peto 'mhi duggato Yamalokiko
+     pāpakammaṃ karitvāna petalokam ito gato.  || 807 ||
+Vv_IV,16[=51].3    Saṭṭhikūṭasahassāni paripuṇṇāni sabbaso
+     sīse mayhaṃ nipatanti te bhindanti ca matthakaṃ.  || 808 ||
+Vv_IV,16[=51].4    Kin nu kāyena vācāya manasā dukkaṭaṃ kaṭaṃ
+     kissa kammacipākena idaṃ dukkhaṃ nigacchasi.  || 809 ||
+Vv_IV,16[=51].5    Saṭṭhikūṭasahassāni paripuṇṇāni sabbaso
+     sīse tuyhaṃ nipatanti te bhindanti ca matthakaṃ.  || 810 ||
+Vv_IV,16[=51].6    Ath'; addasāsim5 sambuddhaṃ Sunettaṃ bhāvitindriyaṃ
+     nisinnaṃ rukkhamūlasmiṃ jhāyantam akutobhayaṃ.  || 811 ||
+Vv_IV,16[=51].7    Sālittakappahārena bhindissaṃ6 tassa matthakaṃ
+     tassa kammavipākena idaṃ dukkhaṃ nigacchisaṃ.7 || 812 ||
+Vv_IV,16[=51].8    Saṭṭhikūṭasahassāni paripuṇṇāni sabbaso
+     sīse mayhaṃ nipatanti te bhindanti ca matthakaṃ.  || 813 ||
+Vv_IV,16[=51].9    Dhammena te kāpurisa,
+     saṭṭhikūṭasahassāni paripuṇṇāni sabbaso
+     sīse tuyham nipatanti te bhindanti ca matthakan ti.  || 814 ||
+                    Saṭṭhikūṭasahassapetavatthu soḷasamaṃ
+                             BHĀṆAVĀRAṂ CATUTTHAṂ
+
+--------------------------------------------------------------------------
+&amp;1
+     1 T, B, N, PvA(R, B) paṭi-
+     2 B, N, PvA(R, B) tuyhaṃ mayhañ ca mārisā
+     3 R, T -jīvamha
+     4 (P), (B1) yesaṃ no na dadamhase
+     5 B, N, PvA(B) 'haṃ
+
+[page 095]
+95                                  Mahāvagga
+     Tass'; uddānaṃ:8
+     Ambasakkharo Serīsako Piṅgalo Revati-ucchukhādakā9
+     dve kumārā dve10 gūthā10 gaṇa-Pāṭali-pokkharañ ca11
+     akkharukkha12-bhogasaṃharā13 seṭṭhiputta-sālittakā14
+     iti15 soḷasavatthūni15 vaggo tena pavaccatī ti.
+                              Petavatthu samattaṃ
+                              MAHĀVAGGO CATUTTHO
+
+--------------------------------------------------------------------------
+     1 R ca
+     2 R, T, PvA(R) -kammaṃ
+     3 R, T saddayase; (B1), PvA(R) saddahase; (B2) saddhāyase;
+        PvA confirms reading saddāyase here.
+     4 R, T bhante; (B2), PvA(R) bhaddan te; C bhaddanta
+     5 R, T, PvA(R) 'ddusāsiṃ
+     6 R adds vo; T adds bho before bhind-
+     7 R, T nigacchati; (P), PvA(R) -issaṃ
+     8 Not in R
+     9 T Revatī ucchukhādako; B, N omit khādakā; (P) -uchubhadako(!)
+    10 C dve (omits gūthā); B, N duve gūthā; T, (P) dve gūthabhojanā
+    11 B, N -Pāṭali-ambavanaṃ; T, (P) Pāṭali-pokkharaṇī
+    12 C ambarukkha; T akkhako; (P) akkhahato
+   13 C sokasaṃharā
+    14 B, N -saṭṭhikūṭā; T -saṭṭhikūṭasahassāni
+    15 C saṭṭhikūṭasahassāni
+
+
+

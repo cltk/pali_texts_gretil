@@ -1,0 +1,1498 @@
+
+
+Dhammapada
+
+Input by John Richards                               Stackpole Elidor (UK)
+                        jhr@elidor.demon.co.uk
+-------------------------------------------------------------------------
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+
+Dhammapada
+
+1. Yamaka-vagga
+
+Mano-pubbaṅgamā dhammā mano-seṭṭhā mano-mayā
+Manasā ce paduṭṭhena bhāsati vā karoti vā
+Tato naṃ dukkham anveti cakkaṃ va vahato padaṃ. 1
+
+Mano-pubbaṅgamā dhammā mano-seṭṭhā mano-mayā
+Manasā ce pasannena bhāsati vā karoti vā
+Tato naṃ sukham anveti chayā va anapāyinī. 2
+
+Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me
+Ye ca taṃ upanayhanti veraṃ tesaṃ na sammati. 3
+
+Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me
+Ye ca taṃ n'upanayhanti veraṃ tes'ūpasammati. 4
+
+Na hi verena verāni sammant'īdha kudācanaṃ
+Averena ca sammanti esa dhammo sanantano. 5
+
+Pare ca na vijānanti mayam ettha yamāmase
+Ye ca tattha vijānanti tato sammanti medhagā. 6
+
+Subh'ānupassiṃ viharantaṃ indriyesu asaṃvutaṃ
+Bhojanamhi c'āmattaññuṃ kusītaṃ hīna-vīriyaṃ
+Taṃ ve pasahati māro vāto rukkhaṃ va dubbalaṃ. 7
+
+Asubh'ānupassiṃ viharantaṃ indriyesu susaṃvutaṃ
+Bhojanamhi ca mattaññuṃ saddhaṃ āraddha-vīriyaṃ
+Taṃ ve na'ppasahati māro vāto selaṃ va pabbataṃ. 8
+
+Anikkasāvo kāsāvaṃ yo vatthaṃ paridahissati
+Apeto dama-saccena na so kāsāvaṃ arahati. 9
+
+Yo ca vanta-kasāv'assa sīlesu susamāhito
+Upeto dama-saccena sa ve kāsāvam arahati. 10
+
+Asāre sāra-matino sāre c'āsāra-dassino
+Te sāraṃ n'ādhigacchanti micchā-saṅkappa-gocarā. 11
+
+Sārañ ca sārato ñatvā asārañ ca asārato
+Te sāram adhigacchanti sammā-saṅkappa-gocarā. 12
+
+Yathā agāraṃ ducchannaṃ vuṭṭhi samativijjhati
+Evaṃ abhāvitaṃ cittaṃ rāgo samativijjhati. 13
+
+Yathā agāraṃ succhannaṃ vuṭṭhi na samativijjhati
+Evaṃ subhāvitaṃ cittaṃ rāgo na samativijjhati. 14
+
+Idha socati pecca socati pāpa-kārī abhay'attha socati
+So socati so vihaññati disvā kamma-kiliṭṭham attano. 15
+
+Idha modati pecca modati kata-puñño abhay'attha modati
+So modati so pamodati disvā kamma-visuddhim attano. 16
+
+Idha tappati pecca tappati pāpa-kārī ubhay'attha tappati
+Pāpaṃ me katan ti tappati bhiyyo tappati duggatiṃ gato. 17
+
+Idha nandati pacca nandati kata-puñño ubhay'attha nandati
+Puññaṃ me katan ti nandati bhiyyo nandati suggatiṃ gato. 18
+
+Bahum pi ce saṃhitaṃ bhāsamāno na takkaro hoti naro pamatto
+Gopo va gāvo gaṇayaṃ paresaṃ na bhāgavā sāmaññassa hoti. 19
+
+Appam pi ce saṃhitaṃ bhāsamāno dhammassa hoti anudhamma-cārī
+Rāgañ ca dosañ ca pahāya mohaṃ samma-ppajāno suvimutta-citto
+Anupādiyāno idha vā huraṃ vā sa bhāgavā sāmaññassa hoti. 20
+
+2. Appamāda-vagga
+
+Appamādo amata-padaṃ pamādo maccuno padaṃ
+Appamattā na mīyanti ye pamattā yathā matā. 21
+
+Evaṃ visesato ñatvā appamādamhi paṇḍitā
+Appamāde pamodanti ariyānaṃ gocare ratā. 22
+
+Te jhāyino sātatikā niccaṃ daḷha-parakkamā
+Phusanti dhīrā nibbānaṃ yoga-kkhemaṃ anuttaraṃ. 23
+
+Uṭṭhānavato satīmato suci-kammassa nisamma-kārino
+Saññatassa dhamma-jīvino appamattassa yaso'bhivaḍḍhati. 24
+
+Uṭṭhānen' appamādena saṃyamena damena ca
+Dīpaṃ kayirātha medhāvī yaṃ ogho n'ābhikīrati. 25
+
+Pamādaṃ anuyuñjanti bālā dummedhino janā
+Appamādaṃ ca medhāvī dhanaṃ seṭṭhaṃ va rakkhati. 26
+
+Mā pamādam anuyuñjetha mā kāma-rati-santhavaṃ
+Appamatto hi jhāyanto pappoti vipulaṃ sukhaṃ. 27
+
+Pamādaṃ appamādena yadā nudati paṇḍito
+Paññā-pāsādam āruyha asoko sokiniṃ pajaṃ
+Pabbata-ṭṭho va bhūma-ṭṭhe dhīro bāle avekkhati. 28
+
+Appamatto pamattesu suttesu bahu-jāgaro
+Abal'assaṃ va sīgh-asso hitvā yāti sumedhaso. 29
+
+Appamādena maghavā devānaṃ seṭṭhataṃ gato
+Appamādaṃ pasaṃsanti pamādo garahito sadā. 30
+
+Appamāda-rato bhikkhu pamāde bhaya-dassi vā
+Saṃyojanaṃ aṇuṃ thūlaṃ ḍahaṃ aggī va gacchati. 31
+
+Appamāda-rato bhikkhu pamāde bhaya-dassi vā
+Abhabbo parihānāya nibbānass'eva santike. 32
+
+3. Citta-vagga
+
+Phandanaṃ capalaṃ cittaṃ dūrakkhaṃ dunnivārayaṃ
+Ujuṃ karoti medhāvī usu-kāro va tejanaṃ. 33
+
+Vārijo va thale khitto okam-okata-ubhato
+Pariphandat' idaṃ cittaṃ māra-dheyyaṃ pahātave. 34
+
+Dunniggahassa lahuno yattha-kāma-nipātino
+Cittassa damatho sādhu cittaṃ dantaṃ sukh'āvahaṃ. 35
+
+Sududdasaṃ sunipuṇaṃ yattha-kāma-nipātinaṃ
+Cittaṃ rakkhetha medhāvī cittaṃ guttaṃ sukh'āvahaṃ. 36
+
+Dūraṅgamaṃ eka-caraṃ asarīraṃ guhā-sayaṃ
+Ye cittaṃ saṃyamissanti mokkhanti māra-bandhanā. 37
+
+Anavaṭṭhita-cittassa saddhammaṃ avijānato
+Pariplava-pasādassa paññā na paripūrati. 38
+
+Anavassuta-cittassa ananvāhata-cetaso
+Puñña-pāpa-pahīnassa n'atthi jāgarato bhayaṃ. 39
+
+Kumbh'ūpamaṃ kāyam imaṃ viditvā nagarūpamaṃ cittaṃ idaṃ ṭhapetvā
+Yodhetha māraṃ paññā-vudhena jitaṃ ca rakkhe anivesano siyā. 40
+
+Aciraṃ vat'ayaṃ kāyo pathaviṃ adhisessati
+Chuddho apeta-viññāṇo niratthaṃ va kaliṅgaraṃ. 41
+
+Diso disaṃ yaṃ taṃ kayirā verī vā pana verinaṃ
+Micchā-paṇihitaṃ cittaṃ pāpiyo naṃ tato kare. 42
+
+Na taṃ mātā pitā kayirā aññe vā pi ca ñātakā
+Sammā-paṇihitaṃ cittaṃ seyyaso naṃ tato kare. 43
+
+4. Puppha-vagga
+
+Ko imaṃ pathaviṃ vicessati yama-lokaṃ ca imaṃ sadevakaṃ
+Ko dhamma-padaṃ sudesitaṃ kusalo puppham iva pacessati. 44
+
+Sekho pathaviṃ vicessati yama-lokaṃ ca imaṃ sadevakaṃ
+Sekho dhamma-padaṃ sudesitaṃ kusalo puppham iva pacessati. 45
+
+Pheṇ'ūpamaṃ kāyam imaṃ viditvā marīci-dhammaṃ abhisambudhāno
+Chetvāna mārassa papupphakāni adassanaṃ maccu-rājassa gacche. 46
+
+Pupphāni h'eva pacinantaṃ byāsatta-manasaṃ naraṃ
+Suttaṃ gāmaṃ mah'ogho va maccu ādāya gacchati. 47
+
+Pupphāni h'eva pacinantaṃ byāsatta-manasaṃ naraṃ
+Atittaññ eva kāmesu antako kurute vasaṃ. 48
+Yathā pi bhamaro pupphaṃ vaṇṇa-gandhaṃ ahethayaṃ
+Paleti rasam ādāya evaṃ gāme munī care. 49
+
+Na paresaṃ vilomāni na paresaṃ kat'ākataṃ
+Attano va avekkheyya katāni akatāni ca. 50
+
+Yathā pi ruciraṃ pupphaṃ vaṇṇa-vantaṃ agandhakaṃ
+Evaṃ subhāsitā vācā aphalā hoti akubbato. 51
+
+Yathā pi ruciraṃ pupphaṃ vaṇṇa-vantaṃ sagandhakaṃ
+Evaṃ subhāsitā vācā saphalā hoti sakubbato. 52
+
+Yathā pi puppha-rāsimhā kāyirā mālā-guṇe bahū
+Evaṃ jātena maccena kattabbaṃ kusalaṃ bahuṃ. 53
+
+Na puppha-gandho paṭivātam eti na candanaṃ tagara-mallikā vā
+Sataṃ ca gandho paṭivātam eti sabbā disā sappuriso pavāyati. 54
+
+Candanaṃ tagaraṃ vā pi uppalaṃ atha vassikī
+Etesaṃ gandha-jātānaṃ sīla-gandho anuttaro. 55
+
+Appa-matto ayaṃ gandho y'āyaṃ tagara-candanī
+Yo ca sīla-vataṃ gandho vāti devesu attamo. 56
+
+Tesaṃ sampanna-sīlānaṃ appamāda-vihārinaṃ
+Sammad-aññā vimuttānaṃ māro maggaṃ na vindati. 57
+
+Yathā saṅkāra-dhānasmiṃ ujjhitasmiṃ mahā-pathe
+Padumaṃ tattha jāyetha suci-gandhaṃ mano-ramaṃ. 58
+
+Evaṃ saṅkāra-bhūtesu andha-bhūte puthu-jjane
+Atirocati paññāya sammā-sambuddha-sāvako. 59
+
+5. Bāla-vagga
+
+Dīghā jāgarato ratti dīghaṃ santassa yojanaṃ
+Dīgho bālānaṃ saṃsāro saddhammaṃ avijānataṃ. 60
+
+Caraṃ ce n'ādhigaccheyya seyyaṃ sadisam attano
+Eka-cariyaṃ daḷhaṃ kayirā n'atthi bāle sahāyatā. 61
+
+Puttā m'atthi dhanaṃ m'atthi iti bālo vihaññati
+Attā hi attano n'atthi kuto puttā kuto dhanaṃ. 62
+
+Yo bālo maññati bālyaṃ paṇḍito vā'pi tena so
+Bālo ca paṇḍita-mānī sa ve bālo ti vuccati. 63
+
+Yāva-jīvam pi ce bālo paṇḍitaṃ payirupāsati
+Na so dhammaṃ vijānāti dabbī sūpa-rasaṃ yathā. 64
+
+Muhuttam api ce viññū paṇḍitaṃ payirupāsati
+Khippaṃ dhammaṃ vijānāti jivhā sūpa-rasaṃ yathā. 65
+
+Caranti bālā dummedhā amitten'eva attanā
+Karontā pāpakaṃ kammaṃ yaṃ hoti kaṭuka-pphalaṃ. 66
+
+Na taṃ kammaṃ kataṃ sādhu yaṃ katvā anutappati
+Yassa assu-mukho rodaṃ vipākaṃ paṭisevati. 67
+
+Taṃ ca kammaṃ kataṃ sādhu yaṃ katvā n'ānutappati
+Yassa patīto sumano vipākaṃ paṭisevati. 68
+
+Madhuṃ vā maññati bālo yāva pāpaṃ na paccati
+Yadā ca paccati pāpaṃ atha dukkhaṃ nigacchati. 69
+
+Māse māse kus'aggena bālo bhuñjeyya bhojanaṃ
+Na so saṅkhāta-dhammānaṃ kalaṃ agghati soḷasiṃ. 70
+
+Na hi pāpaṃ kataṃ kammaṃ sajju-khīraṃ va muccati
+Ḍahaṃ taṃ bālam anveti bhasma-cchanno va pāvako. 71
+
+Yāvad-eva anatthāya ñattaṃ bālassa jayati
+Hanti bālassa sukkaṃsaṃ muddham assa vipātayaṃ. 72
+
+Asantaṃ bhāvanaṃ iccheyya purekkhāraṃ ca bhikkhusu
+Āvāsesu ca issariyam pūjaṃ para-kulesu ca. 73
+
+Mam'eva kata maññantu gihī pabbajitā ubho
+Mam'ev'ātivasā assu kicc'ākiccesu kismici
+Iti bālassa saṅkappo icchā māno ca vaḍḍhati. 74
+
+Aññā hi lābh'ūpanisā aññā nibbāna-gāminī
+Evam etaṃ abhiññāya bhikkhu buddhassa sāvako
+Sakkāraṃ n'ābhinandeyya vivekam anubhūhaye. 75
+
+6. Paṇḍita-vagga
+
+Nidhīnaṃ va pavattāraṃ yaṃ passe vajja-dassinaṃ
+Niggayha-vādiṃ medhāviṃ tādisaṃ paṇḍitaṃ bhaje
+Tādisaṃ bhajamānassa seyyo hoti na pāpiyo. 76
+
+Ovadeyy'ānusāseyya asabbhā ca nivāraye
+Sataṃ hi so piyo hoti asataṃ hoti appiyo. 77
+
+Na bhaje pāpake mitte na bhaje puris'ādhame
+Bhajetha mitte kalyāṇe bhajetha puris'uttame. 78
+
+Dhamma-pīti sukhaṃ seti vippasannena cetasā
+Ariya-ppavedite dhamme sadā ramati paṇḍito. 79
+
+Udakaṃ hi nayanti nettikā usu-kārā namayanti tejanaṃ
+Dāruṃ namayanti tacchakā attānaṃ damayanti paṇḍitā. 80
+
+Selo yathā eka-ghano vātena na samīrati
+Evaṃ nindā-pasaṃsāsu na samiñjanti paṇḍitā. 81
+
+Yathā pi rahado gambhīro vippasanno anāvilo
+Evaṃ dhammāni sutvāna vippasīdanti paṇḍitā. 82
+
+Sabbattha ve sappurisā cajanti na kāma-kāmā lapayanti santo
+Sukhena phuṭṭhā atha vā dukhena na ucc'āvacaṃ paṇḍitā dassayanti.
+83
+
+Na atta-hetu na parassa hetu na puttam icche na dhanaṃ na raṭṭhaṃ
+Na iccheyya adhammena samiddhim attano sa sīlavā paññavā dhammiko
+siyā. 84
+
+Appakā te manussesu ye janā pāra-gāmino
+Ath'āyaṃ itarā pajā tīram ev'ānudhāvati. 85
+
+Ye ca kho sammad-akkhāte dhamme dhamm'ānuvattino
+Te janā pāram essanti maccu-dheyyaṃ suduttaraṃ. 86
+
+Kaṇhaṃ dhammaṃ vippahāya sukkaṃ bhāvetha paṇḍito
+Okā anokam āgamma viveke yattha dūramaṃ. 87
+
+Tatr'ābhiratiṃ iccheyya hitvā kāme akiñcano
+Pariyodapeyya attānaṃ citta-klesehi paṇḍito. 88
+
+Yesaṃ sambodhiy'aṅgesu sammā cittaṃ subhāvitaṃ
+Ādāna-paṭinissagge anupādāya ye ratā
+Khīṇ'āsavā jutimanto te loke parinibbutā. 89
+
+7. Arahanta-vagga
+
+Gat'addhino visokassa vippamuttassa sabbadhi
+Sabba-gantha-ppahīnassa pariḷāho na vijjati. 90
+
+Uyyuñjanti satīmanto na nikete ramayanti te
+Haṃsā va pallalaṃ hitvā okam-okaṃ jahanti te. 91
+
+Yesaṃ sannicayo n'atthi ye pariññāta-bhojanā
+Suññato animitto ca vimokkho yesaṃ gocaro
+Ākāse va sakuntānaṃ gati tesaṃ dur-annayā. 92
+
+Yass'āsavā parikkhīnā āhāre ca anissito
+Suññato animitto ca vimokkho yassa gocaro
+Ākāse va sakuntānaṃ padaṃ tassa dur-annayaṃ. 93
+
+Yass'indriyāni samathaṃ gatāni assā yathā sārathinā sudantā
+Pahīna-mānassa anāsavassa devā pi tassa pihayanti tādino. 94
+
+Pathavi-samo no virujjhati indakhīl'upamo tādi subbato
+Rahado va apeta-kaddamo saṃsārā na bhavanti tādino. 95
+
+Santaṃ tassa manaṃ hoti santā vācā ca kamma ca
+Sammad-aññā vimuttassa upasantassa tādino. 96
+
+Asaddho akata'aññū ca sandhi-cchedo ca yo naro
+Hat'āvakāso vant'āso sa ve uttama-poriso. 97
+
+Gāme vā yadi vā'raññe ninne vā yadi vā thale
+Yattha arahanto viharanti taṃ bhūmi-rāmaṇeyyakaṃ. 98
+
+Ramaṇīyāni araññāni yattha na ramatī jano
+Vīta-rāgā ramissanti na te kāma-gavesino. 99
+
+8. Sahassa-vagga
+
+Sahassam api ce vācā anattha-pada-saṃhitā
+Ekaṃ attha-padaṃ seyyo yaṃ sutvā upasammati. 100
+
+Sahassam api ce gāthā anattha-pada-saṃhitā
+Ekaṃ gāthā-padaṃ seyyo yaṃ sutvā upasammati. 101
+
+Yo ce gāthā sataṃ bhāse anattha-pada-saṃhitaṃ
+Ekaṃ dhamma-padaṃ seyyo yaṃ sutvā upasammati. 102
+
+Yo sahassaṃ sahassena saṅgāme māsuse jine
+Ekaṃ ca jeyyaṃ attānaṃ sa ve saṅgama-j'uttamo. 103
+
+Attā ha've jitaṃ seyyo yā c'āyaṃ itarā pajā
+Atta-dantassa posassa niccaṃ saññata-cārino. 104
+
+N'eva devo na gandhabbo na māro saha brāhmunā
+Jitaṃ apajitaṃ kayirā tathā-rūpassa jantuno. 105
+
+Māse māse sahassena yo yajetha sataṃ samaṃ
+Ekaṃ ca bhāvit'attānaṃ muhuttam api pūjaye
+Sā yeva pūjanā seyyo yaṃ ce vassasataṃ hutaṃ. 106
+
+Yo ca vassa-sataṃ jantu aggiṃ paricare vane
+Ekaṃ ca bhāvit'attānaṃ muhuttam api pūjaye
+Sā yeva pūjanā seyyo yaṃ ce vassa-sataṃ hutaṃ. 107
+
+Yaṃ kiñci yiṭṭhaṃ va hutaṃ va loke 
+Saṃvaccharaṃ yajetha puñña-pekkho
+Sabbam pi taṃ na catu-bhāgam eti 
+Abhivādanā ujju-gatesu seyyo. 108
+
+Abhivādana-sīlissa niccaṃ vuḍḍhā'pacāyino
+Cattāro dhammā vaḍḍhanti āyu vaṇṇo sukhaṃ balaṃ. 109
+
+Yo ca vassa-sataṃ jīve dussīlo asamāhito
+Ek'āhaṃ jīvitaṃ seyyo sīlavantasssa jhāyino. 110
+
+Yo ca vassa-sataṃ jīve duppañño asamāhito
+Ek'āhaṃ jīvitaṃ seyyo paññavantassa jhāyino. 111
+
+Yo ca vassa-sataṃ jīve kusīto hīna-vīriyo
+Ek'āhaṃ jīvitaṃ seyyo viriyam ārabhato daḷhaṃ. 112
+
+Yo ca vassa-sataṃ jīve apassaṃ udaya-bbayaṃ
+Ek'āhaṃ jīvitaṃ seyyo passato udaya-bbayaṃ. 113
+
+Yo ca vassa-sataṃ jīve apassaṃ amataṃ padaṃ
+Ek'āhaṃ jīvitaṃ seyyo passato amataṃ padaṃ. 114
+
+Yo ca vassa-sataṃ jīve apassaṃ dhammam uttamaṃ
+Ek'āhaṃ jīvitaṃ seyyo passato dhammam uttamaṃ. 115
+
+9. Pāpa-vagga
+
+Abhittharetha kalyāṇe pāpā cittaṃ nivāraye
+Dandhaṃ hi karoto puññaṃ pāpasmiṃ ramatī mano. 116
+
+Pāpaṃ ce puriso kayirā na naṃ kayirā puna-ppunaṃ
+Na tamhi chandaṃ kayirātha dukkho pāpassa uccayo. 117
+
+Puññaṃ ce puriso kayirā kayirā naṃ puna-ppunaṃ
+Tamhi chandaṃ kayirātha sukho puññassa uccayo. 118
+
+Pāpo pi passati bhadraṃ yāva pāpaṃ na paccati
+Yadā ca paccati pāpaṃ atha pāpo pāpāni passati. 119
+
+Bhadro pi passati pāpaṃ yāva bhadraṃ na paccati
+Yadā ca paccati bhadraṃ atha bhadro bhadrāni passati. 120
+
+Mā'vamaññetha pāpassa na mandaṃ āgamissati
+Uda-bindu-nipātena uda-kumbho pi pūrati
+Bālo pūrati pāpassa thoka-thokam pi ācinaṃ. 121
+
+Mā'vamaññetha puññassa na mandaṃ āgamissati
+Uda-bindu-nipātena uda-kumbho pi pūrati
+Dhīro pūrati puññassa thoka-thokam pi ācinaṃ. 122
+
+Vāṇijo va bhayaṃ maggaṃ appa-sattho maha-ddhano
+Visaṃ jīvitu-kāmo va pāpāni parivajjaye. 123
+
+Pāṇimhi ce vaṇo n'āssa hareyya pāṇinā visaṃ
+N'ābbaṇaṃ visam anveti n'atthi pāpaṃ akubbato. 124
+
+Yo appaduṭṭhassa narassa dussati saddhasssa posassa anaṅgaṇassa
+Tam eva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃ va khitto. 125
+
+Gabbham eke uppajjanti nirayaṃ pāpa-kammino
+Saggaṃ sugatino yanti parinibbanti anāsavā. 126
+
+Na antalikkhe na samudda-majjhe na pabbatānaṃ vivaraṃ pavissa
+Na vijjatī so jagati-ppadeso yattha-ṭṭhito mucceyya pāpa-kammā.
+127
+
+Na antalikkhe na samudda-majjhe na pabbatānaṃ vivaraṃ pavissa
+Na vijjatī so jagati-ppadeso yattha-ṭṭhitaṃ na=ppasaheyya maccu.
+128
+10. Daṇḍa-vagga
+
+Sabbe tasanti daṇḍassa sabbe bhāyanti maccuno
+Attānaṃ upamaṃ katvā na haneyya na ghātaye. 129
+
+Sabbe tasanti daṇḍassa sabbesaṃ jīvitaṃ piyaṃ
+Attānaṃ upamaṃ katvā na haneyya na ghātaye. 130
+
+Sukha-kāmāni bhūtāni yo daṇḍena vihiṃsati
+Attano sukham esāno pecca so na labhate sukhaṃ. 131
+
+Sukha-kāmāni bhūtāni yo daṇḍena na vihiṃsati
+Attano sukham esāno pecca so labhate sukhaṃ. 132
+
+Mā'voca pharusaṃ kañci vuttā paṭivadeyyu taṃ
+Dukkhā hi sārambha-kathā paṭi daṇḍā phuseyyu taṃ. 133
+
+Sace n'eresi attānaṃ kaṃso upahato yathā
+Esa patto'si nibbānaṃ sārambho te na vijjati. 134
+
+Yathā daṇḍena gopālo gāvo pājeti gocaraṃ
+Evaṃ jarā ca maccu ca āyuṃ pājenti pāṇinaṃ. 135
+
+Atha pāpāni kammāni karaṃ bālo na bujjhati
+Sehi kammehi dummedho aggi-daḍḍho va tappati. 136
+
+Yo daṇḍena adaṇḍesu appaduṭṭhesu dussati
+Dasannam aññataraṃ ṭhānaṃ khippam eva nigacchati. 137
+
+Vedanaṃ pharusaṃ jāniṃ sarīrassa ca bhedanaṃ
+Garukaṃ vā pi ābādhaṃ citta-kkhepaṃ va pāpuṇe. 138
+
+Rājato vā upasaggaṃ abbhakkhānaṃ ca dāruṇaṃ
+Parikkhayaṃ va ñātīnaṃ bhogānaṃ va pabhaṅguraṃ. 139
+
+Atha v'āssa agārāni aggi ḍahati pāvako
+Kāyassa bhedā duppañño nirayaṃ so'papajjati. 140
+
+Na nagga-cariyā na jaṭā na paṅkā
+Nā'nāsakā thaṇḍila-sāyikā vā
+Rajo-jallaṃ ukkuṭika-ppadhānaṃ
+Sodhenti maccaṃ avitiṇṇa-kaṅkhaṃ. 141
+
+Alaṅkato ce pi samaṃ careyya
+Santo danto niyato brahma-cārī
+Sabbesu bhūtesu nidhāya daṇḍaṃ
+So brāhmaṇo so samaṇo sa bhikkhu. 142
+
+Hirī-nisedho puriso koci lokasmiṃ vijjati
+Yo nindaṃ apabodheti asso bhadro kasām iva. 143
+
+Asso yathā bhadro kasā-niviṭṭho ātāpino saṃvegino bhavātha
+Saddhāya sīlena ca vīriyena ca samādhinā dhamma-vinicchayena ca
+Sampanna-vijjā-caraṇā patissatā jahissatha dukkham idaṃ
+anappakaṃ. 144
+
+Udakaṃ hi nayanti nettikā usu-kārā namayanti tejanaṃ
+Dāruṃ namayanti tacchakā attānaṃ damayanti subbatā. 145
+
+11. Jarā-vagga
+
+Ko nu hāso kim ānando niccaṃ pajjalite sati
+Andha-kārena onaddhā padīpaṃ na gavesatha. 146
+
+Passa citta-kataṃ bimbaṃ aru-kāyaṃ samussitaṃ
+Āturaṃ bahu-saṅkappaṃ yassa n'atthi dhuvaṃ ṭhiti. 147
+
+Pari jiṇṇam idaṃ rūpaṃ roga-nīḷaṃ pabhaṅguraṃ
+Bhijjati pūti-sandeho maraṇ-antaṃ hi jīvitaṃ. 148
+
+Yān'imāni apatthāni alābun'eva sārade
+Kāpotakāni aṭṭhīni tāni disvāna kā rati. 149
+
+Aṭṭhīnaṃ nagaraṃ kataṃ maṃsa-lohita-lepanaṃ
+Yattha jarā ca maccu ca māno makkho ca ohito. 150
+
+Jīranti ve rāja-rathā sucittā atho sarīram pi jaraṃ upeti
+Sataṃ ca dhammo na jaraṃ upeti santo ha've sabbhi pavedayanti.
+151
+
+Appa-ssut'āyaṃ puriso balivaddo va jīrati
+Maṃsāni tassa vaḍḍhanti paññā tassa na vaḍḍhati. 152
+
+Aneka-jāti-saṃsāraṃ sandhāvissaṃ anibbisaṃ
+Gaha-kāraṃ gavesanto dukkhā jāti puna-ppunaṃ. 153
+
+Gaha-kāraka diṭṭho'si puna gehaṃ na kāhasi
+Sabbā te phāsukā bhaggā gaha-kūṭaṃ visaṅkhataṃ
+Visaṅkhāra-gataṃ cittaṃ taṇhānaṃ khayam ajjhagā. 154
+
+Acaritvā brahma-cariyaṃ aladdhā yobbane dhanaṃ
+Jiṇṇa-koñcā va jhāyanti khīṇa-macche va pallale. 155
+
+Acaritvā brahma-cariyaṃ aladdhā yobbane dhanaṃ
+Senti cāp'ātikhīṇā va purāṇāni anutthunaṃ. 156
+
+11. Atta-vagga
+
+Attānaṃ ce piyaṃ jaññā rakkheyya naṃ surakkhitaṃ
+Tiṇṇaṃ aññataraṃ yāmaṃ paṭi jaggeyya paṇḍito. 157
+
+Attānam eva paṭhamaṃ patirūpe nivesaye
+Ath'aññam anusāseyya na kilisseyya paṇḍito. 158
+
+Attānaṃ ce tathā kayirā yath'aññam anusāsati
+Sudanto vata dametha attā hi kira duddamo. 159
+Attā hi attano nātho ko nātho paro siyā
+Attanā hi sudantena nāthaṃ labhati dullabhaṃ. 160
+
+Attanā hi kataṃ pāpaṃ atta-jaṃ atta-sambhavaṃ
+Abhimatthati dummedhaṃ vajiraṃ v'asma-mayaṃ maṇiṃ. 161
+
+Yassa accanta-dussilyaṃ māluvā sālam iv'otthataṃ
+Karoti so tath'attānaṃ yathā naṃ icchati diso. 162
+
+Sukarāni asādhūni attano ahitāni ca
+Yaṃ ve hitaṃ ca sādhuṃ ca taṃ ve parama-dukkaraṃ. 163
+
+Yo sāsanaṃ arahataṃ ariyānaṃ dhamma-jīvinaṃ
+Paṭikosati dummedho diṭṭhiṃ nissāya pāpikaṃ
+Phalāni kaṭṭhakass'eva atta-ghātāya phallati. 164
+
+Attanā hi kataṃ pāpaṃ attanā saṅkilissati
+Attanā akataṃ pāpaṃ attanā va visujjhati
+Suddhi asuddhi paccattaṃ n'āñño aññaṃ visodhaye. 165
+
+Atta-d-attaṃ par'atthena bahunā pi na hāpaye
+Atta-d-attham abhiññāya sad-attha-pasuto siyā. 166
+
+13. Loka-vagga
+
+Hīnaṃ dhammaṃ na seveyya pamādena na saṃvase
+Micchā-diṭṭhiṃ na seveyya na siyā loka-vaḍḍhano. 167
+
+Uttiṭṭhe na-ppamajjeyya dhammaṃ sucaritaṃ care
+Dhamma-cārī sukhaṃ seti asmiṃ loke paramhi ca. 168
+
+Dhammaṃ care sucaritaṃ ta taṃ duccaritaṃ care
+Dhamma-cārī sukhaṃ seti asmiṃ loke paramhi ca. 169
+
+Yathā bubbuḷakaṃ passe yathā passe marīcikaṃ
+Evaṃ lokaṃ avekkhantaṃ maccu-rājā na passati. 170
+
+Etha passath'imaṃ lokaṃ cittaṃ rāja-rath'ūpamaṃ
+Yattha bālā visīdanti natthi saṅgo vijānataṃ. 171
+
+Yo ca pubbe pamajjitvā pacchā so na-ppamajjati
+So imaṃ lokaṃ pabhāseti abbhā mutto va candimā. 172
+
+Yassa pāpaṃ kataṃ kammaṃ kusalena pidhīyati
+So imaṃ lokaṃ pabhāseti abbhā mutto va candimā. 173
+
+Andha-bhūto ayaṃ loko tanuk'ettha vipassati
+sakuṇo jāla-mutto va appo saggāya gacchati. 174
+
+Haṃs'ādicca-pathe yanti ākāse yanti iddhiyā
+Nīyanti dhīrā lokamhā jetvā māraṃ savāhiniṃ. 175
+
+Ekaṃ dhammaṃ atītassa musāvādissa jantuno
+Vitiṇṇa-para-lokassa n'atthi pāpaṃ akāriyaṃ. 176
+
+Na ve kadariyā deva-lokaṃ vajanti bālā ha've na-ppasaṃsanti dānaṃ
+Dhīro ca dānaṃ anumodamāno ten'eva so hoti sukhī parattha. 177
+
+Pathavyā eka-rajjena saggassa gamanena vā
+Sabba-lok'ādhipaccena sot'āpatti-phalaṃ varaṃ. 178
+
+14. Buddha-vagga
+
+Yassa jitaṃ n'āvajīyati jitaṃ yassa no yāti koci loke
+Taṃ buddham ananta-gocaraṃ apadaṃ kena padena nessatha. 179
+
+Yassa jālinī visattikā taṇhā n'atthikuhiñci netave
+Taṃ buddham ananta-gocaraṃ apadaṃ kena padena nessatha. 180
+
+Ye jhāna-pasutā dhīrā nekkhamm'ūpasame ratā
+Devā pi tesaṃ pihayanti sambuddhānaṃ satīmataṃ. 181
+
+Kiccho manussa-paṭilābho kicchaṃ maccāna jīvitaṃ
+Kicchaṃ saddhamma-ssavanaṃ kiccho buddhānam uppādo. 182
+
+Sabba-pāpassa akaraṇaṃ kusalassa upasampadā
+Sa-citta-pariyodapanaṃ etaṃ buddhāna sāsanaṃ. 183
+
+Khantī paramaṃ tapo titikkhā
+Nibbanaṃ paramaṃ vadanti buddhā
+Na hi pabbajito par'ūpaghātī
+Samaṇo hoti paraṃ viheṭhayanto. 184
+
+Anūpavādo anūpaghāto pātimokkhe ca saṃvaro
+Mattaññutā ca bhattasmiṃ pantaṃ ca sayan'āsanaṃ
+Adhicitte ca āyogo etaṃ buddhāna sāsanaṃ. 185
+
+Na kahāpaṇa-vassena titti kāmesu vijjati
+App'assādā dukhā kāmā iti viññāya paṇḍito. 186
+
+Api dibbese kāmesu ratiṃ so n'ādhigacchati
+Taṇha-kkhaya-rato hoti sammā-sambuddha-sāvako. 187
+
+Bahuṃ ve saraṇaṃ yanti pabbatāni vanāni ca
+Ārāma-rukkha-cetyāni manussā bhaya-tajjitā. 188
+
+N'etaṃ kho saraṇaṃ khemaṃ n'etaṃ saraṇam uttamaṃ
+N'etaṃ saraṇam āgamma sabba-dukkhā pamuccati. 189
+
+Yo ca buddhaṃ ca dhammaṃ ca saṅghaṃ ca saraṇaṃ gato
+Cattāri ariya-saccāni samma-ppaññāya passati. 190
+
+Dukkhaṃ dukkha-samuppādaṃ dukkhassa ca atikkamaṃ
+Ariyaṃ c'aṭṭhaṅgikaṃ maggaṃ dukkh'ūpasama-gāminaṃ. 191
+
+Etaṃ kho saraṇaṃ khemaṃ etaṃ saraṇam uttamaṃ
+Etaṃ saraṇam āgamma sabba-dukkhā pamuccati. 192
+
+Dullabo puris'ājañño na so sabbattha jāyati
+Yattha so jāyati dhīro taṃ kulaṃ sukham edhati. 193
+
+Sukho buddhānam uppādo sukhā saddhamma-desanā
+Sukhā saṅghassa sāmaggī samaggānaṃ tapo sukho. 194
+
+Pūj'ārahe pūjayato buddhe yadi va sāvake
+Papañca-samatikkante tiṇṇa-soka-pariddave. 195
+
+Te tādise pūjayato nibbute akuto-bhaye
+Na sakkā puññaṃ saṅkhātuṃ im'ettam api kenaci. 196
+
+15. Sukha-vagga
+
+Susukhaṃ vata jīvāma verinesu averino
+Verinesu manussesu viharāma averino. 197
+
+Susukhaṃ vata jīvāma āturesu anāturā
+Āturesu manussesu viharāma anāturā. 198
+
+Susukhaṃ vata jīvāma ussukesu anussukā
+Ussukesu manussesu viharāma anussukā. 199
+
+Susukhaṃ vata jīvāma yesaṃ no n'atthi kiñcanaṃ
+Pīti-bhakkhā bhavissāma devā ābhassarā yathā. 200
+
+Jayaṃ veraṃ pasavati dukkhaṃ seti parājito
+Upasanto sukhaṃ seti hitvā jaya-parājayaṃ. 201
+
+N'atthi rāga-samo aggi n'atthi dosa-samo kali
+N'atthi khandha-samā dukkhā n'atthi santi-paraṃ sukhaṃ. 202
+
+Jighacchā paramā rogā saṅkhārā paramā dukhā
+Etaṃ ñatvā yathā-bhūtaṃ nibbānaṃ paramaṃ sukhaṃ. 203
+
+Ārogya-paramā lābhā santuṭṭhi-paramaṃ dhanaṃ
+Vissāsa-paramā ñāti nibbānaṃ paramaṃ sukhaṃ. 204
+
+Paviveka-rasaṃ pitvā rasaṃ upasamassa ca
+Niddaro hoti nippāpo dhamma-pīti-rasaṃ pivaṃ. 205
+
+Sādhu dassanam ariyānaṃ sannivāso sadā sukho
+Adassanena bālānaṃ niccam eva sukhī siyā. 206
+
+Bāla-saṅgata-cārī hi dīgham addhāna socati
+Dukkho bālehi saṃvāso amitten'eva sabbadā. 207
+
+Tasmā hi
+Dhīraṃ ca paññaṃ ca bahu-ssutaṃ ca
+Dhorayha-sīlaṃ vata-vantam ariyaṃ
+Taṃ tādisaṃ sappurisaṃ sumedhaṃ
+Bhajetha nakkhatta-pathaṃ ca candimā. 208
+
+16. Piya-vagga
+
+Ayoge yuñjam attānaṃ yogasmiṃ ca ayojanaṃ
+Atthaṃ hitvā piya-ggāhī pihet'att'ānuyoginaṃ. 209
+
+Mā piyehi samāgañchi appiyehi kudācanaṃ
+Piyānaṃ adassanaṃ dukkhaṃ appiyānaṃ ca dassanaṃ. 210
+
+Tasmā piyaṃ na kayirātha piy'āpāyo hi pāpako
+Ganthā tesaṃ na vijjanti yesaṃ n'atthi piy'āppiyaṃ. 211
+
+Piyato jāyatī soko piyato jāyatī bhayaṃ
+Piyato vipamuttassa n'atthi soko kuto bhayaṃ. 212
+
+Pemato jāyatī soko pemato jāyatī bhayaṃ
+Pemato vipamuttassa n'atthi soko kuto bhayaṃ. 213
+
+Ratiyā jāyatī soko ratiyā jāyatī bhayaṃ
+Ratiyā vipamuttassa n'atthi soko kuto bhayaṃ. 214
+
+Kāmato jāyatī soko kāmato jāyatī bhayaṃ
+Kāmato vipamuttassa n'atthi soko kuto bhayaṃ. 215
+
+Taṇhāya jāyatī soko taṇhāya jāyatī bhayaṃ
+Taṇhāya vipamuttassa n'atthi soko kuto bhayaṃ. 216
+
+Sīla-dassana-sampannaṃ dhamma-ṭṭhaṃ sacca-vedinaṃ
+Attano kamma kubbānaṃ taṃ jano kurute piyaṃ. 217
+
+Chanda-jāto anakkhāte manasā ca phuṭo siyā
+Kāmesu ca appaṭibaddha-citto uddhaṃ-soto ti vuccati. 218
+
+Cira-ppavāsiṃ purisaṃ dūrato sotthim āgataṃ
+Ñāti-mittā suhajjā ca abhinandanti āgataṃ. 219
+
+Tath'eva kata-puññam pi asmā lokā paraṃ gataṃ
+Puññāni paṭigaṇhanti piyaṃ ñātī va āgataṃ. 220
+
+17. Kodha-vagga
+
+Kodhaṃ jahe vippajaheyya mānaṃ
+Saṃyojanaṃ sabbam atikkameyya
+Taṃ nāma-rūpasmim asajjamānaṃ
+Akiñcanaṃ n'ānupatanti dukkhā. 221
+
+Yo ve uppatitaṃ kodhaṃ rathaṃ bhantaṃ va vāraye
+Tam ahaṃ sārathiṃ brūmi rasmi-ggāho itaro jano. 222
+
+Akkodhena jine kodhaṃ asādhuṃ sādhunā jine
+Jine kadariyaṃ dānena saccen'ālika-vādinaṃ. 223
+
+Saccaṃ bhaṇe na kujjheyya dajjā appam pi yācito
+Etehi tīhi ṭhānehi gacche devāna santike. 224
+
+Ahiṃsakā ye munayo niccaṃ kāyena saṃvutā
+Te yanti accutaṃ ṭhānaṃ yattha gantvā na socare. 225
+
+Sadā jāgaramānānaṃ aho-ratt'ānusikkhinaṃ
+Nibbānaṃ adhimuttānaṃ atthaṃ gacchanti āsavā. 226
+
+Porāṇam etaṃ atula n'etaṃ ajjatanām iva
+Nindanti tuṇhim āsīnaṃ nindanti bahu-bhāṇinaṃ
+Mita-bhāṇim pi nindanti n'atthi loke anindito. 227
+
+Na c'āhu na ca bhavissati na c'etarahi vijjati
+Ekantaṃ nindito poso ekantaṃ vā pasaṃsito. 228
+
+Yaṃ ce viññū pasaṃsanti anuvicca suve suve
+Acchidda-vuttiṃ medhāviṃ paññā-sīla-samāhitaṃ. 229
+
+Nikkhaṃ jambonadass'eva ko taṃ ninditum arahati
+Devā pi naṃ pasaṃsanti brāhmunā pi pasaṃsito. 230
+
+Kāya-ppakopaṃ rakkheyya kāyena saṃvuto siyā
+Kāya-duccaritaṃ hitvā kāyena sucaritaṃ care. 231
+
+Vacī-ppakopaṃ rakkheyya vācāya saṃvuto siyā
+Vacī-duccaritaṃ hitvā vācāya sucaritaṃ care. 232
+
+Mano-ppakopaṃ rakkheyya manasā saṃvuto siyā
+Mano-duccaritaṃ hitvā manasā sucaritaṃ care. 233
+
+Kāyena saṃvutā dhīrā atho vācāya saṃvutā
+Manasā saṃvutā dhīrā te ve suparisaṃvutā. 234
+
+18. Mala-vagga
+
+Paṇḍu-palāso va dāni'si yama-purisā pi ca te upaṭṭhitā
+Uyyoga-mukhe ca tiṭṭhasi pātheyyam pi ca te na vijjati. 235
+
+So karohi dīpam attano khippaṃ vāyama paṇḍito bhava
+Niddhanta-malo anaṅgaṇo dibbaṃ ariya-bhūmiṃ upehisi. 236
+
+Upanīta-vayo ca dāni'si sampayāto'si yamassa santikaṃ
+Vāso te n'atthi antarā pātheyyam pi ce te na vijjati. 237
+
+So karohi dīpam attano khippaṃ vāyama paṇḍito bhava
+Niddhanta-malo anaṅgaṇo na punaṃ jāti-jaraṃ upehisi. 238
+
+Anupubbena medhāvī thokaṃ thokaṃ khaṇe khaṇe
+Kammāro rajatass'eva niddhame malam attano. 239
+
+Ayasā va malaṃ samuṭṭhitaṃ tat-uṭṭhāya tam eva khādati
+Evaṃ atidhona-cārinaṃ sāni kammāni nayanti duggatiṃ. 240
+Asajjhāya-malā mantā anuṭṭhāna-malā gharā
+Malaṃ vaṇṇassa kosajjaṃ pamādo rakkhato malaṃ. 241
+
+Mal'itthiyā duccaritaṃ maccheraṃ dadato malaṃ
+Malā ve pāpakā dhammā asmiṃ loke paramhi ca. 242
+
+Tato malā malataraṃ avijjā paramaṃ malaṃ
+Etaṃ malaṃ pahantvāna nimmalā hotha bhikkhavo. 243
+
+Sujīvaṃ ahirikena kāka-sūrena dhaṃsinā
+Pakkhandinā pagabbhena saṃkiliṭṭhena jīvitaṃ. 244
+
+Hirīmatā ca dujjīvaṃ niccaṃ suci-gavesinā
+Alīnenā'ppagabbhena suddh'ājīvena passatā. 245
+
+Yo pāṇam atipāteti musā-vādaṃ ca bhāsati
+Loke adinnam ādiyati para-dāraṃ ca gacchati. 246
+
+Surā-meraya-pānaṃ ca yo naro anuyuñjati
+Idh'evam eso lokasmiṃ mūlaṃ khaṇati attano. 247
+
+Evaṃ bho purisa jānāhi pāpa-dhammā asaññatā
+Mā taṃ lobho adhammo ca ciraṃ dukkhāya randhayuṃ. 248
+
+Dadāti ve yathā-saddhaṃ yathā-pasādanaṃ jano
+Tattha yo ca maṅku bhavati paresaṃ pāna-bhojane
+Na so divā vā rattiṃ vā samādhim adhigacchati. 249
+
+Yassa c'etaṃ samucchinnaṃ mūla-ghaccaṃ samūhataṃ
+Sa ve divā vā rattiṃ vā samādhim adhigacchati. 250
+
+N'atthi rāga-samo aggi n'atthi dosa-samo gaho
+N'atthi moha-samaṃ jālaṃ n'atthi taṇhāsamā nadī. 251
+
+Sudassaṃ vajjam aññesaṃ attano pana duddasaṃ
+Paresaṃ hi so vajjāni opunāti yathā bhusaṃ
+Attano pana chādeti kaliṃ va kitavā saṭho. 252
+
+Para-vajj'ānupassissa niccaṃ ujjhāna-saññino
+Āsavā tassa vaḍḍhanti ārā so āsavakkhayā. 253
+
+Ākāse va padaṃ n'atthi samaṇo n'atthi bāhire
+Papañc'ābhiratā pajā nippañcā tathāgatā. 254
+
+Ākāse va padaṃ n'atthi samaṇo n'atthi bāhire
+Saṅhārā sassatā n'atthi n'atthi buddhānam iñjitaṃ. 255
+
+19. Dhamma-vagga
+
+Na tena hoti dhamma'ṭṭho yen'atthaṃ sāhasā naye
+Yo ca atthaṃ anatthaṃ ca ubho niccheyya paṇḍito. 256
+
+Asāhasena dhammena samena nayatī pare
+Dhammassa gutto medhāvī dhamma'ṭṭho hi pavuccati. 257
+
+Na tena paṇḍito hoti yāvatā bahu bhāsati
+Khemī averī abhayo paṇḍito ti pavuccati. 258
+
+Na tāvatā dhamma-dharo yāvatā bahu bhāsati
+Yo ca appam pi sutvāna dhammaṃ kāyena passati
+Sa ve dhamma-dharo hoti yo dhammaṃ na-ppamajjati. 259
+
+Na tena thero so hoti yen'assa palitaṃ siro
+Paripakko vayo tassa moghajiṇṇo ti vuccati. 260
+
+Yamhi saccaṃ ca dhammo ca ahiṃsā saṃyamo dhamo
+Sa ve vanta-malo dhīro thero iti pavuccati. 261
+
+Na vāk-karaṇa-mattena vaṇṇa-pokkharatāya vā
+Sādhu-rūpo naro hoti issukī maccharI saṭho. 262
+
+Yassa c'etaṃ samucchinnaṃ mūla-ghaccaṃ samūhataṃ
+Sa vanta-doso medhāvī sādhu-rūpo ti vuccati. 263
+
+Na muṇḍakena samaṇo abbato alikaṃ bhaṇaṃ
+Icchā-lobha-samāpanno samaṇo kiṃ bhavissati. 264
+
+Yo ca sameti pāpāni aṇuṃ thūlāni sabbaso
+Samitattā hi pāpānaṃ samaṇo ti pavuccati. 265
+
+Na tena bhikkhu so hoti yāvatā bhikkhate pare
+Vissaṃ dhammaṃ samādāya bhikkhu hoti na tāvatā. 266
+
+Yo'dha puññaṃ ca pāpaṃ ca bāhetvā brahma-cariyavā
+Saṅkhāya loke carati sa ve bhikkhū ti  vuccati. 267
+
+Na monena munī hoti mūḷha-rūpo aviddasu
+Yo ca tulaṃ va paggayha  varam ādāya paṇḍito. 268
+
+Pāpāni parivajjeti sa munī tena so muni
+Yo munāti ubho loke muni tena pavuccati. 269
+
+Na tena ariyo hoti yena pāṇāni hiṃsati
+Ahiṃsā sabba-pāṇānaṃ ariyo ti pavuccati. 270
+
+Na sīla-bbata-mattena bāhu-saccena vā pana
+Atha vā samādhi-lābhena vivitta-sayanena vā. 271
+
+Phusāmi nekkhamm-sukhaṃ aputhu-jjana-sevitaṃ
+Bhikkhu vissāsam āpādi appatto āsava-kkhayaṃ. 272
+
+20. Magga-vagga
+
+Maggān'aṭṭhaṅgiko seṭṭho saccānaṃ caturo padā
+Virāgo seṭṭho dhammānaṃ dvi-padānaṃ ca cakkhumā. 273
+
+Eso va maggo n'atth'añño dassanassa visuddhiyā
+Etaṃ ca tumhe paṭipajjatha mārass'etaṃ pamohanaṃ. 274
+
+Etaṃ hi tumhe paṭipannā dukkhass'antaṃ karissatha
+Akkhāto vo mayā maggo aññāya salla-kantanaṃ. 275
+
+Tumhehi kiccam ātappaṃ akkhātāro tathāgatā
+Paṭipannā pamokkhanti jhāyino māra-bandhanā. 276
+
+Sabbe saṅkhārā aniccā ti yadā paññāya passati
+Atha nibbindati dukkhe esa maggo visuddhiyā. 277
+
+Sabbe saṅkhārā dukkhā ti yadā paññāya passati
+Atha nibbindati dukkhe esa maggo visuddhiyā. 278
+
+Sabbe dhammā anattā ti yadā paññāya passati
+Atha nibbindati dukkhe esa maggo visuddhiyā. 279
+Uṭṭāna-kālamhi anuṭṭhahāno
+Yuvā balī ālasiyaṃ upeto
+Saṃsanna-saṅkappa-mano kusīto
+Paññāya maggaṃ alaso na vindati. 280
+
+Vāc'ānurakkhī manasā sṃvuto
+Kāyena ca akusalaṃ na kayirā
+Ete tayo kamma-pathe visodhaye
+Ārādhaye maggam isi-ppaveditaṃ. 281
+
+Yogā ve jāyatī bhūri ayogā bhūri-saṅkhayo
+Etaṃ dvedhā-pathaṃ ñatvā bhavāya vibhavāya ca
+Tath'āttānaṃ niveseyya yathā bhūri pavaḍḍhati. 282
+
+Vanaṃ chindatha mā rukkhaṃ vanato jāyate bhayaṃ
+Chetvā vanaṃ ca vanathaṃ ca nibbanā hotha bhikkhave. 283
+
+Yāva hi vanatho na chijjati
+Aṇu-matto pi narassa nārisu
+Paṭibadda-mano va tāva so
+Vaccho khīra-pako va mātari. 284
+
+Ucchinna sineham attano kumudaṃ sāradikaṃ va pāṇinā
+Santi-maggam eva brūhaya nibbānaṃ sugatena desitaṃ. 285
+
+Idha vassaṃ vasissāmi adha hem'anta-gimhisu
+Iti bālo vicinteti antarāyaṃ na bujjhati. 286
+
+Na putta-pasu-sammattaṃ byāsatta-manasaṃ naraṃ
+Suttaṃ gāmaṃ mah'ogho va maccu ādāya gacchati. 287
+
+Na santi puttā tāṇāya na pitā nā'pi bandhavā
+Antaken'ādhipannassa n'atthi ñātīsu tāṇatā. 288
+
+Etam attha-vasaṃ ñatvā paṇḍito sīla-saṃvuto
+Nibbāna-gamanaṃ maggaṃ khippam eva visodhaye. 289
+
+21. Pakiṇṇaka-vagga
+
+Mattā-sukha-pariccāgā passe ce vipulaṃ sukhaṃ
+Caje mattā-sukhaṃ dhīro sampassaṃ vipulaṃ sukhaṃ. 290
+
+Para-dukkh'ūpadhānena attano sukham icchati
+Vera-saṃsagga-saṃsaṭṭho verā so na parimuccati. 291
+
+Yaṃ hi kiccaṃ apaviddhaṃ akiccaṃ pana kayirati
+Unnaḷānaṃ pamattānaṃ tesaṃ vaḍḍhanti āsavā. 292
+
+Yesaṃ ca susamāraddhā niccaṃ kāya-gatā sati
+Akiccaṃ te na sevanti kicce sātacca-kārino
+Satānaṃ sampajānānaṃ atthaṃ gacchanti āsavā. 293
+
+Mātaraṃ pitaraṃ hantvā rājāno dve ca khattiye
+Raṭṭhaṃ s'ānucaraṃ hantvā anīgho yāti brāhmaṇo. 294
+
+Mātaraṃ pitaraṃ hantvā rājāno dve ca sotthiye
+Veyaggha-pañcamaṃ hantvā anīgho yāti brāhmaṇo. 295
+
+Su-ppabuddhaṃ pabujjhanti sadā gotama-sāvakā
+Yesaṃ divā ca ratto ca niccaṃ buddha-gatā sati. 296
+
+Su-ppabuddhaṃ pabujjhanti sadā gotama-sāvakā
+Yesaṃ divā ca ratto ca niccaṃ dhamma-gatā sati. 297
+
+Su-ppabuddhaṃ pabujjhanti sadā gotama-sāvakā
+Yesaṃ divā ca ratto ca niccaṃ saṅgha-gatā sati. 298
+
+Su-ppabuddhaṃ pabujjhanti sadā gotama-sāvakā
+Yesaṃ divā ca ratto ca niccaṃ kāya-gatā sati. 299
+
+Su-ppabuddhaṃ pabujjhanti sadā gotama-sāvakā
+Yesaṃ divā ca ratto ca ahiṃsāya rato mano. 300
+
+Su-ppabuddhaṃ pabujjhanti sadā gotama-sāvakā
+Yesaṃ divā ca ratto ca bhāvanāya rato mano. 301
+
+Du-ppabbajjaṃ dur-abhiramaṃ dur-āvāsā gharā dukhā
+Dukkho'samāna-saṃvāso dukkh'ānupatit'addhagū
+Tasmā na c'addhagū siyā na ca dukkh'ānupatito siyā. 302
+
+Saddho sīlena sampanno yaso-bhoga-samappito
+Yaṃ yaṃ padesaṃ bhajati tattha tatth'eva pūjito. 303
+
+Dūre santo pakāsenti himavanto va pabbato
+Asant'ettha na dissanti rattiṃ khittā yathā sarā. 304
+
+Ek'āsanaṃ eka-seyyaṃ eko caram atandito
+Eko damayam attānaṃ van'ante ramito siyā. 305
+22. Niraya-vagga
+
+Abhūta-vādī nirayaṃ upeti
+Yo vā pi katvā na karomi c'āha
+Ubho pi pecca samā bhavanti
+Nihīna-kammā manujā parattha. 306
+
+Kāsāva-kaṇṭhā bahavo pāpa-dhammā asaññatā
+Pāpā pāpehi kammehi nirayaṃ te upapajjare. 307
+
+Seyyo ayo-guḷo bhutto tatto aggi-sikh'ūpamo
+Yaṃ ce bhuñjeyya du-ssīlo raṭṭha-piṇḍam asaññato. 308
+
+Cattāri ṭhānāni naro pamatto
+Āpajjati para-dār'ūpasevī
+Apuñña-lābhaṃ na nikāma-seyyaṃ
+Nindaṃ tatiyaṃ nirayaṃ catutthaṃ. 309
+
+Apuñña-lābho ca gatī ca pāpikā
+Bhītassa bhītāya ratī ca thokikā
+Rājā ca daṇḍaṃ garukaṃ paṇeti
+Tasmā naro para-dāraṃ na seve. 310
+
+Kuso yathā du-ggahito hattham ev'ānukantati
+Sāmaññaṃ du-pparāmaṭṭhaṃ nirayāy-upakaḍḍhati. 311
+
+Yaṃ kiñci sithilaṃ kammaṃ saṅkiliṭṭhaṃ ca yaṃ vataṃ
+saṅkassaraṃ brahma-cariyaṃ na taṃ hoti maha-pphalaṃ. 312
+
+Kayirā ca kayirāth'enaṃ daḷham etaṃ parakkame
+Sithilo hi paribbājo bhiyyo ākirate rajaṃ. 313
+
+Akataṃ du-kkaṭaṃ seyyo pacchā tappati du-kkaṭaṃ
+Kataṃ ca su-kataṃ seyyo yaṃ katvā n'ānutappati. 314
+
+Nagaraṃ yathā pacc'antaṃ guttaṃ santara-bāhiraṃ
+Evaṃ gopetha attānaṃ khaṇo vo mā upaccagā
+Khaṇ'ātītā hi socanti nirayamhi samappitā. 315
+
+Alajjitāye lajjanti lajjitāye na lajjare
+Micchā-diṭṭhi-samādānā sattā gacchanti du-ggatiṃ. 316
+
+Abhaye bhaya-dassino bhaye c'ābhaya-dassino
+Micchā-diṭṭhi-samādānā sattā gacchanti du-ggatiṃ. 317
+
+Avajje vajja-matino vajje c'āvajja-dassino
+Micchā-diṭṭhi-samādānā sattā gacchanti du-ggatiṃ. 318
+
+Vajjaṃ ca vajjato ñatvā avajje ca avajjato
+Sammā-diṭṭhi-samādānā sattā gacchanti su-ggatiṃ. 319
+
+23. Nāga-vagga
+
+Ahaṃ nāgo va saṅgāme cāpato patitaṃ saraṃ
+Ativākyaṃ titikkhissaṃ du-ssīlo hi bahu-jjano. 320
+
+Dantaṃ nayanti samitiṃ dantaṃ rājā'bhirūhati
+Danto seṭṭho manussesu yo'tivākyaṃ titikkhati. 321
+
+Varam assatarā dantā ājānīyā ca sindhavā
+Kuñjarā ca mahā-nāgā atta-danto tato varaṃ. 322
+
+Na hi etehi yānehi gaccheyya agataṃ disaṃ
+yathā'ttanā su-dantena danto dantena gacchati. 323
+
+Dhana-pālo nāma kuñjaro
+Kaṭuka-bhedano du-nnivārayo
+Baddho kabaḷaṃ na bhuñjati
+Sumarati nāga-vanassa kuñjaro. 324
+
+Middhī yadā hoti maha-gghaso ca
+Niddāyitā samparivatta-sāyī
+Mahā-varāho va nivāpa-puṭṭho
+Puna-ppunaṃ gabbham upeti mando. 325
+
+Idaṃ pure cittam acāri cārikaṃ
+Yen'icchakaṃ yattha-kāmaṃ yathā-sukhaṃ
+Tad ajj'ahaṃ niggahessāmi yoniso
+Hatthi-ppabhinnaṃ viya aṅkusa-ggaho. 326
+
+Appamāda-ratā hotha sa-cittam anurakkhatha
+Duggā addharath'attānaṃ paṅke sanno va kuñjaro. 327
+
+Sace labhetha nipakaṃ sahāyaṃ
+Saddhiṃ caraṃ sādhu-vihāri-dhīraṃ
+Abhibhuyya sabbāni parissayāni
+Careyya ten'atta-mano satīmā. 328
+
+No ce labhetha nipakaṃ sahāyaṃ
+Saddhiṃ caraṃ sādhu-vihāri-dhīraṃ
+Rājā va raṭṭhaṃ vijitaṃ pahāya
+Eko care mātaṅg'araññe va nāgo. 329
+
+Ekassa caritaṃ seyyo n'atthi bāle sahāyatā
+Eko care na ca pāpāni kayirā
+App'ossukko mātaṅg'araññe va nāgo. 330
+
+Atthamhi jātamhi sukhā sahāyā
+Tuṭṭhī sukhā yā itar'ītarena
+Paññaṃ sukhaṃ jīvita-saṅkhayamhi
+Sabbaso dukkhassa sukhaṃ pahānaṃ. 331
+
+Sukhā matteyyatā loke atho pettayyatā sukhā
+Sukhā sāmaññatā loke atho brahmaññatā sukhā. 332
+
+Sukhaṃ yāva jarā sīlaṃ sukhā saddhā patitiṭṭhā
+Sukho paññāya paṭilābho pāpānaṃ akaraṇaṃ sukhaṃ. 333
+
+24. Taṇhā-vagga
+
+Manujassa pamatta-cārino
+Taṇhā vaḍḍhati māluvā viyā
+So plavatī hurā huraṃ
+Phalam icchaṃ va vanasmi vānaro. 334
+
+Yaṃ esā sahate jammī taṇhā loke visattikā
+Sokā tassa pavaḍḍhanti abhivaṭṭhaṃ va bīraṇaṃ. 335
+
+Yo c'etaṃ sahate jammiṃ taṇhaṃ loke dur-accayaṃ
+Sokā tamhā papatanti uda-bindu va pokkharā. 336
+
+Taṃ vo vadāmi bhaddaṃ vo yāvant'ettha samāgatā
+Taṇhāya mūlaṃ khaṇatha usīr'attho va bīraṇaṃ
+Mā vo naḷaṃ va soto va māro bhañji puna-ppunaṃ. 337
+
+Yathā pi mūle anupaddave daḷhe
+Chinno pi rukkho punar eva rūhati
+Evam pi taṇhā'nusaye anūhate
+Nibbattatī dukkham idaṃ puna-ppunaṃ. 338
+
+Yassa cha-ttiṃsati sotā manāpa-savanā bhusā
+Mahā vahanti duddiṭṭhiṃ saṅkappā rāga-nissitā. 339
+
+Savanti sabbadhi sotā latā ubbhijja tiṭṭhati
+Taṃ ca disvā lataṃ jātaṃ mūlaṃ paññāya chindatha. 340
+
+Saritāni sinehitāni ca somanassāni bhavanti jantuno
+Te sāta-sitā sukh'esino te ve jāti-jar'ūpagā narā. 341
+
+Tasiṇāya purakkhatā pajā parisappanti saso va bandhito
+Saṃyojana-saṅga-sattakā dukkham upenti puna-ppunaṃ cirāya. 342
+
+Tasiṇāya purakkhatā pajā parisappanti saso va bandhito
+Tasmā tasiṇaṃ vinodaye ākaṅkhanta virāgam attano. 343
+Yo nibbanatho van'ādhimutto vana-mutto vanam eva dhāvati
+Taṃ puggalam etha passatha mutto bandhanam eva dhāvati. 344
+
+Na taṃ daḷhaṃ bandhanam āhu dhīrā
+Yad āyasaṃ dārujaṃ babbajaṃ ca
+Sāratta-rattā maṇi-kuṇḍalesu
+Puttesu dāresu ca yā apekkhā. 345
+
+Etaṃ daḷhaṃ bandhanam āhu dhīrā
+Ohārinaṃ sithilaṃ du-ppamuñcaṃ
+Etam pi chetvāna paribbajanti
+Anapekkhino kāma-sukhaṃ pahāya. 346
+
+Ye rāga-ratt'ānupatanti sotaṃ
+Sayaṅkataṃ makkaṭako va jālaṃ
+Etam pi chetvāna vajanti dhīrā
+Anapekkhino sabba-dukkhaṃ pahāya. 347
+
+Muñca pure muñca pacchato
+Majjhe muñca bhavassa pāragū
+Sabbattha vimutta-mānaso
+Na punaṃ jāti-jaraṃ upehisi. 348
+
+Vitakka-mathitassa jantuno tibba-rāgassa subh'ānupassino
+Bhiyyo taṇhā pavaḍḍhati esa kho daḷhaṃ karoti bandhanaṃ. 349
+
+Vitakk'ūpasame ca yo rato
+Asubhaṃ bhāvayate sadā sato
+Esa kho byanti kāhiti
+Esa checchati māra-bandhanaṃ. 350
+
+Niṭṭhaṅ-gato asantāsī vīta-taṇho anaṅgaṇo
+Acchindi bhava-sallāni antimo'yaṃ samussayo. 351
+
+Vīta-taṇho anādāno nirutti-pada-kovido
+Akkharānaṃ sannipātaṃ jaññā pubb'āparāni ca
+Sa ve antima-sārīro mahā-pañño mahā-puriso ti vuccati. 352
+
+Sabb'ābhibhū sabba-vudū'ham asmi
+Sabbesu dhammesu anūpalitto
+Sabbañ-jaho taṇha-kkhaye vimutto
+Sayaṃ abhiññāya kam uddiseyyaṃ. 353
+
+Sabba-dānaṃ dhamma-dānaṃ jināti
+Sabba-rasaṃ dhamma-rasaṃ jināti
+Sabba-ratiṃ dhamma-ratiṃ jināti
+Taṇha-kkhayo sabba-dukkhaṃ jināti. 354
+
+Hananti bhogā dummedhaṃ no ca pāra-gavesino
+Bhoga-taṇhāya dummedho hanti aññe'va attānaṃ. 355
+
+Tiṇa-dosāni khettāni rāga-dosā ayaṃ pajā
+Tasmā hi vīta-rāgesu dinnaṃ hoti maha-pphalaṃ. 356
+
+Tiṇa-dosāni khettāni dosa-dosā ayaṃ pajā
+Tasmā hi vīta-dosesu dinnaṃ hoti maha-pphalaṃ. 357
+
+Tiṇa-dosāni khettāni moha-dosā ayaṃ pajā
+Tasmā hi vīta-mohesu dinnaṃ hoti maha-pphalaṃ. 358
+
+Tiṇa-dosāni khettāni icchā-dosā ayaṃ pajā
+Tasmā hi vigat-icchesu dinnaṃ hoti maha-pphalaṃ. 359
+
+25. Bhikkhu-vagga
+
+Cakkhunā saṃvaro sādhu sādhu sotena saṃvaro
+Ghānena saṃvaro sādhu sādhu jivhāya saṃvaro. 360
+Kāyena saṃvaro sādhu sādhu vācāya saṃvaro
+Manasā saṃvaro sādhu sādhu sabbattha saṃvaro
+Sabbattha saṃvuto bhikkhu sabba-dukkhā pamuccati. 361
+
+Hattha-saṃyato pāda-saṃyato
+Vācā-saṃyato saṃyat'uttamo
+Ajjhatta-rato samāhito
+Eko santusito tam āhu bhikkhuṃ. 362
+
+Yo mukha-saṃyato bhikkhu manta-bhāṇī anuddhato
+Atthaṃ dhammaṃ ca dīpeti madhuraṃ tassa bhasitaṃ. 363
+
+Dhamm'ārāmo dhamma-rato dhammaṃ anuvicintayaṃ
+Dhammaṃ anussaraṃ bhikkhu saddhammā na parihāyati. 364
+
+Sa-lābhaṃ n'ātimaññeyya n'āññesaṃ pihayaṃ care
+Aññesaṃ pihayaṃ bhikkhu samādhiṃ n'ādhigacchati. 365
+
+Appa-lābho pi ce bhikkhu sa-lābhaṃ n'ātimaññati
+Taṃ ve devā pasaṃsanti suddh'ājīviṃ atanditaṃ. 366
+
+Sabbaso nāma-rūpasmiṃ yassa n'atthi mamāyitaṃ
+Asatā ca na socati sa ve bhikkhū ti vuccati. 367
+
+Mettā-vihārī yo bhikkhu pasanno buddha-sāsane
+Adhigacche padaṃ santaṃ saṅkhār'ūpasamaṃ sukhaṃ. 368
+
+Siñca bhikkhu imaṃ nāvaṃ sittā te lahum essati
+Chetvā rāgaṃ ca dosaṃ ca tato nibbānam ehisi. 369
+
+Pañca chinde pañca jahe pañca c'uttari bhāvaye
+Pañca saṅg'ātigo bhikkhu ogha-tiṇṇo ti vuccati. 370
+
+Jhāya bhikkhu mā pamādo
+Mā te kāma-guṇe ramessu cittaṃ
+Mā loha-guḷaṃ gilī pamatto
+Mā kandi dukkham idaṃ ti ḍayhamāno. 371
+
+N'atthi jhānaṃ apaññassa paññā n'atthi ajhāyato
+Yamhi jhānaṃ ca paññā ca sa ve nibbāna-santike. 372
+
+Suññ'āgāraṃ paviṭṭhassa santa-cittassa bhikkhuno
+Amānusī rati hoti sammā dhammaṃ vipassato. 373
+
+Yato yato sammasati khandhānaṃ udaya-bbayaṃ
+Labhatī pīti-pāmojjaṃ amataṃ taṃ vijānataṃ. 374
+
+Tatr'āyam ādi bhavati idha paññassa bhikkhuno
+Indriya-gutti santuṭṭhi pātimokkhe ca saṃvaro. 375
+
+Mitte bhajassu kalyāṇe suddh'ājīve atandite
+Paṭisanthāra-vuty'assa ācāra-kusalo siyā
+Tato pāmojja-bahulo dukkhass'antaṃ karissasi. 376
+Vassikā viyā pupphāni maddavāni pamuñcati
+Evaṃ rāgaṃ ca dosaṃ ca vippamuñcetha bhikkhavo. 377
+
+Santa-kāyo santa-vāco santavā su-samāhito
+Vanta-lok'āmiso bhikkhu upasanto ti vuccati. 378
+
+Attanā coday'attānaṃ paṭimaṃsetha attanā
+So atta-gutto satimā sukhaṃ bhikkhu vihāhisi. 379
+
+Attā hi attano nātho 
+(Ko hi nātho paro siyā)
+Attā hi attano gati
+Tasmā saṃyamam attānaṃ 
+Assaṃ bhadraṃ va vāṇijo. 380
+
+Pāmojja-bahulo bhikkhu pasanno buddha-sāsane
+Adhigacche padaṃ santaṃ saṅkhār'ūpasamaṃ sukhaṃ. 381
+
+Yo ha've daharo bhikkhu yuñjati buddha-sāsane
+So imaṃ lokaṃ pabhāseti abbhā mutto va candimā. 382
+
+26. Brāhmaṇa-vagga
+
+Chinda sotaṃ parakkamma kāme panuda brāhmaṇa
+Saṅkhārānaṃ khayaṃ ñatvā akat'aññū'si brāhmaṇa. 383
+
+Yadā dvayesu dhammesu pāragū hoti brāhmaṇo
+Ath'assa sabbe saṃyogā atthaṃ gacchanti jānato. 384
+
+Yassa pāraṃ apāraṃ vā pār'āpāraṃ na vijjati
+Vīta-ddaraṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ. 385
+
+Jhāyiṃ virajam āsīnaṃ kata-kiccam anāsavaṃ
+Uttam'attham anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ. 386
+
+Divā tapati ādicco rattim ābhāti candimā
+Sannaddho khattiyo tapati jhāyī tapati brāhmaṇo
+Atha sabbam aho-rattiṃ buddho tapati tejasā. 387
+
+Bāhita-pāpo ti brāhmaṇo sama-cariyā samaṇo ti vuccati
+Pabbajayam attano malaṃ tasmā pabbajito ti vuccati. 388
+
+Na brāhmaṇassa pahareyya n'āssa muñcetha brāhmaṇo
+Dhī brāhmaṇassa hantāraṃ tato dhī yassa muñcati. 389
+
+Na brāhmaṇass'etad akiñci seyyo
+Yadā nisedho manaso piyehi
+Yato yato hiṃsa-mano nivattati
+Tato tato sammati-m-eva dukkhaṃ. 390
+
+Yassa kāyena vācāya manasā n'atthi du-kkaṭaṃ
+Saṃvutaṃ tīti ṭhānehi tam ahaṃ brūmi brāhmaṇaṃ. 391
+
+Yamhā dhammaṃ vijāneyya sammā-sambuddha-desitaṃ
+Sakkaccaṃ taṃ namasseyya aggi-hutaṃ va brāhmaṇo. 392
+
+Na jaṭāhi na gottena na jaccā hoti brāhmaṇo
+Yamhi saccaṃ ca dhammo ca so sucī so ca brāhmaṇo. 393
+
+Kiṃ te jaṭāhi dummedha kiṃ te ajina-sāṭiyā
+Abbhantaraṃ te gahanaṃ bāhiraṃ parimajjasi. 394
+
+Paṃsu-kūla-dharaṃ jantuṃ kisaṃ dhamani-santhataṃ
+Ekaṃ vanasmiṃ jhāyantaṃ tam ahaṃ brūmi brāhmaṇaṃ. 395
+
+Na c'ahaṃ brāhmaṇaṃ brūmi yoni-jaṃ matti-sambhavaṃ
+Bho-vādi nāma so hoti sace hoti sakiñcano
+Akiñcanaṃ anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ. 396
+
+Sabba-saṃyojanaṃ chetvā yo ve na paritassati
+Saṅg'ātigaṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ. 397
+
+Chetvā naddhiṃ varattaṃ ca sandānaṃ sah'anukkamaṃ
+Ukkhitta-palighaṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ. 398
+
+Akkosaṃ vadha-bandhaṃ ca aduṭṭho yo titikkhati
+Khantī-balaṃ bal'ānīkaṃ tam ahaṃ brūmi brāhmaṇaṃ. 399
+
+Akkodhanaṃ vatavantaṃ sīlavantaṃ anussadaṃ
+Dantaṃ antima-sārīraṃ tam ahaṃ brūmi brāhmaṇaṃ. 400
+
+Vāri pokkhara-patte va āragge-r-iva sāsapo
+Yo na limpati kāmesu tam ahaṃ brūmi brāhmaṇaṃ. 401
+
+Yo dukkhassa pajānāti idh'eva khayam attano
+Panna-bhāraṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ. 402
+
+Gambhīra-paññaṃ medhāviṃ magg'āmaggassa kovidaṃ
+Uttam'attham anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ. 403
+
+Asaṃsaṭṭhaṃ gaha'ṭṭhehi anāgārehi c'ūbhayaṃ
+Anoka-sārim app'icchaṃ tam ahaṃ brūmi brāhmaṇaṃ. 404
+
+Nidhāya daṇḍaṃ bhūtesu tasesu thāvaresu ca
+Yo na hanti na ghāteti tam ahaṃ brūmi brāhmaṇaṃ. 405
+
+Aviruddhaṃ viruddhesu atta-daṇḍesu nibbutaṃ
+Sādānesu anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ. 406
+
+Yassa rāgo ca doso ca māno makkho ca pātito
+Sāsapo-r-iva ār'aggā tam ahaṃ brūmi brāhmaṇaṃ. 407
+
+Akakkasaṃ viññāpaniṃ giraṃ saccam udīraye
+Yāya n'ābhisaje kiñci tam ahaṃ brūmi brāhmaṇaṃ. 408
+
+Yo'dha dīghaṃ va rassaṃ vā aṇuṃ thūlaṃ subh'āsubhaṃ
+Loke adinnaṃ n'ādiyati tam ahaṃ brūmi brāhmaṇaṃ. 409
+
+Āsā yassa na vijjanti asmiṃ loke paramhi ca
+Nir-āsāsaṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ. 410
+
+Yass'ālayā na vijjanti aññāya akathaṅ-kathī
+Amat'ogadham anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ. 411
+
+Yo'dha puññaṃ ca pāpaṃ ca ubho saṅgam upaccagā
+Asokaṃ virajaṃ suddhaṃ tam ahaṃ brūmi brāhmaṇaṃ. 412
+
+Candaṃ va vimalaṃ suddhaṃ vippasannam anāvilaṃ
+Nandī-bhava-parikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ. 413
+
+Yo imaṃ paḷipathaṃ duggaṃ saṃsāraṃ moham accagā
+Tiṇṇo pāra-gato jhāyī anejo akathaṅ-kathī
+Anupādāya nibbuto tam ahaṃ brūmi brāhmaṇaṃ. 414
+
+Yo'dha kāme pahantvāna anāgāro paribbaje
+Kāma-bhava-parikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ. 415
+
+Yo'dha taṇhaṃ pahantvāna anāgāro paribbaje
+Taṇhā-bhava-parikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ. 416
+
+Hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā
+Sabba-yoga-visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ. 417
+
+Hitvā ratiṃ ca aratiṃ ca sīti-bhūtaṃ nir-ūpadhiṃ
+Sabba-lok'ābhibhuṃ vīraṃ tam ahaṃ brūmi brāhmaṇaṃ. 418
+
+Cutiṃ yo vedi sattānaṃ upapattiṃ ca sabbaso
+Asattaṃ sugataṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ. 419
+
+Yassa gatiṃ na jānanti devā gandhabba-mānusā
+Khīṇ'āsavaṃ arahantaṃ tam ahaṃ brūmi brāhmaṇaṃ. 420
+
+Yassa pure ca pacchā ca majjhe ca n'atthi kiñcanaṃ
+Akiñcanaṃ anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ. 421
+
+Usabhaṃ pavaraṃ vīraṃ mah'esiṃ vijit'āvinaṃ
+Anejaṃ nhātakaṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ. 422
+Pubbe-nivāsaṃ yo vedi sagg'āpāyaṃ ca passati
+Atho jāti-kkhayaṃ patto abhiññā-vosito muni
+Sabba-vosita-vosānaṃ tam ahaṃ brūmi brāhmaṇaṃ. 423
+
+
+

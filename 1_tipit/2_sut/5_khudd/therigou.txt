@@ -1,0 +1,3009 @@
+
+
+Therigatha
+Based on the ed. by Richard Pischel: The Thera- and Therî-Gâthâ
+(Stanzas Ascribed to Elders of the Buddhist Order of Recluses),
+ed. by H. Oldenberg and R. Pischel, London : Pali Text Society 1883.
+Second edition with appendices by K.R. Norman and L. Alsdorf, 1966, pp. 123-250.
+
+
+
+
+Input by the Dhammakaya Foundation, Thailand, 1989-1996
+[GRETIL-Version vom 23.2.2015]
+
+
+
+NOTICE
+These files are provided by courtesy of the Pali Text Society for
+scholarly purposes only.
+In principle they represent a digital edition (without revision or
+correction) of the printed editions of the complete set of Pali
+canonical texts published by the PTS. While they have been subject to a
+process of checking, it should not be assumed that there is no
+divergence from the printed editions and it is strongly recommended that
+they are checked against the printed editions before quoting.
+
+
+
+
+
+ANNOTATED VERSION IN PTS LAYOUT
+
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+
+
+Therīgāthā
+
+--------------------------------------------------------------------------
+  Uddāna : saṭṭhisat- A, satis- B, sattas- C.-- cattāro ca A, pañcapaññe BC.
+
+[page 123]
+                              123
+                          THERĪ-GĀTHĀ.
+           Namo tassa bhagavato arahato sammāsambuddhassa.
+sukhaṃ supāhi therīke katvā coḷena pārutā |
+upasanto hi te rāgo sukkhaḍākaṃ va kumbhiyaṃ. || Thī_1 ||
+     itthaṃ sudaṃ aññatarā therī apaññātā bhikkhunī
+gāthaṃ abhāsitthā ti. ||
+Mutte muccassu yogehi cando Rāhuggaho iva |
+vippamuttena cittena anaṇā bhuñjāhi piṇḍakaṃ. || Thī_2 ||
+     itthaṃ sudaṃ bhagavā Muttaṃ sikkhamānaṃ imāya
+gāthāya abhiṇhaṃ ovadati. ||
+Puṇṇe pūrassu dhammehi cando pannarase-r-iva |
+paripuṇṇāya paññāya tamokkhandhaṃ padālaya. || Thī_3 ||
+                          Puṇṇā. ||
+Tisse sikkhassu sikkhāya mā taṃ yogā upaccaguṃ |
+sabbayogavisaṃyuttā cara loke anāsavā. || Thī_4 ||
+                          Tissā. ||
+Tisse yuñjassu dhammehi khaṇo taṃ mā upaccagā |
+khaṇātītā hi socanti nirayamhi samappitā. || Thī_5 ||
+                     aññatarā Tissā. ||
+
+--------------------------------------------------------------------------
+     1, L adds ti.-- 
+     2, BLP therike, PS colena, P pādutā.-- 
+     3, P the, S dukkha-, P ca.-- 
+     4, L añatarā, P añatarā theri, B asañātā, L apañātā, P asañākā,
+       S asaññatā.-- 
+     5, P -ni.-- 
+     6, P mucchassu, S idha.-- 
+     7, S -muttona, BCP aṇaṇā, S anna.-- 
+     8, P puttaṃ, PS -mānāyaṃ.-- 
+     9, P imāyaṃ ga-, S gātāya.-- 
+    10, BLS purassu, P phu-, S puṇṇarase.-- 
+    11, S- punnāya, L pañāya, P sañāya, B 1. hd., PS -layaṃ.-- 
+    13, S bhikkhassu.-- 
+    14, P -visayuttā.-- 
+    15, om. cdd.-- 
+    16, yuñcassu, C ta.-- 
+    17, B -hitā, P -titā, P niyiampi, S sappitā.-- 
+    18, om. cdd.
+
+[page 124]
+124                          THERĪ-GĀTHĀ.
+Dhīre nirodhaṃ phusehi saññāvūpasamaṃ sukhaṃ |
+ārādhayāhi nibbānaṃ yogakkhemaṃ anuttaraṃ. || Thī_6 ||
+                          Dhīrā. ||
+dhīrā dhīrehi dhammehi bhikkhunī bhāvitindriyā |
+dhārehi antimaṃ dehaṃ jetvā Māraṃ savāhanaṃ. || Thī_7 ||
+                     aññatarā Dhīrā. ||
+saddhāya pabbajitvāna Mitte mittaratā bhava |
+bhāvehi kusale dhamme yogakkhemassa pattiyā. || Thī_8 ||
+                          Mittā. ||
+saddhāya pabbajitvāna Bhadre bhadraratā bhava |
+bhāvehi kusale dhamme yogakkhemaṃ anuttaraṃ. || Thī_9 ||
+                         Bhadrā. ||
+Upasame tare oghaṃ maccudheyyaṃ suduttaraṃ |
+dhārehi antimaṃ dehaṃ jetvā Māraṃ savāhanaṃ. || Thī_10 ||
+                         Upasamā. ||
+sumuttā sādhu mutta mhi tīhi khujjehi muttiyā |
+udukkhalena musalena patinā khujjakena ca |
+mutta mhi jātimaraṇā bhavanetti samūhatā. || Thī_11 ||
+                          Muttā. ||
+chandajātā avasāye manasā ca phuṭā siyā |
+kāmesu appaṭibaddhacittā uddhaṃsotā ti vuccati. || Thī_12 ||
+                       Dhammadinnā. ||
+karotha buddhasāsanaṃ yaṃ katvā nānutappati |
+khippaṃ pādāni dhovitvā ekamante nisīdatha. || Thī_13 ||
+                         Visākhā. ||
+dhātuyo dukkhato disvā mā jāti punar āgami |
+bhave chandaṃ virājetvā upasantā carissasi. || Thī_14 ||
+                         Sumanā. ||
+
+--------------------------------------------------------------------------
+     1, C dhire, BL khire, PS tisse, BCLP phussehi, S pussuehi, PL sañā- 
+        and so always ñ instead of ññ, if not stated otherwise, C pañā-, 
+        PS -vupa-.-- 
+     2, P ārādhapasahi.-- 
+     3, om. cdd.-- 
+     4, BLP dhirā cdd. dhirehi, PS -ni, P -tinadrayā.--
+     5, BLPS jitvā, S -vāhana.-- 
+     6, LP dhirā.-- 
+    7, B saddhā pabbajji-, C pabbajji-, P pappajji-.-- 
+     8, P bhāveti.-- 
+    10, B -jji-, P pappajji- bhanedra.-- 
+    11, S ataraṃ. -- 
+    12, bhadra.-- 
+    13, BS ogha, P macchuthe-, S maccuyya.-- 
+    14, P -haṇaṃ.--
+    16, BCPS tihi, S mujjehi.-- 
+    17, P mūsalena pahinā.-- 
+    18, L mutti, P mha, P jāhi-, LS samuhatā.-- 
+    20, cdd. avasāyi, S va, B puṭā.-- 
+    21, BCL -bandha-, P appattibandha-, S appatibandhitvā uddhasotā.-- 
+    23, karodha.-- 
+    24, S dibba pā-, S nisi-.-- 
+    26, jāni punan, B punan, S punnāgami.-- 
+    27, P vibhājetvā, BCP carissati.
+
+[page 125]
+                            THERĪ-GĀTHĀ.                          125
+kāyena saṃvutā āsiṃ vācāya uda cetasā |
+samūlaṃ taṇham abbuyha sītibhūta mhi nibbutā. || Thī_15 ||
+                         Uttarā. ||
+sukhaṃ tvaṃ vuḍḍhike sehi katvā coḷena pārutā |
+upasanto hi te rāgo sītibhūtā si nibbutā. || Thī_16 ||
+                 Sumanā vuḍḍhapabbajitā. ||
+piṇḍapātaṃ caritvāna daṇḍam olubbha dubbalā |
+vedhamānehi gattehi tatth'; eva nipatiṃ chamā |
+disvā ādīnavaṃ kāye atha cittaṃ vimucci me. || Thī_17 ||
+                         Dhammā. ||
+hitvā ghare pabbajitvā hitvā puttaṃ pasuṃ piyaṃ |
+hitvā rāgañ ca dosañ ca avijjañ ca virājiya |
+samūlaṃ taṇham abbuyha upasanta mhi nibbutā. || Thī_18 ||
+                         Saṅghā. ||
+                  ekikā theriyo samattā. ||
+āturaṃ asuciṃ pūtiṃ passa Nande samussayaṃ |
+asubhāya cittaṃ bhāvehi ekaggaṃ susamāhitaṃ || Thī_19 ||
+animittañ ca bhāvehi mānānusayam ujjaha |
+tato mānābhisamayā upasantā carissasi. || Thī_20 ||
+     itthaṃ sudaṃ bhagavā Nandaṃ sikkhamānaṃ imāhi
+gāthāhi abhiṇhaṃ ovadati. ||
+ye ime satta bojjhaṅgā maggā nibbānapattiyā |
+bhāvitā te mayā sabbe yathā buddhena desitā. || Thī_21 ||
+diṭṭho hi me so bhagavā antimo 'yaṃ samussayo |
+vikkhīṇo jātisaṃsāro n'; atthi dāni punabbhavo. || Thī_22 ||
+                          Jentī. ||
+
+--------------------------------------------------------------------------
+     1, P kārena, LP (S?) āsi.-- 
+     2, BCS taṇhaṃ, P ampuyha, S sambuyha, C nibbūtā.--
+     4, LP vuḍhike, S telena, P pāruto.-- 
+     5, P the rogo sati-, L tā mhi, S -tā na nibbuti, B nibbūti, C -bhūta 
+       mhi nibbūtā.-- 
+     6, LP vuḍha-, BCL -pabajjitā, P -pappajjitā.-- 
+     7, S dubbhalā.-- 
+     8, P vedhaṃmā-, S veda-, BCP nipati, S nipatī. -- 
+     9, BCL ādi-, P ādinava, P cittaṃ mucchi, S vimutti.-- 
+    10, B Dhamma.-- 
+    11, C pabbajitā, L pabbajjitvā, P pappajjitvā, BP pasum, C pasu, 
+       S samum, C ppiyaṃ. -- 
+    12, P yāgañ.-- 
+    13, B taṇhaṃ, P appuyha, C nibbūtā.-- 
+    14, S Saṃghā.-- 
+    15, B ekiko.-- 
+    16, cdd. asuci corr. 2. hd. BC, L putiṃ, PS pūti, B 1. hd. C puti, 
+       B. 2. hd. putiṃ, PS saya, S nante.-- 
+    17, P asubhāra, S ekagge.-- 
+    18, BCS, -ttaṃ, S om. ca P ujjassa, S ujjahā.-- 
+    19, P sarissasi, CS carissati.-- 
+    20, P suddaṃ, S om. sikkhamānaṃ.-- 
+    22, BL pojjha-, P -ṅgo.-- 
+    24, LB 2. hd. antimāyaṃ, P samusayo, B samussāyo.-- 
+    25, L vikhīṇo, BCPS vikkhiṇo, S -sārā.-- 
+    26, BPS Jenti, C Jentā.
+
+[page 126]
+126                        THERĪ-GĀTHĀ.
+sumuttike sumuttikā sādhu muttika mhi musalassa |
+ahiriko me chattakaṃ vā pi ukkhalikā me daḷiddabhāvā
+ti. || Thī_23 ||
+rāgañ ca ahaṃ dosañ ca vicchindantī viharāmi |
+sā rukkhamūlam upagamma aho sukhan ti sukhato jhā-
+yāmi. || Thī_24 ||
+            aññatarā therībhikkhunī apaññātā. ||
+yāva Kāsijanapado suṅko me tattako ahu |
+taṃ katvā nigamo agghaṃ agghe 'naggahaṃ ṭhapesi
+maṃ. || Thī_25 ||
+atha nibbind'; ahaṃ rūpe nibbindañ ca virajj'; ahaṃ |
+mā puna jātisaṃsāraṃ sandhāveyyaṃ punappunaṃ |
+tisso vijjā sacchikatā kataṃ buddhassa sāsanaṃ. || Thī_26 ||
+                        Aḍḍhakāsī. ||
+kiñ cāpi kho mhi kisikā gilānā bāḷhadubbalā |
+daṇḍam olubbha gacchāmi pabbataṃ abhirūhiya. || Thī_27 ||
+saṃghāṭiṃ nikkhipitvāna pattakaṃ ca nikujjiya |
+sele khambhesiṃ attānaṃ tamokkhandhaṃ padāliya. || Thī_28 ||
+                          Cittā. ||
+kiñ cāpi kho mhi dukkhitā dubbalā gatayobbanā |
+daṇḍam olubbha gacchāmi pabbataṃ abhirūhiya. || Thī_29 ||
+nikkhipitvāna saṃghāṭiṃ pattakaṃ ca nikujjiya |
+nisinnā c'; amhi selamhi atha cittaṃ vimucci me |
+tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ. || Thī_30 ||
+                         Mettikā. ||
+cātuddasī pañcaddasī yā ca pakkhassa aṭṭhamī |
+pārihārikapakkhañ ca aṭṭhaṅgasusamāgataṃ |
+
+--------------------------------------------------------------------------
+     1, C om. sādhu mutti.-- 
+     2, BCPS 1. hd. vāsi, BC 2. hd. vāpi, L me ḷidda-, S dalidda-, B daḷhi-, 
+       C2. hd. daddubhāvā.-- 
+     4, L ci, BPS vichindati, C vicchindi, L vichindanti, B vihanāmi, 
+       P visānāmi, S visānami.-- 
+     5, BPS dukkha-, BL ūpa-, S alo, CP sukhaṃ, B 1. hand, P sāyāmi, 
+      S sayāmi.-- 
+     7, P añatharā, S theri-, B -bhikkhūnī, LS -ni, P -naṃ, L apañātā, 
+        BP asañātā, S asaññitā.--
+     8, S yava, P suko, S suṃko, CPS tatthako.-- 
+     9, C negamo, S agghenagghya, BC 1. hd., P thapesi (B 2. hd. ṭha-).-- 
+    10, P om. from haṃ to ca, L -daṃ, S nibbiṃddañ.-- 
+    11, L amā, B jātisāraṃ, C -saṃsāro, S santāressaṃ, BC -ppunnaṃ. -- 
+    13, LP Aḍha-, BLS -kāsi, P -kāmi.-- 
+    14, P kimikā gī-, L baḷha-.-- 
+    15, B daṇḍām, P odubbha, PS -ruhiya.-- 
+    16, BLPS saṃghāṭi, C saṅghāti, P nikkhā-, C nikkhīpetvāna.-- 
+    17, BLPS khambhesi, C 1. hd. gabbhesi, 2. hd. khabbhesi, L -khandhaṃ, 
+       BS padālayaṃ, CLP padālaya, cfrṣt. 44, 172.-- 
+    20, P dukkhātā, B gatāyoppa-, C -yoppannā.-- 
+    21, P daṇḍām.-- 
+    22, LP saṃghāṭi, S -kañ.-- 
+    23, P selhamhi, P vimucchi.-- 
+    26, P -si, S -cadasī, P -si, S va, L aṭhamī, P aṭhapi. -- 
+    27, C pāṭihārika-, S -hāriya-, L aṭhaṅgaṃ, P aṭhaṅkaṃ, P -supa-, 
+       S -māhitaṃ.
+
+[page 127]
+                            THERĪ-GĀTHĀ.                        127
+uposathaṃ upagacchiṃ devakāyābhinandinī. || Thī_31 ||
+sājja ekena bhattena muṇḍā saṃghāṭipārutā |
+devakāyaṃ na patthe 'haṃ vineyya hadaye daraṃ. || Thī_32 ||
+                          Mittā. ||
+uddhaṃ pādatalā amma adho ce kesamatthakā ||
+paccavekkhassu 'maṃ kāyaṃ asuciṃ pūtigandhikaṃ. || Thī_33 ||
+evaṃ viharamānāya sabbo rāgo samūhato |
+pariḷāho samucchinno sītibhūta mhi nibbutā. || Thī_34 ||
+                       Abhayamātā. ||
+Abhaye bhiduro kāyo yattha sattā puthujjanā |
+nikkhipissām'; imaṃ dehaṃ saṃpajānā satīmatī. || Thī_35 ||
+bahūhi dukkhadhammehi appamādaratāya me |
+taṇhakkhayo anuppatto kataṃ buddhassa sāsanan ti. || Thī_36 ||
+                     Abhayattherī. ||
+catukkhattuṃ pañcakkhattuṃ vihārā upanikkhamiṃ |
+aladdhā cetaso santiṃ citte avasavattini. || Thī_37 ||
+tassā me aṭṭhamī ratti taṇhā mayhaṃ samūhatā |
+bahūhi dukkhadhammehi appamādaratāya me |
+taṇhakkhayo anuppatto kataṃ buddhassa sāsanaṃ. || Thī_38 ||
+                          Sāmā. ||
+                       dukanipāto. ||
+paṇṇavīsati vassāni yato pabbajitāya me |
+nābhijānāmi cittassa samaṃ laddhaṃ kudācanaṃ. || Thī_39 ||
+aladdhā cetaso santiṃ citte avasavattini |
+tato saṃvegaṃ āpādiṃ saritvā jinasāsanaṃ. || Thī_40 ||
+bahūhi dukkhadhammehi appamādaratāya me |
+taṇhakkhayo anuppatto kataṃ buddhassa sāsanaṃ |
+
+--------------------------------------------------------------------------
+     1, BCPS -gacchi, BPS -ni, C -nandani.-- 
+     2, P hajja, C sajja, S ekabha-, P attena, C saṅ-, P -pādutā, B 1. hd., 
+       S -pāduhā.-- 
+     3, C devatāyaṃ, P patte, C -yye, P rada.-- 
+     4, C Mettā.-- 
+     5, C ve, P se, L -mattakā.-- 
+     6, C -vekkhasu, S asucī, BCP asuci, BCLP puti-.-- 
+     7, P sappo rogo.-- 
+     8, S parilāho, LP siti-, LS nibbuti, C nibbūtā, B nibbūti,.-- 
+    10, C abhayo, L bhidūro, P bhādage, S om. bhi-, L yatta, S satthā.-- 
+    11, L -pisām'; C sampa-, BCLP sati-, BLPS -matā, C -mati.--
+    12, B bahuhi, L om. dukkha, P -yatāya.-- 
+    13, C taṇhākhayo, P -kkhiyo.-- 
+    14, L -ttheri, P ayattherī.-- 
+    15, BCPS -mi.-- 
+    16, cdd. santi, C asava-, S -nī.--
+    17, P tayā me aṭhami, L aṭha-.-- 
+    19, B nupatto.-- 
+    20, S Samā.-- 
+    21, P dutanihato, S dukavāto.-- 
+    22, L -visa-, P pappa- or pappha-, cdd. -jjitāya.-- 
+   23, S abhi-, PS -jānāma.-- 
+    24, P bhavanti, BCS santi, L -vattinī, BP -vatthini, S -vatthinī. -- 
+    25, P to, cdd. āpādi.--
+    26, LP bahuhi.
+
+[page 128]
+128                          THERĪ-GĀTHĀ.
+ajja me sattamī ratti yato taṇhā visositā. || Thī_41 ||
+                      aññatarā Sāmā. ||
+catukkhattuṃ pañcakkhattuṃ vihārā upanikkhamiṃ |
+aladdhā cetaso santiṃ citte avasavattini. || Thī_42 ||
+sā bhikkhuniṃ upāgacchiṃ yā me saddhāyikā ahu |
+sā me dhammaṃ adesesi khandhāyatanadhātuyo. || Thī_43 ||
+tassā dhammaṃ suṇitvāna yathā maṃ anusāsi sā |
+sattāhaṃ ekapallaṅke nisīdiṃ pītisukhasamappitā |
+aṭṭhamiyā pāde pasāresiṃ tamokkhandhaṃ padāliya. || Thī_44 ||
+                         Uttamā. ||
+ye ime satta bojjhaṅgā maggā nibbānapattiyā
+bhāvitā te mayā sabbe yathā buddhena desitā. || Thī_45 ||
+suññatassānimittassa lābhinī 'haṃ yad icchitaṃ |
+orasā dhītā buddhassa nibbānābhiratā sadā. || Thī_46 ||
+sabbe kāmā samucchinnā ye dibbā ye ca mānusā |
+vikkhīṇo jātisaṃsāro n'; atthi dāni punabbhavo. || Thī_47 ||
+                     aññatarā Uttamā. ||
+divāvihārā nikkhamma Gijjhakūṭamhi pabbate |
+nāgaṃ ogāha-m-uttiṇṇaṃ nadītīramhi addasaṃ. || Thī_48 ||
+puriso aṅkusam ādāya dehi pādan ti yācati |
+nāgo pasārayi pādaṃ puriso nāgam āruhi || Thī_49 ||
+disvā adantaṃ damitaṃ manussānaṃ vasaṃ gataṃ |
+tato cittaṃ samādhemi khalu tāya vanaṃ gatā. || Thī_50 ||
+                         Dantikā. ||
+amma Jīvā ti vanamhi kandasi attānaṃ adhigaccha Ubbiri. |
+cūḷāsītisahassāni sabbā Jīvasanāmikā |
+etamh'; āḷāhane daḍḍhā tāsaṃ kam anusocasi. || Thī_51 ||
+
+--------------------------------------------------------------------------
+     1, LP sattami, S rattī, P yātā, B 1ḥd., S taṇhādhisositā.-- 
+    2, LP añatarā.--
+     3, cdd. -kkhami.-- 
+     4, cdd. santi, P assavattini.-- 
+     5, L bhikkhūni, BP bhikkhūnī, S bhikkhuni, BCLS upāgacchi, P uhagacchi.-- 
+     6, L dhammam, P dhamma desesi, BS dhamma padesesi.-- 
+     7, B 1. hd., P dhamma, S suni-, BCPS yā.--
+     8, LP -pallaṅkena, S -pallaṃke, BLP nisidi, CS Lisīdi, C om. pīti, 
+       LP pitisukhasama-, S pītisukhasuma-, B 1. hd. -sumappitā.-- 
+     9, LP aṭha-, C -mīyā, BP passāresi, S -resi, L tamokha-, CLP padālaya, 
+       S -layaṃ.-- 
+    11, S -ṅge, B -ṅgo, S -sattiyā.-- 
+    12, S bhāvihā, P sappe.-- 
+    13, C suññatassani-, CLP (S?) lābhini, C icchakaṃ, LP dhitā, S dhita.--
+    14, S nibbā.-- 
+    16, L vikhīṇo, P sikkhiṇo, S vikhiṇo.-- 
+    17, S uttāmā.-- 
+    18, LP -kuṭa-, B pabbato, P pappate.-- 
+    19. cdd. -tiramhi, S addasa.-- 
+    20, B 1ḥd., S aṅgasam, C pādaṃ, P ta.-- 
+    23, C samādepi, S samādemi, P vana.-- 
+    24, L adds in brackets hatthāro, BPS add hatthārohadhitā.-- 
+    25, BLP Jivā, S attānā, P Uppiri, C Ubbhiri.-- 
+    26, BCLP cuḷā-, L -sitisahasāni, B -sahasāni, BLPS Jiva-, B 1. hd., 
+       S -panāmikā.-- 
+    27, BCL āḷahane, S ālavane, LP daḍhā, S kamm, P anusocati, S -casī.
+
+[page 129]
+                           THERĪ-GĀTHĀ.                         129
+abbuhi vata me sallaṃ duddasaṃ hadayanissitaṃ |
+yaṃ me sokaparetāya dhītu sokaṃ byapānudi. || Thī_52 ||
+sājja abbūḷhasallāhaṃ nicchātā parinibbutā |
+buddhaṃ dhammañ ca saṅghañ ca upemi saraṇaṃ muniṃ. || Thī_53 ||
+                         Ubbirī. ||
+kiṃ me katā Rājagahe manussā madhuṃ pītā va acchare |
+ye Sukkaṃ na upāsanti desentiṃ buddhasāsanaṃ. || Thī_54 ||
+tañ ca appaṭivāniyaṃ asecanakam ojavaṃ |
+pivanti maññe sappaññā valāhakam iv'; addhagū. || Thī_55 ||
+sukkā sukkehi dhammehi vītarāgā samāhitā |
+dhārehi antimaṃ dehaṃ jetvā Māraṃ savāhanaṃ. || Thī_56 ||
+                          Sukkā. ||
+n'; atthi nissaraṇaṃ loke kiṃ vivekena kāhasi |
+bhuñjāhi kāmaratiyo māhu pacchānutāpinī. || Thī_57 ||
+sattisūlūpamā kāmā khandhānaṃ adhikuṭṭanā |
+yaṃ tvaṃ kāmaratiṃ brūsi arati dāni sā mamaṃ. || Thī_58 ||
+sabbattha vihatā nandi tamokkhandho padālito |
+evaṃ jānāhi pāpima nihato tvam asi antaka. || Thī_59 ||
+                          Selā. ||
+yaṃ taṃ isīhi pattabbaṃ ṭhānaṃ durabhisaṃbhavaṃ |
+na taṃ dvaṅgulipaññāya sakkā pappotum itthiyā. || Thī_60 ||
+itthibhāvo no kiṃ kayirā cittamhi susamāhite |
+ñāṇamhi vattamānamhi sammā dhammaṃ vipassato. || Thī_61 ||
+
+--------------------------------------------------------------------------
+     1, P appuhi, P pallaṃ, L -nisitaṃ, P -nasitaṃ.-- 
+     2, S ya, P vitu, BPS mokaṃ, P byāhanudi, B byā-.-- 
+     3, LSBC sajja, BCLS abbuḷha-, P abbuḷapallā, P niccātā, L para-.-- 
+     4, S buddha, BCS saṃghañ, P upepi, CP muni ti, BS munī ti.-- 
+     6, LS Ubbiri, P Uppiri.-- 
+     7, L kiṃ, BPSC1 ki, S manussā ca madhubbatā accha (sic), P madhu 
+       pitā ca ajjhare, BC2 madhu, BCL pitā, BC2 ca, C1 acche, C2 accha.-- 
+     8, C1 om. ye, BPS desenti, C1.2. desanti, C1 amataṃ padaṃ.--
+     9, C1 appati- P asevanaṃkaṃ, S ocavaṃ.-- 
+    10, C1 pañe, C1 valāhagām iv'; antagū (corr. from -bhū), B addhabhu, 
+       P -kam i bandhasū.-- 
+    11, cdd. vita-, S -hitaṃ.--
+    12, P dhāyehi.-- 
+    14, P n'; atthi raṇaṃ, BPS ki, P kāmāsi, S kāhasa.-- 
+    15, S mā tu, L -ānū-, P -ānabhāpini, LS -pini.-- 
+    16, S satthi- cdd. -su-, P -lupaha, C -lu-.--
+    17, CP -rati, S -ratī, L brubhī, P phrūsi, S aratī, P arati ni sā, 
+       C mama.-- 
+    18, L sabbatta, B nandī, LP tamokha-.-- 
+    19, S eva, S pāpīma, P nisāto, BP andhakā, S atthakā.-- 
+   20, L selo.-- 
+    21, C yan, L yaṃn, BCP isihi, S dutīhi, P pattappaṃ thā-, S tā-, 
+       LP dūra-, L -saṃmbhavaṃ, S -sambha-.-- 
+    22, P ta, B 1. hd. CP -sañāya, S -saññāya, P sappotum, S sabbotum, 
+       P ittiyā.-- 
+    23, B 1. hd., PS ki, B karirā, L citthamhi.-- 
+    24, P ñānamha, L samma, P -pasato.
+
+[page 130]
+130                          {THERĪ-GĀTHĀ}.
+sabbattha vihatā nandi tamokkhandho padālito |
+evaṃ jānāhi pāpima nihato tvam asi antaka. || Thī_62 ||
+                          Somā. ||
+                   tikanipāto niṭṭhito. ||
+putto buddhassa dāyādo Kassapo susamāhito |
+pubbenivāsaṃ yo vedī saggāpāyañ ca passati. || Thī_63 ||
+atho jātikkhayaṃ patto abhiññāvosito muni |
+etāhi tīhi vijjāhi tevijjo hoti brāhmaṇo. || Thī_64 ||
+tatheva Bhaddā Kapilānī tevijjā maccuhāyinī |
+dhāreti antimaṃ dehaṃ jetvā Māraṃ savāhanaṃ. || Thī_65 ||
+disvā ādīnavaṃ loke ubho pabbajitā mayaṃ |
+ty amha khīṇāsavā dantā sītibhūta mha nibbutā ti. || Thī_66 ||
+                     Bhaddā kapilānī. ||
+                 catukkanipāto niṭṭhito. ||
+paṇṇavīsati vassāni yato pabbajitā ahaṃ |
+accharāsaṃghātamattaṃ pi citass'; upasam'; ajjhagaṃ. || Thī_67 ||
+aladdhā cetaso santiṃ kāmarāgen'; avassutā |
+bāhā paggayha kandantī vihāraṃ pāvisiṃ ahaṃ. || Thī_68 ||
+sā bhikkhuniṃ upāgacchiṃ yā me saddhāyikā ahu |
+sā me dhammaṃ adesesi khandhāyatanadhātuyo. || Thī_69 ||
+tassā dhammaṃ suṇitvāna ekamante upāvisiṃ |
+pubbenivāsaṃ jānāmi dibbacakkhuṃ visodhitaṃ. || Thī_70 ||
+
+--------------------------------------------------------------------------
+     1, L sabbatta, L nandī, L and P in corr. tamokha-.-- 
+     2, pāpīma, P .anakā, S atthakā.-- 
+     4, BLP tikka-, L niṭhi-.-- 
+    5, B 1. hd. C1 PS sutto, B 1. hd., S puttassa.-- 
+     6, B 1. hd., S yojeti, CP vedi.-- 
+     7, P -ñātepito, S -tesiso, C1 1. hd. abhiñāte pi bho muni, 2. hd. 
+       abhiñāvopibho, C2 -vopite.--
+     8, B etāhī, S tehi, C1 tihi, L tevijjā, LP bra-.-- 
+     9, CS bhadda, LP Kāpi-, cdd. -lāni, C1 paccu-, cdd. -yini.-- 
+    10, C2 dhārehi, B pavā-,-- 
+    11, cdd. ādi-, L pabbajji-, P pappa-, S pabbari-, BC2 mayhaṃ.-- 
+    12, B 1. hd. thambhā, corr. 2. hd., C1 1. hd. tumhā, 2. hd. ty amhā,
+       C2 amhā, L ty ama, PS amhā, cdd. khinā-, C1 S siti-, CS mhi, 
+       B nibbatā C2 nibbūtā, C1 om. ti.-- 
+    13, S bhadda, LP kāpi-, cdd. -lāni.-- 
+    15, cdd. -visa-, BCL -jjitā, P pappajito.-- 
+    16, L acchurā-, CL -saṃghāṭa-, L -matta, S mattam, P ajjhā-.-- 
+    17, B ceta, P setaso, BCPS santi.-- 
+    18, S bāhu, P paggayu, CPS -nti, BCPS pāvisi,.-- 
+    19, L bhikkhani, P bhikkhūnī, S bhikkhuṇi, B bhikkhuni, C bhikkhunī, 
+       cdd, -gacchi, BP vissāsikā, S vassāsikā, C 1. hd. ahum.-- 
+    20, L dhammam, L khandā-.-- 
+    21, S suni- CP -vīsi, BS -visi.-- 
+    22, S pubbesi-, BLPS -cakkhu, P visodhikaṃ.
+
+[page 131]
+                             THERĪ-GĀTHĀ.                         131
+ceto paricca ñāṇañ ca sotadhātu visodhitā |
+iddhi pi me sacchikatā patto me āsavakkhayo |
+cha me 'bhiññā sacchikatā kataṃ buddhassa sāsanaṃ. || Thī_71 ||
+               aññatarā bhikkhunī apaññātā. ||
+mattā vaṇṇena rūpena sobhaggena yasena ca |
+yobbanena c'; upatthaddhā aññā samatimaññi 'haṃ. || Thī_72 ||
+vibhūsetvā imaṃ kāyaṃ sucittaṃ bālālapanaṃ |
+aṭṭhāsiṃ vesidvāramhi luddo pāsam iv'; oḍḍiya. || Thī_73 ||
+pilandhanaṃ vidaṃsentī guyhaṃ pakāsikaṃ bahuṃ |
+akāsiṃ vividhaṃ māyaṃ ujjagghantī bahuṃ janaṃ. || Thī_74 ||
+sājja piṇḍaṃ caritvāna muṇḍā saṃghāṭipārutā |
+nisinnā rukkhamūlamhi avitakkassa lābhinī. || Thī_75 ||
+sabbe yogā samucchinnā ye dibbā ye ca mānusā |
+khepetvā āsave sabbe sītibhūta mhi nibbutā. || Thī_76 ||
+                   Vimalā purāṇagaṇikā. ||
+ayonisomanasikārā kāmarāgena additā |
+ahosiṃ uddhaṭā pubbe citte avasavattini. || Thī_77 ||
+pariyuṭṭhitā kilesehi sukhasaññānuvattinī |
+samaṃ cittassa nālabhiṃ rāgacittavasānugā. || Thī_78 ||
+kisā paṇḍu vivaṇṇā ca satta vassāni cāri 'haṃ |
+nāhaṃ divā vā rattiṃ vā sukhaṃ vindiṃ sudukkhitā. || Thī_79 ||
+tato rajjuṃ gahetvāna pāvisiṃ vana-m-antaraṃ |
+varaṃ me idha ubbandhaṃ yañ ca hīnaṃ pun'; ācare. || Thī_80 ||
+daḷhapāsaṃ karitvāna rukkhasākhāya bandhiya |
+
+--------------------------------------------------------------------------
+     1, L sodhātu'; S sosodhātu.-- 
+     2, S pi pe.-- 
+     3, BP abhiñā, S abhiññā.-- 
+     4, L bhaña-, L bhakkhuni, P -kkhūni, S -ni, L bhapañātā, P añātā, 
+       S asaññātā, B asañatā.-- 
+     5, S patta, P sasena.-- 
+     6, P yoppa-, L uppata-, P supattha-, S vupa-, B 1. hd. 
+       sañācapamatimañitaṃ, corr. 2. hd., S -atipaññi.-- 
+     7, L vī-, S -bhu-, C -sitvā, P sū-, B 2. hd. C bālalāpanaṃ, 
+       P bālahepanaṃ.-- 
+     8, LP aṭhā- cdd. -āsi, PS vepi-, S -bāramhi luddho pāyāmi dhoṭṭiyo, 
+       B luddho, B.1. hd. idh'; oḍḍiyo, 2. hd iv'; oḍḍiyā, C iv'; aṭṭiyaṃ, 
+       L iv'; oṭṭiyaṃ, P iv'; oṭṭiyo.-- 
+     9, BP cīraṃsanti, S ciraṃsanti, B 1. hd., S bhuyhaṃ, P bhūyhaṃ.-- 
+    10, cdd. akāsi, B ujjagghya-, C ujjhagghanti, P ujjhāgghā, S -nti, 
+       PS bahu.-- 
+    11, BP sv ājja, C piṇḍañ, C saṅghā-.-- 
+    12, B avitakkāya, S avitikkaya, BCLS lābhini, P lābhi dāni.--
+    13, P dhippā, B mānasā.-- 
+    14, C siti-, S mpi, C -ūtā, P -ūti.-- 
+    15, L pū-, P -gaṇakā, S -ganikā.-- 
+    16, BC -manasī, P rāgo na, B aḍḍitā, CLPS aṭṭitā.-- 
+    17, cdd. ahosi, BPS uddhatā, S -ttinī.-- 
+   18, LP -yuṭhi-, P -sañana-, BCPS -vattini.-
+    19, L citasā, C nāma lābhi, BL ālabhi. PS ālābhi, S rāgaṃcitta-, P -gātā.--
+    21, L va, S ca, P ratti, S rattī, BPS vinda, CL vindi.-- 
+    22, P rajjaṃ, BC pāvīsi, S pāvisī, LP pāvisi, P manaṃ, S ganaṃ, 
+       P antayaṃ.-- 
+    23, CP varam, BCLP hinaṃ B 1. hd., L mun', S muṇī (?) care.-- 
+    24, C daḷhaṃ, L -pāsi, P daḷapāsaṃ, P yukkha- pa-, S -yā, 
+       C om. bandhiya.
+
+[page 132]
+132                          THERĪ-GĀTHĀ.
+pakkhipiṃ pāsaṃ gīvāyaṃ atha cittaṃ vimucci me. || Thī_81 ||
+                          Sīhā. ||
+āturaṃ asuciṃ pūtiṃ passa Nande samussayaṃ |
+asubhāya cittaṃ bhāvehi ekaggaṃ susamāhitaṃ. || Thī_82 ||
+yathā idaṃ tathā etaṃ yathā etaṃ tathā idaṃ |
+duggandhaṃ pūtikaṃ vāti bālānaṃ abhinanditaṃ. || Thī_83 ||
+evaṃ etaṃ avekkhantī rattindivam atanditā |
+tato sakāya paññāya abhinibbijja dakkhisaṃ. || Thī_84 ||
+tassā me appamattāya vicinantiyā yoniso |
+yathābhūtaṃ ayaṃ kāyo diṭṭho santarabāhiro. || Thī_85 ||
+atha nibbind'; ahaṃ kāye ajjhattañ ca virajj'; ahaṃ |
+appamattā visaṃyuttā upasanta mhi nibbutā. || Thī_86 ||
+                          Nandā. ||
+aggiṃ candañ ca sūriyañ ca devatā ca namassi 'haṃ |
+nadītitthāni gantvāna udakaṃ oruhāmi 'haṃ. || Thī_87 ||
+bahūvatasamādānā aḍḍhaṃ sīsassa olikhiṃ |
+chamāya seyyaṃ kappemi rattibhattaṃ na bhuñji 'haṃ. || Thī_88 ||
+vibhūsamaṇḍanaratā nhāpanucchādanehi ca |
+upakāsiṃ imaṃ kāyaṃ kāmarāgena additā. || Thī_89 ||
+tato saddhaṃ labhitvāna pabbajiṃ anagāriyaṃ |
+disvā kāyaṃ tathābhūtaṃ kāmarāgo samūhato. || Thī_90 ||
+sabbe bhavā samucchinnā icchā ca patthanā pi ca |
+sabbayogavisaṃyuttā santiṃ pāpuṇiṃ cetaso. || Thī_91 ||
+                    Nanduttarā therī. ||
+saddhāya pabbajitvāna agārasmā anagāriyaṃ |
+vicari 'haṃ tena tena lābhasakkāraussukā. || Thī_92 ||
+
+--------------------------------------------------------------------------
+     1, cdd. pakkhipi, LP givā-, P citta.-- 
+     2, BP sihā.-- 
+     3, BCLP asuci, S asucī, L putiṃ, B puti, C sutiṃ, PS pūti, S naṃde.-- 
+     5, P yathā idha.-- 
+     6, cdd. puti-, S bānaṃ, L abhinannitaṃ, S abhitanditaṃ.-- 
+     7, LP evaṃ evaṃ, S evaṃm evaṃ avakkhanti, P -nti, LP ratti divaṃ. 
+       P atantitā.-- 
+     8, L -nibbijjhu, LPS dakkhiyaṃ, B dakkhitaṃ C rakkhasi.-- 
+     9, B appattāya.-- 
+    10, S yathābhataṃ ahaṃ. LP diṭho, B 1. hd., PS antaradhāyino, B 2. hd. 
+      antarabāhino.-- 
+    11, CP nibbindi 'haṃ, S virajj 'aha, B ataṃ.-- 
+    12, P -yutto, C -santā hi, BC nibbūtā.-- 
+    14, BCP aggi, P sa-, PS suri-, LPS va, C na ca masi taṃ, S namassa.--
+    15, L naditattani, PS nadi-, P gantāna, S gaṃtvāna, B orūhāmi tā.-- 
+    16, cdd. bahu-, B 1. hd., S -dhadhā-, P aḍhaṃ, C ada, cdd. sisassa 
+       olikhi.-- 
+    17, S teyaṃ, B seyaṃ, P first hand bhuñjissaṃ, C abhuñji.-- 
+    18, S vibhu-, S nāpa-.-- 
+    19, cdd. -kāsi. BC aḍḍitā, LPS aṭṭitā.-- 
+    20, L labhitvā, CPS pabbaji, B -jji, BCP anā-, S om. from disvā to 
+       vicari excl.-- 
+    21, BCP yathā- C samo-.-- 
+    22, L patta-.-- 
+    23, P sappa-, BCP santi, P pa-, cdd. -ṇi.-- 
+    25, B pabbajji-, L agārasvā anā-.-- 
+    26, S tena teṇa, B, C 2. hd., P ssukkā.
+
+[page 133]
+                             THERĪ-GĀTHĀ.                          133
+riñcitvā paramaṃ atthaṃ hīnam atthaṃ asevi 'haṃ |
+kilesānaṃ vasaṃ gantvā sāmaññatthaṃ nirajji 'haṃ. || Thī_93 ||
+tassā me ahu saṃvego nisinnāya vihārake |
+ummaggapaṭipanna mhi taṇhāya vasam āgatā. || Thī_94 ||
+appakaṃ jīvitaṃ mayhaṃ jarā byādhi ca maddati |
+purāyaṃ bhijjati kāyo na me kālo pamajjituṃ. || Thī_95 ||
+yathābhūtam apekkhantī khandhānaṃ udayabbayaṃ |
+vimuttacittā uṭṭhāsiṃ kataṃ buddhassa sāsanaṃ. || Thī_96 ||
+                        Mittakālī. ||
+agārasmiṃ vasantī 'haṃ dhammaṃ sutvāna bhikkhuno |
+addasaṃ virajaṃ dhammaṃ nibbānaṃ padam accutaṃ. || Thī_97 ||
+sāhaṃ puttadhītarañ ca dhanadhaññañ ca chaḍḍiya |
+kese chedāpayitvāna pabbajiṃ anagāriyaṃ. || Thī_98 ||
+sikkhamānā ahaṃ santiṃ bhāventī maggam añjasaṃ |
+pahāsiṃ rāgadosañ ca tadekaṭṭhe ca āsave. || Thī_99 ||
+bhikkhunī upasampajja pubbajātim anussariṃ |
+dibbacakkhuṃ visodhitaṃ vimalaṃ sādhu bhāvitaṃ. || Thī_100 ||
+saṅkhāre parato disvā hetujāte palokine |
+pahāsiṃ āsave sabbe sītibhūta mhi nibbutā. || Thī_101 ||
+                         Sakulā. ||
+dasa putte vijāyitvā asmiṃ rūpasamussaye |
+tato 'haṃ dubbalā jiṇṇā bhikkhuniṃ upasaṅkamiṃ. || Thī_102 ||
+sā me dhammam adesesi khandhāyatanadhātuyo |
+tassā dhammaṃ suṇitvāna kese chetvāna pabbajiṃ. || Thī_103 ||
+tassā me sikkhamānāya dibbacakkhuṃ visodhitaṃ |
+pubbenivāsaṃ jānāmi yattha me vusitaṃ pure. || Thī_104 ||
+
+--------------------------------------------------------------------------
+     1, B rajjitvā, C 1. hd. ricchitvā, L riñjitvā, P riccitvā, L rijjitvā,
+       cdd. hinaṃ, B attaṃ, S āsevi, B āsevitaṃ.-- 
+     2, S -āna, P vasa, P gantā, S gaṃtvā, B -ttaṃ, S nirujjijhi.-- 
+     4, P āto (?)-- 
+     5, P jivi-, C vi ma-.-- 
+     6, P puyā, P kāmoyā, P samijjituṃ.-- 
+     7, PS -bhutam, C ave-, BCPS -nti P -yapa-. 
+     8, LP uṭhā-, cdd. -si, P kata (?).-- 
+     9, cdd. -kāli.-- 
+    10, C -smā, L -smi, BCPS -nti.-- 
+    11, BCPS nibbāna. -- 
+    12, C puttañ ca dhitañ ca, LS -dhita-, P -dhitha-, C chaṭṭiyaṃ, 
+       L chaṭṭaṃyā, P chaṭṭiya, S chaṭṭhiḍḍhiyaṃ.-- - 
+   13, BLPS pabbajji, S -jji va ana-, B anā-.--
+    14, B -māna, L santī, PS santi, BCP -nti, S bhavenni, B añjūsaṃ, CLPS
+       añjusaṃ.-- 
+    15, cdd. pahāsi, L -dosaṃ saṃ ca, BP -saṃ. LP -kaṭhe.-- 
+    16, L bhikkhūni, P -ūnī, S -uni, S- pajji. BCP anussari, L -ssarī, 
+       S assari.-- 
+    17, cdd. -cakkhu.-- 
+    18, CS saṃkhāre.-- 
+    19, cdd. pahāsi, CLPS siti-, P nibbūtā.-- 
+    20, Cy Pakulā, but three times corr. from Sakulā, S Kusalā.-- 
+    21, P asmi.-- 
+    22, C ciṇṇā, BLPS bhikkhuni, C -nī, S -saṃka-, cdd. -kami.-- 
+    23, B dhamma de-, P dhamma pade-, L -yatanā-, S suni-, C kese hitvāna, 
+       cdd. pabbaji.-- 
+    26, S vasitaṃ.
+
+[page 134]
+134                        THERĪ-GĀTHĀ.
+animittañ ca bhāvemi ekaggā susamāhitā |
+anantarāvimokkhāsiṃ anupādāya nibbutā. || Thī_105 ||
+pañca kkhandhā pariññātā tiṭṭhanti chinnamūlakā |
+ṭhitivatthuj'; aneja mhi n'; atthi dāni punabbhavo. || Thī_106 ||
+                          Soṇā. ||
+lūnakesī paṅkadharī ekasāṭī pure cariṃ |
+avajje vajjamatinī vajje cāvajjadassinī. || Thī_107 ||
+divāvihārā nikkhamma Gijjhakūṭamhi pabbate |
+addasaṃ virajaṃ buddhaṃ bhikkhusaṅghapurakkhataṃ. || Thī_108 ||
+nihacca jānuṃ vanditvā saṃmukhā pañjali ahaṃ |
+ehi Bhadde ti avaca sā me ās'; ūpasampadā. || Thī_109 ||
+ciṇṇā Aṅgā ca Magadhā Vajjī Kāsī ca Kosalā |
+anaṇā paṇṇāsavassāni raṭṭhapiṇḍaṃ abhuñji 'haṃ. || Thī_110 ||
+puññaṃ ca pasaviṃ bahuṃ sappañño vat'; āyam upāsako |
+yo Bhaddāya cīvaram adāsi muttāya sabbagandhehi. || Thī_111 ||
+                  Bhaddā purāṇanigaṇṭhī. ||
+naṅgalehi kasaṃ khettaṃ bījāni pavapaṃ chamā |
+puttadārāni posentā dhanaṃ vindanti mānavā. || Thī_112 ||
+kim ahaṃ sīlasampannā satthu sāsanakārikā |
+nibbānaṃ nādhigacchāmi akusītā anuddhaṭā. || Thī_113 ||
+pāde pakkhālayitvāna udake su karom'; ahaṃ |
+pādodakañ ca disvāna thalato ninnam āgataṃ |
+tato cittaṃ samādhemi assaṃ bhadraṃ va jāniyaṃ. || Thī_114 ||
+
+--------------------------------------------------------------------------
+     2, cdd. -si B -daya. B nibbūtā, C nibbūti.-- 
+     4, B thitivatthuṃ jane jammi, C titavatthujareja mhi (2 hd. ṭhita-),
+       L dhītavatthu jane jammi, P thiti-, S thitivattuṃ janejamehi.-- 
+     6, CS luna-, CLS -kesi, P -kepi, S paṃka-, CS -dhari, B ekaṃsāti, 
+       C ekasāti, P -sāṭi, S -saṭṭhi, BCPS cari.-- 
+     7, BP -matīni, CLS -matini, B 1. hd., S vajje tivajja-, BCPS -dassini.-- 
+     8, BC -kuṭamhi.-- 
+     9, C -saṃghaṃ-, S -saṃgha-, P -kkhita, S -kkhitaṃ.-- 
+    10, BS nihajja, BCLP jāṇuṃ, BS añjalī, LP añcali.-- 
+    11, S bhadde hi, ti maṃ, P davaca, B upasaṃpadā, L ūpasaṃmpadā.-- 
+    12, BPS Magadhā ca, BCS Vajji, BCP Kāsi.-- 
+    13, BCP aṇaṇā, S aṇanā, S pannā-, B 1. hd., S khuddapiṇḍaṃ, P ratha-, 
+       L abhuñj'; ahaṃ. -- 
+    14, S muññaṃ, B vata, C 1. hd. ca 2. hd. vata, S vatā, BP pasavi, 
+       C passavi, S pasavī, B 1. hd., C. 1. hd., S sabbañño, P ubhāsako.--
+    15, C cīvaraṃ, C vippamuttāya.-- 
+    16, S Saddhā, B 1. hd. purāṇagaṇhī, 2. hd. purāṇaṃ nigaṇhī, 
+       L purāṇanigaṇhī, P -ṇigaṇhi, S purāṇagaṇhi.-- 
+    17, P. kasa. C bijāni, P pi-, B 1. hd. passava, 2. hd. pavassaṃ, 
+       CP pavasaṃ, L pavapi, S pasavā, P samā, S camā.-- 
+    18, BC posento, BPS vindati, BCLP māṇavā.-- 
+    19, C ahā, S haṃ.--
+    20, S nādi- cdd. akusitā, BCL anuddhatā, P anandatā.-- 
+    21, S pakkhala-, B karomaṃ.-- 
+    22, C -kaṃ, P thalako.-- 
+    23, BL samādhesi, CPS desi, C asso bhadro va jāniyo, 2. hd. corr. 
+       bhadraṃ. Afterwards, however, the accus. is explained. L bhassaṃ 
+       adraṃ, P asaṃ, P jāniya.
+
+[page 135]
+                             THERĪ-GĀTHĀ.                          135
+tato dīpaṃ gahetvāna vihāraṃ pāvisiṃ ahaṃ |
+seyyaṃ olokayitvāna mañcakamhi upāvisiṃ. || Thī_115 ||
+tato sūciṃ gahetvāna vaṭṭiṃ okassayām'; ahaṃ |
+padīpasseva nibbānaṃ vimokkho ahu cetaso. || Thī_116 ||
+                        Paṭācārā. ||
+musalāni gahetvāna dhaññaṃ koṭṭenti mānavā |
+puttadārāni posentā dhanaṃ vindanti mānavā. || Thī_117 ||
+karotha buddhasāsanaṃ yaṃ katvā nānutappati |
+khippaṃ pādāni dhovitvā ekamante nisīdatha |
+cetosamatham anuyuttā karotha buddhasāsanaṃ. || Thī_118 ||
+tassā tā vacanaṃ sutvā Paṭācārāya sāsanaṃ |
+pāde pakkhālayitvāna ekamantaṃ upāvisuṃ |
+cetosamatham anuyuttā akaṃsu buddhasāsanaṃ. || Thī_119 ||
+rattiyā purime yāme pubbajātim anussaruṃ |
+rattiyā majjhime yāme dibbacakkhuṃ visodhayuṃ |
+rattiyā pacchime yāme tamokkhandhaṃ padālayuṃ. || Thī_120 ||
+uṭṭhāya pāde vandiṃsu katā te anusāsanī |
+Indaṃ va devā tidasā saṃgāme aparājitaṃ |
+purakkhitvā vihissāma tevijja mhā anāsavā. || Thī_121 ||
+     et'; imā tiṃsamattā therībhikkhuniyo Paṭācārāya
+santike aññaṃ byākaṃsu. ||
+duggatāhaṃ pure āsiṃ vidhavā ca aputtikā |
+vinā mittehi ñātīhi bhattacoḷassa nādhigaṃ. || Thī_122 ||
+pattaṃ daṇḍaṃ ca gaṇhitvā bhikkhamānā kulā kulaṃ |
+sītuṇhena ca ḍayhantī satta vassāni cāri 'haṃ. || Thī_123 ||
+bhikkhuniṃ puna disvāna annapānassa lābhiniṃ |
+upasaṃkamma avocaṃ pabbajiṃ anagāriyaṃ. || Thī_124 ||
+
+--------------------------------------------------------------------------
+     1, LP dipaṃ, B 1. hd., PS vihāre, BCLP -visi, S pāvisī.-- 
+     2, P seyaṃ, CL -vīsi, BPS -visi.-- 
+     3, LS suciṃ, BCP suci, C gahetvā, BPS vatti, C vaṭṭi, L -yāmaṃ,
+       BPS -yo ahaṃ.-- 
+     4, B 1. hd. padipaye ca, C parisaye va, P padirayeva, S padapaye ca.-- 
+     6, P mūsa-, BPS koṭenti, BCLP māṇavā.-- 
+    7, BC posento, P vindati, BCLP māṇavā, S māravā.-- 
+     9, P nisīdata, S nisi-.-- 
+    10, P buddhaṃ sā-.-- 
+    11, S tassā kāmā.-- 
+    12, P upāvisu, C upāviṃsu.-- 
+    13, S anuyuktā, C kataṃ buddha-.-- 
+    14, B pūrime rāme, C pubbe-, BCPS -ssaraṃ.-- 
+    15, L majjhiyome, B -cakkhu, P visoda-.-- 
+    17, LP uṭhā-, BP vandisu, CLS -sāsani, P -sāsanaṃ.-- 
+    18, B 1. hd., S yaṃgāme, C saṅ-, P sagāme (?)-- 
+    19, BL pūra-, C 1. hd. visāriyāma, 1 hd. vihariyāma, CL tevijjā.-- 
+    20, BP tisa-, S -mattā ca, BCPS theri-, P -niro, S -niyo pana pa-, 
+       P padaṭā-, but da del., CL -carāya.-- 
+    22, B dugga, S dukkaṭā, L pūre, BPS āsi, C asi.-- 
+    23, P jinā, B mittepahi, CL ñātihi, B bhadda-, L atta-, S bhaddacola- 
+      nāvibhaṃ, B nādhibhaṃ, C nādhikaṃ. -- 
+    24, C -añ, S daṇḍiñ, S kusalā kusalaṃ.-- 
+    25, cdd. situ-, S -nhena, P paḍa-, CPS -nti.-
+    26, P -ni, S -ṇī, BC -ūnī, P annaṅpā- (?) S -pa-, BCPS -bhini.-- 
+    27, B 2. hd., P -gamma, C -saka-, cdd. avoca, PS -jji, BP anā-, C om. an.
+
+[page 136]
+136                        THERĪ-GĀTHĀ.
+sā ca maṃ anukampāya pabbājesi Paṭācārā |
+tato maṃ ovaditvāna paramatthe niyojayi. || Thī_125 ||
+tassāhaṃ vacanaṃ sutvā akāsiṃ anusāsaniṃ |
+amogho ayyāya ovādo tevijja mhi anāsavā. || Thī_126 ||
+                         Candā. ||
+                  pañcanipāto samatto. ||
+yassa maggaṃ na jānāsi āgatassa gatassa vā |
+taṃ kuto āgataṃ puttaṃ mama putto ti rodasi. || Thī_127 ||
+maggaṃ ca kho 'ssa jānāsi āgatassa gatassa vā |
+na naṃ samanusocesi evaṃdhammā hi pāṇino. || Thī_128 ||
+ayācito tato 'gacchi ananuññāto ito gato |
+kuto pi nūna āgantvā vasitvā katipāhakaṃ. || Thī_129 ||
+ito pi aññenāgato tato aññena gacchati |
+peto manussarūpena saṃsaranto gamissati |
+yathāgato tathā gato kā tattha paridevanā. || Thī_130 ||
+abbuhi vata me sallaṃ duddasaṃ hadayanissitaṃ |
+yā me sokaparetāya puttasokaṃ byapānudi. || Thī_131 ||
+sājja abbūḷhasallāhaṃ nicchātā parinibbutā |
+buddhaṃ dhammañ ca saṅghañ ca upemi saraṇaṃ muniṃ. || Thī_132 ||
+                   pañcasatā Paṭācārā. ||
+puttasoken'; ahaṃ aṭṭā khittacittā visaññinī |
+naggā pakiṇṇakesī ca tena tena vicāri 'haṃ. || Thī_133 ||
+vīthisaṅkārakūṭesu susāne rathiyāsu ca |
+acariṃ tīṇi vassāni khuppipāsāsamappitā. || Thī_134 ||
+
+--------------------------------------------------------------------------
+     1, P sā sa, P -kammāya.-- 
+     2, S oṃvadi-.-- 
+     3, cdd. akāsi, BC anusāsani, P -sāsanaṃ, S -sāsanī. -
+     4, B 1. hd., S āmode haṃ, L tevijjā, B 1. hd., P samattho.-- 
+     7, BC om. na.-- 
+     8, B2. hd., CP sattaṃ.-- 
+     9, CS maggañ, P sa kho, L sa, B 1. hd., C 1. hd., PS ya, B 2. hd. sā, 
+       C jānāmi athassa.-- 
+    10, S taṃ C -dhammā naṃ pāpino, S pāni-.-- 
+    11, L ayāciko, L nānuñāto, S anuññāto,-- 
+    12, B 1. hd. ci, 2 hd. si, BCLP nuna, L visitvā, C -hataṃ.-- 
+    13, C -aga-, S cāto.-- 
+    14, P saṃsarāntā, Bs -ntā.-- 
+    16, C abbhuhi, P khuddasaṃ.-- 
+    17, P -nuri, S -nudī, BC byā-.-- 
+    18, B sajja, C sambuḷha-, BL abbuḷha-, P abbaḷha-, S abbūlha-, P -pallā, 
+       P nicchatā. -- 
+    19, P buddha, cdd, saṃghañ, BL muni, P muna, S munī, C munan ti.-- 
+    20, P -sathā.-- 
+    21, BP -sokenāhaṃ, B aṭḍa, P visañini, S visassinī.-- 
+    22, B 1. hd., PS sakiṇṇa-, B 2. hd., P -kepi, B 1. hd., C -kesi, 
+       BPS vicari, S vicarī ahaṃ.--
+    23, L vithi-, BP vasi-, S vasī-, S saṃkāra-, BC -kuṭesu, L sāne, 
+      C susāna, S rathighāsu va.-- 
+    24, LP acari, CS acarī, B ācari, BCP tiṇi, S tini, B nuppi-, LS -pāsa-,
+       P -pāca-, C -pāsā-.
+
+[page 137]
+                            THERĪ-GĀTHĀ.                          137
+ath'; addasāmi sugataṃ nagaraṃ Mithilaṃ gataṃ |
+adantānaṃ dametāraṃ sambuddham akutobhayaṃ. || Thī_135 ||
+saṃ cittaṃ paṭiladdhāna vanditvāna upāvisiṃ |
+so me dhammam adesesi anukampāya Gotamo. || Thī_136 ||
+tassa dhammaṃ suṇitvāna pabbajiṃ anagāriyaṃ |
+yuñjantī satthu vacane sacchākāsiṃ padaṃ sivaṃ. || Thī_137 ||
+sabbe sokā samucchinnā pahīnā etadantikā |
+pariññātā hi me vatthū yato sokāna sambhavo. || Thī_138 ||
+                        Vāsiṭṭhī. ||
+daharā tuvaṃ rūpavatī ahaṃ pi daharo yuvā |
+pañcaṅgikena turiyena ehi Kheme ramāmase. || Thī_139 ||
+iminā pūtikāyena āturena pabhaṅgunā |
+addiyāmi harāyāmi kāmataṇhā samūhatā. || Thī_140 ||
+sattisūlūpamā kāmā khandhānaṃ adhikuṭṭanā |
+yaṃ tvaṃ kāmaratiṃ brūsi arati dāni sā mamaṃ. || Thī_141 ||
+sabbattha vihatā nandi tamokkhandho padālito |
+evaṃ jānāhi pāpima nihato tvam asi antaka. || Thī_142 ||
+nakkhattāni namassantā aggiṃ paricaraṃ vane ||
+yathābhuccaṃ ajānantā bālā suddhiṃ amaññatha. || Thī_143 ||
+ahañ ca kho namassantī sambuddhaṃ purisuttamaṃ |
+parimuttā sabbadukkhehi satthu sāsanakārikā. || Thī_144 ||
+                          Khemā. ||
+alaṃkatā suvasanā mālinī candanokkhitā |
+sabbābharaṇasañchannā dāsīgaṇapurakkhatā || Thī_145 ||
+annaṃ pānaṃ ca ādāya khajjaṃ bhojjaṃ anappakaṃ |
+gehato nikkhamitvāna uyyānam abhihārayiṃ. || Thī_146 ||
+
+--------------------------------------------------------------------------
+     1, BLP addassāmi, S -asāsi, P pithi-, S -lā, BP gati, C 1. hd. pathi.--
+     2, P antā-, S -tāna, BCPS -metānaṃ.-- 
+     3, P perhaps sa cittaṃ, C sañ cittaṃ, BL -visi, P -vīsi, C -visī, 
+      S upavīsati.-- 
+     4, CP anukammāya.-- , 
+     5 S suṇi-, BC -ji, L pabbajjiṃ, P pappāji, S pabbajjī.-- 
+     6, P yuñcanti, C yujjanti, BS -nti, P vatthu, CP -kāsi, P pada, 
+       B sīvaṃ.-- 
+     7, BLPS sabba-, BCLP pahinā.-- 
+     8, LP -ñātā, S -ññātā bhi, LC vatthu, B vattha, P vattha, S vatta, 
+       P sokānaṃ.-- 
+     9, L -siṭhī, P siṭhi, S -siṭṭhi, C -seṭhī.-- 
+    10, BCP -vati, S -vataṃ ahaṃ, P dayaro.-- 
+    11, P ramāpase.-- 
+    12, LP puti-, P ātuyena, S pabhaṃguṇā.-- 
+    13, BCLP aṭṭi-, S aṭṭhi-, P samuhatā.-- 
+    14, C satthi-, S -sulū-, cdd. khandhāsaṃ.-- 
+    15, BCP -rati, S -ratī, P brumi, BS brūmi, S aratī.-- 
+    16, P sabbatta (?) LS nandī, C -ndhā.-- 
+    17, S pāpīma, P api, S antakā.-- 
+    18, BS -ttādi, BCL aggi, P agginā, S aggī.-- 
+    19, P -bhucca, C -ccaṃ, S -buḍḍhaṃ, BCPS pajā-, P pālā, cdd. suddhi, 
+       C amañattha. -- 
+    20 BCPS -nti, S sambandhaṃ.-- 
+    23, C alaṅkatā, S bālinī, BCP -ni.--
+    24, CP -sacchannā, S -sañcannā, BCLP dāsi-, S dāsīgana-, L -puraṇkhatā,
+       BC pūra-.-- 
+    25, CL annapā-, S -nañ ca, B khejjaṃ, C khajja.-- 
+    26, C uyyānaṃ, cdd. -hārayi.
+
+[page 138]
+138                          THERĪ-GĀTHĀ.
+tattha ramitvā kīḷitvā āgacchantī sakaṃ gharaṃ |
+vihāraṃ dakkhiṃ pāvisiṃ Sākete Añjanaṃ vanaṃ. || Thī_147 ||
+disvāna lokapajjotaṃ vanditvāna upāvisiṃ |
+so me dhammam adesesi anukampāya cakkhumā. || Thī_148 ||
+sutvā ca kho mahesissa saccaṃ sampaṭivijjh'; ahaṃ |
+tatth'; eva virajaṃ dhammaṃ phusayiṃ amataṃ padaṃ. || Thī_149 ||
+tato viññātasaddhammā pabbajiṃ anagāriyaṃ |
+tisso vijjā anuppattā amoghaṃ buddhasāsanaṃ. || Thī_150 ||
+                         Sujātā. ||
+ucce kule ahaṃ jātā bahuvitte mahaddhane |
+vaṇṇarūpena sampannā dhītā Majjhassa atrajā. || Thī_151 ||
+patthitā rājaputtehi seṭṭhiputtehi gijjhitā |
+pitu me pesayi dūtaṃ detha mayhaṃ Anopamaṃ. || Thī_152 ||
+yattakaṃ tulitā esā tuyhaṃ dhītā Anopamā |
+tato aṭṭhaguṇaṃ dassaṃ hiraññaṃ ratanāni ca. || Thī_153 ||
+sāhaṃ disvāna sambuddhaṃ lokajeṭṭhaṃ anuttaraṃ |
+tassa pādāni vanditvā ekamantaṃ upāvisiṃ. || Thī_154 ||
+so me dhammam adesesi anukampāya Gotamo |
+nisinnā āsane tasmiṃ phusayiṃ tatiyaṃ phalaṃ. || Thī_155 ||
+tato kesāni chetvāna pabbajiṃ anagāriyaṃ |
+sājja me sattamī ratti yato taṇhā visositā. || Thī_156 ||
+                         Anopamā. ||
+buddha vīra namo ty atthu sabbasattānam uttama |
+yo maṃ dukkhā pamocesi aññañ ca bahukaṃ janaṃ. || Thī_157 ||
+sabbadukkhaṃ pariññātaṃ hetutaṇhā visositā |
+ariyaṭṭhaṅgiko maggo nirodho phusito mayā. || Thī_158 ||
+
+--------------------------------------------------------------------------
+     1, LP kiḷi-, S kīli-, BCPS -nti.-- 
+     2, C vihārarukkhaṃ pāvīsi, BLPS dakkhi, LS pāvīsi, B pāvisi, P pācisi, 
+       BCP Añjanavanaṃ, S ajjunava-.-- 
+     3, L -vīsi, PS -visi.-- 
+     4, P anukammāya.-- 
+     5, P sa kho, C apaṭi-.-- 
+     6, BL tath', L phusayi, P phassari, S passayī, BC 1. hd. phassayi, 
+       C 2ḥd. phussayi, P apadaṃ padaṃ.--
+     7, P viñātā sad-, BCP pabbaji, S -jī, BL P 1. hand anāgā-.-- 
+    10, S bahucitte.--
+    11, BCLP dhitā, B Mejjhassa, S anujā.-- 
+    12, PS pattitā, LP seṭhi-, and so always ṭh instead of ṭṭh, if not 
+       stated otherwise.-- 
+    13, B 1ḥd., S pesassi, C dutaṃ, LP Anomapaṃ.-- 
+    14, BCP yatthakaṃ, PS kulikā, B tulikā, LP dhitā.-- 
+   15, S desaṃ, B dessaṃ.-- 
+    16, P dvisvāna.-- 
+    17, C -ante, L -vīsi, PS -visi.-- 
+    18, P kammāya.-- 
+    19, CP nisinno, BS sāsane, L phusayi, P phassayi, S passayī, B, C 2ḥd. 
+       phussayi, C 1. hd. phassayi, P palaṃ.-- 
+    20, P dhoto (?) L pabbajjiṃ, P pappaji, S pabbajji, BC pabbaji, 
+       L anāgā-.-- 
+    21, C ajja, PS svājja, cdd. sattamā, C tato, P visopitā, S visesitā.-- 
+    23, P vina ramo, BC vira, S, C 1ḥd. uttamaṃ.-- 
+    24, B yaṃ maṃ, C bahūkaṃ.-- 
+    25, S -dukkha, S -ṇhādhiso-.-- 
+    26, C bhāvitaṭhaṅgiko, C phussito.
+
+[page 139]
+                             THERĪ-GĀTHĀ.                          139
+mātā putto pitā bhātā ayyikā ca pure ahuṃ |
+yathābhuccam ajānantī saṃsari 'haṃ anibbisaṃ. || Thī_159 ||
+diṭṭho hi me so bhagavā antimo 'yaṃ samussayo |
+vikkhīṇo jātisaṃsāro n'; atthi dāni punabbhavo. || Thī_160 ||
+āraddhaviriye pahitatte niccaṃ daḷhaparakkame |
+samagge sāvake passa esā buddhāna vandanā. || Thī_161 ||
+bahūnaṃ vata atthāya Māyā janayi Gotamaṃ |
+byādhimaraṇatunnānaṃ dukkhakkhandhaṃ byapānudi. || Thī_162 ||
+                   Mahāpajāpatī Gotamī. ||
+Gutte yadatthaṃ pabbajjā hitvā puttaṃ samussayaṃ |
+tam eva anubrūhehi mā cittassa vasaṃ gami. || Thī_163 ||
+cittena vañcitā sattā Mārassa visaye ratā |
+anekajātisaṃsāraṃ sandhāvanti aviddasū. || Thī_164 ||
+kāmacchandañ ca byāpādaṃ sakkāyadiṭṭhim eva ca |
+sīlabbataparāmāsaṃ vicikicchañ ca pañcamaṃ. || Thī_165 ||
+saṃyojanāni etāni pajahitvāna bhikkhuni |
+orambhāgamanīyāni na-y-idaṃ punar ehisi. || Thī_166 ||
+rāgaṃ mānaṃ avijjañ ca uddhaccañ ca vivajjiya |
+saṃyojanāni chetvāna dukkhass'; antaṃ karissasi. || Thī_167 ||
+khepetvā jātisaṃsāraṃ pariññāya punabbhavaṃ |
+diṭṭh'; eva dhamme nicchātā upasantā carissasi. || Thī_168 ||
+                          Guttā. ||
+catukkhatuṃ pañcakkhattuṃ vihārā upanikkhamiṃ |
+aladdhā cetaso santiṃ citte avasavattini. || Thī_169 ||
+bhikkhuniṃ upasaṅkamma sakkaccaṃ paripucch'; ahaṃ |
+sā me dhammam adesesi dhātuāyatanāni ca. || Thī_170 ||
+
+--------------------------------------------------------------------------
+     1, S ayyakā, B pūre, BCPS ahu, L ahū.-- 
+     2, BCS -bhuccaṃ, BCPS pajānanti, C 2. hd., L saṃsariṃ, S saṃsāri, 
+       P anippisaṃ.-- 
+     4, C nikkhiṇo, LP vikkhiṇo, S vikkhino, P punambhavo.-- 
+     5, L -atthe, S -tto.-- 
+     6, S so buddhānaṃ ca va-.--
+     7, S bahu-, C bahunnaṃ, P attāya, BPS, L 2. hd. Mayā, PS jinassa, 
+       C janani.--
+     8, S byadhi-, S -ṇā-, BPS -ruṇānaṃ, P byahā-, S -nudī, C 2. hd. byā-.--
+     9, BPS -pati, CLP Gotami.-- 
+   10, P bhutte, BPS -attaṃ, C samuppiyaṃ, P samusiyaṃ.-- 
+   11, L -bru-, P -bruhesi, P vassaṃ.-- 
+   12, L vañcithā, P satthā, P visarena. -- 
+   13, C -vantā avindiṃsu, L aviddasu, BP avindisuṃ, S avindisu.-- 
+   14, S -ndaṃ, C -kkāyaṃ.-- 
+   15, L sila-, P sīlappata-, S -kiccaṃ.-- 
+   16, cdd. saññoja- or sañoja-, B -unī, C -ūni.-- 
+   17, C orambha-, BCLP -gamani-, S -gamaṇi-, BPS punad, C ehīsi.-- 
+   18, L uddaccañ.-- 
+   19, P dukkhay'; CP karissati.-- 
+   20, P panambhavaṃ,
+   21, S nicchāta, BPS upassantā.-- 
+   23, S om. catu- pañca-, BCPS -mi.-- 
+   24, C laddhā, BCPS santi, LS -vattinī, C -vattani.-- 
+   25, L -ni, CP -ūnī, S -unī, S -saṃ-, P -kama, B 2ḥd. -gamma.-- 
+   26, P dhamma pade-, P -tuaya-, C dhātuyo āya-, B -tanāna.
+
+[page 140]
+140                         THERĪ-GĀTHĀ.
+cattāri ariyasaccāni indriyāni balāni ca |
+bojjhaṅgaṭṭhaṅgikaṃ maggaṃ uttamatthassa pattiyā. || Thī_171 ||
+tassāhaṃ vacanaṃ sutvā karontī anusāsaniṃ |
+rattiyā purime yāme pubbajātim anussariṃ || Thī_172 ||
+rattiyā majjhime yāme dibbacakkhuṃ visodhayiṃ |
+rattiyā pacchime yāme tamokkhandhaṃ padālayiṃ. || Thī_173 ||
+pītisukhena ca kāyaṃ pharitvā vihariṃ tadā |
+sattamiyā pāde pasāremi tamokkhandhaṃ padāliya. || Thī_174 ||
+                         Vijayā. ||
+                    chanipāto samatto. ||
+musalāni gahetvāna dhaññaṃ koṭṭenti mānavā |
+puttadārāni posentā dhanaṃ vindanti mānavā. || Thī_175 ||
+ghaṭatha buddhasāsane yaṃ katvā nānutappati |
+khippaṃ pādāni dhovitvā ekamantaṃ nisīdatha. || Thī_176 ||
+cittaṃ upaṭṭhapetvāna ekaggaṃ susamāhitaṃ |
+paccavekkhatha saṅkhāre parato no ca attato. || Thī_177 ||
+tassāhaṃ vacanaṃ sutvā Paṭācārānusāsaniṃ |
+pāde pakkhālayitvāna ekamante upāvisiṃ. || Thī_178 ||
+rattiyā purime yāme pubbajātim anussariṃ |
+rattiyā majjhime yāme dibbacakkhuṃ visodhayiṃ || Thī_179 ||
+rattiyā pacchime yāme tamokkhandhaṃ padālayiṃ. |
+tevijjā atha vuṭṭhāmi katā te anusāsanī. || Thī_180 ||
+Sakkaṃ va devā tidasā saṃgāme aparājitaṃ |
+purakkhitvā vihissāmi tevijja mhi anāsavā. || Thī_181 ||
+                         Uttarā. ||
+
+--------------------------------------------------------------------------
+     1, S thalāni, BC phalāni.-- 
+     2, BCP -matta-, S patthiyā.-- 
+     3, CPS -nti, BPS -sani, C -sini.-- 
+     4, P purine, B 1. hd. pubbejāti, 2. hd. pubbajāti, C pubbajāti,
+       P puppejāti, S pubbejāti, BCP -ssari, S -ssarī.-- 
+     5, C pacchime, BCPS -dhayi.-- 
+     6, BS majjhime, B 2. hd. macchime, BCPS -layi.-- 
+     7, LP piti-, B virahīṃ, C vihari, P viharī, S virahī.-- 
+     8, BCP sattamīyā, BLPS -layi.-- 
+   11, CP koṭenti, S koṭṭhenti, cdd. māṇavā.-- 
+    12, BC posento, LP māṇavā.-- 
+    13, S ghaṭetha.-- 
+    14, S dibbapādāni, BP dhovetvā, C -ante.-- 
+    15, L upaṭhape-.-- 
+    16, S -kkhata, C -vekkha saṅkhāra, S saṃ-, PS parato hetu atthato, 
+       B parato hetu attato.-- 
+    17, LS -sāsanī, C -sani, P -sāsanaṃ.-- 
+    18, C pakkhila-, P -yitvā eka-, BC -vīsi, LP -visi, S -visī. -- 
+    19, B pūrime, BPS pubbe-, BCP -ssari, S -ssarī.-- 
+    20, B majjhi dibba-, BCPS -dhayi.-- 
+    21, P yattiyā, BP macchime, C -ndha, BCPS -layi.-- 
+    22, P'; thevijjā, BCLP vuṭhāsi, S vuṭṭhāsi, L kathā, BCLP -sani.-- 
+    23, BCLP saṅ-.--
+    24, BPS -hissāsi, C viharissāmi, L -jjā.
+
+[page 141]
+                             THERĪ-GĀTHĀ.                        141
+satiṃ upaṭṭhapetvāna bhikkhunī bhāvitindriyā |
+paṭivijjhiṃ padaṃ santaṃ saṅkhārūpasamaṃ sukhaṃ. || Thī_182 ||
+kin nu uddissa muṇḍā si samaṇī viya dissasi |
+na ca rocesi pāsaṇḍe kim idaṃ carasi momuhā. || Thī_183 ||
+ito bahiddhā pāsaṇḍā diṭṭhiyo upanissitā |
+na te dhammaṃ vijānanti na te dhammassa kovidā. || Thī_184 ||
+atthi Sakyakule jāto buddho appaṭipuggalo |
+so me dhammam adesesi diṭṭhīnaṃ samatikkamaṃ. || Thī_185 ||
+dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ |
+ariyaṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ. || Thī_186 ||
+tassāhaṃ vacanaṃ sutvā vihariṃ sāsane ratā |
+tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ. || Thī_187 ||
+sabbattha vihatā nandi tamokkhandho padālito |
+evaṃ jānāhi pāpima nihato tvam asi antaka. || Thī_188 ||
+                          Cālā. ||
+satīmatī cakkhumatī bhikkhunī bhāvitindriyā |
+paṭivijjhiṃ padaṃ santaṃ akāpurisasevitaṃ. || Thī_189 ||
+kiṃ nu jātiṃ na rocesi jāto kāmāni bhuñjati |
+bhuñjāhi kāmaratiyo māhu pacchānutāpinī. || Thī_190 ||
+jātassa maraṇaṃ hoti hatthapādāna chedanaṃ |
+{vadhabandhaparikilesaṃ} jāto dukkhaṃ nigacchati. || Thī_191 ||
+atthi Sakyakule jāto sambuddho aparājito |
+so me dhammam adesesi jātiyā samatikkamaṃ. || Thī_192 ||
+dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ |
+ariyaṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ. || Thī_193 ||
+tassāhaṃ vacanaṃ sutvā vihariṃ sāsane ratā |
+tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ. || Thī_194 ||
+
+--------------------------------------------------------------------------
+     1, BLP sati, S -metvāna, BLPS -uni, C -ūnī.-- 
+     2, B -vajjhi, CLS -vijjhi, P -vijjha, S saṃkhāru-.-- 
+     3, S kin na, BPS udissa, BCP -ṇi, L vi.-- 
+     4, P roceti pāpaṇḍe, C pāsaṇḍo, BCL momūhā.-- 
+     5, P pāpaṇḍā, C -nisitā.-- 
+     7, C kalyākule, but Cy Sakyakule, B 1. hd., P appati-.-- 
+     8, BCP diṭhi-, S diṭṭhi-.-- 
+    10, C ariyañ ca aṭha-, S ariyaccaṃṭṭhaṃgikaṃ, cdd. dukkhupa-.-- 
+    11, BP vihari, C vihāri, S viharī, L rato.-- 
+    13, L nandī, S nanti, P -liṭo.-- 
+    14, P -nāhi hi pā-, S -kā.-- 
+    15, S bhalā.-- 
+    16, BLPS satimati, C satimatī ti, L ca ca-, but ca once del., as it seems, 
+       BCP -mati, BPS -uni, C -ūnī, LP bhāvī- P -drīyā.-- 
+    17, cdd. -vijjhi, L -pūrisa-.-- 
+    18, P ki, S kin, CPS jāti, S ka ro-, P bhuñcati, C bhuñjasi.-- 
+    19, P bhuñcāhi, S bhuñjāti, P -tiro, S mā bāhu, BP paccānutāpini, 
+       S saccānutapiṇi. -- 
+    20, L hattapādānuched-, C hatthāpādānuccheda-.-- 
+    21, B 1. hd., S -parikkhesaṃ.-- 
+    22, CP saṃbu-.-- 
+    23, C dhammaṃ, S dhamma desesi.-- 
+    25, L ariyaṃ ṭhangikaṃ, C ariyañ ca aṭha-, P ariyaṭha-, 
+       S ariyasaccaṃṭṭhaṃgikaṃ, P dukkhusama-, BCS dukkhupa-.-- 
+    26, BCP vihari, S viharī, S rato.-- 
+    27, B kathaṃ, P buddhasāsanaṃ.
+
+[page 142]
+142                        THERĪ-GĀTHĀ.
+sabbattha vihatā nandi tamokkhandho padālito |
+evaṃ jānāhi pāpima nihato tvam asi antaka. || Thī_195 ||
+                         Upacālā. ||
+                   sattanipāto samatto. ||
+bhikkhunī sīlasampannā indriyesu susaṃvutā |
+adhigacche padaṃ santaṃ asecanakam ojavaṃ. || Thī_196 ||
+tāvatiṃsā ca yāmā ca tusitā cāpi devatā |
+nimmānaratino devā ye devā vasavattino |
+tattha cittaṃ paṇidhehi yattha te vusitaṃ pure. || Thī_197 ||
+tāvatiṃsā ca yāmā ca tusitā cāpi devatā |
+nimmānaratino devā ye devā vasavattino || Thī_198 ||
+kālaṃ kālaṃ bhavā bhavaṃ sakkāyasmiṃ purakkhatā |
+avītivattā sakkāyaṃ jātimaraṇasārino. || Thī_199 ||
+sabbo ādīpito loko sabbo loko paridīpito |
+sabbo pajjalito loko sabbo loko pakampito. || Thī_200 ||
+akampitaṃ atuliyaṃ aputhujjanasevitaṃ |
+buddho dhammaṃ me desesi tattha me nirato mano. || Thī_201 ||
+tassāhaṃ vacanaṃ sutvā vihariṃ sāsane ratā |
+tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ. || Thī_202 ||
+sabbattha vihatā nandi tamokkhandho padālito |
+evaṃ jānāhi pāpima nihato tvam asi antaka. || Thī_203 ||
+                       Sīsūpacālā. ||
+                   aṭṭhanipāto samatto. ||
+mā su te Vaḍḍha lokamhi vanatho ahu kudācanaṃ |
+mā puttaka punappunaṃ ahu dukkhassa bhāgimā. || Thī_204 ||
+
+--------------------------------------------------------------------------
+     1, L nannī, S nantī.-- 
+     2, P nitato, B andhaka, P antakaṃ (ṃ?), L antakā.--
+     3, P Upasālā.-- 
+     4, B sattha-.-- 
+     5, CP -ūnī.-- 
+     6, P aseva-, S ocanaṃ, B tāvatiṇsā, B tussītā, C tussitā.-- 
+     9, P maṇidheti, but ma corr. to pa, as it seems, B -dheti, S panidheti,
+       L pūre.-- 
+   10, C tātiṃsā, B tusito, C tussitā, S napi.-- 
+    12, P -yasmi, cdd. sakā-, cdd. purakkhato.-- 
+    13, cdd. aviti-, C -vaṇṇā.-- 
+    14, L ādi-, P ādisito, B ādipisito, S ādipisino, P sappo, C parivuto, 
+       but Cy paridīpito, L paridipito, BP padisito, S padīsito.-- 
+    15, P sappo (?) loko sa-, S -piyo.-- 
+    16, C akampiyaṃ, P sakampitaṃ, S atulī-.-- 
+    17, C buddho ca, BPS dhammam adesesi, C om. me, L nirate, P niyato.-- 
+    18, BCP vihari, S viharī.-- 
+    20, S va hatā, B nandī, BCLP tamokhandho.-- 
+    21, P api, S antakaṃ.-- 
+    22, BPS Sīsu-.-- 
+    23, L om.; P aṭha-.--
+    24, P vanato, S vanaso.--
+    25, S āhu, BPS -ssa ca bhā-.
+
+[page 143]
+                             THERĪ-GĀTHĀ.                          143
+sukhaṃ hi Vaḍḍha munayo anejā chinnasaṃsayā |
+sītibhūtā damappattā viharanti anāsavā. || Thī_205 ||
+teh'; ānuciṇṇaṃ isībhi maggaṃ dassanapattiyā |
+dukkhass'; antakiriyāya tvaṃ Vaḍḍha anubrūhaya. || Thī_206 ||
+visāradā va bhaṇasi etam atthaṃ janetti me |
+maññāmi nūna māmike vanatho te na vijjati. || Thī_207 ||
+ye keci Vaḍḍha saṅkhārā hīnaukkaṭṭhamajjhimā |
+aṇu pi aṇumatto pi vanatho me na vijjati. || Thī_208 ||
+sabbe me āsavā khīṇā appamattassa jhāyato |
+tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ. || Thī_209 ||
+uḷāraṃ vata me mātā patodaṃ samavassari |
+paramatthasaññitā gāthā yathāpi anukampikā. || Thī_210 ||
+tassāhaṃ vacanaṃ sutvā anusiṭṭhiṃ janettiyā |
+dhammasaṃvegam āpādiṃ yogakkhemassa pattiyā. || Thī_211 ||
+so 'haṃ padhānapahitatto rattindivam atandito |
+mātarā codito santo aphusiṃ santim uttamaṃ. || Thī_212 ||
+                       Vaḍḍhamātā. ||
+                   navanipāto samatto. ||
+kalyāṇamittatā muninā lokaṃ ādissa vaṇṇitā |
+kalyāṇamitte bhajamāno api bālo paṇḍito assa. || Thī_213 ||
+bhajitabbā sappurisā paññā tathā pavaḍḍhati bhajantānaṃ |
+bhajamāno sappurise sabbehi pi dukkhehi mucceyya. || Thī_214 ||
+dukkhañ ca vijāneyya dukkhassa ca samudayaṃ |
+nirodhañ ca aṭṭhaṅgikaṃ maggaṃ cattāri ariyasaccāni. || Thī_215 ||
+
+--------------------------------------------------------------------------
+     1, B 1. hd. -saṃsārā, 
+     2. hd. -saṃsāyā.-- 
+     2, B siti-, S -bhutā, B 1. hd., CPS rama-, B 1. hd., S -sanā.-- 
+     3, S -cinnaṃ, BCLS isibhi, PS maggan, C magga.--
+     4, S taṃ, L -bruhaya, P -brūahaya.-- 
+     5, S -radā thānasi tem atthaṃ, L attaṃ, L jaṃnetti, P janetthi.-- 
+     6, LP nuna, S nu, B 1. hd., S māmite, P vanato, S vanaso.-- 
+     7, P kesi, S saṃ-, LP hina-.-- 
+     8, L aku pī, S anu pi anu-, P vanattho.--
+     9, P sappe, BP khiṇā, S khīnā, P cāyato, B 1. hd., S sāyato.-- 
+    10, L anupattā. -- 
+    11, P uḷāyaṃ, L samāssari, S -ssarī.-- 
+    12, BP yamatthasahitā, C 1. hd. arahatta-, S samattasahitā, 
+       S yathādapi (da?), C 1. hd. akukappakā 2. hd. aṇukappakā.-- 
+    13, B 1. hd., PS anupatti, C -siṭhi, P janettiyā.-- 
+    14, C tasmā saṃvegaṃ, P ābādi, BCS āpādi.-- 
+    15, B padānama-, P -ttho (?) B 1. hd., C. 1ḥd. -ttho.-- 
+    16, P aphussa, S aphussasi, B aphussi, C aphussadito, afterwards
+       aphussaṃ.-- 
+    19, S muṇinā, BL ariya, P āriya instead of ādissa.--
+    20, B 1. hd, PS asi, B 2. hd. api.-- 
+    21, P bhajitappā, C om. tathā, but Cy has it, C saṃva-, but Cy pa-, 
+       B -tanaṃ. In the following stanzas there are a great many marks of
+       seperation in the MSS., very often quite wrong.-- 
+    22, C pamucceyya, P mucceya, S muccaya.-- 
+    23, BS -neyyā, S samuddaya.-- 
+    24, S nirodhaṃ, B om. maggaṃ, C cattāri pi ari-, B cattāriyasa-.
+
+[page 144]
+144                         THERĪ-GĀTHĀ
+dukkho itthibhāvo akkhāto purisadammasārathinā |
+sapattikaṃ pi dukkhaṃ appekaccā sakiṃ vijātāyo || Thī_216 ||
+gale apakantanti sukhumāliniyo visāni khādanti |
+janamārakamajjhagatā ubho pi byasanāni anubhonti. || Thī_217 ||
+upavijaññā gacchantī addasāhaṃ patiṃ mataṃ panthe |
+vijāyitvāna appattāhaṃ sakaṃ gehaṃ. || Thī_218 ||
+dve puttā kālaṅkatā pati ca panthe mato kapaṇikāya |
+mātā pitā ca bhātā ca ḍayhanti ekacitakāyaṃ. || Thī_219 ||
+khīṇakulīne kapaṇe anubhūtaṃ te dukkhaṃ aparimāṇaṃ |
+assu ca te pavattaṃ bahūni jātisahassāni. || Thī_220 ||
+passiṃ taṃ susānamajjhe atho pi khāditāni puttamaṃsāni |
+hatakulikā sabbagarahitā matapatikā amatam adhigacchiṃ. || Thī_221 ||
+bhāvito me maggo ariyo aṭṭhaṅgiko amatagāmī |
+nibbānaṃ sacchikataṃ dhammādāsaṃ apekkhi 'haṃ. || Thī_222 ||
+ahaṃ amhi kantasallā ohitabhārā kataṃ me karaṇīyaṃ |
+Kisāgotamī therī suvimuttacittā imaṃ bhaṇī ti. || Thī_223 ||
+                      Kisāgotamī. ||
+                 ekādasanipāto samatto. ||
+ubho mātā ca dhītā ca mayaṃ āsuṃ sapattiyo |
+tassā me ahu saṃvego abbhuto lomahaṃsano. || Thī_224 ||
+dhi-r-atthu kāmā asucī duggandhā bahukaṇṭakā |
+yattha mātā ca dhītā ca sabhariyā mayaṃ ahuṃ. || Thī_225 ||
+
+--------------------------------------------------------------------------
+     1, L purisā- , B, C 1. hd., S -dhamma-.-- 
+     2, P pakiṃ, B saki, P vijāthāyeva.--
+     3, CPS galale, B galale or valale, CP asaka-.-- 
+     5, utijañā, S adasānaṃ, BP sati, C pati, S patī, B 1. hd., PS sandhe; 
+       B 2. hd. pante or panthe, CL pante.--
+     6, B. -yitvā, S abbattā-.-- 
+     7, CS kālaṃ-, S patī, C ca me, B 1. hd. vande, 2. hd. vanthe, L pante, 
+       P yante, S pa (sic), S meto, C 1. hd. kaṇikāya, C 2. hd., S kapani-.-- 
+     8, C ḍeyhanti.-- 
+     9, BLPS khiṇakuline, C khiṇākuline, S -bhutaṃ, C -bhūtan, BPS tena, 
+       P -mānaṃ.-- 
+   10, B 1. hd., CPS asu, S cca, LS bahuni, B jātihassāni.-- 
+    11, cdd. passi, P naṃ, L ato.-- 
+    12, B 1. hd. sātakusikā, 2. hd. hatakusikā, B -garaṃhitā, C -hitā tā, 
+       P sādhākulikā, S sāthakulīka, C -patitā, S pathapatikā, S amatha 
+       vadhi-, BCPS -gacchi.-- 
+    13, C maggā, BLP -gāmini, C -gāmi, S -gāminī.-- 
+    14, P -kathaṃ, B dhammarasaṃ, C 1. hd. dhammādāyaṃ, 2. hd. dhammadāsaṃ,
+       LS -ārasaṃ, P -ārāsaṃ, P acikkhi, C avekkhi, BS avikkhi, BC taṃ.-- 
+    15, S mhi, C tamhi, BS. kamhi, C kanti-, PS kantā-, C katam, LP -raṇi-.-- 
+    16, S Kissa-, BC Kissā-, P -mi, S theri, S idaṃ, B bhaṇatīti, P bhaṇi,
+       S tī.-- 
+    17, PS Kissa-, B Kissā-, P -mi.-- 
+    18, P samattho.-- 
+    19, B dhitā, P saṃpattiyo.-- 
+    20, S tasmā, P saṃvogo, C abhūto.-- 
+    21, P attu, BLPS asuci, C assuci, LS duggandhabahu- , P duganabahu-, 
+       LS -kaṇḍakā, C -kaṇḍako, P -kantaṇḍakā, but nta del.-- 
+    22, P yatta, S om. dhītā ca, P om. ca, P sayahariyā, S sahacariyā,
+       B sahariyā, BPS ahu.
+
+[page 145]
+                            THERĪ-GĀTHĀ.                         145
+kāmesv ādīnavaṃ disvā nekkhammaṃ daḷhakhemato |
+sā pabbajiṃ Rājagahe agārasmā anagāriyaṃ. || Thī_226 ||
+pubbenivāsaṃ jānāmi dibbacakkhuṃ visodhitaṃ |
+ceto paricca ñāṇañ ca sotadhātu visodhitā. || Thī_227 ||
+iddhi pi me sacchikatā patto me āsavakkhayo |
+cha me abhiññā sacchikatā kataṃ buddhassa sāsanaṃ || Thī_228 ||
+iddhiyā abhinimmitvā caturassaṃ rathaṃ ahaṃ |
+buddhassa pāde vanditvā lokanāthassa sirīmato. || Thī_229 ||
+supupphitaggaṃ upagamma pādapaṃ ekā tuvaṃ tiṭṭhasi
+rukkhamūle |
+na cāpi te dutiyo atthi koci na tvaṃ bāle bhāyasi dhutta-
+kānaṃ. || Thī_230 ||
+sataṃ sahassānaṃ pi dhuttakānaṃ samāgatā edisakā bha-
+veyyuṃ |
+lomaṃ na iñje na pi sampavedhe kiṃ me tuvaṃ Māra
+karissas'; eko || Thī_231 ||
+esā antaradhāyāmi kucchiṃ vā pavisāmi te |
+bhamukantare tiṭṭhāmi tiṭṭhantiṃ maṃ na dakkhisi. || Thī_232 ||
+cittamhi vasībhūtāhaṃ iddhipādā subhāvitā |
+cha me abhiññā sacchikatā kataṃ buddhassa sāsanaṃ. || Thī_233 ||
+sattisūlūpamā kāmā khandhānaṃ adhikuṭṭanā |
+yaṃ tvaṃ kāmaratiṃ brūsi arati dāni sā mama. || Thī_234 ||
+sabbattha vihatā nandi tamokkhandho padālito |
+evaṃ jānāhi pāpima nihato tvam asi antakā ti. || Thī_235 ||
+                      Uppalavaṇṇā. ||
+                 dvādasanipāto samatto. ||
+
+--------------------------------------------------------------------------
+     1. cdd. ādi-, BLPS nikkha- , BCP daḷu-, S daṭṭhukhe- (-ṭṭhru-?).-- 
+     2, BCLS pabbaji, P pappaji, P anā-.-- 
+     3, P puppe-, cdd. -cakkhu.-- 
+     4, S parica, BPS visodhito.-- 
+     5, B āyasmava-.-- 
+     6, CL 'bhiñā, S abhiññā.-- 
+     7, B -asaṃ, C -assa.--
+     8, P sāde pa-, BPS siri-, C sīri-.-- 
+     9, PS supuppi-, P -paṃdaṃ, BP patiṭhasi, S ppatiṭṭhati.-- 
+    10, S na naṃ; P hale bhāyapi vutta-, BS bhāyasā, C bā-.-- 
+    11, B vi, S vutta-, BPS samāgamā, C -yyaṃ.-- 
+    12, P om. na, P icche, BS iñca, B -deve, P -vede, cdd. ki, corr. 
+       B 2. hd., B kiriyas'; P kirissas', S kariyas'.--
+    13, BP kucchi, S kucchī.-- 
+    14, P samuka-, S tamuka-, L tiṭhanti, BCP tiṭhantaṃ, S tiṭṭhaṃtaṃ, 
+       LP dakkhasi.-- 
+    15, C cittapi, cdd. vasi-, S -bhutā.-- 
+    16, L atiñā.--
+    17, BPS sattisu-, S -lūmapā, cdd. khandhāsaṃ, P -kuṭṭā-, B -kuttana.-- 
+    18, C yan taṃ, CP -rati, S brusi, S svā.-- 
+    19, L nandī, LP padāliṭo.-- 
+    20, P eva, S nihito, BLS api, B andhākā.-- 
+    21 LP Upala-.-- 
+   22, P samattho.
+
+[page 146]
+146                         THERĪ-GĀTHĀ.
+udakahārī ahaṃ sīte sadā udakam otariṃ |
+ayyānaṃ daṇḍabhayabhītā vācādosabhayadditā. || Thī_236 ||
+kassa brāhmaṇa tvaṃ bhīto sadā udakam otari |
+vedhamānehi gattehi sītaṃ vedayase bhusaṃ. || Thī_237 ||
+jānantī ca tuvaṃ bhoti Puṇṇike paripucchasi |
+karontaṃ kusalaṃ kammaṃ rudhantaṃ kamma pāpakaṃ. || Thī_238 ||
+yo ca vuḍḍho vā dabaro vā pāpakammaṃ pakubbati |
+udakābhisecanā so pi pāpakammā pamuccati. || Thī_239 ||
+ko nu te idam akkhāsi ajānantassa ajānato |
+udakābhisecanā nāma pāpakammā pamuccati || Thī_240 ||
+saggaṃ nūna gamissanti sabbe maṇḍūkakacchapā |
+nāgā ca suṃsumārā ca ye c'; aññe udakecarā. || Thī_241 ||
+orabbhikā sūkarikā macchikā migabandhakā |
+corā ca vajjhaghātā ca ye c'; aññe pāpakammino |
+udakābhisecanā te pi pāpakammā pamuccare. || Thī_242 ||
+sace imā nadiyo te pāpaṃ pubbekataṃ vaheyyuṃ |
+puññaṃ p'; imā vaheyyuṃ tena tvaṃ paribāhiro assa. || Thī_243 ||
+yassa brāhmaṇa tvaṃ bhīto sadā udakam otari |
+tam eva brahme mā kāsi mā te sītaṃ chaviṃ hane. || Thī_244 ||
+kumaggaṃ paṭipannaṃ maṃ ariyamaggaṃ samānayi |
+udakābhisecanaṃ bhoti imaṃ sāṭaṃ dadāmi te. || Thī_245 ||
+tuyh'; eva sāṭako hotu nāham icchāmi sāṭakaṃ. |
+sace bhāyasi dukkhassa sace te dukkhaṃ appiyaṃ || Thī_246 ||
+
+--------------------------------------------------------------------------
+     1, S ujuka-, B 2. hd., C2 2. hd. udahāri del. ka, cdd. -hāri, CP pite, 
+       S site, CP otari, S otarī.-- 
+     2, P -bharā-, cdd. -bhitā, P -dosasabhaya-, BC LP -aṭṭitā, C2 -aḍḍitā, 
+       S -aṭṭhitā.-- 
+     3, C tassa; corr. 2. hd. C2, LP brahmaṇa, LP bhito, L otarī.--
+     4, S vedamāṇehi, BC sitaṃ, P pitaṃ, LP bhūsaṃ.-- 
+     5, BCPS jānanti, S tvaṃ hoti, B 2. hd. S Puṇṇake, C2 -cchisi.-- 
+    6, PS dudantaṃ, C 1. hd. nudantaṃ, 2. hd. rudantaṃ.-- 
+     7, BPS yathā vuḍḍho, LC om. vā, CP pakuppati.-- 
+     8, B udakabhisenā, P udakabhisevanā, S udakasīsena, BPS si, S -ccatu, 
+       C -ñcati.-- 
+     9, S idaṃ, C idhaṃ, S jānantassa, C jānato.-- 
+    10, S udaka-, cdd. -secano, P -kammā sa muccati, B pavuccati.-- 
+    11, LP nuna, cdd. maṇḍuka-.-- 
+    12, C nāgā va, P s'; añe. -- 
+    13, L suka-, P -ritā, BP macchakā, C migavadhikā.-- 
+    14, P -gātā, S vajjasātā, P s'; añe.-- 
+    15, C te hi, P pamuccati, BS pamuccanti, C pamuñcati.-- 
+    16, P pubbedhātaṃ, BLP vāheyyuṃ, S vāheyyaṃ.-- 
+    17, C puñān'; imā, C vāheyyuṃ, B 1. hd., S tena tena tvaṃ, C te tena.-- 
+    18, LP brahmaṇa, C bramo, om. mā, LP bhito, S otarī.-- 
+    19, LS sitaṃ, CP pitaṃ, LP chavi, S chavī, P sāne.-- 
+    20, BCPS kummaggaṃ, in C corr. from umm-, B 1. hd. -pannam,2 hd.
+       del. m, P -pannam ma, S -pannam pi, BPS samādayi.-- 
+    21, C -secana, C sātaṃ, P sāṭakaṃ, S sāvaṃ, C damāmi.-- 
+    22, B. 1. hd., CPS eca, BS māṭako, B hetu, C nahaṃ.-- 
+    23, P sase bhāyapi, B dukkhāsa.
+
+[page 147]
+                            THERĪ-GĀTHĀ.                          147
+mā kāsi pāpakaṃ kammaṃ āvi vā yadi vā raho. |
+sace ca pāpakaṃ kammaṃ karissasi karosi vā || Thī_247 ||
+na te dukkhā pamuty atthi upeccāpi palāyato. |
+sace bhāyasi dukkhassa sace te dukkham appiyaṃ || Thī_248 ||
+upehi buddhaṃ saraṇaṃ dhammaṃ saṅghañ ca tādinaṃ |
+samādiyāhi sīlāni tan te atthāya hehiti. || Thī_249 ||
+upemi buddhaṃ saraṇaṃ dhammaṃ saṅghañ ca tādinaṃ |
+samādiyāmi sīlāni taṃ me atthāya hehiti. || Thī_250 ||
+brahmabandhu pure āsiṃ ajj'; amhi saccaṃ brāhmaṇo |
+tevijjo vedasampanno sotthiyo c'; amhi nhātako. || Thī_251 ||
+                        Puṇṇikā. ||
+                  soḷasanipāto samatto. ||
+kāḷakā bhamaravaṇṇasadisā vellitaggā mama muddhajā
+ahuṃ |
+te jarāya sāṇavākasadisā saccavādivacanaṃ anaññathā. || Thī_252 ||
+vāsito va surabhikaraṇḍako pupphapūraṃ mama utta-
+maṅgabhu |
+taṃ jarāya sasalomagandhikaṃ saccavādivacanaṃ anañ-
+ñathā. || Thī_253 ||
+kānanaṃ va sahitaṃ suropitaṃ kocchasūcivicitaggaso-
+bhitaṃ |
+taṃ jarāya viraḷaṃ tahiṃ tahiṃ saccavādivacanaṃ
+anaññathā. || Thī_254 ||
+saṇhagandhakasuvaṇṇamaṇḍitaṃ sobhate su veṇihi alaṅka-
+taṃ |
+
+--------------------------------------------------------------------------
+     1, l āvī, P bhāvi dassadi vā raho.-- 
+     3, S dukkha, CP samuty, LS atti, B ucā, PS upaccāpi, C upacā, 2. hd. 
+       sapeccā.-- 
+     4, P gāyasi, C -si pi du-, P ampiyaṃ.--
+     5, C upehi saraṇaṃ buddhaṃ, P upetaṃ, BCS saṃghañ.-- 
+     6, B si-, P sīlāni bhante atth-, C taṃ, L hehīti.-- 
+     7, C upemi saraṇaṃ buddhaṃ, S saṃghaṃ, BC saṃ-.--
+     8, P sammā- si-, S -nī, BS tam, LP hehīti.-- 
+     9, P -bandha, L pūre, cdd. āsi, C cca, P pacca, LP brahmaṇo.-- 
+    10, C deva-, P sottiyo v'; amhi, C dhamhi, S nahātako, C nābhako.-- 
+    12, S solasa-.-- 
+    13, B, C 1. hd., PS kālakā, S tāmara-, C valli-, C 1. hd., S buddhajā, 
+       BCPS (L?) ahu.-- 
+    14, BS samaṇavāka-, P -sarisā, S sañcca-, S anuññathā, C -atā.-- 
+    15, S ca, P puppa-, S pubba-, cdd. -pura, BCLP uttamaṅgabhūto, 
+       S uttamaṃgabhuto.-- 
+    16, CL jarāyathasaloma-, P jarāya saloma-, S taṃ royassaloma-, 
+       S anuññathā.-- 
+    17. S satitaṃ, P surohitaṃ, S -pitā, LS kocchā-, P kācchā-, cdd. -suci-,
+       P -sopi- or -sovi-, C -ggaṃ-. S -sonitaṃ.-- 
+    18, C viraḷhaṃ, L viraḷa, P viralaṃ tahi tahi P añanañatā.-- 
+    19, C 1. hd. gaṇhakhaṇḍaka-, 2. hd. kaṇha-, P kakhakhantika or kaṇha- (?), 
+      S kaṇhakhandha-, C -ṇḍikaṃ, P -paṇḍitaṃ sogate, S sesāte, L veṇīhi, 
+       BPS venihi, BCLP 'laṅkataṃ, S 'laṃ-.
+
+[page 148]
+148                        THERĪ-GĀTHĀ.
+taṃ jarāya khalati siraṃ kataṃ saccavādivacanaṃ anañ-
+ñathā. || Thī_255 ||
+cittakārasukatā va lekhitā sobhate su bhamukā pure mama |
+tā jarāya valihi palambitā saccavādivacanaṃ anaññathā. || Thī_256 ||
+bhassarā surucirā yathā maṇi nettāhesuṃ abhinīla-m-āyatā |
+te jarāy'; abhihatā na sobhate saccavādivacanaṃ anaññathā. || Thī_257 ||
+saṇhatuṅgasadisī ca nāsikā sobhate su abhiyobbanaṃ paṭi |
+sā jarāya upakūlitā viya saccavādivacanaṃ anaññathā. || Thī_258 ||
+kaṅkaṇaṃ va sukataṃ suniṭṭhitaṃ sobhate su mama kaṇṇa-
+pāḷiyo pure |
+tā jarāya valihi palambitā saccavādivacanaṃ anaññathā. || Thī_259 ||
+pattalimakulavaṇṇasadisā sobhate su dantā pure mama |
+te jarāya khaṇḍā yavapītakā saccavādivacanaṃ anaññathā. || Thī_260 ||
+kānanasmiṃ vanasaṇḍacāriṇī kokilā va madhuraṃ nikūji-
+taṃ |
+taṃ jarāya khalitaṃ tahiṃ tahiṃ saccavādivacanaṃ anañ-
+ñathā. || Thī_261 ||
+saṇhakampurī va suppamajjitā sobhate su gīvā pure mama |
+sā jarāya bhaggā vināsitā saccavādivacanaṃ anaññathā. || Thī_262 ||
+
+--------------------------------------------------------------------------
+     1, BLPS khalita, C -litaṃ, P saccaṃvādi-, S aññathā.-- 
+     2, S -sukhatā, P amukā pare.-- 
+     3, L valīhi, S valahi, P palamphitā.-- 
+     4, L bhassurā, P tassarā surusirā, P netthā, BCLP abhini-, PS -yathā.-- 
+     5, S abhihabhata, but bha del., as it seems. P sogate, S saca-, 
+       L -vādīvacanaṃ.-- 
+    6, LP -tūṅga-, cdd. -sadisi, C. 1. hd., P -yoppannaṃ, L -yobbannaṃ,
+       CL sati.-- 
+     7, B upari upakulitā, CP upakulitā, L upalitā, S upakūlītā, B, C 1. hd., 
+       LPS vayaṃ, corr. 2. hd. C., B saccaṃ-, P anaññatā, S anuññathā.-- 
+     8, B. 1. hd., S. kaṃka-, C. 2. hd. -ṇiṃ, B. 1. hd., P ca, C om. va, 
+       P sugataṃ, C -pāli-, P pare. In all the MSS. the || is put before pure.-- 
+     9, BLPS valibhi, but cfr. v. 256, C vaḷihi, 2. hd. phāḷihi (?), 
+       P palambhitā, S anuññathā.-- 
+    10, B.1. hd. pattaṭhi-, B 2. hd., P pattaḷi-, S pattaṭṭhi-, B -makuṭha-, 
+       S -makuṭṭha-, S -yadisā sobhute. -- 
+    11, C khandhā, BLPS yacapitakā, C 1. hd. yavapitakā, 2. hd yacāsitā.--
+    12, C kānanamhi, P -smi, S cana-, P vanacaṇḍa-, C -soṇḍa-, S -riṇī 
+       kokinalā, BCLP -cārini, P madhūraṃ, BCL nikujitaṃ, S nikujjitaṃ.-- 
+    13, BLPS yaṃ, BS khaṇitaṃ (B 1. hd. khaṇikhanitaṃ), BL saccā-.-- 
+    14, B 1. hd. panḍakammuri, 2. hd. saṇhakammuri, C. 1. hd. sakkhataṃmuri 
+       va pupphaṃ majjitā, 2. hd. saṇhataṃmudi va pupphaṃ majjitvā, L -puri, 
+       P paṇḍakampuri, S puṇḍakammuri, B 1. hd., P puppa-, S pubba-,
+       LPS givā.-- 
+    15, BLPS vināsikā, C vināpitā, P -vacana.
+
+[page 149]
+                            THERĪ-GĀTHĀ.                          149
+vaṭṭapalighasadisopamā ubho sobhate su bāhā pure mama |
+tā jarāya yathā pāṭalī dubbalikā saccavādivacanaṃ anañ-
+ñathā. || Thī_263 ||
+saṇhamuddikāsuvaṇṇamaṇḍitā sobhate su hatthā pure
+mama |
+te jarāya yathā mūlamūlikā saccavādivacanaṃ anaññathā. || Thī_264 ||
+pīnavaṭṭapahituggatā ubho sobhate su thanakā pure mama |
+te rindī va lambante 'nodakā saccavādivacanaṃ anaññathā. || Thī_265 ||
+kañcanassa phalakaṃ va sumaṭṭhaṃ sobhate su kāyo pure
+mama |
+so valini sukhumāhi otato saccavādivacanaṃ anaññathā. || Thī_266 ||
+nāgabhogasadisopamā ubho sobhate su ūrū pure mama |
+te jarāya yathā veḷunāḷiyo saccavādivacanaṃ anaññathā. || Thī_267 ||
+saṇhanūpurasuvaṇṇamaṇḍitā sobhate su jaṅghā pure mama |
+tā jarāya tiladaṇḍakā-r-iva saccavādivacanaṃ anaññathā. || Thī_268 ||
+tūlapuṇṇasadisopamā ubho sobhate su pādā pure mama |
+te jarāya phuṭikā valīmatā saccavādivacanaṃ anaññathā. || Thī_269 ||
+ediso ahu ayaṃ samussayo jajjaro bahudukkhānam ālayo |
+
+--------------------------------------------------------------------------
+     1. B 1. hd. -phalikā-, 
+     2. hd. -phalighāsadisāpamā, L vaṭṭapaliasadi-, P vattāpaliasadi-, 
+       S vattiphalikāsadisāpamā, C. om. bāhā, C pūre.-- 
+     2, C jarā, CL pāṭalibbalitā, BPS pāṭalippalitā, CL anañatā.-- 
+     3, P saṇhā-. L -muddhikā-, C muṇḍikā-, C pūre.-- 
+     4, cdd. tā, B yathā mulamulikā, L yathā mūlikā, P muḷamuṭikā, 
+       S mulamūlīkā.-- 
+     5, cdd. pina-, B 2. hd. sahitu-, C -patituṅgatā, L -patituggatā,
+       P sogate.-- 
+     6, B theritivalampandharekā, 2. hd. theritivalampanti nokā, C 1. hd.
+       therindivalampanterodakā, 2. hd. terindivalambaṇtenodakā, 
+       Cy therītivalampantanodakā, L theriīhivavembandharekā, 
+       P therīhicalampandhanorakā, S therītivalambandharekā, 
+       L añathā.-- 
+     7, C 2. hd., L kañcanaphalakaṃ, BS kañcanamayapha-, C 2. hd. saṃma-, 
+       LP sumaṭhaṃ, P sogate, BLPS om. pure L mami. -- 
+     8, LS valisukhu-.-- 
+     9, L -toga-, P -satiso-, P sogate, l urū, C uru, P unu, S ura.-- 
+    10, cdd. tā, CS velunāliyo.-- 
+    11, B nhārupura-, CL -nupura-, P -nānupura-, S -nārupura-, P jaṅgho, 
+       S jaṃghā, S pūre, C ma.-- 
+    12, B 1. hd., S -daṇḍakāni ca, P ica, P -vādhi-, L anañatā.-- 
+    13, cdd. tula-, B uso, P sogate, BLPS su pādā su pure.-- 
+    14, C pubbitā valimakā, B phalimatā, L paṭikā, LP balimatā, S balīmatā.-- 
+    15, P aku, C samudayo, P jajjayo pabudakkhānam, S bāhu-.
+
+[page 150]
+150                         THERĪ-GĀTHĀ.
+so 'palepapatito jarāgharo saccavādivacanaṃ anaññathā. || Thī_270 ||
+                        Ambapālī. ||
+samaṇā ti bhoti maṃ vipassi samaṇā ti paṭibujjhasi |
+samaṇānam eva kittesi samaṇī nūna bhavissasi. || Thī_271 ||
+vipulaṃ annañ ca pānañ ca samaṇānaṃ pavecchasi |
+Rohiṇi dāni pucchāmi kena te samaṇā piyā. || Thī_272 ||
+akammakāmā alasā paradattopajīvino |
+āsaṃsukā sādukāmā kena te samaṇā piyā. || Thī_273 ||
+cirassaṃ vata man tāta samaṇānaṃ paripucchasi |
+tesaṃ te kittayissāmi paññāsīlaparakkamaṃ. || Thī_274 ||
+kammakāmā analasā kammaseṭṭhassa kārakā |
+rāgaṃ dosaṃ pajahanti tena me samaṇā piyā. || Thī_275 ||
+tīṇi pāpassa mūlāni dhunanti sucikārino |
+sabbapāpaṃ pahīn'; esaṃ tena me samaṇā piyā. || Thī_276 ||
+kāyakammaṃ suci nesaṃ vacīkammañ ca tādisaṃ |
+manokammaṃ suci nesaṃ tena me samaṇā piyā. || Thī_277 ||
+vimalā saṃkhamuttā 'va suddhā santarabāhirā |
+puṇṇā sukkāna dhammānaṃ tena me samaṇā piyā. || Thī_278 ||
+bahussutā dhammaddharā ariyā dhammajīvino |
+atthaṃ dhammañ ca desenti tena me samaṇā piyā. || Thī_279 ||
+bahussutā dhammaddharā ariyā dhammajīvino |
+ekaggacittā satimanto tena me samaṇā piyā. || Thī_280 ||
+dūraṅgamā satimanto mantabhāṇī anuddhatā |
+dukkhass'; antaṃ pajānanti tena me samaṇā piyā. || Thī_281 ||
+yamhā gāmā pakkamanti na vilokenti kiñcanaṃ |
+anapekkhā'; va gacchanti tena me samaṇā piyā. || Thī_282 ||
+
+--------------------------------------------------------------------------
+     1, B so palesasatiso, l so palepatito, P so phalesasatito, 
+       S so palessatito.--
+     1, P Ampa-, S Ama-, cdd. -pāli.-- 
+     3, S samānā ti, B paṃ, P saṃ, C -jjhati, P -pujjhasi.-- 
+     4, BCP samaṇi, cdd. nuna, C bhavissati.-- 
+     5, L pavacchasi, B 1. hd. sayacchasi, 2. hd. pavacchasi, C sayañcasi, 
+      PS sayacchasi.-- 
+     6, L Rohini, S Rohinī, BCS siyā.-- 
+     7, S puradatto-, P -dattho-, LP -jivino.-- 
+     8, P āsuṃsukā, C sādunukāmā, PS tena me, S sakā, CS siyā.-- 
+     9, L cīrassaṃ, P cata, S taṃ, P tāvā, S tātā, C -pucchāsi, L -pacchasi.-- 
+    10, C tesan, S tesa, S -parikkamaṃ.-- 
+    11, BPS kammese-.-- 
+    12, BPS rāgaṃ dosañ ca, BCS siyā.-- 
+    13, B tiṇi, C tini, S tīni.-- 
+    14, C sabbaṃ pāpaṃ, BCLP pahin', BCS siyā.-- 
+    15, P vaci-, P sādisaṃ.-- 
+    16, P -kamma, BCS siyā.-- 
+    17, C saṅ-, P ca, S saddhā.-- 
+    18, BPS puṇṇa. C sukkānaṃ, B 1. hd. dhammā, C te, BCS siyā.-- 
+    19, S dhammadharā, BP -jivino.-- 
+    20, P va, S siyā.-- 
+    21, PS dhammadharā, P -jivino.-- 
+    22, B saṃmakā, BCS siyā.-- 
+    23, L dura-, S satī-, C -mantā, LP -bhāṇi, C -bhāṇa, S -bhānī.-- 
+    24, S saṇā, BCS siyā.-- 
+    25, cdd. kiñcinaṃ.-- 
+    26, BCS siyā.
+
+[page 151]
+                             THERĪ-GĀTHĀ.                          151
+na te saṃ koṭṭhe osenti na kumbhiṃ na kaḷopiyaṃ |
+pariniṭṭhitam esānā tena me samaṇā piyā. || Thī_283 ||
+na te hiraññaṃ gaṇhanti na suvaṇṇaṃ na rūpiyaṃ |
+paccuppannena yāpenti tena me samaṇā piyā. || Thī_284 ||
+nānākulā pabbajitā nānājanapadehi ca |
+aññamaññaṃ piyāyanti tena me samaṇā piyā. || Thī_285 ||
+atthāya vata no bhoti kule jātā si Rohiṇi |
+saddhā buddhe ca dhamme ca saṅghe ca tibbagāravā. || Thī_286 ||
+tuvaṃ h'; etaṃ pajānāsi puññakkhettaṃ anuttaraṃ |
+amhaṃ pi ete samaṇā paṭigaṇhanti dakkhiṇaṃ |
+paṭiṭṭhito h'; ettha yañño vipulo no bhavissati. || Thī_287 ||
+sace bhāyasi dukkhassa sace te dukkham appiyaṃ |
+upehi buddhaṃ saraṇaṃ dhammaṃ saṅghañ ca tādinaṃ |
+samādiyāhi sīlāni tan te atthāya hehiti. || Thī_288 ||
+upemi buddhaṃ saraṇaṃ dhammaṃ saṅghañ ca tādinaṃ |
+samādiyāmi sīlāni taṃ me atthāya hehiti. || Thī_289 ||
+brahmabandhu pure āsiṃ so idāni 'mhi brāhmaṇo |
+tevijjo sotthiyo c'; amhi vedagū c'; amhi nhātako. || Thī_290 ||
+                         Rohiṇī. ||
+laṭṭhihattho pure āsiṃ so dāni migaluddako |
+āsāya palipā ghorā nāsakkhiṃ pāram etase. || Thī_291 ||
+sumattaṃ maṃ maññamānā Cāpā puttam atosayi |
+Cāpāya bandhanaṃ chetvā pabbajissaṃ puno-m-ahaṃ. || Thī_292 ||
+mā me kujjha mahāvīra mā me kujjha mahāmuni |
+na hi kodhaparetassa suddhi atthi kuto tapo. || Thī_293 ||
+
+--------------------------------------------------------------------------
+     1, C koṭha, L openti, BLPS kumbhi, C kampi, B 1. hd. kaṭhopi-, 
+       S kaṭṭhopi-. -- 
+     2, C esāna, P esanā, BCS siyā.-- 
+     3, L gaṇanti, P sava-.-- 
+     4, L me ṇā, P me samā, BCS siyā.-- 
+     5, L pabbajjitā, P pappa-.-- 
+     6, L añaṃmañaṃ, C pīyā-, BCS siyā.-- 
+     7, P cata, C 1. hd., P goti, B. 1. hd., S koti, CPS pi, LP Rohini,
+       S Rohinī.-- 
+     8, cdd. saṃghe, BCLP tippa-, P -gāyavā.-- 
+     9, C tuvaṃ hetu pajānāmi, LP -khettaṃ, C -ttam.-- 
+    10, C amham, BPS pati-, P dakkhaṇaṃ.-- 
+    11, CS pati-, P hattha, C -to sotthiṃ, B 1. hd. saño, S sañño.-- 
+    12, P bhāyaci, L te du(kkhassa sace te dukkha)m appiyaṃ.-- 
+    13, P buddha, C saraṇaṃ buddhaṃ, CS saṃghañ, B 1. hd., S tādisaṃ, 
+       C tādini.-- 
+    14, BCP hehīti, S tehiti.-- 
+    15, C saraṇaṃ buddhaṃ, BCS saṃghañ.-- 
+    16, L silāni, BPS tam, BCP hehīti.-- 
+    17, C pūre, S āsi, S idān'; amhi, BCLP brahmaṇo.-- 
+   18, B 1. hd., S ṇhātako.-- 
+    19, BL Rohini, P Nohini, S Rohinī.-- 
+    20, L -hatto, BCPS āsi.-- 
+    21, C. āsayā, BCPS nāsakkhi, P ram, B. 1. hd., CP etasse, 
+       B 2. hd. pāramasituṃ, L etassa.--
+    22, BCS sumutta, P sumatta maña-, BP muttam, S muttamaṃ, B atotassi,
+      C 1. hd., P atosassi, S tosassi.-- 
+    23, S puṇo.-- 
+    24, BCPS kujjhi, BCLP -vira, BPS kujjhi, S -munī.-- 
+    25, C. 2. hd. kodhā-, P sutti, L atti.
+
+[page 152]
+152                          THERĪ-GĀTHĀ.
+pakkāmissañ ca Nālāto ko 'dha Nālāya vacchati |
+bandhanti itthirūpena samaṇe dhammajīvino. || Thī_294 ||
+ehi Kāḷa nivattassu bhuñja kāme yathā pure |
+ahaṃ ca te vasīkatā ye ca me santi ñātakā. || Thī_295 ||
+etto ceva catubbhāgaṃ yathā bhāsasi taṃ Cāpe |
+tayi rattassa posassa uḷāraṃ vata taṃ siyā. || Thī_296 ||
+Kāḷa 'ṅginiṃ va takkāriṃ pupphitaṃ girimuddhani |
+phullaṃ dālikalaṭhiṃ va antodīpe va pāṭaliṃ || Thī_297 ||
+haricandanalittaṅgiṃ kāsikuttamadhāriniṃ |
+taṃ maṃ rūpavatiṃ santiṃ kassa ohāya gacchasi. || Thī_298 ||
+sākunitikko va sakuṇiṃ yathā bandhitum icchati |
+āharimena rūpena na maṃ tvaṃ bādhayissasi. || Thī_299 ||
+imaṃ ca me puttaphalaṃ Kāḷa uppāditaṃ tayā |
+taṃ maṃ puttavatiṃ santiṃ kassa ohāya gacchasi. || Thī_300 ||
+jahanti putte sappaññā tato ñātī tato dhanaṃ |
+pabbajanti mahāvīrā nāgo chetvā va bandhanaṃ. || Thī_301 ||
+idāni te imaṃ puttaṃ daṇḍena churikāya vā |
+bhūmiyyaṃ vā nisumbheyyaṃ puttasokā na gacchasi. || Thī_302 ||
+sace puttaṃ sigālānaṃ kukkurānaṃ padāhisi |
+na maṃ puttakate jammi punar āvattayissasi. || Thī_303 ||
+handa kho dāni bhaddan te kuhiṃ Kāḷa gamissasi |
+
+--------------------------------------------------------------------------
+     1, C pakka-, B 1. hd., Nāheto, 2. hd., Nāḷāto, C Nālato, P Nāmalāto, 
+      B 1. hd., Nābheyā, 2. hd. Nāḷāya, BL vucchati, P vacchiti, S vuccati.-- 
+     2, L -ntī, P -rupena, BP -jivino, C -jivine.-- 
+     3, S Kāla, P nivattāsu, S nivatthassu, P bhuñca, C pūre.-- 
+     4, CS ahañ, BCLP vasi-.-- 
+     5, CPS ettho, BL Cāpe, P catumbhā-, S yathā āsaya, CS tañ, P ta, 
+       cdd. ca me; but cfr. st. 308.-- 
+     6, P tari, B yatthassa, P yattipossa, but del. po. BPS raṃ for taṃ.-- 
+     7, B 1. hd. kāḷagiri, 2. hd. kāḷaginiṃ, C kālaṃkāna, L kāḷaṅgini,
+       P kāḷagini, S kālagiri, B 1. hd., LPS ca, BL takkāri, C takkānari, 
+       P kakkāri, S takkārī, B 1. hd, L puppitā, P puppitaṃ, S -tā, 
+       BCLP gīri-, B 1. hd. -muddani, S -nī.-- 
+     8, BPL dālikalaṭhi, C dāḷikalaṭhi, 2. hd. dālijalaṭhi, S dālakalaṭṭhī,
+       B., C 1. hd., LPS ca, BP -dipe, S ca, BCLP pāṭali, S pāṭalī.-- 
+     9, B -ttaṃgī, C -ttaṅgi, P -ttaṃgi, S -ttaṅgī, BCLP -rini, S -rinī.-- 
+    10, B tam, PS kamma, CP -vati, S -gatī, CPS santi, C kissa, B gacchati.-- 
+    11, P ca, L perhaps sakuṇaṃ, BCP sakuṇi, S sakunī, C icchasi.--
+    12, P āhāri-, S āhārīmena, P ru-, B rocayissayi, L bācadha-, but ca del.
+       as it seems, PS rocayissasi.-- 
+    13, C. amañ, S imañ, P sa, S kāla, P -dita, C 1. hd., P tassā, S tassa-- 
+    14, B 1. hd., PS dhamma, B. 2. hd. tam, C tvam, CP -vati, S -vatī, 
+       CPS santi, B gacchati, L gacchasiṃ. -- 
+    15, cdd. ñāti, P tako, B 1. hd. om. dhanaṃ.-- 
+    16, BCL -virā, P -dhirā.-- 
+    17, B 1. hd. om. te imaṃ.--
+    18, B 1. hd. vanituṃbhisaṃ, 2. hd. vanisubbhissa, CL vanisumbhiyam, 
+       P vandisubhāyaṃ, S vanisuṃbhīyaṃ, P suttaṃ sokā S -sī.-- 
+    19, cdd. siṅgālā-, C sadāhipi, B 1. hd. P sadāhisi, S tadāhisi.-- 
+    20, B 1. hd. khamaṃ, 2. hd. na maṃ, BC puttaṃkate, BPLS jamhi, 
+       C jappi, P punanevatthayi-, S puṇa pavattayassasī.-- 
+    21, S ko, P ti, 2. hand ta, CP kuhi, S Kāla, C Kālā, C gamissāsi.
+
+[page 153]
+                             THERĪ-GĀTHĀ.                          153
+katamaṃ gāmaṃ nigamaṃ nagraṃ rājadhāniyo. || Thī_304 ||
+ahumha pubbe gaṇino asamaṇā samaṇamānino |
+gāmena gāmaṃ vicarimha nagare rājadhāniyo. || Thī_305 ||
+eso hi bhagavā buddho nadiṃ Nerañjaraṃ pati |
+sabbadukkhappahānāya dhammaṃ desesi pāṇinaṃ |
+tassāhaṃ santike gacchaṃ so me satthā bhavissati. || Thī_306 ||
+vandanaṃ dāni vajjāsi lokanāthaṃ anuttaraṃ |
+padakkhiṇañ ca katvāna ādiseyyāsi dakkhiṇaṃ. || Thī_307 ||
+etaṃ kho labbham amhehi yathā bhāsasi taṃ Cāpe |
+vandanaṃ dāni te vajjaṃ lokanāthaṃ anuttaraṃ |
+padakkhiṇañ ca katvāna ādisissāmi dakkhiṇaṃ. || Thī_308 ||
+tato ca Kāḷo pakkāmi nadiṃ Nerañjaraṃ pati |
+so addasāsi sambuddhaṃ desentaṃ amataṃ padaṃ. || Thī_309 ||
+dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ |
+ariyaṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ. || Thī_310 ||
+tassa pādāni vanditvā katvāna naṃ padakkhiṇaṃ |
+Cāpāya ādisitvāna pabbaji anagāriyaṃ |
+tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ. || Thī_311 ||
+                          Cāpā. ||
+petāni bhoti puttāni khādamānā tuvaṃ pure |
+tuvaṃ divā ca ratto ca atīva paritappasi. || Thī_312 ||
+sājja sabbāni khāditvā satta puttāni brāhmaṇi |
+Vāseṭṭhi kena vaṇṇena na bāḷhaṃ paritappasi. || Thī_313 ||
+bahūni me puttasatāni ñātisaṅghasatāni ca |
+khāditāni atītaṃse mama tuyhañ ca brāhmaṇa. || Thī_314 ||
+sāhaṃ nissaraṇaṃ ñatvā jātiyā maraṇassa ca |
+na socāmi na rodāmi na cāhaṃ paritappāmi. || Thī_315 ||
+
+--------------------------------------------------------------------------
+     1, L gāma, B 1. hd. gāmi, BPS nigamaṃ vā, S nigamaṃ rāja-, C nagara,
+       BCLP -ṭhāniyo.-- 
+     2, CL ahumhā, S aham pi, L gaṇhino, S gaṇhīno, B. sama-. --
+     3, C vicarimhā, BCLP -ṭhāniyo.-- 
+     4, BLP nadi, CS nadī, C 1. hd., L nerañca-, P -ṃja-, S patī.-- 
+     5, B. 1. hd., PS sabbe-, CL -pahā-, CP deseti, S pāni-.-- 
+     6, B 2. hd. -tikaṃ, S sattā.-- 
+     7, C vandanan.-- 
+     8, BPS ādiyissāmi.-- 
+     9, C laddhaṃ, P lambham, S labbhaṃ, L yathā bhāsi taṃ cāme, P taṃ, 
+       CS tañ ca me.-- 
+   10, C -nan, L tāni, C gacchaṃ, P loke-.-- 
+    11, BPS ādiyi-.-- 
+    12, C va, CPS Kālo, S paṇṇamī, LS nadī, CP nadi, S patī.-- 
+    13, BLP adassāsi, P desantaṃ, S -senti. -- 
+    15,BCP dukkhu-.-- 
+    16, B tassā, B katvā aggada-, C katvānam abhida-, PS katvāna aggapada-.-- 
+    17, C avi katvāna, PS ādiyitvāna, B anā-.-- 
+    18, P kathaṃ. --
+    20, C puttānaṃ, BLS khādamānaṃ, P khādhamāna.-- 
+    21, P ati ca, S atīca.
+    22, BP svājjā, S svājja, P satta or sattha, L sata, LP brahmaṇi, S -ṇī.-- 
+    23, cdd. Vāsi-, S -ṭṭhi na. S bālhaṃ.-- 
+    24, PS bahuni, P -sagha-, S -saṃgha-, B -sabhāni.-- 
+    25, P khādithāni, BP ati-, C atitaṃso, L brahmaṇa, P brahmaṇi,
+       S brāhmaṇā.-- 
+    26, C niyaraṇaṃ, P maṇassa ca.-- 
+    27, C na cāpi, cdd. paritappati.
+
+[page 154]
+154                          THERĪ-GĀTHĀ.
+abbhutaṃ vata Vāseṭṭhi vācaṃ bhāsasi edisaṃ |
+kassa tvaṃ dhammam aññāya giraṃ bhāsasi edisaṃ. || Thī_316 ||
+esa brāhmaṇa sambuddho nagaraṃ Mithilaṃ pati |
+sabbadukkhappahānāya dhammaṃ desisi pāṇinaṃ. || Thī_317 ||
+tassāhaṃ brāhmaṇa arahato dhammaṃ sutvā nirupadhiṃ |
+tattha viññātasaddhammā puttasokaṃ byapānudiṃ. || Thī_318 ||
+so ahaṃ pi gamissāmi nagaraṃ Mithilaṃ pati |
+app eva maṃ so bhagavā sabbadukkhā pamocaye. || Thī_319 ||
+addasa brāhmaṇo buddhaṃ vippamuttaṃ nirupadhiṃ |
+tassa dhammam adesesi muni dukkhassa pāragū. || Thī_320 ||
+dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ |
+ariyaṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ. || Thī_321 ||
+tattha viññātasaddhammo pabbajjaṃ samarocayi |
+Sujāto tīhi rattīhi tisso vijjā aphassayi. || Thī_322 ||
+ehi sārathi gacchāhi rathaṃ nīyādayāhi 'maṃ |
+ārogyaṃ brāhmaṇiṃ vajja pabbajito dāni brāhmaṇo |
+Sujāto tīhi ratthīhi tisso vijjā aphassayi. || Thī_323 ||
+tato ca ratham ādāya sahassaṃ cāpi sārathi |
+ārogyaṃ brāhmaṇiṃ avoca pabbajito dāni brāhmaṇo |
+Sujāto tīhi rattīhi tisso vijjā aphassayi. || Thī_324 ||
+etaṃ c'; ahaṃ assarathaṃ sahassaṃ cāpi sārathi |
+tevijjaṃ brāhmaṇaṃ sutvā puṇṇapataṃ dadāmi te. || Thī_325 ||
+tumh'; eva hotu assaratho sahassaṃ cāpi brāhmaṇi |
+ahaṃ pi pabbajissāmi varapaññassa santike. || Thī_326 ||
+
+--------------------------------------------------------------------------
+     1. B 1. hd. apputaṃ, C abbhūtaṃ, C Vāsiṭhi, P appūta, S thā, P vāsam,
+       S vācam, P edisi, B. 1. hd., S esi.-- 
+     2, CP gīraṃ.-- 
+     3, LP brahmaṇa, C Midhilaṃ, B 1. hd., L Mitilaṃ.-- 
+     4, LP -dukkhā pahā-, S -kkhapa-, C deseti.-- 
+     5, B 2. hd. tassa, LP brahmaṇa, S aharato, L nirūpadhiṃ, P nirūpadhi, 
+       BCS -padhi.-- 
+     6, S -sotaṃ, B byāpā-, C apānudi, P byāpārudi, S -nudī.-- 
+     7, BCLP Midhilaṃ.--
+     8, P amp'.-- 
+     9, B bhaddasa, S addasaṃ, LP brahmaṇo, BC nirūpadhi, L nirūpamiṃ, 
+       PS nirupadhi.-- 
+    10, B 2. hd. so 'ssa, B dhamma pa-, C dhammaṃ made-, S muṇi, LS pāragu.-- 
+    11, B 1. hd. duggaṃ, S dukkhesamu-.-- 
+    12, S ariyaḍḍha-, B dukkhūpasamapagāminaṃ, L dukkhusamapagā-, 
+       CS dukkhupa-.-- 
+    13, P viñāti-, BLPS pabbajaṃ, PS mam aro-.-- 
+    14, CPS tihi, PS rattihi, P tiso, LS apassayi, BC apassasi, 
+       P aphassassi.-- 
+    15, L sārati, L rataṃ, B 1. hd. niyātassāhi, 2. hd. niyādayāhi, 
+       C niyyāthayāhi. L ni-, PS niyātassāhi.-- 
+    16, B 1. hd., LS arogyaṃ, cdd. brahmaṇi, B vajjā. CPS vijjā, 
+       BPS pabbājito, BCLP brahmaṇo. -- 
+    17, L tihi, BL rattihi, P tiso vijja, B phassasi, 2. hd. -yi, 
+       L apassayi, S apassasi.-- 
+    18, P tato datham, S -ya ya sa-, B 1. hd. sahavasaṃ.-- 
+    19, B 1. hd. C 1. hd., LP aro-, BCLP brahmaṇi, S brahmaṇī, S aham pi, 
+      BCLP brahmaṇo. -- 
+    20, P sujātho(?) S tihi, B 1. hd. aphassasi, 2. hd. -yi, L apassayi, 
+       P aphassassi, S apassasi.-- 
+    21, C etañ ca te assa-, P ca taṃ, LP rataṃ, C vāpi, L sārati.-- 
+    22, P vevijjaṃ, LP brahma-, S -puttaṃ, B dādāmi, P dadāci.-- 
+    23, C tuyhaṃ va, LP sahassañ, BCLP brahmaṇi, C 2. hd. brahmaṇī, S -ṇī.-- 
+    24, S aham, L pabbajji-.
+
+[page 155]
+                            THERĪ-GĀTHĀ.                          155
+hatthigavassaṃ maṇikuṇḍalañ ca phītañ c'; imaṃ gehavi-
+gataṃ pahāya |
+pitā pabbajjito tuyhaṃ bhuñja bhogāni Sundari tuvaṃ
+dāyādikā kule. || Thī_327 ||
+hatthigavassaṃ maṇikuṇḍalañ ca rammañ c'; imaṃ gehavi-
+gataṃ pahāya |
+pitā pabbajito mayhaṃ puttasokena addito |
+ahaṃ pi pabbajissāmi bhātu sokena additā. || Thī_328 ||
+so te ijjhatu saṃkappo yaṃ tvaṃ patthesi Sundari |
+uttiṭṭhapiṇḍo uñcho ca paṃsukūlañ ca cīvaraṃ |
+etāni abhisaṃbhontī paraloke anāsavā. || Thī_329 ||
+sikkhamānāya me ayye dibbacakkhuṃ visodhitaṃ |
+pubbenivāsaṃ jānāmi yattha me vusitaṃ pure. || Thī_330 ||
+tuvaṃ nissāya kalyāṇi therīsaṅghassa sobhaṇe |
+tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ. || Thī_331 ||
+anujānāhi me ayye icche Sāvatthiṃ gantave |
+sīhanādaṃ nadissāmi buddhaseṭṭhassa santike. || Thī_332 ||
+passa Sundari satthāraṃ hemavaṇṇaṃ harittacaṃ |
+adantānaṃ dametāraṃ sambuddhaṃ akutobhayaṃ. || Thī_333 ||
+passa Sundariṃ āyantiṃ vippamuttaṃ nirupadhiṃ |
+vītarāgaṃ visuṃyuttaṃ katakiccam anāsavaṃ. || Thī_334 ||
+Bārāṇasīto nikkhamma tava santikam āgatā |
+sāvikā te mahāvīre pāde vandati Sundarī. || Thī_335 ||
+tuvaṃ. buddho tuvaṃ satthā tuyhaṃ dhīta mhi brāhmaṇa |
+orasā mukhato jātā katakiccā anāsavā. || Thī_336 ||
+
+--------------------------------------------------------------------------
+    1, L hatthīṃ, L -ṇḍala, P -laṃ, L pitañ, B 1. hd., PS pitaṃ, P simaṃ,
+       L ima, CPS gaha-.-- 
+     2, P vita, L -jji-, L tuṃyhaṃ, PS bhuñji. P te bhāgāni, S tavaṃ,
+       BPS dāyānikā tule.-- 
+     3, P -gavā-, LP rammaṃ, P īmaṃ, S i (sic) CPS gaha-.-- 
+     4, L -jji-, C tuyhaṃ, S muttabhogena, BC aḍḍito, LPS aṭṭito.-- 
+     5, S aham, CL pabbajji-, B aḍḍitā, C aḍḍikā, P aṭṭitā, LS aṭṭito.-- 
+     6, BPS icchitu, C saṇ-, L sakappo, P matesi, S pattesi Sundarī.-- 
+     7, BCPS uttiṭha-, C -piṇḍo ca, B 1. hd. uccho, C, B 2. hd. ucchā, 
+       L uñcha, P ucco S uccho, BCLP -kulañ, S -kulaṃ, BL civaraṃ.-- 
+     8, BCPS -bhonti.-- 
+     9, L -cakkhu.-- 
+    10, L -saṃ na jā-, CP yatta, S yata.-- 
+    11, P nissāyaṃ, BS -ṇī, LS theri, C there-, BPS -saṃghassa, BL sobhiṇi, 
+       P sobhaṇi, S sobhaṇī.-- 
+    13, BPS ayya, BCLS Sāvatthi, P Sāvatti, C gantuve, PS gandhave.-- 
+    14, LS siha-.-- 
+    15, S passatha, BCS Sundarī, B 1. hd. sattānaṃ, L sattā-, S sattā he-,
+       P -vaṇṇa, -ttavaṃ.-- 
+    16, S anadantā-, B 1. hd., CPS dametānaṃ.-- 
+    17, CS -rīm, cdd. āyanti, BC nirūpadhi, L nirupamiṃ, P nīrūpadhi, 
+       S nirupadhi.-- 
+    18, BCLP vita-, C kiccaṃ.-- 
+    19, P Bāra-, BLP -ṇasito, S -nasīto, P nikkhi-, S ssantikam ātā.-- 
+    20, S sādhikā, BCP -vira, LP Sundari, C tuvaṃ dhitā, L dhītā, BP dhita, 
+       S mpi.--
+    21, LP bra-, S brahmana. -- 
+    22, P orassa, L -kicca, P anāsata.
+
+[page 156]
+156                         THERĪ-GĀTHĀ.
+tassā te svāgataṃ bhadde tato te adurāgataṃ |
+evaṃ hi dantā āyanti satthu pādāni vandikā |
+vītarāgā visaṃyuttā katakiccā anāsavā. || Thī_337 ||
+                        Sundarī. ||
+daharāhaṃ suddhavasanā yaṃ pure dhammam asuṇiṃ |
+tassā me appamattāya saccābhisamayo ahu. || Thī_338 ||
+tato 'haṃ sabbakāmesu bhūsaṃ aratim ajjhagaṃ |
+sakkāyasmiṃ bhayaṃ disvā nekkhammaṃ yeva pihaye. || Thī_339 ||
+hitvān'; ahaṃ ñātigaṇaṃ dāsakammakarāni ca |
+gāmakhettāni bhītāni ramaṇīye pamodite |
+pahāy'; ahaṃ pabbajitā sāpateyyam anappakaṃ. || Thī_340 ||
+evaṃ saddhāya nikkhamma saddhamme suppavedite |
+na me taṃ assa patirūpaṃ ākiñcaññaṃ hi patthaye |
+yā jātarūparajataṃ ṭhapetvā punar āgame. || Thī_341 ||
+rajataṃ jātarūpaṃ vā na bodhāya na santaye |
+na etaṃ samaṇasāruppaṃ na etaṃ ariyavaḍḍhanaṃ || Thī_342 ||
+lobhanaṃ madanaṃ c'; etaṃ mohanaṃ rajavaḍḍhanaṃ |
+sāsaṅkaṃ bahuāyāsaṃ n'; atthi c'; ettha dhavaṃ ṭhiti. || Thī_343 ||
+ettha rattā pamattā ca saṃkiliṭṭhamanā narā |
+aññamaññena byāruddhā puthukubbanti medhagaṃ. || Thī_344 ||
+vadho bandho parikeso jāni sokapariddavo |
+kāmesu adhipannānaṃ dissate byasanaṃ bahuṃ. || Thī_345 ||
+taṃ mañ ñātī amittā va kiṃ maṃ kāmesu yuñjatha |
+jānātha maṃ babbajitaṃ kāmesu bhayadassina. || Thī_346 ||
+
+--------------------------------------------------------------------------
+     1, B 2. hd., L atho.-- 
+     2, P 1. hand eva, B 1. hd. dattha. C dantaṃ, P rantā, -- 
+     3, BCI.P vita-, B 1 hd. gata-, L -kicca.-- 
+     4, LP -ri.--
+     5, P dahadā ahaṃ. BCS daharā ahaṃ, S asuni, LP asuṇi-- 
+     6, C anuppamattāya-- 
+     7, C tato ahaṃ, B bhusaṃ, L susaṃ, BLP ajjhagā.-- 
+     8, B nekkhamma, 2. hd -ama, nikkhammam, L nekkhampaṃ, C eva, S pīhaye.-- 
+     9, S -ganaṃ, C 1 hd. -karāṇi.-- 
+    10, B 1. hd, S pitāni, CL phit-, P bit-, BCLP ramaṇiye, S ramanīye, 
+       B 1 hd, S samodite.-- 
+    11, L pabbajjitā, P pappajitā, S pabbajītā, C -jitvā.-- 
+    12, P santāya, S saddāya, C nikkhamaṃ, P -dīta.-- 
+    13, L thaṃ, BC paṭi-, S patīrūpaṃ ākiñcaṃñaṃ, BS pattaye.-- 
+    14, CLPS yo, B ro, P -rupa-. 
+   15, L rajabhaṃ, B -ta, L santiyā, C 1. hd. santiye, 2. hd saniyā.-- 
+    16, C om. na, L n'; etaṃ--
+    17, C madanañ, P motanaṃ rajabandhana, S rājabandhanaṃ, B -bandhanaṃ.--
+    18, BLS sāsaṃka, P sāsakaṃ bahū-, P dhūva, P dhīti, BS dhiti.-- 
+    19, L etta, P samatthā, S saṃkilaṭṭhamaṇā.-- 
+    20, BCP -kuppanti, BCPS medhakaṃ.-- 
+    22, B 1. hd., P diyate, S dīyate, P bahū, S bahu.-- 
+    23, P tam, BCLP mañāti, S ñāti, BCPS ca, cdd. ki, corr. C 2. hd., 
+       P kāmasu yuñcatha, B 1. hd. -thi.--
+    24, L pabbajjitaṃ, P pappa-, L ṇāmesu, BCLP -dassini,S -dassinī.
+
+[page 157]
+                            THERĪ-GĀTHĀ.                          157
+na hiraññasuvaṇṇena parikkhīyanti āsavā |
+amittā vadhakā kāmā sapattā sallabandhanā. || Thī_347 ||
+taṃ mañ ñātī amittā va kiṃ maṃ kāmesu yuñjatha |
+jānātha maṃ pabbajitaṃ muṇḍaṃ saṃghāṭipārutaṃ. || Thī_348 ||
+uttiṭṭhapiṇḍo uñcho ca paṃsukūlañ ca cīvaraṃ |
+etaṃ kho kho mama sāruppaṃ anagārūpanissayo. || Thī_349 ||
+vantā mahesinā kāmā ye dibbā ye ca mānusā |
+khemaṭṭhāne vimuttā te pattā te acalaṃ sukhaṃ. || Thī_350 ||
+māhaṃ kāmehi saṃgacchiṃ yesu tāṇaṃ na vijjati |
+amittā vadhakā kāmā aggikhandhūpamā dukhā. || Thī_351 ||
+paripantho eso sabhayo savighāto sakaṇṭako |
+gedho suvisamo c'; eso mahanto mohanāmukho. || Thī_352 ||
+upasaggo bhīmarūpo cakāmā sappasirūpamā |
+ye bālā abhinandanti andhabhūtā puthujjanā. || Thī_353 ||
+kāmapaṅkasattā hi janā bahū loke aviddasū |
+pariyantaṃ nābhijānanti jātiyā maraṇassa ca. || Thī_354 ||
+duggatigamanaṃ maggaṃ manussā kāmahetukaṃ |
+bahuṃ ve paṭipajjanti attano roga-m-āvahaṃ. || Thī_355 ||
+evaṃ amittajananā tāpanā saṃkilesikā |
+lokāmisā bandhanīyā kāmā maraṇabandhanā. || Thī_356 ||
+ummādanā ullapanā kāmā cittapamāthino |
+sattānaṃ saṃkilesāya khippaṃ Mārena oḍḍitaṃ. || Thī_357 ||
+anantādīnavā kāmā bahudukkhā mahāvisā |
+
+--------------------------------------------------------------------------
+    1, C hirañena su-, LS -kkhiya-, BP -kkhiyya-, C anāsavā, P āsanivā.-- 
+     2, P samattā, B 1. hd., CS pamattā.-- 
+     3, BCLP mañāti, BCS ñāti, BCPS ca, cdd. ki, S komesu.-- 
+     4, L pabbajjitaṃ, C sanghā-.-- 
+     5, BCLP uttiṭha-, C -piṇḍa, P ucco, B 1. hd. CS uccho, B 2. hd. ucchā, 
+       LPB. (S ?) -kulañ, C -kūlaṃ ti.--
+     6, S pama, BCS anāgā-, BLS -rupa-.-- 
+     7, P manusā.-- 
+     8, LP khemaṭhāne, L he acala.-- 
+     9, S mā 'laṃ, LP -gacchi, C -gañchi, S saṃghacchi, C tāniṇaṃ, PS tānaṃ, 
+       P vijati.-- 
+    10, L chamitthā, LS -dhupamā, C -ndhasamā, P -dhopamā, BCP dukkhā.-- 
+    11, B paripandho (?) dha bhayo; 2. hd. del. dha, C paribandho esa bhayo, 
+       L paribandho dha esa bhayo, P paribandho (corr. to paribaddho, as it
+       seems) eta sabhayo, S paripanno dha esa bhayo, LP -kaṇḍako, 
+       S sandhākaṇḍako. -- 
+    12, B 1. hd., PS rodho, LS sucisamo, C gehe suvisamaṃ c'; etaṃ mahanta
+       mohanaṃ sukhaṃ.-- 
+    13, CLP bhimma-, S bhimarupo, B bhima-, S kāha, LPS sabba-, S -sīrupamā.-- 
+    14, S halā, LS. -bhutā, P puthujanā. -- 
+    15, CP kāmasaṃsaggasattā, S. -paṃka-, B. 2. hd. -paṅkena, P om. janā, 
+       B. 1. hd. nā; del. 2. hd., BS bahu, L aviddasu, P avindasu, 
+       C avindisu, BS avindisuṃ.-- 
+    16, B 1. hd., C abhijā- , L na jāna-, P jātirā, C marassa.-- 
+    17, B duggatidhammakhaṃ, PSB manussa, S kāhetukaṃ.-- 
+    18, P bahū, BS bahu, PS rogapādantaṃ, Brāgapādantaṃ.-- 
+    19, S amittha-, B amittā-.-- 
+    20, BPS lokamissa, L -misa, C 1. hd. -missa, cdd. bandhaniyā.-- 
+    21, P ummādanā ummādanā kāmā, BP cittassa, CS cittasa, BCPS mādhino.-- 
+    22, L sattāna, BLPS oṭṭitaṃ, C udditaṃ.-- 
+    23, C na anantāpinavā, LS -ādinavā, P -ādinapā.
+
+[page 158]
+158                        THERĪ-GĀTHĀ.
+appassādā raṇakarā sukkapakkhavisosanā. || Thī_358 ||
+sāhaṃ etādisaṃ katvā byasanaṃ kāmahetukaṃ |
+na taṃ paccāgamissāmi nibbānābhiratā sadā. || Thī_359 ||
+raṇaṃ karitvā kāmānaṃ sītibhāvābhikaṅkhinī |
+appamattā vihissāmi tesaṃ saṃyojanakkhaye. || Thī_360 ||
+asokaṃ virajaṃ khemaṃ ariyaṭṭhaṅgikaṃ ujuṃ |
+taṃ maggaṃ anugacchāmi yena tiṇṇā mahesino. || Thī_361 ||
+imaṃ passatha dhammaṭṭhaṃ Subbaṃ kammāradhītaraṃ |
+anejaṃ upasampajja rukkhamūlamhi jhāyati. || Thī_362 ||
+ajj'; aṭṭhamī pabbajitā saddhā saddhammasobhaṇā |
+vinītā Uppalavaṇṇāya tevijjā maccuhāyini. || Thī_363 ||
+sāyaṃ bhujissā anaṇā bhikkhunī bhāvitindriyā |
+sabbayogavisaṃyuttā katakiccā anāsavā. || Thī_364 ||
+taṃ Sakko devasaṅghena upasaṃgamma iddhiyā |
+namassati bhūtapati Subhaṃ kammāradhītaran ti. || Thī_365 ||
+                   Subhā kammāradhītā. ||
+                  vīsatinipāto samatto. ||
+Jīvakambavanaṃ rammaṃ gacchantiṃ bhikkhuniṃ Su-
+bhaṃ |
+dhuttako saṃnivāresi tam enaṃ abravī Subhā. || Thī_366 ||
+kiṃ te aparādhitaṃ mayā yaṃ maṃ ovariyāna tiṭṭhasi |
+na hi pabbajitāya āvuso puriso saṃphusanāya kappati. || Thī_367 ||
+garuke mama satthu sāsane yā sikkhā sugatena desitā |
+
+--------------------------------------------------------------------------
+     1, LP appasādā, S appasādhā, C -kārā.-- 
+     2, P etaṃ disaṃ, S todisam.--
+     3, BLPS pacchā-, BLPS nibbānabhi-.-- 
+     4, BP siti-, B 1. hd. -kaṃkhiṇi, 2. hd. -khīni, P -khini, S -kandini.-- 
+     5, C viharissāmi ratā sañojanakkhayo, BLPS tāsaṃ.-- 
+     6, BLPS uju, C ujū.-- 
+     7, C kaṃ, PSBC -sinā.-- 
+     8, BCP -dhitaraṃ.--
+     9, L -pajjiṃ, B 1. hd. sāyati.-- 
+    10, B 1. hd. om. ajj', CP aṭhami, B aṭhamhi, S aṭṭhamhi, L pabbajjitā, 
+       P pappajjitā, B -bhakā.-- 
+    11, cdd. vinitā, L uppalaṃva-, P upala-, S -vannāya, B 1. hd. -bhāsini, 
+       2. hd hāyini, C maccuhāyini, L maccabhāsini, P paccutāyini, 
+      S paccubhāsini.-- 
+    12, LP bhūjissā, S bhujjissā, BCP aṇaṇā, S ananā, P -ni, BC bhikkhūni.-- 
+    13, B sabbeyoga-.-- 
+    14, BS -saṃghena. C -saṅkama, S -saṃkamma.-- 
+    15, B 1. hd. Sutaṃ, S Sūbhaṃ kammaṃradhitaran, S kammāravicāran, 
+       B -dhicāran, C -dhitaran.-- 
+    16, BPS Subha, LPS -dhitā. B -ditā, B 2. hd. kammāyaditā.-- 
+    17, P visati-.--
+    18, B Jiva-, 1. hd. kammadhanaṃ; corr. 2. hd., B -nti, C -nta, 
+       BC -ūnī, B 1. hd. Sutā, L Jīvakamma-, P Jinakamma-, PS -nti -ni-- 
+    19, S vuttako, L taṃ ni-, LP abravi, S abruvī, B 1. hd. Sutā.-- 
+    20, BP ki, C kin, C -dhitaṃ mayā yam, CP ovadiyāna.-- 
+    21, BL pabbajji-, P saṃpu-.-- 
+    22, BP garute, S ya.
+
+[page 159]
+                            THERĪ-GĀTHĀ.                        159
+parisuddhapadaṃ anaṅgaṇaṃ kiṃ maṃ ovariyāna tiṭṭhasi. || Thī_368 ||
+āvilacitto anāvilaṃ sarajo vītarajaṃ anaṅgaṇaṃ |
+sabbattha vimuttamānasaṃ kiṃ maṃ ovariyāna tiṭṭhasi. || Thī_369 ||
+daharā ca apāpikā c'; asi kiṃ te pabbajjā karissati |
+nikkhipa kāsāyacīvaraṃ ehi ramāmase pupphite vane. || Thī_370 ||
+madhurañ ca pavanti sabbaso kusumarajena samuddhatā
+dumā |
+paṭhamavasanto sukho utu ehi ramāmase pupphite vane. || Thī_371 ||
+kusumitasikharā ca pādapā abhigajjanti va māluteritā |
+kā tuyhaṃ rati bhavissati yadi ekā vanam ogāhissasi. || Thī_372 ||
+vāḷamigasaṅghasevitaṃ kuñjaramattakareṇuloḷitaṃ |
+asahāyikā gantum icchasi rahitaṃ bhīsanakaṃ mahāva-
+naṃ. || Thī_373 ||
+tapanīyakatā va dhītikā vicarasi Cittarathe va accharā |
+kāsikasukhumehi vagguhi sobhasi vasanehi 'nūpame. || Thī_374 ||
+ahaṃ tava vasānugo siyaṃ yadi viharemasi kānanantare |
+na hi m'; atthi tayā piyataro pāṇo kinnarimandalocane. || Thī_375 ||
+yadi me vacanaṃ karissasi sukhitā ehi agāram āvasa |
+pāsādanivātavāsinā parikamman te karontu nāriyo. || Thī_376 ||
+kāsikasukhumāni dhāraya abhiropehi ca mālavaṇṇakaṃ |
+
+--------------------------------------------------------------------------
+     1, B 1. hd. -para, 2. hd. -pada, CP -paraṃ, S -ddhapaṃ, S anaṃga-, 
+       BCLP ki, B paṃ, P ma, C ovadi-.--
+     2, CP avīla-, L aṅgaṇaṃ, S aṅganaṃ.-- 
+     3, P sampattha, BCP ki, B 2. hd. C ovadi-.-- 
+     4, C va asāmikā, PS apāsikā, cdd. vasi, LP ki, C kin, S pabbajjāya, 
+       C pabbajā karissasi.-- 
+     5, B nikkhīpa, C nikkhamma, S nikkhipi, B 1. hd., PS puppite, C supu-.-- 
+     6, C -raṃ ca pabhavanti, C samuṭhitā.--
+     7, B patha-, LS paṭhamaṃ, P pathamaṃ, L vassantosumo, S ramāmate, 
+       B 1. hd., P puppite, S pupphabbate.-- 
+     8, P -simikharā, C va, P pādasā, B atigacchanti, CPS abhigacchanti, 
+       B māluke-.-- 
+     9, P ogāhissati, C obhā-.--
+    10, PS -saṃgha-, C -mattākarenuḷolitaṃ, B 1. hd. -loṭhitaṃ, 2. hd.
+       -lolitaṃ, S -loṭṭhitaṃ.-- 
+    11, P pahārikā, BS sahāyikā, LP rahikaṃ, BLPS bhisa-, C bhiṃsa-, 
+       B -taṃ, P pahāvanaṃ.-- 
+    12, BCL tapaniya-, P tapanissa, BCLP dhitikā, P vicaraci, B Cittarase.-- 
+    13, L vasadhanehi, BCS vasavanehi, B nupame, C nopame, L nūpamo, 
+       P nusame, S nussame. The ū is lengthened metri caussa. -- 
+    14, C tañ ca, L vata, P taṃ ca, B 1. hd., S vasavanugo, C -nubho,
+       BPS siyuṃ, L viharesi, B 1. hd., S viharemapi, C vihāresasi, 
+       C. 1. hd kānantanare, 2. hd. kānantare.-- 
+    15, B 1. hd., PS atti tassā, C kinnara-, P kinnarīm-.-- 
+    16, S sukhītā, BPS āvase.-- 
+    17, BCP -vāsini, L to, BLPS karonta.-- 
+    18, B atirohehi, C abhirososi, S abhirohehi, P abhiyohehi, BPS māḷa-.
+
+[page 160]
+160                          THERĪ-GĀTHĀ.
+kañcanamaṇimuttakaṃ bahuṃ vividhaṃ ābharaṇaṃ karomi
+te. || Thī_377 ||
+sudhotarajapacchadaṃ subhaṃ gonakatūlikasantataṃ na-
+vaṃ |
+abhirūha sayanaṃ mahārahaṃ candanamaṇḍitaṃ sāra-
+gandhikaṃ. || Thī_378 ||
+uppalaṃ ca udakato ubbhataṃ yathā yaṃ amanussasevitaṃ |
+evaṃ tuvaṃ brahmacārini sakesu aṅgesu jaraṃ gamissasi. || Thī_379 ||
+kin te idha sārasammataṃ kuṇapapūramhi susānavaḍḍhane |
+bhedanadhamme kaḷevare yaṃ disvā vimano dikkhasi. || Thī_380 ||
+akkhīni ca turiyā-r-iva kinnariyā-r-iva pabbatantare |
+tava me nayanāni dakkhiya bhiyyo kāmarati pavaḍḍhati. || Thī_381 ||
+uppalasikharopamānite vimale hāṭakasannibhe mukhe |
+tava me nayanāni dakkhiya bhiyyo kāmaguṇo pavaḍḍhati. || Thī_382 ||
+api dūragatā saremhase āyatapamhe visuddhadassane |
+na hi m'; atthi tayā piyatarā nayanā kinnarimandalocane. || Thī_383 ||
+apathena payātum icchasi candaṃ kīḷanakaṃ gavesasi |
+Meruṃ laṅghetum icchasi yo tvaṃ buddhasutaṃ magga-
+yasi. || Thī_384 ||
+
+--------------------------------------------------------------------------
+     1, S kañcaṇa-, P -māni-, S -mani-, S -mattakaṃ, P vividha.-- 
+     2, B 2. hd., S goṇaka-, C goṇakaṃtūlikaṭhasaṇhataṃ, 2. hd. 
+       -santhataṃ, P paṇhataṃ, B 1. hd., S -saṇhataṃ.-- 
+     3, C ati-, S -maṇḍita, P -gaṇḍikaṃ.-- 
+     4, LP upalaṃ, BC va, C ubbhitaṃ.-- 
+     5, L tu, S -cārinī, C 2. hd. sakesa, P aṅke, S aṃkesu, BS rajaṃ.-- 
+     6, B te i sā-, B 1. hd. sāsanasabbataṃ, 2. hd. sāsanasammataṃ, C 1. hd. 
+       sāsanasammati, 2. hd. sāsanasammataṃ, but Cy as L, P sāsanasappataṃ,
+       S sāsanasabbataṃ, S kunapa-, BP -puramhi, S susāsana-.-- 
+     7, L bhena-, P kaḷevaye, S kalevare, BL udakkhasi, S udakkhasī.-- 
+     8, BCLP akkhini, S akkhiṇī, C turiyāni ca, L kindariyā, S kiṇṇa-.-- 
+    9, L ma, C udikkhiya, S bhīyyo, P -yati, S -ratī.-- 
+    10, BCLP upala-, C -sikharāsamā-, C hātaka-, BS sāṭaka-.-- 
+    11, P nayanāna, B nayanobhi, S nayanābhi, CL udikkhiya, P udakkhiya, 
+       S bhīyyo.--
+    12, CP asi, BS avi, CL dura-, B 1. hd. saremase, 2. hd. sarāmase, 
+       C 1. hd. demhase, 2. hd. saremhase, L saramhase, PS saremase,
+       L āyatamamhe, B 1. hd. āyatamhe, P visuddhaṃda-.-- 
+    13, P atti, cdd. piyataro, B pī-, B 1. hd. PS nayano.-- 
+    14, B asakena, 2 hd. asatena, P āsatena, S āsakena, B 1. hd, PS sayā-,
+       L yātuṃ, BCPS canda, BCLP kiḷa-, S kīla-.-- 
+    15, BCPS Meru, S laghe-, BP buddhaṃsu-, B 1. hd. maggissasi, 2. hd. 
+    maggiyasi, C 1. hd. maggassasi, 2. hd. magiyasi, PS maggassasi.
+
+[page 161]
+                            THERĪ-GĀTHĀ.                          161
+n'; atthi hi loke sadevake rāgo yattha pi dāni me siyā |
+na pi naṃ jānāmi kīriso atha maggena hato samūlako. || Thī_385 ||
+iṅghāḷakhuyā va ujjhito visapatto-r-iva aggato kato |
+na pi naṃ passāmi kīriso atha maggena hato samūlako. || Thī_386 ||
+yassā siyā apaccavekkhitaṃ satthā vā anusāsito siyā |
+tvaṃ tādisikaṃ palobhaya jānantiṃ so imaṃ vihaññasi. || Thī_387 ||
+mayhaṃ hi akkuṭṭhavandite sukhadukkhe ca sati upaṭṭhitā |
+saṅkhatam asubhan ti jāniya sabbatth'; eva mano na
+limpati. || Thī_388 ||
+sāhaṃ sugatassa sāvikā maggaṭṭhaṅgikayānayāyinī |
+uddhaṭasallā anāsavā suññāgāragatā ramām'; ahaṃ. || Thī_389 ||
+diṭṭhā hi mayā sucittitā sombhā dārukacillakā navā |
+tantihi ca khīlakehi ca vinibaddhā vividhaṃ panaccitā. || Thī_390 ||
+tamh'; uddhaṭe tantikhīlake visaṭṭhe vikale paripakkate |
+avinde khaṇḍaso kate kimhi tattha manaṃ nivesaye. || Thī_391 ||
+tathūpamaṃ dehakāni maṃ tehi dhammehi vinā na vattanti |
+dhammehi vinā na vattanti kimhi tattha manaṃ nivesaye. || Thī_392 ||
+yathā haritālena makkhitaṃ addasa cittikaṃ bhittiyā ka-
+taṃ |
+
+--------------------------------------------------------------------------
+     1, S rogo, P m'; idāni.-- 
+     2, B 1. hd. ni mi, S na mi, cdd. kiriso, P paggena (?) B 1. hd., 
+       S yāto, BCPS -mūlato.-- 
+     3, C 1. hd. iṅghala-, 2. hd. iṅghaḷa-, L igha-, P iṅgha-, 
+       S iṃghalakuyā, L vīsa-, B 1. hd., S visamattho, B aggito gato.-- 
+     4, BLPS ki-, C kidiso, B 1. hd., S yāto, L samulako, BCPS -lato.-- 
+     5, B 1. hd. yāyā, B 1. hd PS piyā, S atthā, B 2. hd., C 2. hd. 
+       anupāsito.-- 
+     6, C tādisaṃ kaṃ, B 1. hd. PS -lobhaye, L jānantī, BCPS jānanti, P yo, 
+       L dhihañasi.--
+     7, P agguṭha-, S -vantite, C va, L satiñ ca paṭhitā.-- 
+     8, S saṃkha-, P jātiyā, S maṇo, B om. na, P lippati.-- 
+     9, CS -aṃgika-, cdd. -yini.-- 
+    10, BPS uddhata-. -- 
+    11, P sohbha, S sobbhā, B 1 hd. dāruṇa-, S dīruka-, P dāruṇavilla-, 
+       S nāvā,--
+    12, L tantubhi, BPS tantibhi, C 1. hd. PS va, C 2. hd. del. va, 
+       cdd. khila-, BL vinibandhā, C vinibandhu, PS vinibandha, B 1. hd. 
+       sanacchitā, 2. hd. panacchitā, C paracchikā, L manaccitā, corr. 2. 
+       hd., P sanacchitā, S sanicchatā.-- 
+    13, B 2. hd. tam, C 2. hd. uṭhate, L uddhate, P addhate, S andhate, 
+       L -khilake, P -khilaṅke, BS -khilasaṃke, C -khilate, C vissaṭhe, 
+       P visaṭha, B parikkate.--
+    14, L bhavinde, S khaṇṭaso, P kate mhi ta--- 
+    15, PS tathupamaṃ, B dehakāmi, S -kāna, B naṃ, C man, C vattati.-- 
+    16, BPS om. dhammehi vinā na vattanti, C santidhammehi vinā na vatti 
+       (sic).-- 
+    17, S -tolena, BLP makkhittaṃ, BP addasaṃ, C 1. hd. citikaṃ, C bhatti-.
+
+[page 162]
+162                          THERĪ-GĀTHĀ.
+tamhi te viparītadassanaṃ paññā mānusikā niratthikā. || Thī_393 ||
+māyaṃ viya aggato kataṃ supinante vasuvaṇṇapādapaṃ |
+upadhāvasi andha rittakaṃ janamajjhe-r-iva rupparūpakaṃ. || Thī_394 ||
+vaṭṭani-r-iva koṭar'; ohitā majjhebubbuḷakā sāssukā |
+pīḷikoḷikā c'; ettha jāyati vividhā cakkhuvidhā 'va piṇḍitā. || Thī_395 ||
+uppāṭiya cārudassanā na ca pajjittha asaṅgamānasā |
+handa te cakkhuṃ harassu taṃ tassa narassa adāsi tāvade. || Thī_396 ||
+tassa ca viramāsi tāvade rāgo tattha khamāpayi ca naṃ |
+sotthi siyā brahmacārini na puno edisakaṃ bhavissati. || Thī_397 ||
+āhaniya edisaṃ janaṃ aggiṃ pajjalitaṃ va liṅgiya |
+gaṇhissaṃ āsīvisaṃ viya api nu sotthi siyā khamehi no. || Thī_398 ||
+muttā ca tato sā bhikkhunī agami buddhavarassa santikaṃ |
+passiya varapuññalakkhaṇaṃ cakkhu āsi yathāpurāṇakan
+ti. || Thī_399 ||
+                 Subhā Jīvakambavanikā. ||
+                  tiṃsanipāto samatto. ||
+nagaramhi kusumanāme Pāṭaliputtamhi pathaviyā |
+maṇḍe Sakyakulakulīnāyo dve bhikkhuniyo guṇavatiyo. || Thī_400 ||
+
+--------------------------------------------------------------------------
+     1, C tamhi va te, BCLP viparita-, BS pañhā, C mānussikā, B 2. hd., 
+       C 2. hd., niratthakā, C 1. hd. niruttikā, L niratthīkā, 
+       PS nirattikā.-- 
+     2, P supinantena.--
+     3, B 1. hd. upadāvasi, 2. hd. upaṭhāvasi, C 1. hd upadhācasi, 2. hd.
+       upaṭhāvasi, L upaṭhāsi, P muddha, B 1. hd., S mandha, C muṭha, 
+       C 1. hd. ritthakaṃ, BCL rūpa-, B -rupakaṃ.-- 
+     4, S vaṭṭanī, P -ni-y-iva, S kota-, P -yohitā, B -pubbaḷhaṃkā, 
+       C -pubbaḷhakā, L -pubbuḷhakā. P -pubbaḷakā, S pubbaḷhakā.--
+     5, BCLP piḷi-, P -koṭikā, S -koḷiko, P etta, P vivita, C- piṇḍanā.-- 
+     6, S asaṃgahanasā.-- 
+     7, S do cakkhu pādasu, B hadassu, P sārayu, S tī.--
+    8, C vigamāsi, L virāmāsi, P tavade, P -pari. -- 
+     9, LS -cārinī.-- 
+    10, BPS āhariya, C 1. hd. āhariya; corr. 2. hd. B ekadisaṃ, BCPS aggi, 
+       B laṃgiya, C 1. hd. liviya, 2. hd. liṅgaye, P ligiya, L laggiya.-- 
+    11, B 1. hd., LS gaṇhissa, B 2. hd. gaṇhiya, P gaṇḍissa, BCLS āsi-, 
+       P āsīvicaṃ, B 1 hd., PS. asi no, B 2. hd. api no.--
+    12, P tato ca, B -ni, B 1. hd. CPS āgami, B 2. hd. aggami.-- 
+    13, B passaya, S passīya, P cara-, C pavaraṃpu-, BP -ṇakaṃ.-- 
+    14, P Jīva-, P -kampa-, B 1. hd. S -kamma-.-- 
+    16, BCP Pātali-, C putha-, B- vīyā.-- 
+    17, P Sākya-, S om. kula, LP -kulināyo, S de, L bhikkhūniyo, C -nīyo.
+
+[page 163]
+                            THERĪ-GĀTHĀ.                         163
+Isidāsī tattha ekā dutiyā Bodhī ti sīlasampannā ca |
+jhānajjhāyanaratāyo bahussutāyo dhutakilesāyo. || Thī_401 ||
+tā piṇḍāya caritvā bhattatthaṃ kariya dhotapattāyo |
+rahitamhi sukhanisinnā imā girā abbhudīresuṃ. || Thī_402 ||
+pāsādikāsi ayye Isidāsi vayo pi te aparihīno |
+kiṃ disvāna valikaṃ athāsi nekkhammam anuyuttā. || Thī_403 ||
+evam anuyuñjamānā sā rahite dhammadesanākusalā |
+Isidāsī idaṃ vacanam abravi suṇa Bodhi yathāmhi pabba-
+jitā. || Thī_404 ||
+Ujjeniyā puravare mayhaṃ pitā sīlasaṃvuto seṭṭhi |
+tass'; amhi ekā dhītā piyā manāpā dayitā ca || Thī_405 ||
+atha me Sāketato varako āgacchi uttamakulīno |
+seṭṭhi bahutaratano tassa maṃ suṇhaṃ adāsi tāto. || Thī_406 ||
+sassuyā sassurassa ca sāyaṃ pātaṃ paṇāmam upagamma |
+sirasā karomi pāde vandāmi yathāmhi anusiṭṭhā. || Thī_407 ||
+yā mayhaṃ sāmikassa bhaginiyo bhātuno parijano ||
+taṃ ekavārakaṃ pi disvā ubbiggā āsanaṃ demi. || Thī_408 ||
+annena pānena ca khajjena ca yaṃ ca tattha sannihitaṃ |
+chādemi upanayāmi ca demi c ayaṃ yassa patirūpaṃ. || Thī_409 ||
+kālena uṭṭhahitvā gharaṃ samupagamiṃ |
+ummāradhotahatthapādā pañjalikā sāmikam upemi. || Thī_410 ||
+kocchaṃ pasādaṃ añjanañ ca ādāsakañ ca gaṇhitvā |
+
+--------------------------------------------------------------------------
+    1, P -dāni, CS -dāsi, P eka, S ko, L Bodhitthi, C 1 hd. Bodhitthiri, 
+       2. hd. Bodhitherī, L Bodhittherī, P Bodhitti, S Bodhītthī, 
+       L sīlambannā, C om. ca.--
+     2, LS jhānajhā-, S -yatanatāyo, P mutta-, BS dhutta-.--
+     3, L krīya, PS kiriya, P dhotasattāro.-- 
+     4, P bhiyā, BS bhirā. BCLS -udire-, P -ūridesuṃ.-- 
+     5, vāsādikāpi. S ayyo, LP -hino.-- 
+     6, P ki, B 1. hd. PS calikaṃ, BCS athāpi.--
+     7, P evaṃm, S vem, B anuyuñca, BCS -māna, C ssa, L dhamme-.--
+     8, BP -dāsi, BC om. idaṃ, S isi vacanam (om. dāsī idaṃ), C vacana bravi,
+       S abruvī. P radhamhi, C yatha-, S yadhamhi, LP pabbajjitā, BPS add ti.--
+     9, P pūra-. L sila-.-- 
+    10, P tas', C eka, L dhitā, P ditā, B 1. hd., S mitā, S piya,
+       P daritā, S dhitā.-- 
+    11, P vadakā, BCLS varakā, BPS āgacchaṃ, BPS uttamā-, L uttama ||,
+       BCLP -kulinā, S -kulīnā.-- 
+    12, B bahū-, P -rathano, C paṃ, B 1. hd. suṃ for suṇhaṃ, C saṇhaṃ, 
+       S tato.-- 
+    13, B assurassa, L- rassā, P pāta, C pana-, S panāmaṃ, BCPS, 
+       L 1. hd. upagammaṃ.-- 
+    14, BC sīrasā, L vandhāmi, B 1. hd. yamhi, P yata mhi, CS yathamhi.-- 
+    15, B 1. hd. mikassa, BC bhagīniyo, P cātuno.-- 
+    16, C tā || -vāraṃkam, P -vara-, S -kam, P uppiggā, L bhāsanaṃ, 
+       BCP āsanan, L nemi.-- 
+    17, S pāne ca, P khajje ce, C yañ, S om. ca, S tuttha sannī-.-- 
+    18, P chārepi, B 1. hd. upanisāmi, 2. hd. -niyāmi. LS upaniyāmi, 
+       P upanissāmi, C om. ca, S demi upaniyāmī ca demi ca, P sa, S passa, 
+       C paṭi-.-- 
+    19, P ghayaṃ, B 1. hd. samugāmi, 2. hd. samupagāmi, C 1. hd. sasuyāmi, 
+       2. hd sasuguhami, L -gami, P samughāmi, S samugāmi.--
+    20, P ummara-, L -hatta- B, C 1. hd., LPS pañcalikā.-- 
+    21, P pasāra, C passā (sic), S pasāda, L añjaniñ, BCP añjani, S añjanī.
+
+[page 164]
+164                        THERĪ-GĀTHĀ.
+parikammakārikā viya sayam eva patiṃ vibhūsemi. || Thī_411 ||
+sayam eva odanaṃ sādhayāmi sayam eva bhājanaṃ dhoviṃ |
+mātā va ekaputtakaṃ tathā bhattāraṃ paricarāmi. || Thī_412 ||
+evaṃ maṃ bhattikataṃ anuttaraṃ kārikaṃ taṃ nihatamā-
+naṃ |
+uṭṭhāyikaṃ analasaṃ sīlavatiṃ dussate bhattā. || Thī_413 ||
+so mātarañ ca pitarañ ca bhaṇati āpucch'; āhaṃ gamissāmi |
+Isidāsiyā na saha vacchaṃ ekāgāre'; haṃ sahavatthuṃ. || Thī_414 ||
+mā evaṃ putta avaca Isidāsī paṇḍitā paribyattā |
+uṭṭhāyikā analasā kiṃ tuyhaṃ na rocate putta. || Thī_415 ||
+na ca me hiṃsati kiñci na cāhaṃ Isidāsiyā saha vacchaṃ |
+dessā 'va me alaṃ me āpucch'; āhaṃ gamissāmi. || Thī_416 ||
+tassa vacanaṃ suṇitvā sassū sassuro ca me apucchiṃsu |
+kissa tayā aparaddhaṃ bhaṇa vissatthā yathābhūtaṃ. || Thī_417 ||
+na pi 'haṃ aparajjhaṃ kiñci na pi hiṃs'; eva na gaṇāmi |
+dubbacanaṃ kiṃ sakkā kātuye yaṃ maṃ videssate bhattā. || Thī_418 ||
+te maṃ pitu gharaṃ paṭi nayiṃsu vimanā dukkhena |
+avibhūtā puttam anurakkhamānā jināmhase rūpiniṃ
+Lacchiṃ. || Thī_419 ||
+atha maṃ adāsi tāto aḍḍhassa gharamhi dutiyakulikassa |
+tato upaḍḍhasuṅkena yena maṃ vindatha seṭṭhi. || Thī_420 ||
+tassa pi gharamhi māsaṃ avasiṃ atha so pi maṃ paṭicchati |
+
+--------------------------------------------------------------------------
+     1, C ayam eva. LP pati, S paṭī, S vibhu-.-- 
+     2, B 1. hd. sācayāmi, 2. hd. sāda-, S sāca- yasam eva, BLS dhovi, 
+       C tevi.-- 
+     3, BP ca, CP tatthā, P bhattānaṃ.--
+     4, LS eva, S kāritaṃ, C om. taṃ.-- 
+     5, C upaṭhā-, B 1. hd. -layaṃ, BCLP -vati, S -vatī.-- 
+     6, S mātaraṃ, P ahaṃ.-- 
+     7, P -dāsirā, BPS na saccaṃ, C om. saha, P -āgāye, LP -vattuṃ.-- 
+     8, C puttaṃ, cdd. -dāsi, L parī-, S paribbyatā.-- 
+     9, P uṭhārikā, L ki, P kin, B puttaṃ.-- 
+    10, BCPS hisati, P ki, BS kiṃ, B nā, P sagacchaṃ, S saha gacchaṃ, 
+       C vaccha.-- 
+    11, S ācch'; āhaṃ.-- 
+   12, P tassā, S tassā ha, S sutvā, B 1. hd., LPS sassusuro ca, B 2. hd. 
+       sassusasasuro, C om. sassū, P nama, C maṃ, L apucchisu, P āpucchisu.-- 
+    13, B 1. hd. CPS tassā, C 1. hd. P aparaṭhaṃ, B visaṭhāya, C 1. hd. 
+       viyaṭhā, 2. hd. vissaṭhā, LP visaṭhā, S visaṭṭhāya, S -bhutaṃ.-- 
+    14, BP si, S sī, BS aparajjaṃ, C 2. hd. -rajjha, B 1. hd. om. na, 
+       B 1. hd. hiseva, B 2. hd. C hisemi, C om. na, B 2. hd. C bhaṇāmi, 
+       P hic', S his'.-- 
+    15, B. 1. hd., PS dubbacajanaṃ. P ki, B 1. hd. ayye, 2. hd. kātumāyye, 
+       C kātayye, L kātuyye, P kātaseyya, S kabheyyo, B om. yaṃ, B maṃ saṃ, 
+       BCPS vindesate.-- 
+    16, P ghara, P nayisuṃ.-- 
+    17, B adhibhūtā (1. hd. avi- ?), L avisūtā, S avibhutā, BPS puttām, 
+       B jinasimhi rūpini lacchi, C jinamhisi rupini lacchi, L jināmhasi 
+       rūpini lacchi, P jinamhisi rūpini lacchi, S jinaṃhisi rupinī lacchi.--
+    18, P ata, P adhāsi, S tato, BLS addhassa, P andhassa gharami.-- 
+    19. C -sukena, S suṃkena, P vindata.-- 
+    20, C tassāpi, S gharami, BCPS avasi, B 1. hd. PS paṭicchagati, 
+       B 2. hd. paṭicchayāti, C paṭiccharāti.
+
+[page 165]
+                             THERĪ-GĀTHĀ.                          165
+dāsī va upaṭṭhahantiṃ adūsikaṃ sīlasampannaṃ. || Thī_421 ||
+bhikkhāya ca vicarantaṃ damakaṃ dantaṃ me pitā bhaṇati |
+so hi si me jāmātā nikkhipa pontiñ ca ghaṭikañ ca. || Thī_422 ||
+so pi vasitvā pakkhaṃ atha tātaṃ bhaṇati dehi me |
+pontiṃ ghaṭikañ ca mallakañ ca puna pi bhikkhaṃ carissā-
+mi. || Thī_423 ||
+atha naṃ bhaṇati tāto ammā sabbo ca me ñātigaṇavaggo |
+kiṃ te na karati idha bhaṇa khippaṃ yan ti karihiti. || Thī_424 ||
+evaṃ bhaṇito bhaṇati yadi me attā sakkoti alaṃ mayhaṃ |
+Isidāsiyā na vacchaṃ ekaghare 'haṃ sahavatthuṃ. || Thī_425 ||
+visajjito gato so ahaṃ pi ekākinī vicintemi |
+āpucchitūna gacchaṃ marituye pabbajissaṃ vā. || Thī_426 ||
+atha ayyā Jinadattā āgacchi gocarāya caramānā |
+tātakulaṃ vinayadharī bahussutā sīlasampannā. || Thī_427 ||
+taṃ disvāna amhākaṃ uṭṭhāyāsanaṃ tassā paññāpayiṃ |
+nisinnāya ca pāde vanditvā bhojanam adāsiṃ. || Thī_428 ||
+annena ca pānena ca khajjena ca yañ ca tattha sannihitaṃ |
+santappayitvā avacaṃ ayye icchāmi pabbajituṃ. || Thī_429 ||
+atha maṃ bhaṇati tāto idh'; eva puttaka carāhi taṃ
+dhammaṃ |
+annena ca pānena ca tappaya samaṇe dvijātī ca. || Thī_430 ||
+athā 'haṃ bhaṇāmi tātaṃ rodantī añjaliṃ paṇāmetvā |
+pāpaṃ hi may pakataṃ kammaṃ taṃ nijjaressāmi. || Thī_431 ||
+
+--------------------------------------------------------------------------
+     1, cdd. dāsi, B ca, CPS -nti, B uṭhahanti, BLS adusi-, P arūpikaṃ, 
+       S sila-.--
+     2, PS sikkhāya, P -kaṃ duṭhana, B 2. hand del. dantaṃ.-- 
+     3, S bhi, P pi, B jātā, BPS nikkhisa, B 1. hd. sonti, 2. hd. ponti, 
+       P sevanti ca, L poṭhiñ ca, S sonti ca ghaṭī-.-- 
+     4, C so pi ca, P atha tālaṃ taṃ.-- 
+     5, C ponti, L poṭhiṃ, BPS sonti, C pallañ, S mallakaṃ, P suna, 
+       BP bhikkhañ.-- 
+     6, S tato BPS amma, C om. ca, L maṃ, CS ma, S ññāti-, P -bhaṇa-.-- 
+     7, B 1. hd., LP ki, C kin, P le ta, cdd. kirati, B 1. hd. P idha gaṇaṃ,
+       S idha khaṇaṃ, C khippapavan te kari-, S karī-.--
+     8, P gaṇito, B 1. hd., S gaṇiko, B 1. hd., PS om. yadi, C atthā,
+       B 1. hd. sattho. PS satto alaṃ, C ala.-- 
+     9, B pacchaṃ eka- sāsasāvatthuṃ; last word corr. 2. hd., P 1. hd. 
+       paccha, 2. hd. adds ṃ, S paccaṃ, P -re sāsasāvatthuṃ, S -re
+       sāssāvatthuṃ, L -vattum.-- 
+    10, B 1. hd., P viyajjito, S virajjito, C vissa-, S aham, L -kini, 
+       B 1. hd., CP ekānikā, S koṇikā, C vicintesi.-- 
+    11, CLS -tuna, P the same or -tunu, B -thuye, L -tūye, S parituye, 
+       L pabbajjissaṃ, P pabbajissa, S pabbajissā.-- 
+    12, P -datthā, C sā gacchi gocarāmānā.--
+    13, C takula, B 1. hd. S viniya-, C vinayatherāni, P -vari.-- 
+    14, C -na ca amhākahaṃ, L uṭhā || yāsanaṃ, P -yāyasanaṃ, LP sā, 
+       S sa, C -payisu. P -payiṃsu, but ṃ added from 2. hd., S paññāyiṃsu.-- 
+    15, P kha, BCPS adāsi.-- 
+    16, S yaṃ, C khajjena yaṃ tattha, B sanihitaṃ.-- 
+    17, BPS avaca, C avoca ayya, L -ajjituṃ, P -ajjatuṃ.-- 
+   18, P naṃ maṃ, C naṃ, S tato, P idh'; e suttakaṃ.-- 
+    19, P annena sahanena, BPS tappayi, C santappaya, S samaṇa, L dvijātiñ, 
+       BCPS -jāti.--
+    20, C rodenti, PS -nti, L añjali, P añcali, CS añjalī, S panā-.-- 
+    21 C 1. hd., PS nijjade-, B nisajjadessāmi.
+
+[page 166]
+166                          THERĪ-GĀTHĀ.
+atha maṃ bhaṇati tāto pāpuṇa bodhiñ ca aggadhammañ ca. |
+nibbānañ ca labhassu yaṃ sacchikari dvipadaseṭṭho. || Thī_432 ||
+mātāpitū abhivādayitvā sabbañ ca ñātigaṇavaggaṃ |
+sattāhaṃ pabbajitā tisso vijjā aphassayiṃ. || Thī_433 ||
+jānāmi attano satta jātiyo yassā yaṃ phalaṃ vipāko |
+taṃ tava ācikkhissaṃ taṃ ekamanā nisāmehi. || Thī_434 ||
+nagaramhi Erakakacche suvaṇṇakāro ahaṃ bahutadhano |
+yobbanamadena matto so paradāraṃ āsevi 'haṃ. || Thī_435 ||
+so 'haṃ tato cavitvā nirayamhi apaccisaṃ ciraṃ |
+pakko tato ca uṭṭhahitvā makkaṭiyā kucchim okkamiṃ || Thī_436 ||
+sattāhaṃ jātakammaṃ mahākapi yūthapo nillacchesi |
+tass'; etaṃ kammaphalaṃ yathā pi gantvāna paradāraṃ.
+|| Thī_437 ||
+so 'haṃ tato cavitvā kālaṃ karitvā Sindhavāraññe |
+kāṇāya ca khañjāya ca eḷakiyā kucchim okkamiṃ. || Thī_438 ||
+dvādasavassāni ahaṃ nillacchito dārake parivahitvā |
+kiminā vaṭṭo akallo yathā pi gantvāna paradāraṃ. || Thī_439 ||
+so 'haṃ tato cavitvā govāṇijakassa gāviyā jāto |
+vaccho lākhātambo nillacchito dvādase māse. || Thī_440 ||
+te puna naṅgalam ahaṃ sakaṭaṃ ca dhārayāmi |
+andho vaṭṭo akallo yathā pi gantvāna paradāraṃ. || Thī_441 ||
+so 'haṃ tato cavitvā vīthiyā dāsiyā ghare jāto |
+n'; eva mahiḷā na puriso yathā pi gantvāna paradāraṃ. || Thī_442 ||
+
+--------------------------------------------------------------------------
+     1, C naṃ, S bhaṇatī, S pāpuna bodhiṃ, C bodhiyaṃ phala ca, S -mmaṃ.--
+     2, P labhāsu, C dvī-, S -karī dvapada-.-- 
+     3, cdd. -pitu, C -pitūhi -vādiyitvā sabbaṃ.-- 
+     4, P satthāhaṃ, B 1. hd., S satthāyaṃ, L -jjitā, B apassassi,
+      C aphassayi, L apassayiṃ, PS apassasi.-- 
+     5, C om. attano, C phalavipāko.-- 
+     6, P tathā, C ācikkhiyaṃ tvaṃ, C om. taṃ, C etamanā, B 1. hd. niyāmehi.
+       P nisamāpehi.-- 
+     7, C Ekakacche, S Rekakacche, B suvaṇṇi-, P -kāyo, C ayaṃ, 
+       S pahūtadhano, C pahutano.-- 
+     8, C yoppana-, P -padena, CP mattho, S asevi, cdd. taṃ.--
+     9, B 1. hd. avicara, 2. hd. apacisaṃ, C aviciyaṃ, P aviciye, S avīciyaṃ, 
+       CP cīram. -- 
+    10, C tako, S makkaṭiya, B maggaṭiyā, BCPS okkami.-- 
+    11, L -kamaṃ, P pahā-, S -kavi, BCLP yudhapo, S yuthapati, P nilañcesi,
+       B nilañchesi, S lañcesi.-- 
+    12, S hantvāna.-- 
+    13, S katvā.-- 
+    14, P kānāya, BPS khajjāya, S chalakiyā, CPS -mi, B -mhi.-- 
+    15, PS nillaccito, C nilaccito, B. 1. hd. LP dārakaṃ, S dārikaṃ,
+       C parihitvā.-- 
+    16, C vatto, P gantvā, S hantvāna, P pada-.-- 
+    17, BPS vānijakassa (om. go), C -nijja-, P bhāviyā, B 1. hd. S dāsiyā.-- 
+    18, B 1. hd. -dhammo, 2. hd. -tampo, L -tampo, CPS -tammo, B 1. hd. 
+       nillaccito, C nala-, S nillajjito,'; L vāse (?).-- 
+    19 C tena, B I. hd., S pura, P sakeṭaṃ, CS sakaṭa, C catthadhāyaram pi, 
+      P va, L dhārayamhi, P ṭhāyayamhi, S mārayamhi.-- 
+    20, BPS anto, LP gantvā, BS gaṃtvā, C -dāyaṃ,-- 
+    21, LP vithiyā, P yare, S jato.-- 
+    22, P bahiḷā, S mahila, B hilā (sic), P sūriyo, BLP gantvā, S gaṃtvā.
+
+[page 167]
+                             THERĪ-GĀTHĀ.                          167
+tiṃsativassamhi mato sākaṭikakulamhi dārikā jātā |
+kapaṇamhi appabhoge dhanikapurisapātabahulamhi. || Thī_443 ||
+taṃ maṃ tato satthavāho ussannāya vipulāya vaḍḍhiyā |
+okaḍḍhati vilapantiṃ acchinditvā kulagharassa. || Thī_444 ||
+atha soḷasame vasse disvāna maṃ pattayobbanaṃ |
+kaññaṃ oruddha tassa putto Giridāso nāma nāmena. || Thī_445 ||
+tassa pi aññā bhariyā sīlavatī guṇavatī yasavatī ca |
+anurattā bhattāraṃ tassāhaṃ viddesanam akāsiṃ. || Thī_446 ||
+tass'; etaṃ kammaphalaṃ yaṃ maṃ apakaritūna gacchanti |
+dāsī va upaṭṭhahantiṃ tassa pi anto kato mayā ti. || Thī_447 ||
+                        Isidāsī. ||
+                cattālīsanipāto samatto. ||
+Mantāvatiyā nagare rañño Koñcassa aggamahesiyā |
+dhītā āsi Sumedhā pāsādikā sāsanakarehi. || Thī_448 ||
+sīlavatī cittakathikā bahussutā buddhasāsane vinītā |
+mātāpitaro upagamma bhaṇati ubhayo nisāmetha. || Thī_449 ||
+nibbānābhiratā ahaṃ asassataṃ bhavagataṃ yadi pi dibbaṃ |
+kim aṅga pana tucchā kāmā appassādā bahuvighātā. || Thī_450 ||
+kāmā kaṭukā āsīvisūpamā yesu mucchitā bālā |.
+te dīgharattaṃ niraye samappitā haññante dukkhitā. || Thī_451 ||
+socanti pāpakammā vinipāte pāpabuddhino |
+sadā kāyena vācāya ca manasā ca asaṃvutā bālā. || Thī_452 ||
+bālā te duppaññā acetanā dukkhasamudayoruddhā |
+desente ajānantā na bujjhare ariyasaccāni. || Thī_453 ||
+
+--------------------------------------------------------------------------
+     1, BP tisati-, BPS sākati-, P -kulami.-- 
+     2, P kassaṇamhi, S kapaṇaddhi, BLPS dhanita-, C gandhiti-, B -parisa-.-- 
+     3, C kam man, PS kam maṃ, LPS sattavāho, C vipulāya ca, B vuḍḍhiyā, 
+       LPS vuddhiyā.-- 
+     4, B vilapinti, CLPS vilapanti.-- 
+     5, C dvisāna, C pattāyoppanaṃ.-- 
+     7, C tassā piyā bhariyā, L ariyā, S tariyā, L sila-, BCPS -vati, 
+       BCP guṇavati -vati.-- 
+     8, L anuruttā, P sattāraṃ, B 1. hd. vindepanaṃ, 2. hd. vindesanaṃ, 
+       C visenam, P vinepanaṃ, S vindepanaṃ, cdd. akāsi.-- 
+     9, L -philaṃ, cdd. apakiri-, S -tuna.--
+    10, LP dāsi, BC 2. hd., S ca, BCLP -hanti, S -haṃti, L gato.-- 
+    11, cdd. -dāsi.-- 
+    12, PS -nīpāto.-- 
+    13, B Mantavatiyā, C om. agga.-- 
+    14, BCLP dhitā, L āsī, BP asi, pāsāritā.-- 
+    15 P khīlavati, BC sīlavati. BCPS -kathitā, S bā-, cdd. vinitā.-- 
+    16, L -pītaro, C upasaṅkamma, BPS nissā-, L -meta.-- 
+   17, C -ratāhaṃ, B, C 1. hd., PS apassataṃ, B bhagavataṃ.-- 
+    18, BCLP kimaṅgaṃ, S thacchā, BLS appasādā, P sabbasādā, P bahūvighāthā.-- 
+    19, B katukāsivisupamā, C āsivisu-, PS āsi-, S -vibhupamā. S halā.-- 
+    20, L hañanti.-- 
+    21, P -pāde, C -budhi-.-- 
+    22, P saddhākārena, C vācāya mana- (om. ca), C om. bālā.-- 
+    23, B dupañā, P asetanā, P -dayāruddhā.-- 
+    24, PB desentaṃ ajonantā, S adhā-, P om. na.
+
+[page 168]
+168                        THERĪ-GĀTHĀ.
+saccāni amma buddhavaradesitāni te bahutarā ajānantā |
+ye abhinandanti bhavagataṃ pihanti devesu upapattiṃ. || Thī_454 ||
+devedu pi upapatti asassatā bhavagate aniccamhi |
+na ca santasanti bālā punappunaṃ jāyitabbassa. || Thī_455 ||
+cattāro vinipātā dve ca gatiyo kathañci labbhanti |
+na ca vinipātagatānaṃ pabbajjā atthi nirayesu. || Thī_456 ||
+anujānātha maṃ ubhayo pabbajituṃ dasabalassa pāvacane |
+appossukkā ghaṭissaṃ jātimaraṇappahānāya. || Thī_457 ||
+kiṃ bhavagatena abhinanditena kāyakalinā asārena |
+bhavataṇhāya nirodhā anujānātha pabbajissāmi. || Thī_458 ||
+buddhānaṃ uppādo vivajjito akkhaṇo khaṇo laddho |
+sīlāni brahmacariyaṃ yāvajīvaṃ na dūseyyaṃ. || Thī_459 ||
+evaṃ bhaṇati Sumedhā mātāpitaro na tāva āhāraṃ |
+āhariya gahaṭṭhā maraṇavasaṃ gatā 'va hessāmi. || Thī_460 ||
+mātā dukkhitā rodati pitā ca assā sabbaso samabhisāto |
+ghaṭenti saññāpetuṃ pāsādatale chamā patitaṃ. || Thī_461 ||
+uṭṭhehi puttaka kiṃ socitena dinnā si Vāraṇavatimhi |
+rājā Anikaratto abhirūpo tassa tvaṃ dinnā. || Thī_462 ||
+aggamahesī bhavissasi Anikarattassa rājino bhariyā |
+sīlāni brahmacariyaṃ pabbajjā dukkarā puttaka. || Thī_463 ||
+rajje āṇā dhanam issariyaṃ bhogā sukhā daharikā pi |
+bhuñjāhi kāmabhoge vāreyyaṃ hotu te putta. || Thī_464 ||
+atha ne bhaṇati Sumedhā mā edisakāni bhavagataṃ asāraṃ |
+pabbajjā vā hohiti maraṇaṃ vā tena c'; eva vāreyyaṃ. || Thī_465 ||
+
+--------------------------------------------------------------------------
+    1, BLP saccānī, S bahuratā, P ajāntā.-- 
+     2, P anandani, C bhagavantaṃ, P -gatī, B pi || hanti, L bihanti, 
+       BCLP upapatti, S uppatti.-- 
+     3, S uppatti, BPS apassatā, B 1. hd., S bhagavate, P aniccimhi.-- 
+     4, P va.-- 
+     5, P cattāre, S pinipāto, S katañ, C kattha ci labhanti.-- 
+     6, BLPS vinipātagatā, BP pabbajā, P niyayesu. -- 
+     7, S ānu-, B ubho, L pabbajjituṃ.-- 
+     8, BCLS apposu-, P apposukā, C ghaṭiyaṃ, PS -maraṇaṃpa-, L -ṇapa-, 
+       B 1. hd. -hānassa.-- 
+     9, P ki, C bhagavātena, P bhavatena, S bhagavatena.-- 
+    10, L pabbajji-.-- 
+    11, P buddhā, B 1. hd., S buddhāni, S akkhano.-- 
+    12, S sīlānī, BLP -jivaṃ, cdd. du-.-- 
+    13, C bhaṇanti, P bhāhāraṃ, BS āharaṃ.-- 
+    14, BCPS āhariyaṃ, B 2. hd. āharissaṃ, S gahaṭṭhaṃ, PS maraṇā-.--
+    15, P om. ca, B 1. hd., PS samaṃgihato, C 2. hd. -bhihato.-- 
+    16, BCP pañāpetuṃ, S paññāpetuṃ, L pāsādale S pasāda-.-- 
+    17, BCLP puttika, S puttikaṃ, BCPS ki, C dinnā mhi Vā-.-- 
+    18, C Aṇika-, L Anikarattā, P anikadattho, B dinnaṃ.-- 
+    19, LS -mahesi, C bhavissati, P bhissasi, C Aṇika-, L ariyā.-- 
+    20, C sīlādi, L silāni, S cāriyaṃ, P dukkharā.-- 
+    21, PS ānā.-- 
+    22, BP dhāreyyuṃ, CS dhāreyyaṃ, S hetu, C 1. hd., L putti.-- 
+    23, B 1. hd., S atha so bha-, P ata so bha-, BCPS Sumedha, 
+       BLPS edisikāni, C edisikā, BCPS -gatam, B 1. hd., S āsāraṃ, 
+       P assāraṃ.-- 
+    24, C om. vā, BP hohīti, C hohisi, S gotīti, cdd. om. vā, BC (L?)
+       dhāreyyaṃ, P dhāyeyyaṃ, S dhāreyyuṃ.
+
+[page 169]
+                             THERĪ-GĀTHĀ.                          169
+kim iva pūtikāyam asuciṃ savanagandhaṃ bhayānakaṃ |
+kuṇapaṃ abhisaṃviseyyaṃ gattaṃ sakipaggharitaṃ asuci-
+puṇṇaṃ. || Thī_466 ||
+kim iva t'; āhaṃ jānantī vikūlakaṃ maṃsasoṇitapalittaṃ |
+kimikulālayaṃ sakuṇabhattaṃ kaḷevaraṃ kissa diyyatī
+ti, || Thī_467 ||
+nibbuyhati susānaṃ aciraṃ kāyo apetaviññāṇo |
+chuṭṭho kaliṅgaraṃ viya jigucchamānehi ñātīhi. || Thī_468 ||
+chaḍḍūna naṃ susāne parabhattaṃ nhāyanti jigucchantā |
+niyakā mātāpitaro kiṃ pana sādhāraṇā janatā. || Thī_469 ||
+ajjhositā asāre kaḷevare aṭṭhinhārusaṃghāte |
+kheḷassumucchāssavaparipuṇṇe pūtikāyamhi. || Thī_470 ||
+yo naṃ vinibbhujitvā abbhantaram assa bāhiraṃ kayirā |
+gandhassa asahamānā sakā pi mātā jiguccheyya. || Thī_471 ||
+khandhadhātuāyatanaṃ saṅkhataṃ jātimūlakaṃ |
+dukkhaṃ yoniso aruciṃ bhaṇanti vāreyyaṃ kissa icchey-
+yaṃ. || Thī_472 ||
+divase divase tī sattisatāni navanavā pateyyuṃ kāyamhi |
+vassasataṃ pi ca ghāto seyyo dukkhassa c'; eva khayo. || Thī_473 ||
+ajjhupagacche ghātaṃ yo viññū evaṃ satthuno vacanaṃ |
+dīgho tesaṃ saṃsāro punappunaṃ haññamānānaṃ. || Thī_474 ||
+devesu manussesu ca tiracchānayoniyā asurakāye |
+
+--------------------------------------------------------------------------
+     1, BCLP puti-, cdd. asuci, C sāsanagandhanaṃ.-- 
+     2, S kunapaṃ, S abhiyasaṃ-, BCLS -viseyya, P -viseya, B 1. hd. 
+       P santaṃ, B 2. hd. bhastaṃ (?), S santuṃ, cdd. sakiṃ, P saṅgaritaṃ, 
+       S asūci-.-- 
+     3, cdd. jānanti, BLPS vikulakaṃ, C vikulakaṃ, cdd. maṃsaṃ, C yoṇita-, 
+       S sonitapalitaṃ.-- 
+     4, S sakuna-, S kalebaraṃ, CP -vara, B 1. hd. riyyatī ti, C riyatī ti, 
+       P riyahiti, S riyyahiti.-- 
+     5, C nibbū-, P nippu-, C acīraṃ, P āciraṃ, S kāro.-- 
+     6, S cuddho, CL kaḷikaraṃ, B 1. hd. kaliṅka-, BC jikuccha-, P ñātihi, 
+       S jātīhi.-- 
+     7, BCL chaṭhuna, P chaṭhana, S chaṭṭhana, B 1. hd., C 1. hd., 
+       S parasaṃbhattaṃ, C 2. hd. paresaṃ bhattaṃ, BC jiku-, B 1. hd. 
+       PS -cchanti, L -cchanta.-- 
+     8, P ki, CL -raṇo jana-, B 1. hd., P -raṇā netā, S -raṇa netā.-- 
+     9, P āhāre, S kalebare, P -nhārū-, S -nharu- BPS -paṃghāte.-- 
+    10, B 1. hd., kheḷamucchā || sassāvaparipuṇṇaputikāyamhi, 2. hd.,
+      kheḷassumucchā || dhanassavaparipuṇṇaputi-, L kheḷassumucchā || 
+       savaraparipuṇṇe puti-, but ra del., as it seems. 
+       C khelasumucchādassacaparipuṇṇo puti-, P kheḷapucchā 
+       sassācaparipuṇṇaputi- S khelapucchāsassācaparipuṇṇapūti-.-- 
+    11, C vinibbhajjitvā, P vinibbajitvā, S āssa, B āssā, C mā bāhīraṃ, 
+       P karimayā.--
+    12, P asaramānā || S -māna, C 1. hd. sakkā, 2. hd. sakkāraṃ, B mānatā. 
+       C -ccheyyaṃ.-- 
+    13, C khandhā-, S -āyataṃ, C -āyatana, BC saṃkhātaṃ, PS sankhātaṃ, 
+       S -mulakaṃ.-- 
+    14, S yotiso, BLPS aruci bha-, C anivigaṇanti, B 1. hd., LPS kareyya, 
+       B 2. hd. vāreyya, C 1. hd. vāreyya, BPS icchiya, L icchiyā, 
+       C iccheyyuṃ.-- 
+    15, cdd. ti, P navanuvā (?), B 1. hd., PS sateyyuṃ.-- 
+    16, C saṅghāto, B 2. hd. corr. dukkhassa ce khayo, P dukkhassa cetayo.-- 
+    17, cdd. ghāta, C eva.-- 
+    18, C digho, cdd. tesaṃ sāro.-- 
+    19, C mānussesu, S tiracchina-, P -yoniyo, B asūra-.
+
+[page 170]
+170                          THERĪ-GĀTHĀ.
+petesu ca nirayesu ca aparimitā dīyante ghātā. || Thī_475 ||
+nirayyesu bahū vinipātagatassa kilissamānassa |
+devesu pi attaṇaṃ nibānasukhā paraṃ n'; atthi. || Thī_476 ||
+pattā te nibbānaṃ ye yuttā dasabalassa pāvacane |
+appossukkā ghaṭenti jātimaraṇappahānāya. || Thī_477 ||
+ajj'; eva tāta abhinikkhamissaṃ bhogehi kiṃ asārehi |
+nibbiṇṇā me kāmā vantasamā tālāvatthukatā. || Thī_478 ||
+sā c'; evaṃ bhaṇati pitaraṃ Anikaratto ca yassa dinnā |
+upayāsi pītaruṇāvuto vāreyyaṃ upaṭṭhite kāle. || Thī_479 ||
+atha asitanicitamuduke kese khaggena chindiya |
+Sumedhā pāsādaṃ pidhatvā paṭhamajjhānaṃ samāpajji. || Thī_480 ||
+sā ca tahiṃ samāpannā Anikaratto ca āgato nagaraṃ |
+pāsāde 'va Sumedhā aniccasaññā su bhāveti. || Thī_481 ||
+sā ca manasikaroti Anikaratto ca āruhi turitaṃ |
+maṇikanakabhūsitaṅgo katañjali yācati Sumedhaṃ. || Thī_482 ||
+rajje āṇā dhanam issariyaṃ bhogā sukhā daharikā pi |
+bhuñjāhi kāmabhoge kāmasukhā sudullabhā loke. || Thī_483 ||
+nisaṭṭhaṃ te rajjaṃ bhoge bhuñjassu dehi dānāni |
+mā dummanā ahosi mātāpitaro te dukkhitā. || Thī_484 ||
+tan taṃ bhaṇati Sumedhā kāmehi anatthikā vigatamohā |
+mā kāme abhinandi kāmesv ādīnavaṃ passa. || Thī_485 ||
+cātuddīpo rājā Mandhātā āsi kāmabhoginaṃ aggo |
+
+--------------------------------------------------------------------------
+     1, B 1. hd., C aparimito, P -mithe, S -mite, BCLP diyate, S dīghate, 
+       CS ghāto, P ghātho.-- 
+     2, L nīrayesu, P niyaresu, BLPS bahu, C bahuhi, S -pātāga-, S kīlissa-.-- 
+     3, B 1. hd., PS attānaṃ, B 2. hd., C atāṇaṃ, L atānaṃ, P -sukha, 
+       S nibbānakhā.--
+     4, BPS sattā, C tassā, B nibbāna, P dasaphalassa.-- 
+     5, cdd. apposukkā, BLS -maraṇaṃpahā-, P -maraṇapa-.-- 
+     6, PS evaṃ, C tātā, L, P 1. hd. ki, B 1. hd. ka, C pasārehi.-- 
+     7, C nibbiṇā, S nibbinnā, B 2. hd,. L kāme, BL vanta || C vantaṃ ||.-- 
+     8, B 1. hd., CPS sa, P. 1. hd., ceva, B ce, B Anikaṃratto, CP Aṇika-, 
+       C ca ssa sā di-.-- 
+     9, B 1. hd., PS upassā, B 2. hd., CL ubhayāya, B 1. hd., pitaruṇātavā, 
+       B 2. hd. LPS pitaruṇāvatā, C pitaruṇavatā, B 1. hd., CPS dhāreyya, 
+       L vāreyya, BP upariṭhate, S upariṭṭhate.-- 
+    10, L athapitanici-, B 1. hd, CPS apitani-, P -nivitha-, S -nipita-, 
+       C naggena, BS khaggen'; acchindiya, S -gen'; acchantiya.-- 
+    11, B Sumedhaṃ, S Sumedhi, C 1. hd., -daṃ cāpikatvā, B 1. hd., C 2. hd., 
+       S cāpiṭhatvā, B 2. hd., cāpivitvā, P cāpithatvā, C pathamajhāne, 
+       P pathama-.-- 
+    12, P tahi, C sammāpa-, P samapa-, C Aṇika-.-- 
+    13, B 2. hd., -de ca.-- 
+    14, C va, P om. ca, BC manasīkaroti, CP Aṇika-, S Aniratto, B 1. hd., 
+       aruhi, L ārūhi, LPS turita. -- 
+    15, S -bhusi-, LPS -taṅge, B 1. hd., P katañcali (corr. 2. hd. B)
+       S kathañjalī, S yācatathi, C Sumedhā, P Sumedha.-- 
+    16, S ānā, P bhogi, B 2. hd., L bhogā sudaharikā, P dahayikā.-- 
+    17, B 1. hd., bhuñcāhi, S yudulla-, P leke.-- 
+   18, C nissa-, S om. te, BPS rajjate.-- 
+    19, BP -ro pi te, C -ro duve du-.-- 
+    20, S taṃ taṃ, P ānatthi-, BPS vigatā mohā.-- 
+    21, BPS kāmā me, P abhinani, B 1. hd., ānavaṃ. B 2. hd., CLP ādi-, 
+       BP sassa.-- 
+    22, BS catudīpo, LP catudipo, BS rāja, S Mandātā, L -bhogīnaṃ.
+
+[page 171]
+                            THERĪ-GĀTHĀ.                          171
+atitto kālaṅkato na c'; assa paripūritā icchā. || Thī_486 ||
+satta ratanāni vasseyya vuṭṭhimā dasadisā samantena |
+na c'; atthi titti kāmānaṃ atittā 'va maranti narā. || Thī_487 ||
+asisūlūpamā kāmā kāmā sappasiropamā |
+ukkopamā anudahanti aṭṭhikaṅkālasannibhā. || Thī_488 ||
+aniccā addhuvā kāmā bahudukkhā mahāvisā |
+ayoguḷo va santatto aghamūlā dukkhapphalā. || Thī_489 ||
+rukkhapphalūpamā kāmā maṃsapesūpamā dukhā |
+supinopamā vañcaniyā kāmā yācitakūpamā. || Thī_490 ||
+sattisūlūpamā kāmā rogo gaṇḍo aghaṃ nighaṃ |
+aṅgārakāsusadisā aghamūlaṃ bhayaṃ vadho. || Thī_491 ||
+evaṃ bahudukkhā kāmā akkhātā antarāyikā |
+gacchatha na me bhavagate vissāso atthi attano. || Thī_492 ||
+kiṃ mama paro karissati attano sīsamhi ḍayhamānamhi |
+anubandhe jarāmaraṇe tassa ghātāya ghaṭitabbaṃ. || Thī_493 ||
+dvāraṃ apāpuṇitvāna 'yaṃ mātāpitaro Anikarattañ ca |
+disvāna chamaṃ nisinne rodante idam avoca. || Thī_494 ||
+dīgho bālānaṃ saṃsāro punappunaṃ ca rodataṃ |
+anamatagge pitu maraṇe bhātu vadhe attano ca vadhe. || Thī_495 ||
+assu thaññaṃ rudhiraṃ saṃsāraṃ anamataggato saratha |
+sattānaṃ saṃsaritaṃ sarāhi aṭṭhīnañ ca sannicayaṃ. || Thī_496 ||
+sara caturo 'dadhī upanīte assuthaññarudhiramhi |
+sara ekakappam aṭṭhīnaṃ sañcayaṃ Vipulena samaṃ. || Thī_497 ||
+
+--------------------------------------------------------------------------
+     1, C kāmātittho, P abhitto, S patitto, S kālaṃkato, C na ca tassa, 
+       BCL -puritā. -- 
+     2, C sabba, P samante.-- 
+    3, B na vitti ti-, P na vitti titthi, S na vitthi titti.-- 
+     4, C asisulu-, S asittiṭṭhisulupa-, BCL, P 1. hd. sabba-, P -siyo-.-- 
+     5, B 1. hd., PS ukkosamā. BCLP -kaṅkala-, S -kaṃkāla-.-- 
+     6, S aticchā, C 1. hd. adūvā, 2. hd. adhūvā.-- 
+     7, L ayoguḷho, S -guṭṭho, S santuṭṭho, B 1. hd., S agga-, P aggha-,
+       S -mūḷā, BLS dukkhaphalā. P dukkhabalā.-- 
+     8, B 1. hd. rukkhappalu-, B 2. hd., C rukkhaphalu-, PS rukkhapphalu-, 
+       CLPS -pesu-, BCLP dukkhā.-- 
+     9, BS supinosamā, BS -niyā māyā, PS yācikopamā, B -kopamā. C -kupamā.-- 
+    10, B sattisulu-, C -sulū-, P sattisusū-, S sattiṃsalu-, S om. kāmā.-- 
+    13, P gacchata, P bhagavate, B 1. hd. S bhagavato, B 2. hd., bhavagato 
+       BLS visāso, P vissaso, C atthano.-- 
+    14, C 1. hd. ka, LP ki.-- 
+    15, C -maraṇa. S tassā, P gātāya, B 1. hd., S ghātā, B 1. hd., 
+       S gaṃṭhitabbaṃ, P -tapppaṃ.-- 
+    16, S dāraṃ, cdd. -tvānahaṃ, BCP Aṇika-, P -ratthañ.-- 
+    17, B chama, S chamā, C rodente, L rodanti, P rodhante, P idhaṃ.-- 
+    18, BCLP digho, S -ppunañ.-- 
+    19, LP pitū, BPS vaḍḍhe, P bhattano, P vadho -- 
+    20, B 1. hd., CP dhañaṃ, S dhaṃñaṃ, B 1. hd., LS saṃsaraṃ, B 2. hd. 
+       saṃpādaṃ, C -ggato ca || atha.-- 
+    21, P satthānaṃ, B 2. hd. saṃsarataṃ, P parāhi, B aṭhinañ, C aṭhinaṃ, 
+       P aṭhanañ, C om. ca, P sandhiyaṃ, C -icca-.-- 
+    22, BS para, C sarā, P parama catuyo, B 'datī, CLPS 'dadhi,
+       BCLP upanite, B 1. hd., C, P -dhañam-, in P ṃ 2. hd., as it seems, 
+       B 2. hd., -thañaṃ-, S -dhaññaṃ-, B 1. hd., -rūcinaṃhi, 2. hd., 
+       -rūciramhi, L -rūdhi-, S -rucinamhi.-- 
+    23, C paraṃ, B aṭhinaṃ, C aṭhiraṃ, P eṭhitaṃ, S aṭṭhinaṃ, B 1. hd., 
+       PS pañcayaṃ.
+
+[page 172]
+172                         THERĪ-GĀTHĀ.
+anamatagge saṃsarato mahiṃ Jambudīpam upanītaṃ |
+kolaṭṭhimattaguḷikā mātāpitusv eva na ppahonti. || Thī_498 ||
+sara tiṇakaṭṭhaṃ sākhāpalāsaṃ upanītaṃ anamataggato |
+pitusu caturaṅgulikā ghaṭikā pitupitusv eva na ppahonit. || Thī_499 ||
+sara kāṇakacchapaṃ pubbe samudde aparato ca yu-
+gacchiddaṃ |
+siraṃ tassa ca paṭimukkaṃ manussalābhamhi opammaṃ. || Thī_500 ||
+sara rūpaṃ phenapiṇḍopamassa kāyakalino asārassa |
+khandhe passa anicce sarāhi niraye bahuvighāte. || Thī_501 ||
+sara kaṭasiṃ vaḍḍhente punappunaṃ tāsu tāsu jātīsu |
+sara kumbhilabhayāni ca sarāhi cattāri saccāni. || Thī_502 ||
+amatamhi vijjamāne kin tava pañcakaṭukena pītena |
+sabbā hi kāmaratiyo kaṭukatarā pañcakaṭukena. || Thī_503 ||
+amatamhi vijjamāne kin tava kāmehi ye pariḷāhā |
+sabbā hi kāmaratiyo jalitā kuthitā kupitā santāpitā. || Thī_504 ||
+asapattamhi samāne kin tava kāmehi ye bahusapattā |
+rājaggicoraudakappiyehi sādhāraṇā kāmā bahusapattā. || Thī_505 ||
+mokkhamhi vijjamāne kin tava kāmehi yesu vaḍhabandho |
+kāmesu hi vadhabandho kāmakāmā dukkhāni anubhoni. || Thī_506 ||
+
+--------------------------------------------------------------------------
+     1, B 1. hd. saṃsādato 2. hd. -sārato, C saṃsārato, P saṃsāratho, 
+       S saṃsāṃdato, cdd. mahi, BCP Jampū-, S Rambu-, LP -dipam, BL ūpanitaṃ,
+       P ūpaṇitaṃ, C upanitaṃ, P -mattha-, C -mattā gu-, S -gulikā, 
+       L mātāmātusv.-- 
+     2, BLPS om. sara, BP -kaṭha, S -kaṭṭha, C -kaṭhassa, C sākha-, 
+       P -phalāsaṃ BCPL upanitaṃ.-- 
+     3, P caturaguli-, S caturaṃgulikā, C -kā pi ghatikā mātāpitu yeva
+       na ppa-.-- 
+     4, PS kāna-, B 1. hd., -kacchaṃvaṃ, B 2. hd., C -kacchakaṃ, L pūbbe, 
+       B -cchiddhaṃ, C -cchinnam, L -cchiddhaṃ or -cchidmaṃ, P -cchindaṃ,
+       S -cchindhaṃ.-- 
+     5, P piraṃ, C om. ca, BP paṭimokkaṃ, C paripuṇṇaṃ, S paṭimokkhaṃ, 
+       B 1. hd., P osammaṃ, C upamaṃ, S osapammaṃ.-- 
+     6, S ghara, B 1. hd., PS pena-, B 2. hd., C pheṇa-, BPS -ṇḍomamassa, 
+       C -piṇḍo || pamāya, P kāra-.-- 
+     7, C nandhe, S anise, C pharāhi, S rāhi (om. sa), P bahū-, LS vighāte. -- 
+     8, B 1. hd., pura, B 2. hd., PS para, B 1. hd., S katasi, B 2. hd., 
+      CLP kaṭasi, B 1. hd., PS vadhente, B 2. hd., vaḍḍhente, C vaḍḍhante, 
+       L vadente, B 1. hd., LPS suppunaṃ, B 2. hd., puppunaṃ, C pukhappunaṃ, 
+       PS jātisu.-- 
+     9, P para, S cca, P sattāri.-- 
+    10, S amataṇhi vija- kiṃ, B -katu-, C mitena, BLP pitena, S om. pītena. -- 
+    11, P kammāyatiyo, P kaṭakatarā, B pañcakatu-.-- 
+    12, BCS kiṃ, S parilāhā.-- 
+    13, C sabbā pi, BLPS kudhitā, BPS kuppitā, C kumpitā, L om. kupitā, 
+       BCS santappitā, P kappitā, B 1. hd., ayaṃpatta-, CPS asaṃpatta- 
+       S samāṇe, P ki, BCS kiṃ, S tāva, B kāme, C bahusamattā.-- 
+    14, B -udakampi-, P sādhāyaṇā.-- 
+    15, B kiṃ, PS ki cdd. yesu hi, B 1. hd., cadha-, BS -bandhe.--
+    16, B 1. hd., kāmesu kāmāva || bandho dukkhāni anuhonti 2. hd., 
+       kāmesu hi bhasākāmā du- anubhonti, C kāmesu hi kāmā vadhabandho || 
+       dukkhāni anubhonti, || L kāmesu hi || asākāmā du- anu-, PS kā- hi 
+       asukāmāvabandho du- anu-.
+
+[page 173]
+                            THERĪ-GĀTHĀ.                          173
+ādīpitā tiṇukkā gaṇhantaṃ dahanti n'; eva muñcantaṃ |
+ukkopamā hi kāmā dahanti ye te na muñcanti. || Thī_507 ||
+mā appakassa hetu kāmasukhassa vipulaṃ jahi sukhaṃ |
+mā puthulomo va baḷisaṃ giḷitvā pacchā vihaññasi. || Thī_508 ||
+kāmaṃ kāmesu damassu tāva sunakho va saṅkhalāboddho |
+khāhinti khu taṃ kāmā chātā sunakhaṃ va caṇḍālā. || Thī_509 ||
+aparimitañ ca sukkhaṃ bahūni ca cittadomanassāni |
+anubhohisi kāmesu yutto paṭinissaja addhuve kāme. || Thī_510 ||
+ajaramhi vijjamāne kin tava kāmehi ye sujarā |
+maraṇabyādhigahitā sabbā sabbattha jātiyo. || Thī_511 ||
+idam ajaram idam amaraṃ idam ajarāmaraṇapadam asokaṃ |
+asapattam asambādhaṃ akhalitam abhayaṃ nirupatāpaṃ. || Thī_512 ||
+adhigatam idaṃ bahūhi amataṃ ajjāpi ca labhanīyam
+idaṃ |
+yo yoniso payuñjati na ca sakkā aghaṭamānena. || Thī_513 ||
+evaṃ bhaṇati Sumedhā saṅkhāragate ratiṃ alabhamānā |
+anunentī Anikarattaṃ kese 'va chamaṃ chupi Sumedhā. || Thī_514 ||
+uṭṭhāya Anikaratto pañjaliko yāci tassā pitaraṃ so |
+vissajjethā Sumedhaṃ pabbajituṃ vimokkhasaccadassā. || Thī_515 ||
+vissajjitvā mātāpitūhi pabbaji sokabhayabhītā |
+cha abhiññā sacchikatā aggaphalaṃ sikkhamānāya. || Thī_516 ||
+
+--------------------------------------------------------------------------
+     1, cdd. ādipitā, P tikukkā, B pucchantaṃ, L muccantaṃ, P mucchantaṃ, 
+       S muntaṃ.-- 
+     2, P ukkoyamā, B 1 hd., PS hi kāmā hi, P mucchanti.-- 
+     3, S kāmā-, C jahe, S jāhi, BPS sukhu.-- 
+     4, B muthu-, P phaḷi-, S bali, CS gilitvā, C vihañapi. -- 
+     5, BC ramassu, PS rapassu, BL saṅkhānubandho, C saṅkhānaṃ || bandho, 
+       P saṅkhānabandho, S saṃkhānabandho.-- 
+     6, BLPS kāhinti, C kāhanti, B 1. hd. su, C kāma, B 1. hd. chatā, 
+       C caṇḍalo.-- 
+     7, CLPS bahuni, B 1. hd., PS cittaṃdoma-.--
+     8, C anubo-, P -bhohipi, BCPS kāmayutto, B 1. hd., CLP paṭinissada, 
+       S paṭinassada, C andhave, P andhuve.-- 
+     9, BPS arajjamhi, BS kiṃ, P ki, P tata.-- 
+    10, C -bādhi-, BLS -gahikā, L sabbatta. -- 
+    11, B idam ajaram ida samānaṃ, P idhajaradasamānam, S idham 
+       ājarapidasamānam, C idam ajaram idam araṃ idan taṃ ajarāmaraṇapadaso 
+       (sic !), P idham ajarāmaranapadasoka.-- 
+    12, B 1. hd., S asamattam, P apasattam, B 1. hd. sambā-, PS asaṃbā-, 
+       C akkhalitam, B 1. hd., S -litama ayaṃ, P arāya.-- 
+    13, C bahūti pi, S bahuhi, P ajjāsi, BCLP labhaniyam.-- 
+    14, S om. yo, P roniso, B 1. hd. payuñcati, C payujjati, S payañcati,
+       P va, PLS om. ca, B 2. hd. āgha-, P āghā-.-- 
+    15, C eva, P gaṇati, LP Sumodhā, S saṃkhāra-, P -gatena ruti, BCS rati, 
+       B 1. hd., L alamānā.-- 
+    16, C arunenti, BLPS -nenti, C Aṇika-, B 1. hd. chusi, S om. chupi.-- 
+    17, B upaṭhāya, B Aniṃṇika-, CS Aṇika-, B 1. hd. añcaliko, B 2. hd., 
+       LPS añjaliko, C yāva, P yāca.-- 
+    18, B 1. hd. S -jjeta, L visa-, P viya-, BL pabbajjitum.
+
+[page 174]
+174                         THERĪ-GĀTHĀ.
+acchariyam abbhutan taṃ nibbānaṃ āsi rājakaññāya |
+pubbenivāsacaritaṃ yathā byākari pacchime kāle. || Thī_517 ||
+bhagavati Koṇāgamane saṃghārāmamhi navanivesamhi |
+sakhiyo tīṇi janiyo vihāradānaṃ adāsimhā. || Thī_518 ||
+dasakkhattuṃ satakkhattuṃ dasasatakkhattuṃ satāni ca
+satakkhattuṃ |
+devesu upapajjimhā ko pana vādo manussesu. || Thī_519 ||
+devesu mahiddhikā ahumhā manussakamhi ko pana vādo |
+sattaratanassa mahesī itthiratanaṃ ahaṃ āsiṃ. || Thī_520 ||
+so hetu so pabhavo taṃ mūlaṃ satthu sāsane khanti |
+taṃ paṭhamasamodhānaṃ taṃ dhammaratāya nibbānaṃ. || Thī_521 ||
+evaṃ kathenti ye saddahanti vacanaṃ anomapaññassa |
+nibbindanti bhavagate nibbinditvā virajjantī ti. || Thī_522 ||
+                        Sumedhā. ||
+                   mahānipāto samatto. ||
+                samattā theriyā gāthāyo. ||
+
+--------------------------------------------------------------------------
+     3, L Koṇāgamaṇe, P -maṇena saṃgharā- naca-, B 1. hd. -rāmamhi ca
+       nivesamhi; corr. 2. hd., S -rāmamhi vesamhi.-- 
+     4, CLS tiṇi, C jaṇiyo, P vihārā-, C -simha.-- 
+     5, L dasatakkhattuṃ, C om. ca.-- 
+     6, S uppajjimhā, C -imha.-- 
+     7, BP manussikamhi, C mānussikamhi, BLPS om. pana.-- 
+     8, cdd. mahesi, B itti-, P itthiyatanaṃ, BCLP asi, S āsi.-- 
+     9, B 1. hd. om. second so, S pabhedo, C mūlaṃ sāvasāsane.-- 
+    10, BP pathama-, C pathamaṃ, L om. paṭha, P -rathāya (?), L nibbāna-- 
+    11, B 2. hd., C evaṃ karonti, S anopamaññassa.-- 
+    12, P nibbindani, P bhagavate, S bhagavato, P nippiditvā, P -nti.-- 
+    14, L mahāpānito.--
+    15, B therīyā, P has instead of this : therīpāḷisuttaṃ niṭhitaṃ | 
+      nibbānapaccayo hotu, S theripāḷi niṭṭhitaṃ, BLS add :
+           gāthā satāni cattāri asīti (LS asiti) puna cuddasa |
+           theriy'; (L therīy') ekuttarasatā sabbā tā āsavakkhayā ti ||
+     B adds : nibbānapaccayo hotu and then follows the date. S adds : || 
+      samattā theriyā gāthāyo || siddhir astu || me nibbānapaccayo hotu || 
+      At the end of the last leaf is written with small letters : 
+      Sumaṇārāmavihārasthānasantakatherigāthā ||
+
+
+
