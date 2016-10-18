@@ -30,7 +30,7 @@ for j in (1,7):
 		hc = urllib2.urlopen(url)
 		soup = BeautifulSoup(hc,"lxml")
 		h = soup.find('body')
-		file_name = url[-12:-4] 
+		
 		path_=directory+"/" + file_name + ".txt"
 		target = open(path_,'w')
 		clean = bleach.clean(h, tags = [], strip = True)
