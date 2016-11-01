@@ -12,7 +12,7 @@ def make_dir(directory):
 
 url_list = []
 #working on it																													
-
+#foldername as per in the malayalam texts available in the mlwikisource-2 from mlwiki.in
 foldername = ["2_parcan","3_chron","4_comm","6_suanco","9_phil","9_phil/lex","9_phil/rhet"]
 
 
