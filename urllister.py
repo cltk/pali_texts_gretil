@@ -17,8 +17,8 @@ class URLLister(SGMLParser):
 
 			
 if __name__ == "__main__":
-	print "Working"
-	usock = urllib2.urlopen("file:///E:/content/language/sahityasahyam/0cf71.html")
+	
+	usock = urllib2.urlopen("")#enter the url
 	parser = URLLister()
 	parser.feed(usock.read())
 	parser.close()
@@ -28,20 +28,19 @@ if __name__ == "__main__":
 	for u in parser.urls:
 		print u
 		ls1.append(u)
-	raw_input()
+	
 	ls2 = filter(lambda x: x!= '#', ls1)
-	ls = ["file:///E:/content/language/sahityasahyam/" + u for u in ls2]
-	raw_input()
-	for p in ls:
-		print p
+	ls = ["" + u for u in ls2]
+	#raw_input()
+	
 		
-	directory = "malayalam_text_wikisource/malayalam_text_wikisource/content/language/sahityasahyam/"
-	print "It's fine"
+	directory = ""
+	
 	raw_input()
-	print len(ls)
+	
 	count = 0
-	print "Counting"
-	raw_input()
+	
+	#raw_input()
 	for x in ls:
 		print count
 		print x
@@ -58,5 +57,5 @@ if __name__ == "__main__":
 		except Exception:
 			pass
 	
-raw_input()		
+#raw_input()		
 	
